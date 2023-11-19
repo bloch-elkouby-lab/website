@@ -4,6 +4,8 @@ subtitle:
 description: Dr Sarah Bloch-Elkouby is an Assistant Professor, Ferkauf Graduate School of Psychology, Yeshiva University
 header: images/background.jpg
 footer: images/background.jpg
+header-dark: false
+footer-dark: false
 
 # site social media and other links
 links:
