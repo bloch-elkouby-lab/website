@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-The lab is focusing on Suicide research and Multi-Cultural research projects.
+
 
 {% include tags.html tags="publication, resource, website" %}
 
