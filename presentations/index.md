@@ -5,7 +5,7 @@ nav:
   tooltip: Presentations and lectures
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Presentations
 
 
 ## Invited lectures
@@ -86,8 +86,3 @@ Bloch-Elkouby, S., Muran, J.C., Gorman, B., Safran, J., and Winston, A. (2013, O
 
 {% include search-box.html %}
 
-{% include tags.html tags=site.tags %}
-
-{% include search-info.html %}
-
-{% include list.html data="posts" component="post-excerpt" %}
