@@ -1,47 +1,54 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
+- title: Enhancing Suicide Risk Assessment and Prevention Among Diverse Adolescents Using Virtual Human Interaction
+  subtitle: American Foundation for Suicide Prevention 2021 Young Investigator Grant
+  group: suicide
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: [Link to the project or relevant website]
+  description: In recent years, there has been a worrying increase in child and adolescent suicide rates, particularly among ethnic, racial, and sexual minorities. The study evaluates the effectiveness of a novel clinician training tool, the Virtual Human Interaction (VHI), to enhance clinical training in the assessment of imminent suicidal risk among diverse adolescent populations.
   tags:
-    - resource
+    - suicide prevention
+    - adolescent health
+    - virtual human interaction
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+- title: Understanding Treatment Deterioration and Patient-Therapist Interpersonal Dynamics
+  subtitle: 
+  group: culture
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: [Link to the project or relevant website]
+  description: This research delves into the interpersonal dynamics and the quality of the therapeutic alliance in therapy dyads. Employing mixed-methods analyses, it explores the experiences of patients who reported increased psychological distress and interpersonal problems at the end of their cognitive behavioral therapy treatment, aiming to uncover the underlying factors contributing to these adverse therapy outcomes.
   tags:
-    - resource
+    - multicultural research
+    - therapy dynamics
+    - patient well-being
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Exploring Alliance Ruptures, Resolutions, and Microaggressions Among Cross-Cultural and White Dyads
+  subtitle: 
+  group: culture
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: [Link to the project or relevant website]
+  description: This research project examines alliance ruptures in therapy sessions, focusing on therapeutic alliances, the frequency and impact of alliance ruptures, and microaggressions initiated by therapists and patients among cross-cultural therapy dyads where the therapist identifies as White and the patient as BIPOC. The findings aim to improve therapeutic outcomes in diverse settings.
   tags:
-    - resource
-    - publication
+    - cross-cultural therapy
+    - alliance ruptures
+    - microaggressions
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: New Integrative Approach to Suicide Risk Assessment and Interventions: Integration of Alliance-Focused Training Principles with the Narrative Crisis Model of Suicide
+  subtitle: 
+  group: suicide
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: [Link to the project or relevant website]
+  description: This research project focuses on the development and validation of an integrative approach to suicide risk assessment and intervention, combining the Narrative Crisis Model of Suicide (NCM) and the principles of the Alliance-Focused Training (AFT). This approach addresses the complex intra- and inter-personal processes triggering suicidal crises and subtle alliance ruptures within therapy dyads.
   tags:
-    - software
+    - suicide risk assessment
+    - narrative crisis model
+    - alliance-focused training
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: Development of the Observer-based Measure of Microaggressions
+  subtitle: 
+  group: culture
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: [Link to the project or relevant website]
+  description: This project aims to establish an observer-based coding scheme to identify racial and ethnic microaggressions during therapy sessions, providing insights for training and enhancing therapeutic practices.
   tags:
-    - software
+    - microaggressions
+    - observer-based measure
+    - therapeutic practices
