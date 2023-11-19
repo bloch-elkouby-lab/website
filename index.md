@@ -28,7 +28,7 @@ Dr. Bloch-Elkouby’s grant-funded research program entails two distinct, and ye
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/our_research.png"
   link="research"
   title="Our Research"
   text=text
@@ -51,7 +51,7 @@ The lab is focusing on suicide prevention, psychotherapy process and multi-cultu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/our_projects.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -76,7 +76,7 @@ Our team consists of graduate and undergraduate students who are passionate abou
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/our_team.png"
   link="team"
   title="Our Team"
   text=text
