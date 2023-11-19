@@ -3,8 +3,7 @@ name: Sarah Bloch-Elkouby, PhD
 image: images/sarah_biopic.jpg
 role: pi
 aliases:
-  - S. Bloch-Elkouby
-  - S Bloch-Elkouby
+  - Bloch-Elkouby
 ---
 
 Dr. Sarah Bloch-Elkouby is an assistant professor in the adult PsyD program at Ferkauf Graduate School of Psychology and an assistant clinical professor at the Mount Sinai Behavioral Health Center .  She holds a LLB from the Hebrew University in Jerusalem, a BSW from Bar-Ilan University, a master's in clinical psychology and a PhD in Clinical Psychology from the Derner School of Psychology at Adelphi.  
