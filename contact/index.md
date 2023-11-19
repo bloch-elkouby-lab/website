@@ -7,15 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="sarah.blochelkouby@yu.edu"
+  link="sarah.blochelkouby@yu.edu"
 %}
 {%
   include button.html
@@ -27,7 +24,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/Ferkauf%252BGraduate%252BSchool%252Bof%252BPsychology/%254040.8509866%252C-73.8529644%252C17z/data%253D%25213m2%25214b1%25215s0x89c2f4a9191813cb%253A0x8362716fdadacbc5%25214m6%25213m5%25211s0x89c2f4a919115a0f%253A0x47bf4c874c118936%25218m2%25213d40.8509826%25214d-73.8503841%252116s/m/027b2ln?entry%253Dttu"
 %}
 
 {% include section.html %}
