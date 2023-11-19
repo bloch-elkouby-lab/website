@@ -2,7 +2,7 @@
   subtitle: American Foundation for Suicide Prevention 2021 Young Investigator Grant
   group: suicide
   image: images/photo.jpg
-  link: [Link to the project or relevant website]
+  link: ""
   description: In recent years, there has been a worrying increase in child and adolescent suicide rates, particularly among ethnic, racial, and sexual minorities. The study evaluates the effectiveness of a novel clinician training tool, the Virtual Human Interaction (VHI), to enhance clinical training in the assessment of imminent suicidal risk among diverse adolescent populations.
   tags:
     - suicide prevention
@@ -10,10 +10,10 @@
     - virtual human interaction
 
 - title: Understanding Treatment Deterioration and Patient-Therapist Interpersonal Dynamics
-  subtitle: 
+  subtitle: ""
   group: culture
   image: images/photo.jpg
-  link: [Link to the project or relevant website]
+  link: ""
   description: This research delves into the interpersonal dynamics and the quality of the therapeutic alliance in therapy dyads. Employing mixed-methods analyses, it explores the experiences of patients who reported increased psychological distress and interpersonal problems at the end of their cognitive behavioral therapy treatment, aiming to uncover the underlying factors contributing to these adverse therapy outcomes.
   tags:
     - multicultural research
@@ -21,21 +21,21 @@
     - patient well-being
 
 - title: Exploring Alliance Ruptures, Resolutions, and Microaggressions Among Cross-Cultural and White Dyads
-  subtitle: 
+  subtitle: ""
   group: culture
   image: images/photo.jpg
-  link: [Link to the project or relevant website]
+  link: ""
   description: This research project examines alliance ruptures in therapy sessions, focusing on therapeutic alliances, the frequency and impact of alliance ruptures, and microaggressions initiated by therapists and patients among cross-cultural therapy dyads where the therapist identifies as White and the patient as BIPOC. The findings aim to improve therapeutic outcomes in diverse settings.
   tags:
     - cross-cultural therapy
     - alliance ruptures
     - microaggressions
 
-- title: New Integrative Approach to Suicide Risk Assessment and Interventions: Integration of Alliance-Focused Training Principles with the Narrative Crisis Model of Suicide
-  subtitle: 
+- title: "New Integrative Approach to Suicide Risk Assessment and Interventions: Integration of Alliance-Focused Training Principles with the Narrative Crisis Model of Suicide"
+  subtitle: ""
   group: suicide
   image: images/photo.jpg
-  link: [Link to the project or relevant website]
+  link: ""
   description: This research project focuses on the development and validation of an integrative approach to suicide risk assessment and intervention, combining the Narrative Crisis Model of Suicide (NCM) and the principles of the Alliance-Focused Training (AFT). This approach addresses the complex intra- and inter-personal processes triggering suicidal crises and subtle alliance ruptures within therapy dyads.
   tags:
     - suicide risk assessment
@@ -43,10 +43,10 @@
     - alliance-focused training
 
 - title: Development of the Observer-based Measure of Microaggressions
-  subtitle: 
+  subtitle: ""
   group: culture
   image: images/photo.jpg
-  link: [Link to the project or relevant website]
+  link: ""
   description: This project aims to establish an observer-based coding scheme to identify racial and ethnic microaggressions during therapy sessions, providing insights for training and enhancing therapeutic practices.
   tags:
     - microaggressions
