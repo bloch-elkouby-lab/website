@@ -19,7 +19,7 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/sarah_biopic.jpg" %}
+
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
