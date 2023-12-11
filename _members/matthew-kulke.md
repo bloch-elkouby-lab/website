@@ -1,6 +1,6 @@
 ---
 name: Matthew Kulke
-image: images/matthew_biopic.jpg
+image: images/biopic.jpg
 description: Research Assistant
 
 ---
