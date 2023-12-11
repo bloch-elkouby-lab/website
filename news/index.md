@@ -1,7 +1,7 @@
 ---
 title: News and Upcoming Events
 nav:
-  order: 4
+  order: 7
   tooltip: Musings and miscellany
 ---
 
