@@ -1,7 +1,7 @@
 ---
 title: Collaborations
 nav:
-  order: 8
+  order: 5
   tooltip: collaborations
 ---
 
