@@ -1,8 +1,8 @@
 ---
-title: News and Upcoming Events
+title: News & Events
 nav:
   order: 7
-  tooltip: Musings and miscellany
+  tooltip: news and upcoming events
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
