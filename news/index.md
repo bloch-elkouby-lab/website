@@ -5,7 +5,7 @@ nav:
   tooltip: news and upcoming events
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News & Upcoming Events
 
 
 
