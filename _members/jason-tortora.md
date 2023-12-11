@@ -1,7 +1,7 @@
 ---
 name: Jason Tortora
 image: images/biopic.jpg
-description: Graduate Student
+description: Doctoral Student
 
 ---
 

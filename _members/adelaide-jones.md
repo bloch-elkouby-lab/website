@@ -1,7 +1,7 @@
 ---
 name: Adelaide Jones
 image: images/adelaide_biopic.jpg
-description: Graduate Student
+description: Doctoral Student
 
 ---
 
