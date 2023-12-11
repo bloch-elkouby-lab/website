@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:38057550
+  title: 'Using Virtual Patients to Assess and Improve Clinicians'' Emotional Self-awareness:
+    a Randomized Controlled Study.'
+  authors:
+  - Giuseppe Sarli
+  - Megan L Rogers
+  - Sarah Bloch-Elkouby
+  - Olivia C Lawrence
+  - Alexandre Gomes de Siqueira
+  - Heng Yao
+  - Benjamin Lok
+  - Adriana Foster
+  - Igor Galynker
+  publisher: 'Academic psychiatry : the journal of the American Association of Directors
+    of Psychiatric Residency Training and the Association for Academic Psychiatry'
+  date: '2023-12-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38057550
+  term: Bloch-Elkouby, S[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:37432540
   title: Stressful Life Events and Near-term Suicidal Risk in a Clinical Population.
   authors:
