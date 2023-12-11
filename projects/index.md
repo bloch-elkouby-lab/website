@@ -21,6 +21,6 @@ nav:
 
 {% include section.html %}
 
-## Multi-Cultural Research Projects
+## Multi-cultural Psychotherapy and Alliance Research
 
 {% include list.html component="card" data="projects" filters="group: culture" %}
