@@ -1,6 +1,7 @@
 ---
 name: Adelaide Jones
 image: images/adelaide_biopic.jpg
+role: fer_PhD
 description: Doctoral Student
 
 ---
