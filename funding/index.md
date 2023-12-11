@@ -5,8 +5,6 @@ nav:
   tooltip: funding
 ---
 
-
-
 ## Funding
 
 Effectiveness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for Post-Discharge Suicide Prevention. Focus Grant from the American Foundation for Suicide Prevention ($500.000 renewable up to three years) Role: Co-investigator. PI: Igor Galynker, M.D., Ph.D. Awarded: May 2023
@@ -18,3 +16,7 @@ Different but allied? Exploring the relational dynamics of multicultural therapy
 Toward a better understanding of the overlap between alliance ruptures and racial miccroaggressions.Beginning Scholar Pilot Grant from the Psychoanalytic Fund for Research, American Psychoanalytic Association. ($5.000). Role: PI. Awarded: Sept 2019
  
 When racial biases stand in our way: toward a better understanding of racial microaggressions and alliance in early treatment. Early Career Diversity Research Grant, Society for the Advancement of Psychotherapy, APA Division 29. ($5.000). Role: PI. Awarded August 2019
+
+{% include section.html %}
+
+{% include search-box.html %}
