@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Current Projects
 nav:
   order: 3
-  tooltip: Software, datasets, and more
+  tooltip: research studies
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
@@ -15,7 +15,7 @@ nav:
 
 {% include section.html %}
 
-## Suicide Research Projects
+## Suicide Prevention Research Projects
 
 {% include list.html component="card" data="projects" filters="group: suicide" %}
 
