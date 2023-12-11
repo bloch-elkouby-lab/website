@@ -29,7 +29,7 @@ Bloch-Elkouby, S. (2017, March 16). Moderator for the panel: Striving and Strugg
 
 
 ## Conference presentations
-Upcoming: Bloch-Elkouby, S., & Barzilay, S. (2023). Combining Alliance-Focused Training principles with the Narrative Crisis Model to promote effective suicide risk assessments and interventions. Upcoming paper in a panel presented at the Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research. Amherst, Massachusetts. 
+Bloch-Elkouby, S., & Barzilay, S. (2023). Combining Alliance-Focused Training principles with the Narrative Crisis Model to promote effective suicide risk assessments and interventions. In S. Bloch-Elkouby (chair), Working with patients at high-risk for suicidal behaviors and lethal overdoses across treatment phases: new conceptual developments. Paper in a panel presented at the Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research. Amherst, Massachusetts. 
 
 Bloch-Elkouby S., Lokai, A., Chen, L., Urmanche, A., Eubanks, C. & Muran, C. (2023, June). The alliance among cross-cultural and White dyads: Alliance ruptures, resolutions, and microaggressions. In A. Gumz (chair), New Research on Alliance Ruptures. Paper in a panel presented at the Annual Meeting of the Society for Psychotherapy Research, Dublin, Ireland. 
 
@@ -60,7 +60,7 @@ Eubanks-Carter, C., Bloch-Elkouby, S., Hungr, C., Muran, J.C., Safran, J. (2014,
 Bloch-Elkouby, S. (2013, June). Integrative therapy in effect: A case study. Paper Presented at the Annual Meeting of the Society for the Exploration of Psychotherapy Integration. Barcelona, Spain.
 
 ## Panels chaired
-Upcoming: Bloch-Elkouby. (2023, October). Working with patients at high-risk for suicidal behaviors and lethal overdoses across treatment phases: new conceptual developments. Upcoming panel chaired at the Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research. Amherst, Massachusetts. 
+Bloch-Elkouby, S. (2023, October). Working with patients at high-risk for suicidal behaviors and lethal overdoses across treatment phases: new conceptual developments. Panel chaired at the Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research. Amherst, Massachusetts. 
 
 Bloch-Elkouby, S. (2021, June). The impact of cultural differences and biases on the process and outcome of psychotherapy. Panel chaired at the Annual Meeting of the Society for Psychotherapy Research. Heidelberg, Germany (online event).
 
