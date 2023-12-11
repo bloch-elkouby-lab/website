@@ -14,12 +14,7 @@ nav:
   text="sarah.blochelkouby@yu.edu"
   link="sarah.blochelkouby@yu.edu"
 %}
-{%
-  include button.html
-  type="phone"
-  text="646-592-4520"
-  link="+1-646-592-4520"
-%}
+
 {%
   include button.html
   type="address"
