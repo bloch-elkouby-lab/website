@@ -17,10 +17,10 @@ nav:
 
 ## Suicide Prevention Research Projects
 
-{% include list.html component="feature" data="projects" filters="group: suicide" %}
+{% include list.html component="float" data="projects" filters="group: suicide" %}
 
 {% include section.html %}
 
 ## Multi-cultural Psychotherapy and Alliance Research
 
-{% include list.html component="feature" data="projects" filters="group: culture" %}
+{% include list.html component="float" data="projects" filters="group: culture" %}
