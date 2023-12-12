@@ -11,7 +11,7 @@ nav:
 
 ### The Brief Psychotherapy Research Program and Mount Sinai Behavioral Health Center
 
-Dr. Bloch-Elkouby is a clinical supervisor and a co-investigator at the [Brief Psychotherapy Research Program](http://www.brieftherapyprogram.com/), as well as a consultant at the Center for [Alliance-Focused Training](https://www.therapeutic-alliance.org/), where she trains psychology trainees and psychiatry residents in the Alliance-Focused Training Approach.
+Dr. Bloch-Elkouby is a clinical supervisor and a co-investigator at the [Brief Psychotherapy Research Program](http://www.brieftherapyprogram.com/), as well as a consultant at the [Center for Alliance-Focused Training](https://www.therapeutic-alliance.org/), where she trains psychology trainees and psychiatry residents in the Alliance-Focused Training Approach.
 
 ### Collaboration with the Galynker Suicide Prevention Research Lab at Mount Sinai
 
