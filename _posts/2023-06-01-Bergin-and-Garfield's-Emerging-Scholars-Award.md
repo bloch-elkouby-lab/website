@@ -1,9 +1,8 @@
 ---
 title: Bergin and Garfield's Emerging Scholars Award
 tags:
-
   - awards
-  - news
+
 
 
 ---

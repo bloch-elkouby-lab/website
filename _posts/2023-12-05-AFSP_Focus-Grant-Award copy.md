@@ -1,9 +1,8 @@
 ---
-title: AFSP Focucs Grant Award 
+title: AFSP Focus Grant Award 
 tags:
   - grants
-  - awards
-  - news
+
 
 
 
