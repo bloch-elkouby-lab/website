@@ -27,7 +27,7 @@ nav:
 {% include section.html %}
 
 ## Collaborating Research Assistants 
-{% include list.html data="members" component="portrait" filters="role: ^$" %}
+{% include list.html data="members" component="portrait" filters="role: other" %}
 {% include section.html background="images/background.jpg" dark=true %}
 {% include section.html %}
 
