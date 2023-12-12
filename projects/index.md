@@ -1,5 +1,5 @@
 ---
-title: Current Projects
+title: Projects
 nav:
   order: 3
   tooltip: research studies
