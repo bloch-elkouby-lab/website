@@ -41,6 +41,9 @@
   <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 
   <nav>
+    <a href="{{ "/" | relative_url }}" class="home">
+      About Us
+    </a>
     {% assign pages = site.pages
       | where_exp: "page", "page.nav"
       | sort: "nav.order"
