@@ -9,7 +9,6 @@ nav:
 
 
 
-<!-- {% include section.html %} -->
 
 ## 2023
 
@@ -77,7 +76,3 @@ Yaseen, Z. S., **Bloch-Elkouby, S.**, & Barzilay, S. (2019). Teaching Emotional 
  
 Chui, H., **Bloch-Elkouby, S.**, & Barber, J. P. (2017). An outside perspective. Case studies within psychotherapy trials: Integrating qualitative and quantitative methods, 327-336.
 
-<!-- {% include search-box.html %}
-
-{% include search-info.html %}
-{% include list.html data="citations" component="citation" style="rich" %} -->
