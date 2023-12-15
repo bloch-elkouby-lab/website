@@ -7,43 +7,23 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Presentations
 
-
-## Invited lectures
-
-Bloch-Elkouby, S. (2023, March 1). Alliance-focused techniques to promote collaborative suicide risk assessment and safety planning. Invited training at the Addictions Institute, Mount Sinai Beth Israel. New York, NY.
-
-Bloch-Elkouby, S. (2023, January 25). From the therapy room to the lab and back: integrating alliance and suicide prevention research. Colloquium at the Ferkauf Graduate School of Psychology, Yeshiva University. New York, NY.
-
-Bloch-Elkouby, S. (2023, January 20). Best practices in suicide risk assessment and prevention. Invited lecture at the Mount Sinai Health Solutions. New York, NY.
-
-Bloch-Elkouby, S. (2023, January 11). Suicide prevention in rabbinic work and pastoral counseling. Invited lecture at Yeshivat Maharat, a Jewish Orthodox Rabbinical School for Women. New York, NY.
-
-Bloch-Elkouby, S. (2020, January 22). Understanding the progression from adversity to self-harm. Invited lecture given at Yeshivat Maharat, a Jewish Orthodox Rabbinical School for Women. New York, NY.
-
-Bloch-Elkouby, S. (2019, June 1). "You shall choose life": The Lessons Learned from Recent Suicide Research. Invited lecture at the congregation Darkhei Noam for Mental Awareness Month. New York, NY.
-
-Bloch-Elkouby, S., Constantine, S., Harrison, D., Mahmoudi, V., Belser A., Mahmoodi, V., Michl, A., & Guerrero, R. (2017, April 20). I Need You, You're The Worst, Please HELP Me: Using DBT Skills Group In an Outpatient Setting. Grand Rounds at the Department of Psychiatry and Behavioral Sciences at Mount Sinai Beth Israel. New York, NY.
- 
-Bloch-Elkouby, S. (2017, March 16). Moderator for the panel: Striving and Struggling: Stories from Schechter Manhattan Parents about Race. Panel hosted by Solomon Schechter School of Manhattan. New York, NY.
-
-
-
 ## Conference presentations
-Bloch-Elkouby, S., & Barzilay, S. (2023). Combining Alliance-Focused Training principles with the Narrative Crisis Model to promote effective suicide risk assessments and interventions. In S. Bloch-Elkouby (chair), Working with patients at high-risk for suicidal behaviors and lethal overdoses across treatment phases: new conceptual developments. Paper in a panel presented at the Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research. Amherst, Massachusetts. 
 
-Bloch-Elkouby S., Lokai, A., Chen, L., Urmanche, A., Eubanks, C. & Muran, C. (2023, June). The alliance among cross-cultural and White dyads: Alliance ruptures, resolutions, and microaggressions. In A. Gumz (chair), New Research on Alliance Ruptures. Paper in a panel presented at the Annual Meeting of the Society for Psychotherapy Research, Dublin, Ireland. 
+Bloch-Elkouby, S., & Barzilay, S. (2023, October). Combining Alliance-Focused Training principles with the Narrative Crisis Model to promote effective suicide risk assessments and interventions. In S. Bloch-Elkouby (chair), Working with patients at high-risk for suicidal behaviors and lethal overdoses across treatment phases: new conceptual developments. Paper in a panel presented at the Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research. Amherst, Massachusetts.
 
-Bloch-Elkouby S. & Barzilay, S. (2022, July). Alliance-Focused Safety Planning and Suicide Risk Management. In R. Manubens (Chair) Patients’ interpersonal problems and the therapeutic alliance: Theoretical and empirical developments. Paper in a panel presented at the Annual Meeting of the Society for Psychotherapy Research. Denver, Colorado. 
+Bloch-Elkouby S., Lokai, A., Chen, L., Urmanche, A., Eubanks, C. & Muran, C. (2023, June). The alliance among cross-cultural and White dyads: Alliance ruptures, resolutions, and microaggressions. In A. Gumz (chair), New Research on Alliance Ruptures. Paper in a panel presented at the Annual Meeting of the Society for Psychotherapy Research, Dublin, Ireland.
+
+Bloch-Elkouby S. & Barzilay, S. (2022, July). Alliance-Focused Safety Planning and Suicide Risk Management. In R. Manubens (Chair) Patients’ interpersonal problems and the therapeutic alliance: Theoretical and empirical developments. Paper in a panel presented at the Annual Meeting of the Society for Psychotherapy Research. Denver, Colorado.
 
 Bloch-Elkouby, S., Kuma, N.A., Chen, L., Lokai, A., Lipner, L., Eubanks, & Muran, C. (2021, June). When racial biases stand in our way: An exploratory mixed-methods investigation of racial microaggressions in early phases of CBT. In S. Bloch-Elkouby (Chair) The impact of cultural differences and biases on the process and outcome of psychotherapy. Paper in a panel presented at the Annual Meeting of the Society for Psychotherapy Research, Heidelberg (Online event).
 
 Bloch-Elkouby, S., Gorman, B., Schuck, A., Barzilay, S., Calati, R., & Galynker, I. (2019, May). The Suicide Crisis Syndrome: A Network Analysis. In L. Cohen (Chair) Catching the Ticking Time Bomb: Novel Means of Assessing Imminent Suicide Risk. Paper in a panel presented at the Annual Meeting of the American Psychiatric Organization. San Francisco, CA.
 
-Galynker, I., Bloch-Elkouby, S., Barzilay, S. (2019, March). Imminent Suicide Risk Assessment in high-risk individuals denying suicidal ideation or intent: Introduction and Training. Workshop presented at the Annual meeting of the Anxiety and Depression Association of America. Chicago, Illinois. 
+Galynker, I., Bloch-Elkouby, S., Barzilay, S. (2019, March). Imminent Suicide Risk Assessment in high-risk individuals denying suicidal ideation or intent: Introduction and Training. Workshop presented at the Annual meeting of the Anxiety and Depression Association of America. Chicago, Illinois.
 
 Bloch-Elkouby, S., Gorman, B., & Muran, J.C. (2018, September). Psychotherapy Outcome: Time to assess the assessment. In J. Boswell (Chair) Factors Associated with Outcomes Monitoring in Psychotherapy. Paper in a panel presented at the Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research. Snowbird, Utah.
 
-Rudenstine, S., Muran, J.C., Eubanks, C., Bloch-Elkouby, S., Constantino, M.J., Wallner Samstag, L. (2018, June). Training in Psychotherapy Integration at the Doctoral Level. Structured discussion at the Annual Meeting of the Society for the Exploration of Psychotherapy Integration. New York, New York. 
+Rudenstine, S., Muran, J.C., Eubanks, C., Bloch-Elkouby, S., Constantino, M.J., Wallner Samstag, L. (2018, June). Training in Psychotherapy Integration at the Doctoral Level. Structured discussion at the Annual Meeting of the Society for the Exploration of Psychotherapy Integration. New York, New York.
 
 Bloch-Elkouby, S., Muran, J.C., Gorman, B., Tufekcioglu, S., Safran, J., Eubanks, C., & Winston, A. (2015, June). Patients’ and therapists’ agreement about patients’ interpersonal problems and therapy outcome: A method paper. In J. Barber (Chair) Understanding the underlying patterns of interpersonal distress and its impact on the therapeutic alliance, diagnosis, and process and outcome of psychotherapy. Paper in a panel presented at the Annual Meeting of the Society for Psychotherapy Research. Philadelphia, Pennsylvania.
 
@@ -60,13 +40,33 @@ Eubanks-Carter, C., Bloch-Elkouby, S., Hungr, C., Muran, J.C., Safran, J. (2014,
 Bloch-Elkouby, S. (2013, June). Integrative therapy in effect: A case study. Paper Presented at the Annual Meeting of the Society for the Exploration of Psychotherapy Integration. Barcelona, Spain.
 
 ## Panels chaired
-Bloch-Elkouby, S. (2023, October). Working with patients at high-risk for suicidal behaviors and lethal overdoses across treatment phases: new conceptual developments. Panel chaired at the Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research. Amherst, Massachusetts. 
+
+Bloch-Elkouby, S. (2023, October). Working with patients at high-risk for suicidal behaviors and lethal overdoses across treatment phases: new conceptual developments. Panel chaired at the Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research. Amherst, Massachusetts.
 
 Bloch-Elkouby, S. (2021, June). The impact of cultural differences and biases on the process and outcome of psychotherapy. Panel chaired at the Annual Meeting of the Society for Psychotherapy Research. Heidelberg, Germany (online event).
 
-Bloch-Elkouby, S. (2015, June). Can the twain actually meet? Integrating psychodynamic & cognitive-behavioral Treatments. Structured discussion chaired for the Annual Meeting of the Society for the Exploration of Psychotherapy Integration. 
+Bloch-Elkouby, S. (2015, June). Can the twain actually meet? Integrating psychodynamic & cognitive-behavioral Treatments. Structured discussion chaired for the Annual Meeting of the Society for the Exploration of Psychotherapy Integration.
 
 Bloch-Elkouby, S. (2014, April). One complex case, three integrative theory options. Panel chaired at the Annual Meeting of the Society for the Exploration of Psychotherapy Integration. Montreal, Canada.
+
+## Invited lectures
+
+Bloch-Elkouby, S. (2023, March 1). Alliance-focused techniques to promote collaborative suicide risk assessment and safety planning. Invited training at the Addictions Institute, Mount Sinai Beth Israel. New York, NY.
+
+Bloch-Elkouby, S. (2023, January 25). From the therapy room to the lab and back: integrating alliance and suicide prevention research. Colloquium at the Ferkauf Graduate School of Psychology, Yeshiva University. New York, NY.
+
+Bloch-Elkouby, S. (2023, January 20). Best practices in suicide risk assessment and prevention. Invited lecture at the Mount Sinai Health Solutions. New York, NY.
+
+Bloch-Elkouby, S. (2023, January 11). Suicide prevention in rabbinic work and pastoral counseling. Invited lecture at Yeshivat Maharat, a Jewish Orthodox Rabbinical School for Women. New York, NY.
+
+Bloch-Elkouby, S. (2020, January 22). Understanding the progression from adversity to self-harm. Invited lecture given at Yeshivat Maharat, a Jewish Orthodox Rabbinical School for Women. New York, NY.
+
+Bloch-Elkouby, S. (2019, June 1). “You shall choose life”: The Lessons Learned from Recent Suicide Research. Invited lecture at the congregation Darkhei Noam for Mental Awareness Month. New York, NY.
+
+Bloch-Elkouby, S., Constantine, S., Harrison, D., Mahmoudi, V., Belser A., Mahmoodi, V., Michl, A., & Guerrero, R. (2017, April 20). I Need You, You’re The Worst, Please HELP Me: Using DBT Skills Group In an Outpatient Setting. Grand Rounds at the Department of Psychiatry and Behavioral Sciences at Mount Sinai Beth Israel. New York, NY.
+
+Bloch-Elkouby, S. (2017, March 16). Moderator for the panel: Striving and Struggling: Stories from Schechter Manhattan Parents about Race. Panel hosted by Solomon Schechter School of Manhattan. New York, NY
+
 
 
 
