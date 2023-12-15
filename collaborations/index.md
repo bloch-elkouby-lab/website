@@ -11,7 +11,7 @@ nav:
 
 ### The Galynker Suicide Prevention Research lab at Mount Sinai, New York
 
-Dr. Bloch-Elkouby has been associated with [the Galynker Suicide Prevention Research Lab at Mount Sinai](https://labs.icahn.mssm.edu/galynkerlab/), since 2018, when she completed a post-doctoral fellowship under Igor Galynker’s (MD, PhD) mentorship. She currently serves as a co-investigator on several high-scale grant-funded projects about the Suicide Crisis Syndrome, an acute suicidal mental state developed by Dr. Galynker, and the Narrative Crisis Model, a new and empirically-supported model of suicide.
+Dr. Bloch-Elkouby has a long-lasting collaboration with [the Galynker Suicide Prevention Research Lab at Mount Sinai](https://labs.icahn.mssm.edu/galynkerlab/), which started in 2018, when she completed a post-doctoral fellowship under Igor Galynker’s (MD, PhD) mentorship. She currently serves as a co-investigator on several high-scale grant-funded projects aimed at furthering our understanding of and ability to treat the Suicide Crisis Syndrome and the Narrative Crisis Model developed by Dr. Galynker. 
 
 ### The Brief Psychotherapy Research Program at the Mount Sinai Behavioral Health Center
 

@@ -24,7 +24,7 @@ Sarli G., Rogers, M. L., **Bloch‐Elkouby, S.**, Lawrence, O.,  Gomes de Siquei
 
 ## 2022
 
-**Bloch‐Elkouby, S.**, Gagnon, A., Yaseen, Z. S., Chennapragada, L., Lloveras, L., Bloch‐Elkouby, S., & Galynker, I. (2022). Associations between clinicians' emotion regulation, treatment recommendations, and patient suicidal ideation. Suicide and Life‐Threatening Behavior, 52(2), 329-340. https://doi.org/10.1111/sltb.12824
+Barzilay, S., Gagnon, A., Yaseen, Z. S., Chennapragada, L., Lloveras, L., **Bloch‐Elkouby, S.**, & Galynker, I. (2022). Associations between clinicians' emotion regulation, treatment recommendations, and patient suicidal ideation. Suicide and Life‐Threatening Behavior, 52(2), 329-340. https://doi.org/10.1111/sltb.12824
 
 **Bloch‐Elkouby, S.**, & Barzilay, S. (2022). Alliance-focused safety planning and suicide risk management. Psychotherapy, 59(2), 157-162. https://doi.org/10.1037/pst0000416
 
@@ -48,9 +48,9 @@ Rogers, M. L., Vespa, A., **Bloch‐Elkouby, S.**, & Galynker, I. (2021). Validi
 
 ## 2020
 
-**Bloch‐Elkouby, S.**, Assounga, K., Veras, J., Beaubian, C., Bloch-Elkouby, S., & Galynker, I. (2020). Assessment of near-term risk for suicide attempts using the Suicide Crisis Inventory. Journal of affective disorders, 276, 183-190. https://doi.org/10.1016/j.jad.2020.06.053
+Barzilay, S., Assounga, K., Veras, J., Beaubian, C., **Bloch-Elkouby, S.**, & Galynker, I. (2020). Assessment of near-term risk for suicide attempts using the Suicide Crisis Inventory. Journal of affective disorders, 276, 183-190. https://doi.org/10.1016/j.jad.2020.06.053
 
-**Bloch‐Elkouby, S.**, Schuck A., Bloch-Elkouby, S., Yaseen, S., Hawes, M., Rosenfield, P., Foster, A., & Galynker, I. (2019) Associations between Clinicians’ Emotional Responses, Therapeutic Alliance and Patient Suicidal Ideation. Depression and anxiety, 37(3), 214-223. https://doi.org/10.1002/da.22973
+Barzilay, S., Schuck A., **Bloch-Elkouby, S.**, Yaseen, S., Hawes, M., Rosenfield, P., Foster, A., & Galynker, I. (2019) Associations between Clinicians’ Emotional Responses, Therapeutic Alliance and Patient Suicidal Ideation. Depression and anxiety, 37(3), 214-223. https://doi.org/10.1002/da.22973
 
 **Bloch‐Elkouby, S.**, Gorman, B., Lloveras, L., Wilkerson. T., Schuck, A., Barzilay, S., Calati, R., Schnur, D., & Galynker, I. (2020). How do distal and proximal risk factors combine to predict suicidal ideation and behaviors? A prospective study of the narrative crisis model of suicide. Journal of Affective Disorders, 277, 914-926. https://doi.org/10.1016/j.jad.2020.08.088
 
