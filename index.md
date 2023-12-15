@@ -3,9 +3,16 @@
 
 # Welcome to The Bloch-Elkouby Lab
 
-Dr. Sarah Bloch-Elkouby is an Assistant Professor in the adult PsyD program at Ferkauf Graduate School of Psychology and an Assistant Clinical Professor at the Mount Sinai Behavioral Health Center. She holds an LLB from the Hebrew University in Jerusalem, a BSW from Bar-Ilan University, an MA in clinical psychology and a PhD in Clinical Psychology from the Derner School of Psychology at Adelphi.  
- 
-Prior to joining the Ferkauf School of Psychology, Dr. Bloch-Elkouby was the supervising psychologist in the adult and geriatric inpatient unit 6 Karpas at Mount Sinai Beth Israel, where she trained dozens of psychology and psychiatry trainees in the assessment and treatment of patients at acute risk for suicidal behaviors. She maintains a part-time faculty position at the Mount Sinai Behavioral Health Center where she trains mental health providers in the Alliance-Focused Training approach and serves as a co-investigator at the Brief Psychotherapy Research Program and the Galynker Lab for Suicide Research and Prevention.  She brings her love for clinical work and patients to the lab and hopes to convey her passion for clinical and research excellence to her students.
+Dr. Sarah Bloch-Elkouby is an Assistant Professor in the adult PsyD program at Ferkauf Graduate School of Psychology and an Assistant Clinical Professor at the Mount Sinai Behavioral Health Center. She holds an LLB from the Hebrew University in Jerusalem, a BSW from Bar-Ilan University, an MA in clinical psychology and a PhD in Clinical Psychology from the Derner School of Psychology at Adelphi.
+
+Dr. Bloch-Elkouby’s grant-funded research program strives to bridge the gap between research and clinical practice, on the one hand, and between suicide prevention and psychotherapy research, on the other. As such, her research program entails two distinct, and yet intertwined domains: 
+
+(1) Suicide prevention, with a focus on the development of effective approaches to recognize and address imminent risk for suicidal behaviors; 
+
+(2) Psychotherapy process and outcome research, with a focus on the interpersonal dynamics and cultural factors that impact therapists’ and patients’ work together.
+
+In collaboration with other research teams, the Bloch-Elkouby Lab develops cutting-edge Artificial Intelligence tools such as Virtual Human Interactions (VHI) and investigates their use to advance suicide prevention and psychotherapy research.
+
 
 {% include section.html %}
 
