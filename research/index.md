@@ -26,7 +26,7 @@ Sarli G., Rogers, M. L., **Bloch‐Elkouby, S.**, Lawrence, O.,  Gomes de Siquei
 
 **Bloch‐Elkouby, S.**, Gagnon, A., Yaseen, Z. S., Chennapragada, L., Lloveras, L., Bloch‐Elkouby, S., & Galynker, I. (2022). Associations between clinicians' emotion regulation, treatment recommendations, and patient suicidal ideation. Suicide and Life‐Threatening Behavior, 52(2), 329-340. https://doi.org/10.1111/sltb.12824
 
-Bloch-Elkouby, S., & **Bloch‐Elkouby, S.** (2022). Alliance-focused safety planning and suicide risk management. Psychotherapy, 59(2), 157-162. https://doi.org/10.1037/pst0000416
+**Bloch‐Elkouby, S.**, & Barzilay, S. (2022). Alliance-focused safety planning and suicide risk management. Psychotherapy, 59(2), 157-162. https://doi.org/10.1037/pst0000416
 
 **Bloch‐Elkouby, S.**, Yanez, N., Chennapragada, L., Richards, J., Cohen, L., & Galynker, I. (2022). The Narrative-Crisis Model of Suicide: a Novel and Empirically-Validated Diathesis-Stress Model of Suicide. In: Pompili, M. (eds) Suicide Risk Assessment and Prevention. Springer, Cham. https://doi.org/10.1007/978-3-030-41319-4_14-1
 
