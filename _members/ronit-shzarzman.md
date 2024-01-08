@@ -1,5 +1,5 @@
 ---
-name: Ronit Shzarzman
+name: Ronit Shvarzman
 image: images/ronit_biopic.jpg
 description: Doctoral Student
 role: fer_PhD
