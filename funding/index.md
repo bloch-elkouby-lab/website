@@ -1,5 +1,5 @@
 ---
-title: Funding
+title: FUNDING
 nav:
   order: 6
   tooltip: funding
