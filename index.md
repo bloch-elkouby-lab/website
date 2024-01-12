@@ -7,9 +7,9 @@ Dr. Sarah Bloch-Elkouby is an Assistant Professor in the adult PsyD program at F
 
 Dr. Bloch-Elkouby’s grant-funded research program strives to bridge the gap between research and clinical practice, on the one hand, and between suicide prevention and psychotherapy research, on the other. As such, her research program entails two distinct, and yet intertwined domains: 
 
-(1) Suicide prevention, with a focus on the development of effective approaches to recognize and address imminent risk for suicidal behaviors; 
+(1) _Suicide prevention_, with a focus on the development of effective approaches to recognize and address imminent risk for suicidal behaviors; 
 
-(2) Psychotherapy process and outcome research, with a focus on the interpersonal dynamics and cultural factors that impact therapists’ and patients’ work together.
+(2) _Psychotherapy process and outcome research_, with a focus on the interpersonal dynamics and cultural factors that impact therapists’ and patients’ work together.
 
 In collaboration with other research teams, the Bloch-Elkouby Lab develops cutting-edge Artificial Intelligence tools such as Virtual Human Interactions (VHI) and investigates their use to advance suicide prevention and psychotherapy research.
 
