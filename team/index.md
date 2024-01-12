@@ -10,7 +10,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include section.html %}
 
-## Clinical Research Coordinators
+## Clinical Research Coordinator
 {% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: coord" %}
 {% include section.html %}
