@@ -1,4 +1,4 @@
-_---
+---
 title: Funding
 nav:
   order: 6
