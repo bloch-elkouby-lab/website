@@ -7,6 +7,7 @@ nav:
 
 ## Funding
 
+
 _Effectiveness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for Post-Discharge Suicide Prevention_. Focus Grant from the American Foundation for Suicide Prevention ($1.5M) Role: Co-investigator. PI: Igor Galynker, M.D., Ph.D. Awarded: May 2023
  
 _Enhancing Suicide Risk Assessment and Prevention among Diverse Adolescents Using Virtual Human Interactions_.Young Investigator Grant from the American Foundation for Suicide Prevention ($90.000). Role: PI. Awarded: October 2021. Initiated: April 2022
