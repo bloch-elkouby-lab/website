@@ -66,17 +66,5 @@ American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the pro
 
 
 
-{% capture text %}
-News text 2
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/alliance.jpg"
-  link=""
-  title="news title 2"
-  flip=false
-  style="bare"
-  text=text
-%}
 
