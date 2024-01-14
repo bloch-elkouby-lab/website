@@ -13,8 +13,6 @@ nav:
 
 {% include section.html %}
 
-## Suicide Prevention Research
-
 {% capture text %}
 News text 1
 {% endcapture %}
