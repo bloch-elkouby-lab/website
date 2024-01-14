@@ -4,6 +4,9 @@
     data-flip
   {% endif %}
 >
+  {% if include.title %}
+  <p class="feature-title">{{ include.title }}</p>
+  {% endif %}
   <a
     {% if include.link %}
       href="{{ include.link | relative_url }}" 
@@ -19,9 +22,6 @@
     >
   </a>
   <div class="feature-text">
-    {% if include.title %}
-      <p class="feature-title">{{ include.title }}</p>
-    {% endif %}
     {{ include.text | markdownify }}
   </div>
 </div>
