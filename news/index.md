@@ -14,7 +14,7 @@ nav:
 {% include section.html %}
 
 {% capture text %}
-*November 26, 2023*
+*November 26th, 2023*
 
 Dr. Bloch-Elkouby will chair a symposium "Using cutting edge AI research to enhance clinical training and suicide prevention" at the upcoming ADAA 2024 conference in Boston on April 11 - 14, 2024. 
 {% endcapture %}
@@ -30,7 +30,7 @@ Dr. Bloch-Elkouby will chair a symposium "Using cutting edge AI research to enha
 %}
 
 {% capture text %}
-*June 1, 2023*
+*June 1st, 2023*
 
 Dr. Bloch-Elkouby was awarded the Bergin and Garfield Emerging Scholar Award by Society for Psychotherapy Research.
 
