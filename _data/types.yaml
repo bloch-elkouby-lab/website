@@ -3,7 +3,6 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
   description: Principal Investigator
 
 postdoc:
