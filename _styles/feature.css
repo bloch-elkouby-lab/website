@@ -27,7 +27,7 @@
 
 .feature-title {
   font-size: var(--large);
-  text-align: center;
+  text-align: left;
   font-family: var(--heading);
   font-weight: var(--semi-bold);
 }
