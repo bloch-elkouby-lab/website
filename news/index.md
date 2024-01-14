@@ -14,14 +14,51 @@ nav:
 {% include section.html %}
 
 {% capture text %}
-News text 1
+*November 26, 2023*
+
+Dr. Bloch-Elkouby will chair a symposium "Using cutting edge AI research to enhance clinical training and suicide prevention" at the upcoming ADAA 2024 conference in Boston on April 11 - 14, 2024. 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/ai_pic.jpg"
+  image="images/adaa.jpeg"
   link=""
-  title="News title 1"
+  title="ADAA 2024 Using cutting edge AI research to enhance clinical training and suicide prevention symposium"
+  flip=false
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+*June 1, 2023*
+
+Dr. Bloch-Elkouby was awarded the Bergin and Garfield Emerging Scholar Award by Society for Psychotherapy Research.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/spr.png"
+  link=""
+  title="Bergin and Garfield's Emerging Scholars Award"
+  flip=false
+  style="bare"
+  text=text
+%}
+
+
+
+{% capture text %}
+*May 31st, 2023*
+
+American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the project "Effectivness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for post-discharge suicide prevention (Co-investigator: Dr. Bloch-Elkoby)
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/afsp.png"
+  link=""
+  title="AFSP Focus Grant Award "
   flip=true
   style="bare"
   text=text

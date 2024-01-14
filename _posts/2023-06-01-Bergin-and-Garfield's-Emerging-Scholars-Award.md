@@ -7,4 +7,4 @@ tags:
 
 ---
 
-Dr. Bloch-Elkouby was awarded the Bergin and Garfield Emerging Scholar Award by Society for Psychotherapy Research
+Dr. Bloch-Elkouby was awarded the Bergin and Garfield Emerging Scholar Award by Society for Psychotherapy Research.
