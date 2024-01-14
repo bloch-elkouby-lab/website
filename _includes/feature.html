@@ -1,6 +1,10 @@
 <div>
   {% if include.title %}
-  <p class="feature-title">{{ include.title }}</p>
+  <p class="feature-title
+  {% if include.align %}
+    {{ include.align }}
+  {% endif %}
+  ">{{ include.title }}</p>
   {% endif %}
 <div
   class="feature"
@@ -16,6 +20,9 @@
     aria-label="{{ include.title | default: "feature link" }}"
   >
     <img
+      {% if include.fit %}
+        img-fit
+      {% endif %}      
       src="{{ include.image | relative_url }}"
       loading="lazy"
       alt="{{ include.title | default: "feature image" }}"
