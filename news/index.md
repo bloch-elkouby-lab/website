@@ -5,17 +5,43 @@ nav:
   tooltip: news and upcoming events
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}News & Upcoming Events
+# {% include icon.html icon="fa-solid fa-wrench" %}News & Upcoming Events
 
-
-
-
-{% include section.html %}
-
-{% include search-box.html %}
-
-{% include tags.html tags=site.tags %}
+{% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+{% include section.html %}
+
+## Suicide Prevention Research
+
+{% capture text %}
+News text 1
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/ai_pic.jpg"
+  link=""
+  title="News title 1"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
+
+{% capture text %}
+News text 2
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/alliance.jpg"
+  link=""
+  title="news title 2"
+  flip=false
+  style="bare"
+  text=text
+%}
+
