@@ -29,6 +29,7 @@ In recent years, there has been a worrying increase in child and adolescent suic
   link=""
   title="Enhancing Suicide Risk Assessment Among Diverse Adolescents Using Virtual Human Interactions"
   flip=true
+  align="left"
   style="bare"
   text=text
 %}
@@ -43,6 +44,7 @@ This project strives to combine new evidence-based tools in suicide prevention a
   link=""
   title="Development of a new approach to suicide risk assessment and intervention"
   flip=false
+  align="left"
   style="bare"
   text=text
 %}
@@ -64,6 +66,7 @@ To understand why some patients experience worsening symptoms or no improvement 
   link=""
   title="Understanding Treatment Deterioration and Patient-Therapist Interpersonal Dynamics"
   flip=true
+  align="left"
   style="bare"
   text=text
 %}
@@ -78,6 +81,7 @@ Although recent research suggests that patients self-identifying as BIPOC underu
   link=""
   title="Exploring Alliance Ruptures, Resolutions, and Microaggressions Among Cross-Cultural and White Dyads"
   flip=false
+  align="left"
   style="bare"
   text=text
 %}
@@ -92,6 +96,7 @@ This project aims to establish an observer-based coding scheme to identify ethno
   link=""
   title="Development of an observer-based measure of ethnoracial microaggressions"
   flip=true
+  align="left"
   style="bare"
   text=text
 %}
