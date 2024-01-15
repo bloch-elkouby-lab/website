@@ -1,7 +1,7 @@
 ---
 name: Alexis Aberman
 image: images/aberman_biopic.jpg
-description: Doctoral Student
+description: Second year Doctoral Student
 role: fer_PhD
 
 ---
