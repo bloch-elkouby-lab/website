@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to The Bloch-Elkouby Lab
+# Welcome to The Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
 
 Dr. Sarah Bloch-Elkouby is an Assistant Professor in the adult PsyD program at Ferkauf Graduate School of Psychology and an Assistant Clinical Professor at the Mount Sinai Behavioral Health Center. She holds an LLB from the Hebrew University in Jerusalem, a BSW from Bar-Ilan University, an MA in clinical psychology and a PhD in Clinical Psychology from the Derner School of Psychology at Adelphi.
 
