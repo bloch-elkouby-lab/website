@@ -35,7 +35,7 @@ In recent years, there has been a worrying increase in child and adolescent suic
 %}
 
 {% capture text %}
-This project strives to combine new evidence-based tools in suicide prevention and psychotherapy research to develop a new and integrative approach to suicide risk assessment and intervention. Based on the recently developed Narrative Crisis Model of Suicide (NCM; Galynker, 2017), and the principles of the empirically supported Alliance-Focused Training (AFT; Eubanks et al., 2015; Muran & Eubanks, 2020), this approach promotes a collaborative and de-stigmatizing insight- and self-compassion- oriented framework, where patients and clinicians co-create an individualized model of patients’ Narrative-Crisis stages while addressing and resolving ruptures in the alliance in real-time.
+Funded by the American Foundation for Suicide Prevention Young Investigator grant, his project strives to combine new evidence-based tools in suicide prevention and psychotherapy research to develop a new and integrative approach to suicide risk assessment and intervention. Based on the recently developed Narrative Crisis Model of Suicide (NCM; Galynker, 2017), and the principles of the empirically supported Alliance-Focused Training (AFT; Eubanks et al., 2015; Muran & Eubanks, 2020), this approach promotes a collaborative and de-stigmatizing insight- and self-compassion- oriented framework, where patients and clinicians co-create an individualized model of patients’ Narrative-Crisis stages while addressing and resolving ruptures in the alliance in real-time.
 {% endcapture %}
 
 {%
