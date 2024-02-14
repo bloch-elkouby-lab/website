@@ -1,5 +1,5 @@
 ---
-name: Alexis Aberman
+name: Alexis Aberman, B.S.
 image: images/aberman_biopic.jpg
 description: Second Year Doctoral Student
 role: fer_PhD

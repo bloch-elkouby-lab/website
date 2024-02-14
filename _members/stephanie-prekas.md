@@ -1,5 +1,5 @@
 ---
-name: Stephanie Prekas
+name: Stephanie Prekas, B.S.
 image: images/stephanie_biopic.jpg
 description: Research Assistant
 role: other

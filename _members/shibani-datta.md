@@ -1,5 +1,5 @@
 ---
-name: Shibani Datta
+name: Shibani Datta, B.S.
 image: images/shibani_biopic.jpg
 description: Research Assistant
 role: fer_MA

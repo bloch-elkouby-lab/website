@@ -1,5 +1,5 @@
 ---
-name: Aditya Bhise
+name: Aditya Bhise, B.A.
 image: images/aditya_biopic.jpg
 description: Research Assistant
 role: other

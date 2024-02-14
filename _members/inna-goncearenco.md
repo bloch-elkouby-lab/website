@@ -1,5 +1,5 @@
 ---
-name: Inna Goncearenco, MA
+name: Inna Goncearenco, M.A.
 image: images/inna_biopic.jpg
 description: Clinical Research Coordinator
 role: coord
