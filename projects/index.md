@@ -20,7 +20,7 @@ nav:
 <!-- {% include list.html component="card" data="projects" filters="group: suicide" %} -->
 
 {% capture text %}
-In recent years, there has been a worrying increase in child and adolescent suicide rates, particularly among individuals with marginalized ethno-racial and gender identities. This project evaluates the effectiveness of a novel AI-powered clinician training tool, the Virtual Human Interactions (VHI), to enhance clinical training in the assessment of imminent suicidal risk among diverse adolescent populations.
+In recent years, there has been a worrying increase in child and adolescent suicide rates, particularly among individuals with marginalized ethno-racial and gender identities. Funded by the American Foundation for Suicide Prevention Young Investigator grant, this project evaluates the effectiveness of a novel AI-powered clinician training tool, the Virtual Human Interactions (VHI), to enhance clinical training in the assessment of imminent suicidal risk among diverse adolescent populations.
 {% endcapture %}
 
 {%
@@ -35,7 +35,7 @@ In recent years, there has been a worrying increase in child and adolescent suic
 %}
 
 {% capture text %}
-Funded by the American Foundation for Suicide Prevention Young Investigator grant, his project strives to combine new evidence-based tools in suicide prevention and psychotherapy research to develop a new and integrative approach to suicide risk assessment and intervention. Based on the recently developed Narrative Crisis Model of Suicide (NCM; Galynker, 2017), and the principles of the empirically supported Alliance-Focused Training (AFT; Eubanks et al., 2015; Muran & Eubanks, 2020), this approach promotes a collaborative and de-stigmatizing insight- and self-compassion- oriented framework, where patients and clinicians co-create an individualized model of patients’ Narrative-Crisis stages while addressing and resolving ruptures in the alliance in real-time.
+This project strives to combine new evidence-based tools in suicide prevention and psychotherapy research to develop a new and integrative approach to suicide risk assessment and intervention. Based on the recently developed Narrative Crisis Model of Suicide (NCM; Galynker, 2017), and the principles of the empirically supported Alliance-Focused Training (AFT; Eubanks et al., 2015; Muran & Eubanks, 2020), this approach promotes a collaborative and de-stigmatizing insight- and self-compassion- oriented framework, where patients and clinicians co-create an individualized model of patients’ Narrative-Crisis stages while addressing and resolving ruptures in the alliance in real-time.
 {% endcapture %}
 
 {%
