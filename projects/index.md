@@ -23,7 +23,9 @@ nav:
 In recent years, there has been a worrying increase in child and adolescent suicide rates, particularly among individuals with marginalized ethno-racial and gender identities. Funded by the American Foundation for Suicide Prevention Young Investigator grant, this project evaluates the effectiveness of a novel AI-powered clinician training tool, the Virtual Human Interactions (VHI), to enhance clinical training in the assessment of imminent suicidal risk among diverse adolescent populations.
 
 
-([American Foundation for Suicide Prevention Young Investigator grant info](https://afsp.org/grant/enhancing-suicide-risk-assessment-and-prevention-among-diverse-adolescents-using))
+[American Foundation for Suicide Prevention Young Investigator grant info](https://afsp.org/grant/enhancing-suicide-risk-assessment-and-prevention-among-diverse-adolescents-using)
+
+[Relevant Publications](https://drive.google.com/drive/folders/1gg3aRH-5pdaPCGgBC9y4LFW6ffUq8PBp?usp=sharing)
 
 {% endcapture %}
 
