@@ -57,6 +57,43 @@ This project strives to combine new evidence-based tools in suicide prevention a
   text=text
 %}
 
+{% capture text %}
+The Suicide Crisis Syndrome is a cognitive and affective suicidal mental state proposed by Galynker and colleagues as a suicide-specific diagnosis. It entails five dimensions of psychological markers indicative of imminent risk for suicidal behaviors (feeling entrapped, affective disturbances, loss of cognitive control, hyperarousal, and social withdrawal). To account for patients’ well-documented non-disclosure of suicidal ideation, the Suicide Crisis Syndrome does not include patient-reported suicidal ideation. 
+In light of the growing body supporting the predictive validity of the Suicide Crisis Syndrome, this project strives to further our understanding of the field’s ability to use it to enhance risk prediction and prevention across cultures and age groups.
+
+
+
+[Relevant Publications](https://drive.google.com/drive/folders/1MUPw_8Y2LpuQSO04VkMXjLaQ3zIawBWt?usp=sharing)
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/scs.jpg"
+  link=""
+  title="Research on a proposed suicide-specific diagnosis - The Suicide Crisis Syndrome"
+  flip=true
+  align="left"
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+Recent literature shows that a large proportion of patients who made suicide attempts or even died by suicide denied suicidal ideation when inquired by their mental health provider shortly before their attempt or death. In the absence of patient-disclosure, engaging a patient in a collaborative and effective suicide-specific intervention is impossible. Accordingly, this project strives to understand patient, therapist, and patient-therapist interactional factors that impact patients’ decision to disclose suicidal ideation to their providers or to conceal it from them.
+
+[Relevant Publications](https://drive.google.com/drive/folders/1cpmj3n1tK1neCMFab6Ix3jTRFUqo9X5u?usp=sharing)
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/non-discl.jpg"
+  link=""
+  title="Research on patients' non-disclosure of suicidal ideation"
+  flip=false
+  align="left"
+  style="bare"
+  text=text
+%}
 
 {% include section.html %}
 
@@ -66,6 +103,7 @@ This project strives to combine new evidence-based tools in suicide prevention a
 
 {% capture text %}
 To understand why some patients experience worsening symptoms or no improvement after undergoing therapy, our research delves into the interpersonal dynamics and the quality of the therapeutic alliance in therapy dyads using mixed-methods analyses. Aiming to uncover the underlying factors contributing to adverse therapy outcomes, this project is crucial for improving therapeutic techniques and strategies, ultimately enhancing their effectiveness and patient well-being.
+
 {% endcapture %}
 
 {%
