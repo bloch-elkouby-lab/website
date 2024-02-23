@@ -57,6 +57,7 @@ Dr. Bloch-Elkouby will lead a structured discussion about the use of Artificial 
 
 
 Dr. Bloch-Elkouby will present preliminary findings about the therapeutic alliance and clinical judgment in therapeutic encounters with AI-powered virtual patients. 
+
 {% endcapture %}
 
 {%
@@ -90,7 +91,6 @@ Congratulations, Alexis, on the acceptance of your abstract on the role of self-
 %}
 
 
-
 {% capture text %}
 
 Congratulations, Lucy, on getting matched for an internship at Mount Sinai Morningside in New York!
@@ -109,7 +109,10 @@ Congratulations, Lucy, on getting matched for an internship at Mount Sinai Morni
   text=text
 %}
 
+{% capture text %}
+
 Dr. Bloch-Elkouby will chair a symposium "Using cutting edge AI research to enhance clinical training and suicide prevention" at the upcoming ADAA 2024 conference in Boston on April 11 - 14, 2024. 
+
 {% endcapture %}
 
 {%
@@ -117,7 +120,7 @@ Dr. Bloch-Elkouby will chair a symposium "Using cutting edge AI research to enha
   image="images/adaa.jpeg"
   link=""
   title="ADAA 2024 Using cutting edge AI research to enhance clinical training and suicide prevention symposium"
-  flip=false
+  flip=true
   fit=true
   align="left"
   style="bare"
@@ -136,7 +139,7 @@ Dr. Bloch-Elkouby was awarded the Bergin and Garfield Emerging Scholar Award by 
   image="images/spr.png"
   link=""
   title="Bergin and Garfield's Emerging Scholars Award"
-  flip=true
+  flip=false
   fit=true
   align="left"
   style="bare"
@@ -148,7 +151,8 @@ Dr. Bloch-Elkouby was awarded the Bergin and Garfield Emerging Scholar Award by 
 {% capture text %}
 
 
-American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the project "Effectivness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for post-discharge suicide prevention (Co-investigator: Dr. Bloch-Elkoby)
+American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the project "Effectivness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for post-discharge suicide prevention (Co-investigator: Dr. Bloch-Elkoby). 
+
 {% endcapture %}
 
 {%
@@ -156,7 +160,7 @@ American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the pro
   image="images/afsp.png"
   link=""
   title="AFSP Focus Grant Award "
-  flip=false
+  flip=true
   fit=true
   align="left"
   style="bare"
