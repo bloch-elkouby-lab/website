@@ -43,7 +43,7 @@ Dr. Bloch-Elkouby will lead a structured discussion about the use of Artificial 
   include feature.html
   image="images/spr ottawa.png"
   link=""
-  title="Dr. Bloch-Elkouby will lead a structured discussion at the 2024 SPR conference"
+  title="Dr. Bloch-Elkouby Will Lead a Structured Discussion at the 2024 SPR Conference"
   flip=true
   fit=true
   align="left"
@@ -64,7 +64,7 @@ Dr. Bloch-Elkouby will present preliminary findings about the therapeutic allian
   include feature.html
   image="images/spr ottawa 2.png"
   link=""
-  title="Dr. Bloch-Elkouby will present at the 2024 SPR conference "
+  title="Dr. Bloch-Elkouby Will Present at the 2024 SPR Conference "
   flip=false
   fit=true
   align="left"
@@ -101,7 +101,7 @@ Congratulations, Lucy, on getting matched for an internship at Mount Sinai Morni
   include feature.html
   image="images/morningside.jpeg"
   link=""
-  title="Lucy Walsh got matched for an internship"
+  title="Lucy Walsh Got Matched for an Internship"
   flip=false
   fit=true
   align="left"
@@ -119,7 +119,7 @@ Dr. Bloch-Elkouby will chair a symposium "Using cutting edge AI research to enha
   include feature.html
   image="images/adaa.jpeg"
   link=""
-  title="ADAA 2024 Using cutting edge AI research to enhance clinical training and suicide prevention symposium"
+  title="ADAA 2024 Using Cutting Edge AI Research to Rnhance Clinical Training and Suicide Prevention Symposium"
   flip=true
   fit=true
   align="left"
