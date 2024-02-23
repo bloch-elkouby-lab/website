@@ -11,7 +11,7 @@ Our lab's grant-funded research program is focused on two distinct, yet intertwi
 
 **Psychotherapy process and outcome research:** We explore the interpersonal dynamics and cultural factors that impact the work between therapists and patients; 
 
-In collaboration with other research teams, the Bloch-Elkouby Lab develops cutting-edge Artificial Intelligence tools such as Virtual Human Interactions and investigates their potential to advance suicide prevention and psychotherapy research.
+ The Bloch-Elkouby Lab develops cutting-edge Artificial Intelligence tools such as Virtual Human Interactions and investigates their potential to advance suicide prevention and psychotherapy research.
 
 By collaborating with other research teams, both within the United States and internationally, as well as with external entities such as academic institutions, healthcare organizations, and community groups, we strive to create a synergistic environment that fosters innovation, enhances the quality of our research, and ultimately leads to more effective interventions and treatments.  
 

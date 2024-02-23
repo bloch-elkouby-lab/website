@@ -41,16 +41,16 @@ In recent years, there has been a worrying increase in child and adolescent suic
 %}
 
 {% capture text %}
-This project strives to combine new evidence-based tools in suicide prevention and psychotherapy research to develop a new and integrative approach to suicide risk assessment and intervention. Based on the recently developed Narrative Crisis Model of Suicide (NCM; Galynker, 2017), and the principles of the empirically supported Alliance-Focused Training (AFT; Eubanks et al., 2015; Muran & Eubanks, 2020), this approach promotes a collaborative and de-stigmatizing insight- and self-compassion- oriented framework, where patients and clinicians co-create an individualized model of patients’ Narrative-Crisis stages while addressing and resolving ruptures in the alliance in real-time.
+Recent literature shows that a large proportion of patients who made suicide attempts or even died by suicide denied suicidal ideation when inquired by their mental health provider shortly before their attempt or death. In the absence of patient-disclosure, engaging a patient in a collaborative and effective suicide-specific intervention is impossible. Accordingly, this project strives to understand patient, therapist, and patient-therapist interactional factors that impact patients’ decision to disclose suicidal ideation to their providers or to conceal it from them.
 
-[Relevant Publications](https://drive.google.com/drive/folders/1XocU8-tzKFm_dpW2XlO0pimhTUOcCQZu?usp=sharing)
+[Relevant Publications](https://drive.google.com/drive/folders/1cpmj3n1tK1neCMFab6Ix3jTRFUqo9X5u?usp=sharing)
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/alliance.jpg"
+  image="images/non-discl.jpg"
   link=""
-  title="Development of a new approach to suicide risk assessment and intervention"
+  title="Research on patients' non-disclosure of suicidal ideation"
   flip=false
   align="left"
   style="bare"
@@ -78,22 +78,26 @@ In light of the growing body supporting the predictive validity of the Suicide C
   text=text
 %}
 
-{% capture text %}
-Recent literature shows that a large proportion of patients who made suicide attempts or even died by suicide denied suicidal ideation when inquired by their mental health provider shortly before their attempt or death. In the absence of patient-disclosure, engaging a patient in a collaborative and effective suicide-specific intervention is impossible. Accordingly, this project strives to understand patient, therapist, and patient-therapist interactional factors that impact patients’ decision to disclose suicidal ideation to their providers or to conceal it from them.
 
-[Relevant Publications](https://drive.google.com/drive/folders/1cpmj3n1tK1neCMFab6Ix3jTRFUqo9X5u?usp=sharing)
+
+{% capture text %}
+This project strives to combine new evidence-based tools in suicide prevention and psychotherapy research to develop a new and integrative approach to suicide risk assessment and intervention. Based on the recently developed Narrative Crisis Model of Suicide (NCM; Galynker, 2017), and the principles of the empirically supported Alliance-Focused Training (AFT; Eubanks et al., 2015; Muran & Eubanks, 2020), this approach promotes a collaborative and de-stigmatizing insight- and self-compassion- oriented framework, where patients and clinicians co-create an individualized model of patients’ Narrative-Crisis stages while addressing and resolving ruptures in the alliance in real-time.
+
+[Relevant Publications](https://drive.google.com/drive/folders/1XocU8-tzKFm_dpW2XlO0pimhTUOcCQZu?usp=sharing)
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/non-discl.jpg"
+  image="images/alliance.jpg"
   link=""
-  title="Research on patients' non-disclosure of suicidal ideation"
+  title="Development of a new approach to suicide risk assessment and intervention"
   flip=false
   align="left"
   style="bare"
   text=text
 %}
+
+
 
 {% include section.html %}
 
@@ -103,6 +107,8 @@ Recent literature shows that a large proportion of patients who made suicide att
 
 {% capture text %}
 To understand why some patients experience worsening symptoms or no improvement after undergoing therapy, our research delves into the interpersonal dynamics and the quality of the therapeutic alliance in therapy dyads using mixed-methods analyses. Aiming to uncover the underlying factors contributing to adverse therapy outcomes, this project is crucial for improving therapeutic techniques and strategies, ultimately enhancing their effectiveness and patient well-being.
+
+[Relevant Publications](https://drive.google.com/drive/folders/1Lnj8yDLlkutEWd1jmmnWMCSWab3HVOT0?usp=sharing)
 
 {% endcapture %}
 
