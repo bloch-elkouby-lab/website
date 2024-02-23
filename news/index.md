@@ -101,7 +101,7 @@ Congratulations, Lucy, on getting matched for an internship at Mount Sinai Morni
   include feature.html
   image="images/morningside.jpeg"
   link=""
-  title="Our Amazing Research Assistant,Lucy Walsh, Got Matched for an Internship"
+  title="Our Amazing Research Assistant, Lucy Walsh, Got Matched for an Internship"
   flip=false
   fit=true
   align="left"
