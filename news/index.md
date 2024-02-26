@@ -34,7 +34,7 @@ Congratulations to our amazing Research Assistant, Lucy Walsh, on getting matche
 {% capture text %}
 
 
-Congratulations, Inna, on the acceptance of your abstract “Hidden Barriers: Exploring Self-Disgust and Disgust with Others in Individuals with Concealed vs. Disclosed Past-Month Suicidal Ideation” for poster presentation at the 2024 APA Annual Meeting in New York, May 4 - 8
+Congratulations, Inna, on the acceptance of your abstract “Hidden Barriers: Exploring Self-Disgust and Disgust with Others in Individuals with Concealed vs. Disclosed Past-Month Suicidal Ideation” for poster presentation at the 2024 APA Annual Meeting in New York, May 4 - 8.
 
 {% endcapture %}
 
@@ -53,7 +53,7 @@ Congratulations, Inna, on the acceptance of your abstract “Hidden Barriers: Ex
 {% capture text %}
 
 
-Dr. Bloch-Elkouby will lead a structured discussion about the use of Artificial Intelligence (AI) with Dr. Aafjes-van Doorn at the upcoming SPR International Annual Meeting in Ottawa, Canada, June 26 – 29, 2024
+Dr. Bloch-Elkouby will lead a structured discussion about the use of Artificial Intelligence (AI) with Dr. Aafjes-van Doorn at the upcoming SPR International Annual Meeting in Ottawa, Canada, June 26 – 29, 2024.
 
 {% endcapture %}
 
@@ -92,7 +92,7 @@ Dr. Bloch-Elkouby will present preliminary findings about the therapeutic allian
 
 {% capture text %}
 
-Congratulations, Alexis, on the acceptance of your abstract on the role of self-compassion as a change mechanism in suicide-specific psychotherapies for poster presentation at the SPR International Annual Meeting in Ottawa, Canada, June 26 – 29, 2024
+Congratulations, Alexis, on the acceptance of your abstract on the role of self-compassion as a change mechanism in suicide-specific psychotherapies for poster presentation at the SPR International Annual Meeting in Ottawa, Canada, June 26 – 29, 2024.
 
 {% endcapture %}
 
@@ -153,7 +153,7 @@ Dr. Bloch-Elkouby was awarded the Bergin and Garfield Emerging Scholar Award by 
 {% capture text %}
 
 
-American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the project "Effectivness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for post-discharge suicide prevention (Co-investigator: Dr. Bloch-Elkoby). 
+American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the project "Effectivness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for post-discharge suicide prevention (Co-investigator: Dr. Bloch-Elkouby). 
 
 {% endcapture %}
 
