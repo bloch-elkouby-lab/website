@@ -24,7 +24,7 @@ Congratulations to our amazing Research Assistant, Lucy Walsh, on getting matche
   image="images/morningside.jpeg"
   link=""
   title=""
-  flip=false
+  flip=true
   fit=true
   align="left"
   style="bare"
