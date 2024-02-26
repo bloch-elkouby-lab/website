@@ -122,7 +122,7 @@ Dr. Bloch-Elkouby will chair a symposium "Using cutting edge AI research to enha
   image="images/adaa.jpeg"
   link=""
   title=""
-  flip=true
+  flip=false
   fit=true
   align="left"
   style="bare"
@@ -141,7 +141,7 @@ Dr. Bloch-Elkouby was awarded the Bergin and Garfield Emerging Scholar Award by 
   image="images/spr.png"
   link=""
   title=""
-  flip=false
+  flip=true
   fit=true
   align="left"
   style="bare"
@@ -162,7 +162,7 @@ American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the pro
   image="images/afsp.png"
   link=""
   title=""
-  flip=true
+  flip=false
   fit=true
   align="left"
   style="bare"
