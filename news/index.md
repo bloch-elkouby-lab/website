@@ -23,7 +23,7 @@ Congratulations to our amazing Research Assistant, Lucy Walsh, on getting matche
   include feature.html
   image="images/morningside.jpeg"
   link=""
-  title=
+  title=""
   flip=false
   fit=true
   align="left"
@@ -42,7 +42,7 @@ Congratulations, Inna, on the acceptance of your abstract “Hidden Barriers: Ex
   include feature.html
   image="images/apa 2024.png"
   link=""
-  title=
+  title=""
   flip=false
   fit=true
   align="left"
@@ -61,7 +61,7 @@ Dr. Bloch-Elkouby will lead a structured discussion about the use of Artificial 
   include feature.html
   image="images/spr ottawa.png"
   link=""
-  title
+  title=""
   flip=true
   fit=true
   align="left"
@@ -82,7 +82,7 @@ Dr. Bloch-Elkouby will present preliminary findings about the therapeutic allian
   include feature.html
   image="images/spr ottawa 2.png"
   link=""
-  title
+  title=""
   flip=false
   fit=true
   align="left"
@@ -100,7 +100,7 @@ Congratulations, Alexis, on the acceptance of your abstract on the role of self-
   include feature.html
   image="images/spr ottawa 3.png"
   link=""
-  title
+  title=""
   flip=true
   fit=true
   align="left"
@@ -121,7 +121,7 @@ Dr. Bloch-Elkouby will chair a symposium "Using cutting edge AI research to enha
   include feature.html
   image="images/adaa.jpeg"
   link=""
-  title=
+  title=""
   flip=true
   fit=true
   align="left"
@@ -140,7 +140,7 @@ Dr. Bloch-Elkouby was awarded the Bergin and Garfield Emerging Scholar Award by 
   include feature.html
   image="images/spr.png"
   link=""
-  title
+  title=""
   flip=false
   fit=true
   align="left"
@@ -161,7 +161,7 @@ American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the pro
   include feature.html
   image="images/afsp.png"
   link=""
-  title=
+  title=""
   flip=true
   fit=true
   align="left"
