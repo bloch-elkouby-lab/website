@@ -15,6 +15,24 @@ nav:
 
 {% capture text %}
 
+Congratulations to our amazing Research Assistant, Lucy Walsh, on getting matched for a prestigious internship at Mount Sinai Morningside in New York! We know that you will be an outstanding intern and we wish you great success!
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/morningside.jpeg"
+  link=""
+  title=
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
 
 Congratulations, Inna, on the acceptance of your abstract “Hidden Barriers: Exploring Self-Disgust and Disgust with Others in Individuals with Concealed vs. Disclosed Past-Month Suicidal Ideation” for poster presentation at the 2024 APA Annual Meeting in New York, May 4 - 8
 
@@ -24,7 +42,7 @@ Congratulations, Inna, on the acceptance of your abstract “Hidden Barriers: Ex
   include feature.html
   image="images/apa 2024.png"
   link=""
-  title="Inna Goncearenco’s Abstract Was Accepted for Poster Presentation"
+  title=
   flip=false
   fit=true
   align="left"
@@ -43,7 +61,7 @@ Dr. Bloch-Elkouby will lead a structured discussion about the use of Artificial 
   include feature.html
   image="images/spr ottawa.png"
   link=""
-  title="Dr. Bloch-Elkouby Will Lead a Structured Discussion at the 2024 SPR Conference"
+  title
   flip=true
   fit=true
   align="left"
@@ -64,7 +82,7 @@ Dr. Bloch-Elkouby will present preliminary findings about the therapeutic allian
   include feature.html
   image="images/spr ottawa 2.png"
   link=""
-  title="Dr. Bloch-Elkouby Will Present at the 2024 SPR Conference "
+  title
   flip=false
   fit=true
   align="left"
@@ -82,7 +100,7 @@ Congratulations, Alexis, on the acceptance of your abstract on the role of self-
   include feature.html
   image="images/spr ottawa 3.png"
   link=""
-  title="Alexis Aberman’s Abstract Was Accepted for Poster Presentation"
+  title
   flip=true
   fit=true
   align="left"
@@ -91,23 +109,7 @@ Congratulations, Alexis, on the acceptance of your abstract on the role of self-
 %}
 
 
-{% capture text %}
 
-Congratulations, Lucy, on getting matched for an internship at Mount Sinai Morningside in New York!
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/morningside.jpeg"
-  link=""
-  title="Our Amazing Research Assistant, Lucy Walsh, Got Matched for an Internship"
-  flip=false
-  fit=true
-  align="left"
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
@@ -119,7 +121,7 @@ Dr. Bloch-Elkouby will chair a symposium "Using cutting edge AI research to enha
   include feature.html
   image="images/adaa.jpeg"
   link=""
-  title="ADAA 2024 Using Cutting Edge AI Research to Rnhance Clinical Training and Suicide Prevention Symposium"
+  title=
   flip=true
   fit=true
   align="left"
@@ -138,7 +140,7 @@ Dr. Bloch-Elkouby was awarded the Bergin and Garfield Emerging Scholar Award by 
   include feature.html
   image="images/spr.png"
   link=""
-  title="Bergin and Garfield's Emerging Scholars Award"
+  title
   flip=false
   fit=true
   align="left"
@@ -159,7 +161,7 @@ American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the pro
   include feature.html
   image="images/afsp.png"
   link=""
-  title="AFSP Focus Grant Award "
+  title=
   flip=true
   fit=true
   align="left"
