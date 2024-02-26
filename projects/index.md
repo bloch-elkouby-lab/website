@@ -125,6 +125,9 @@ To understand why some patients experience worsening symptoms or no improvement 
 
 {% capture text %}
 Although recent research suggests that patients self-identifying as BIPOC underutilize treatment and terminate treatment prematurely, there is a paucity of research investigating the interpersonal dynamics at play within cross-cultural therapy dyads.  This project strives to deepen the field’s understanding of the interpersonal dynamics in cross-cultural dyads, identify obstacles to developing a strong therapeutic alliance, explore ethno-racial microaggressions, and assess their impact on therapy processes and outcomes.
+
+[Relevant Publications](https://drive.google.com/drive/folders/1FKZDdcrS8igKE7iFfULvqMeLoV7h1zJ2?usp=sharing)
+
 {% endcapture %}
 
 {%
