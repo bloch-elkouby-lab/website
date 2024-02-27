@@ -43,7 +43,7 @@ header a {
 }
 
 .logo > * {
-  height: 70%;
+  height: 0%;
 }
 
 .title {
@@ -63,7 +63,7 @@ header a {
 }
 
 // subtitle
-.title > *:last-child {
+.title > *:last-child:not(:only-child) {
   opacity: 0.65;
   font-weight: var(--thin);
 }
@@ -163,7 +163,7 @@ header[data-big] {
     font-size: var(--xxl);
   }
 
-  .title > *:last-child {
+  .title > *:last-child:not(:only-child) {
     font-size: var(--large);
   }
 }
