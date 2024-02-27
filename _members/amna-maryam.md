@@ -1,5 +1,5 @@
 ---
-name: Amna Maryam, B.A.
+name: Amna Maryam, B.S.
 image: images/amna_biopic.jpg
 description: Research Assistant
 role: other
