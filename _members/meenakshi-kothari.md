@@ -1,6 +1,6 @@
 ---
 name: Meenakshi Kothari, B.S.
-image: images/meenakshi_biopic.jpg
+image: images/meenakshi_bio.jpg
 description: Research Assistant
 role: other
 ---
