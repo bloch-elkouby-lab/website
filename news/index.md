@@ -19,9 +19,8 @@ nav:
 
 Interested in learning more about suicide prevention and resiliency? Join us on Thursday, 4/4/2024 for the panel discussion, light dinner, and networking!
 
-[Learn more about the presenters](https://yeshiva.imodules.com/s/1739/images/gid5/editor_documents/flyer_mental_health_with_presenters.pdf?__hstc%253D56700149.127f235496b213a4ef0d3449dec71682.1709856000260.1709856000261.1709856000262.1%2526__hssc%253D56700149.1.1709856000263%2526__hsfp%253D3897018725%2526sessionid%253D768fc85d-13ba-45e9-b36e-e0a5da82a767%2526cc%253D1)
+[Learn more about the presenters and register here](https://yeshiva.imodules.com/s/1739/images/gid5/editor_documents/flyer_mental_health_with_presenters.pdf?__hstc%253D56700149.127f235496b213a4ef0d3449dec71682.1709856000260.1709856000261.1709856000262.1%2526__hssc%253D56700149.1.1709856000263%2526__hsfp%253D3897018725%2526sessionid%253D768fc85d-13ba-45e9-b36e-e0a5da82a767%2526cc%253D1)
 
-[Registration Link](YU.EDU/MENTALHEALTH)
 
 
 {% endcapture %}
