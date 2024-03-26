@@ -2,7 +2,7 @@
 title: News & Events
 nav:
   order: 7
-  tooltip: news and upcoming events
+  tooltip: News & Events
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}News & Upcoming Events
