@@ -30,7 +30,7 @@ We are thrilled to announce that several of our talented lab students have succe
 
 {%
   include feature.html
-  image="images/congrats.jpg"
+  image="images/congratulations.jpg"
   link=""
   title=""
   flip=true
