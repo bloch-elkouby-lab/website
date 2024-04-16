@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:38622653
+  title: The impact of scaffolded and non-scaffolded suicidal virtual human interaction
+    training on clinician emotional self-awareness, empathic communication, and clinical
+    efficacy.
+  authors:
+  - Heng Yao
+  - Alexandre Gomes de Siqueira
+  - Megan L Rogers
+  - Sarah Bloch-Elkouby
+  - Olivia Lawrence
+  - Giuseppe Sarli
+  - Adriana Foster
+  - Serge A Mitelman
+  - Igor Galynker
+  - Benjamin Lok
+  publisher: BMC medical education
+  date: '2024-04-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38622653
+  term: Bloch-Elkouby, S[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:38057550
   title: 'Using Virtual Patients to Assess and Improve Clinicians'' Emotional Self-awareness:
     a Randomized Controlled Study.'
