@@ -16,6 +16,36 @@ nav:
 
 {% capture text %}
 
+We are thrilled to announce that several of our talented lab students have successfully matched with prestigious externship sites. Please join us in congratulating Ronit, Alexis, Adelaide and Shibani on their well-deserved success!
+
+*Ronit Shvarzman* matched with the Icahn School of Medicine at Mount Sinai – Psychosis Risk Program
+
+*Alexis Aberman* matched with the New York-Presbyterian-Westchester Behavioral Health Center Track 6: Inpatient DBT on the Self-Injurious Behavior Unit
+
+*Adelaide Jones* matched with the Brooklyn College Counseling Center
+
+*Shibani Datta* matched with the Montefiore - Adult Literacy Program
+
+We are incredibly proud of their accomplishments! 
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/congrats.jpg"
+  link=""
+  title=""
+  flip=true
+  fit=true
+  align="right"
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
 
 Interested in learning more about suicide prevention and resiliency? Join us on Thursday, 4/4/2024 for a panel discussion, light dinner, and networking! This event is co-sponsored by the Yeshiva University Office of Alumni Affairs, Ferkauf Graduate School of Psychology, Wurzweiler School of Social Work, and the Yeshiva University Counseling Center and will feature Dr. Bloch-Elkouby and several other experts in suicide prevention. 
 
