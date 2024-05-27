@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:38728274
+  title: 'Machine learning approach for the development of a crucial tool in suicide
+    prevention: The Suicide Crisis Inventory-2 (SCI-2) Short Form.'
+  authors:
+  - Gabriele P De Luca
+  - Neelang Parghi
+  - Rawad El Hayek
+  - Sarah Bloch-Elkouby
+  - Devon Peterkin
+  - Amber Wolfe
+  - Megan L Rogers
+  - Igor Galynker
+  publisher: PloS one
+  date: '2024-05-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38728274
+  term: Bloch-Elkouby, S[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:38622653
   title: The impact of scaffolded and non-scaffolded suicidal virtual human interaction
     training on clinician emotional self-awareness, empathic communication, and clinical
