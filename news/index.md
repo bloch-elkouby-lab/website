@@ -16,6 +16,26 @@ nav:
 {% capture text %}
 
 
+We are thrilled to share that on of our incredible research assistants, Runqin Shi, will be starting her PSYD in Clinical Psychology at Ferkauf this Fall. Please join us in congratulating Runqin on this achievement! We can't wait to see what lies ahead.
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/ferkauf.png"
+  link=""
+  title=""
+  flip=false
+  fit=true
+  align="right"
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+
 We are delighted to announce that our wonderful lab coordinator, Inna Goncearenco, is starting an exciting new journey as she begins her PhD in Clinical Psychology at George Washington University this Fall. Inna’s expertise and passion have been invaluable to our team, and we are confident that she will continue to excel in her doctoral studies. Please join us in congratulating Inna on this achievement and wishing her all the best in her future endeavors!
 
 
