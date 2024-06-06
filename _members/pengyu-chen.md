@@ -1,4 +1,5 @@
-name: Pengyu "Jimmy" Chen, B.S.
+---
+name: Pengyu (Jimmy) Chen, B.S.
 image: images/pengyu_chen_biopic.jpg
 description: Research Assistant
 role: other

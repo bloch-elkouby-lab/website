@@ -1,3 +1,4 @@
+---
 name: Wendy Guo, B.A.
 image: images/wendy_guo_biopic.jpeg
 description: Research Assistant

@@ -1,3 +1,4 @@
+---
 name: Tamara Eid, B.A.
 image: images/tamara_eid_biopic.jpg
 description: Research Assistant

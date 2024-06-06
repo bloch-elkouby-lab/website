@@ -26,7 +26,7 @@ We are thrilled to share that on of our incredible research assistants, Runqin S
   image="images/ferkauf.png"
   link=""
   title=""
-  flip=false
+  flip=true
   fit=true
   align="right"
   style="bare"
