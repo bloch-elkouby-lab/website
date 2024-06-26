@@ -16,6 +16,25 @@ nav:
 {% capture text %}
 
 
+Dr. Bloch-Elkouby will lead a structured discussion about the use of Artificial Intelligence (AI) with Dr. Aafjes-van Doorn at the upcoming SPR International Annual Meeting in Ottawa, Canada, June 26 – 29, 2024.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/spr ottawa.png"
+  link=""
+  title=""
+  flip=true
+  fit=true
+  align="right"
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+
 We are thrilled to share that on of our incredible research assistants, Runqin Shi, will be starting her PSYD in Clinical Psychology at Ferkauf this Fall. Please join us in congratulating Runqin on this achievement! We can't wait to see what lies ahead.
 
 
@@ -139,26 +158,6 @@ Congratulations, Inna, on the acceptance of your abstract “Hidden Barriers: Ex
   style="bare"
   text=text
 %}
-
-{% capture text %}
-
-
-Dr. Bloch-Elkouby will lead a structured discussion about the use of Artificial Intelligence (AI) with Dr. Aafjes-van Doorn at the upcoming SPR International Annual Meeting in Ottawa, Canada, June 26 – 29, 2024.
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/spr ottawa.png"
-  link=""
-  title=""
-  flip=true
-  fit=true
-  align="left"
-  style="bare"
-  text=text
-%}
-
 
 
 {% capture text %}
