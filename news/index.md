@@ -27,7 +27,7 @@ Dr. Bloch-Elkouby will lead a structured discussion about the use of Artificial 
   title=""
   flip=true
   fit=true
-  align="right"
+  align="left"
   style="bare"
   text=text
 %}
