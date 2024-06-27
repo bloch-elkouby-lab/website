@@ -10,23 +10,23 @@ nav:
 
 ## 2024
 
-*Bloch-Elkouby, S., Rogers, M., Goncearenco, I., Yanez, N., Nemeroff, C., Chennapragada, L., Cohen, L., & Galynker, I. (2024). The Narrative Crisis Model of Suicide:  A Review of Empirical Evidence for an Innovative Dynamic Model of Suicide and a comparison with other theoretical frameworks. Personalized Medicine in Psychiatry (In Press). https://doi.org/10.1016/j.pmip.2024.100131
+**Bloch-Elkouby, S.**, Rogers, M., Goncearenco, I., Yanez, N., Nemeroff, C., Chennapragada, L., Cohen, L., & Galynker, I. (2024). The Narrative Crisis Model of Suicide:  A Review of Empirical Evidence for an Innovative Dynamic Model of Suicide and a comparison with other theoretical frameworks. Personalized Medicine in Psychiatry (In Press). https://doi.org/10.1016/j.pmip.2024.100131
 
-*Rogers, M., Bloch-Elkouby, S., Goncearenco I., Cohen, L., Nemeroff, C., & Galynker, I. (2024). The Narrative Crisis Model of Suicide as a Framework for Suicide Prevention. Personalized Medicine in Psychiatry (In Press). https://doi.org/10.1016/j.pmip.2024.100130
+Rogers, M., **Bloch-Elkouby, S.**, Goncearenco I., Cohen, L., Nemeroff, C., & Galynker, I. (2024). The Narrative Crisis Model of Suicide as a Framework for Suicide Prevention. Personalized Medicine in Psychiatry (In Press). https://doi.org/10.1016/j.pmip.2024.100130
 
-Galynker, I., Bloch-Elkouby, S., & Cohen, L. (2024). Suicide crisis syndrome: a specific diagnosis to aid suicide prevention. World Psychiatry (In Press)
+Galynker, I., **Bloch-Elkouby, S.**, & Cohen, L. (2024). Suicide crisis syndrome: a specific diagnosis to aid suicide prevention. World Psychiatry (In Press)
 
-Bloch-Elkouby, S., Jones, A., Shvarzman, R., Bhise, A., Kothari, M., & Goncearenco, I. (2024). Suicide, Theories of. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
+**Bloch-Elkouby, S.**, Jones, A., Shvarzman, R., Bhise, A., Kothari, M., & Goncearenco, I. (2024). Suicide, Theories of. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
 
-Goncearenco, I., Bhise, A., Tortora, J., Shi, R., & Bloch-Elkouby, S. (2024). Suicide, Preparatory Behaviors. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
+Goncearenco, I., Bhise, A., Tortora, J., Shi, R., & **Bloch-Elkouby, S.** (2024). Suicide, Preparatory Behaviors. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
 
-Boritz, T., Bloch-Elkouby, S., DiBartolomeo, A., & Aberman, A. Alliance Rupture and Repair Processes in Borderline Personality Disorder. (2024) In N. Kazantzis (Ed.) Alliance Rupture Repair in Cognitive Behavioral Therapies. Springer Nature. (In Press)
+Boritz, T., **Bloch-Elkouby, S.**, DiBartolomeo, A., & Aberman, A. Alliance Rupture and Repair Processes in Borderline Personality Disorder. (2024) In N. Kazantzis (Ed.) Alliance Rupture Repair in Cognitive Behavioral Therapies. Springer Nature. (In Press)
 
-De Luca, G. P., Parghi, N., El Hayek, R., Bloch-Elkouby, S., Peterkin, D., Wolfe, A. & Galynker, I. (2024). Machine learning approach for the development of a crucial tool in suicide prevention: The Suicide Crisis Inventory-2 (SCI-2) Short Form. PLoS one, 19(5), e0299048. https://doi.org/10.1371/journal.pone.0299048
+De Luca, G. P., Parghi, N., El Hayek, R., **Bloch-Elkouby, S.**, Peterkin, D., Wolfe, A. & Galynker, I. (2024). Machine learning approach for the development of a crucial tool in suicide prevention: The Suicide Crisis Inventory-2 (SCI-2) Short Form. PLoS one, 19(5), e0299048. https://doi.org/10.1371/journal.pone.0299048
 
-Yao, H., Gomes de Siqueira, A., Rogers, M. L., Bloch-Elkouby, S., Lawrence, O., Sarli, G., ... & Lok, B. (2024). The impact of scaffolded and non-scaffolded suicidal virtual human interaction training on clinician emotional self-awareness, empathic communication, and clinical efficacy. BMC medical education, 24(1), 413. https://doi.org/10.1186/s12909-024-05371-9
+Yao, H., Gomes de Siqueira, A., Rogers, M. L., **Bloch-Elkouby, S.**, Lawrence, O., Sarli, G., ... & Lok, B. (2024). The impact of scaffolded and non-scaffolded suicidal virtual human interaction training on clinician emotional self-awareness, empathic communication, and clinical efficacy. BMC medical education, 24(1), 413. https://doi.org/10.1186/s12909-024-05371-9
 
-Sarli, G., Rogers, M. L., Bloch-Elkouby, S., Lawrence, O. C., Gomes de Siqueira, A., Yao, H., ... & Galynker, I. (2024). Using Virtual Patients to Assess and Improve Clinicians’ Emotional Self-awareness: a Randomized Controlled Study. Academic Psychiatry, 48(1), 18-28. https://doi.org/10.1007/s40596-023-01909-z
+Sarli, G., Rogers, M. L., **Bloch-Elkouby, S.**, Lawrence, O. C., Gomes de Siqueira, A., Yao, H., ... & Galynker, I. (2024). Using Virtual Patients to Assess and Improve Clinicians’ Emotional Self-awareness: a Randomized Controlled Study. Academic Psychiatry, 48(1), 18-28. https://doi.org/10.1007/s40596-023-01909-z
 
 
 ## 2023
