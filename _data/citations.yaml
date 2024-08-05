@@ -189,13 +189,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:34914420
-  title: Alliance-focused safety planning and suicide risk management.
-  authors:
-  - Sarah Bloch-Elkouby
-  - Shira Barzilay
-  publisher: Psychotherapy (Chicago, Ill.)
-  date: '2021-12-16'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34914420
   term: Bloch-Elkouby, S[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -251,16 +244,6 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:34333759
-  title: Validity of the modular assessment of risk for imminent suicide in predicting
-    short-term suicidality.
-  authors:
-  - Megan L Rogers
-  - Allison Vespa
-  - Sarah Bloch-Elkouby
-  - Igor Galynker
-  publisher: Acta psychiatrica Scandinavica
-  date: '2021-08-10'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34333759
   term: Bloch-Elkouby, S[Author]
   plugin: pubmed.py
   file: pubmed.yaml
