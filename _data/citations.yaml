@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:39279405
+  title: 'Suicide crisis syndrome: a specific diagnosis to aid suicide prevention.'
+  authors:
+  - Igor Galynker
+  - Sarah Bloch-Elkouby
+  - Lisa J Cohen
+  publisher: 'World psychiatry : official journal of the World Psychiatric Association
+    (WPA)'
+  date: '2024-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39279405
+  term: Bloch-Elkouby, S[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:38728274
   title: 'Machine learning approach for the development of a crucial tool in suicide
     prevention: The Suicide Crisis Inventory-2 (SCI-2) Short Form.'
