@@ -10,7 +10,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include section.html %}
 
-## Teaching Assistants 
+## Ferkauf Research Assistants
 {% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: TA" %}
 {% include section.html %}
@@ -18,11 +18,6 @@ nav:
 ## Ferkauf Doctoral Students 
 {% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: fer_PhD" %}
-{% include section.html %}
-
-## Ferkauf Research Assistants
-{% include section.html %}
-{% include list.html data="members" component="portrait" filters="role: fer_MA" %}
 {% include section.html %}
 
 ## Collaborating Research Assistants 
