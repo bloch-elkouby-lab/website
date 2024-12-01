@@ -2,7 +2,7 @@
 name: Runqin Shi, M.A.
 image: images/runqin_biopic.jpg
 description: Research Assistant
-role: other
+role: TA
 
 ---
 
