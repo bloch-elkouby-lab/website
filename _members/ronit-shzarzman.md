@@ -1,7 +1,7 @@
 ---
 name: Ronit Shvarzman, B.S.
 image: images/ronit_biopic.jpg
-description: First Year Doctoral Student
+description: Second Year Doctoral Student
 role: fer_PhD
 
 ---

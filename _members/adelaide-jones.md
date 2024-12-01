@@ -2,7 +2,7 @@
 name: Adelaide Jones, B.A.
 image: images/adelaide_biopic.jpg
 role: fer_PhD
-description: First Year Doctoral Student
+description: Second Year Doctoral Student
 
 ---
 

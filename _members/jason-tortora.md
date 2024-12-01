@@ -1,7 +1,7 @@
 ---
 name: Jason Tortora, J.D.
 image: images/biopic.jpg
-description: First Year Doctoral Student
+description: Second Year Doctoral Student
 role: fer_PhD
 ---
 
