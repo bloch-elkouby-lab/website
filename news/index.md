@@ -16,6 +16,26 @@ nav:
 {% capture text %}
 
 
+The Bloch-Elkouby Lab for Suicide Prevention and Research is delighted to welcome four new Ferkauf Adult Psy D students to the lab! Welcome, Laura Baruch, Theo Mack, Talia Rosen, and Runqin Shi-- we're thrilled to have you on the team!
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/ferkauf.png"
+  link=""
+  title=""
+  flip=true
+  fit=true
+  align="right"
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
+
 Dr. Bloch-Elkouby will lead a structured discussion about the use of Artificial Intelligence (AI) with Dr. Aafjes-van Doorn at the upcoming SPR International Annual Meeting in Ottawa, Canada, June 26 – 29, 2024.
 
 {% endcapture %}
