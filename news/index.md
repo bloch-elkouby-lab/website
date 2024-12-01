@@ -25,7 +25,7 @@ The Bloch-Elkouby Lab for Suicide Prevention and Research is delighted to welcom
   image="images/ferkauf.png"
   link=""
   title=""
-  flip=true
+  flip=false
   fit=true
   align="right"
   style="bare"
