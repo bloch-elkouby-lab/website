@@ -1,8 +1,8 @@
 ---
 name: Runqin Shi, M.A.
 image: images/runqin_biopic.jpg
-description: Research Assistant
-role: TA
+description: First Year Doctoral Student
+role: fer_PhD
 
 ---
 

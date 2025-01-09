@@ -1,8 +1,8 @@
 ---
 name: Adelaide Jones, B.A.
 image: images/adelaide_biopic.jpg
-role: fer_PhD
-description: Second Year Doctoral Student
+role: TA
+description: Research Assistant 
 
 ---
 
