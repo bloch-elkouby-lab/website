@@ -16,6 +16,25 @@ nav:
 {% capture text %}
 
 
+Alexis was named a recipient of the Society for the Advancement of Psychotherapy's Student Research Grant. Her qualitative dissertation project will focus on individuals with lived experience who view themselves as recovered from suicidality. Her research will explore patient experiences of what they view as contributing to their recovery from suicidality, both inside and outside of treatment. This grant will allow for the compensation of participants and the compensation of Dr. Usrula Whiteside, an expert with lived experience who will serve as a consultant to the research team.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/SAP_Logo.png"
+  link=""
+  title=""
+  flip=true
+  fit=true
+  align="left"
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+
 The Bloch-Elkouby Lab for Suicide Prevention and Research is delighted to welcome four new Ferkauf Adult Psy D students to the lab! Welcome, Laura Baruch, Theo Mack, Talia Rosen, and Runqin Shi-- we're thrilled to have you on the team!
 
 {% endcapture %}
