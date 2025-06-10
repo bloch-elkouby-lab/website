@@ -73,6 +73,18 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:37432540
+  title: Stressful Life Events and Near-term Suicidal Risk in a Clinical Population.
+  authors:
+  - Lisa J Cohen
+  - Michelle Hernandez
+  - Radwa Mokhtar
+  - Jenelle Richards
+  - Sarah Bloch-Elkouby
+  - Megan L Rogers
+  - Igor Galynker
+  publisher: The Psychiatric quarterly
+  date: '2023-07-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37432540
   term: Bloch-Elkouby, S[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -128,6 +140,19 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:36263445
+  title: Who are the patients who deny suicidal intent? Exploring patients' characteristics
+    associated with self-disclosure and denial of suicidal intent.
+  authors:
+  - Sarah Bloch-Elkouby
+  - Sigal Zilcha-Mano
+  - Megan L Rogers
+  - Ji Yoon Park
+  - Katherine Manlongat
+  - Mia Krumerman
+  - Igor Galynker
+  publisher: Acta psychiatrica Scandinavica
+  date: '2022-12-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36263445
   term: Bloch-Elkouby, S[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -188,6 +213,18 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:34766360
+  title: The Narrative-Crisis Model of suicide and its prediction of near-term suicide
+    risk.
+  authors:
+  - Lisa Janet Cohen
+  - Radwa Mokhtar
+  - Jenelle Richards
+  - Michelle Hernandez
+  - Sarah Bloch-Elkouby
+  - Igor Galynker
+  publisher: Suicide & life-threatening behavior
+  date: '2021-11-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34766360
   term: Bloch-Elkouby, S[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -241,6 +278,21 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:33065834
+  title: How do distal and proximal risk factors combine to predict suicidal ideation
+    and behaviors? A prospective study of the narrative crisis model of suicide.
+  authors:
+  - Sarah Bloch-Elkouby
+  - Bernard Gorman
+  - Lauren Lloveras
+  - Timothy Wilkerson
+  - Allison Schuck
+  - Shira Barzilay
+  - Raffaella Calati
+  - David Schnur
+  - Igor Galynker
+  publisher: Journal of affective disorders
+  date: '2020-09-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33065834
   term: Bloch-Elkouby, S[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -293,6 +345,20 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:31818767
+  title: 'The Modular Assessment of Risk for Imminent Suicide (MARIS): A validation
+    study of a novel tool for suicide risk assessment.'
+  authors:
+  - Raffaella Calati
+  - Lisa J Cohen
+  - Allison Schuck
+  - Dorin Levy
+  - Sarah Bloch-Elkouby
+  - Shira Barzilay
+  - Paul J Rosenfield
+  - Igor Galynker
+  publisher: Journal of affective disorders
+  date: '2019-12-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31818767
   term: Bloch-Elkouby, S[Author]
   plugin: pubmed.py
   file: pubmed.yaml
