@@ -1,6 +1,6 @@
 ---
 name: Angel Wei, B.A.
-image: images/Angel_Wei_biopic
+image: images/Angel_Wei_biopic.jpg
 description: Research Assistant
 role: other
 ---
