@@ -2,7 +2,7 @@
 name: Adelaide Jones, B.A.
 image: images/adelaide_biopic.jpg
 role: TA
-description: Research Assistant; Second Year Doctoral Student 
+description: Research Coordinator; Second Year Doctoral Student 
 
 ---
 
