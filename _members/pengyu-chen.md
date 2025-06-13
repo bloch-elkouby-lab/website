@@ -1,8 +1,8 @@
 ---
 name: Pengyu (Jimmy) Chen, B.S.
 image: images/Jimmy_Chen_biopic_new.jpg
-description: Research Assistant
-role: other
+description: Research Coordinator
+role: TA
 
 ---
 
