@@ -10,7 +10,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include section.html %}
 
-## Ferkauf Research Assistants
+## Lab Research Coordinators
 {% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: TA" %}
 {% include section.html %}
