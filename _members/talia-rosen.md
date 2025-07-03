@@ -1,8 +1,8 @@
 ---
 name: Talia Rosen, B.A.
 image: images/talia_biopic.jpg
-role: fer_PhD
-description: First Year Doctoral Student
+role: doctoral
+description: Doctoral Student Class 2029
 
 ---
 

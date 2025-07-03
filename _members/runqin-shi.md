@@ -1,8 +1,8 @@
 ---
 name: Runqin Shi, M.A.
 image: images/runqin_biopic.jpg
-description: First Year Doctoral Student
-role: fer_PhD
+description: Doctoral Student Class 2029
+role: doctoral
 
 ---
 

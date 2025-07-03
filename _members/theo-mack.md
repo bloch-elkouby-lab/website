@@ -1,7 +1,7 @@
 ---
 name: Theo Mack, B.A.
 image: images/theo_mack_biopic.jpeg
-role: fer_PhD
+role: doctoral
 description: First Year Doctoral Student
 
 ---
