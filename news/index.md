@@ -16,6 +16,28 @@ nav:
 {% capture text %}
 
 
+Many Bloch-Elkouby lab members, including Dr. Bloch-Elkouby, participated in and presented their research at the SPR International Annual Meeting in Kraków, Poland. Eight student lab members presented posters; among them, Ronit Shvarzman was awarded the Enrico Jones Trainee Award. 
+
+Dr. Bloch-Elkouby co-chaired a semi-plenary at the conference: “Friend or foe? An update and future directions on AI applications in psychotherapy research.” She was a discussant for the discussion: “What’s Tricky about Transforming Training? A Discussion on Training Providers.” Finally she also presented on her research: “Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care.”
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/SPR2025_Krakow.jpeg"
+  link=""
+  title=""
+  flip=true
+  fit=true
+  align="right"
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+
 Alexis Aberman, a third-year PsyD student in the Lab, was named a recipient of the Society for the Advancement of Psychotherapy’s Student Research Grant. Her qualitative dissertation project will focus on individuals with lived experience who view themselves as recovered from suicidality. Her research will explore patient experiences of what they view as contributing to their recovery from suicidality, both inside and outside of treatment. This grant will allow for the compensation of participants and the compensation of Dr. Ursula Whiteside, an expert with lived experience, who will serve as a consultant to the research team.
 
 {% endcapture %}
