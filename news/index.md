@@ -28,7 +28,7 @@ Dr. Bloch-Elkouby co-chaired a semi-plenary at the conference: “Friend or foe?
   image="images/SPR2025_Krakow.jpeg"
   link=""
   title=""
-  flip=true
+  flip=false
   fit=true
   align="right"
   style="bare"
