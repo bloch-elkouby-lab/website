@@ -20,12 +20,35 @@ Many Bloch-Elkouby lab members, including Dr. Bloch-Elkouby, participated in and
 
 Dr. Bloch-Elkouby co-chaired a semi-plenary at the conference: “Friend or foe? An update and future directions on AI applications in psychotherapy research.” She was a discussant for the discussion: “What’s Tricky about Transforming Training? A Discussion on Training Providers.” Finally she also presented on her research: “Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care.”
 
+[Check out the photos here!](https://drive.google.com/drive/folders/13Er_OxYcgbPXMFXinPjmHZsB1b0IMvQz?usp=sharing)
+
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/SPR2025_Krakow.jpeg"
+  link=""
+  title=""
+  flip=false
+  fit=true
+  align="right"
+  style="bare"
+  text=text
+%}
+
+
+{% capture text %}
+
+
+Ronit Shvarzman was awarded a trainee conference travel award and will be traveling to Krakow, Poland, to attend the 2025 SPR Conference and be recognized at the North American Chapter Business Meeting. At the conference, Ronit will present a poster on her research: “Implicit Racial Bias and Clinician Emotional Responses in Psychotherapy: A Virtual Interaction Study” 
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/travel_award.png"
   link=""
   title=""
   flip=false
