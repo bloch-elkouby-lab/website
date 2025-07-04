@@ -477,6 +477,86 @@
   size: ;
 -->
 
+<div class="carousel-container" style="max-width: 600px; position: relative; margin: 1em 0;">
+  <div class="carousel-text" style="margin-bottom: 1em;">
+    <h2>SPR 2025 Conference Highlights</h2>
+    <p>
+
+We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huanyao, and Runqin presented their work at the 2025 Society for Psychotherapy Research Annual Conference. Their contributions showcased a wide range of innovative and impactful research in psychotherapy. Dr. Bloch-Elkouby also gave a featured presentation on advancements in AI-assisted mental health care.
+
+</p>
+  </div>
+  
+  <div class="carousel-wrapper">
+    <button class="carousel-button prev" onclick="plusSlides(-1)">❮</button>
+    <div class="carousel-slides">
+      
+      
+        <img class="carousel-slide" src="images/news-spr2025_1.jpg" style="width: 100%; display: none;">
+      
+        <img class="carousel-slide" src="images/news-spr2025_2.jpg" style="width: 100%; display: none;">
+      
+        <img class="carousel-slide" src="images/news-spr2025_3.jpg" style="width: 100%; display: none;">
+      
+        <img class="carousel-slide" src="images/news-spr2025_4.jpg" style="width: 100%; display: none;">
+      
+        <img class="carousel-slide" src="images/news-spr2025_5.jpg" style="width: 100%; display: none;">
+      
+        <img class="carousel-slide" src="images/news-spr2025_6.jpg" style="width: 100%; display: none;">
+      
+    </div>
+    <button class="carousel-button next" onclick="plusSlides(1)">❯</button>
+  </div>
+</div>
+
+<style>
+.carousel-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+.carousel-slide {
+  display: none;
+}
+.carousel-button {
+  position: absolute;
+  top: 50%;
+  background-color: rgba(0,0,0,0.6);
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  transform: translateY(-50%);
+  font-size: 18px;
+  z-index: 10;
+}
+.carousel-button.prev {
+  left: 0;
+}
+.carousel-button.next {
+  right: 0;
+}
+</style>
+
+<script>
+let slideIndex = 0;
+const showSlides = (n) => {
+  const slides = document.querySelectorAll(".carousel-slide");
+  if (!slides.length) return;
+  slideIndex = (n + slides.length) % slides.length;
+  slides.forEach((slide, i) => {
+    slide.style.display = i === slideIndex ? "block" : "none";
+  });
+};
+
+const plusSlides = (n) => {
+  showSlides(slideIndex + n);
+};
+
+document.addEventListener("DOMContentLoaded", () => {
+  showSlides(0);
+});
+</script>
+
 <div>
   
   <p class="feature-title
