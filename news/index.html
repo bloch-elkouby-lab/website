@@ -483,63 +483,67 @@
   size: ;
 -->
 
-<div class="carousel-container" style="max-width: 700px; margin: 2em auto; position: relative; text-align: center;">
-  <div class="carousel-text" style="margin-bottom: 1em;">
-    <h2>SPR Conference 2025 Highlights of Dr. Bloch-Elkouby</h2>
-    <p>
+<div>
+  
+    <p class="feature-title
+      
+        right
+      
+    ">SPR Conference 2025 Highlights of Dr. Bloch-Elkouby</p>
+  
 
-We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huanyao, and Runqin presented their work at the 2025 Society for Psychotherapy Research Annual Conference. Their contributions showcased a wide range of innovative and impactful research in psychotherapy. Dr. Bloch-Elkouby also gave a featured presentation on advancements in AI-assisted mental health care.
+  <div class="feature">
+    <div class="feature-image" style="position: relative;">
+      
+      
+        <img class="carousel-slide" img-fit="" src="/website/images/news-spr2025_1.jpg" loading="lazy" alt="SPR image 1" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
+        <img class="carousel-slide" img-fit="" src="/website/images/news-spr2025_2.jpg" loading="lazy" alt="SPR image 2" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
+        <img class="carousel-slide" img-fit="" src="/website/images/news-spr2025_3.jpg" loading="lazy" alt="SPR image 3" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
+        <img class="carousel-slide" img-fit="" src="/website/images/news-spr2025_4.jpg" loading="lazy" alt="SPR image 4" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
+        <img class="carousel-slide" img-fit="" src="/website/images/news-spr2025_5.jpg" loading="lazy" alt="SPR image 5" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
+        <img class="carousel-slide" img-fit="" src="/website/images/news-spr2025_6.jpg" loading="lazy" alt="SPR image 6" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
 
-</p>
-  </div>
+      <button class="carousel-button prev" onclick="plusSlides(-1)">❮</button>
+      <button class="carousel-button next" onclick="plusSlides(1)">❯</button>
+    </div>
 
-  <div class="carousel-wrapper" style="position: relative;">
-    
-    
-      <img class="carousel-slide" src="/website/images/news-spr2025_1.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 1">
-    
-      <img class="carousel-slide" src="/website/images/news-spr2025_2.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 2">
-    
-      <img class="carousel-slide" src="/website/images/news-spr2025_3.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 3">
-    
-      <img class="carousel-slide" src="/website/images/news-spr2025_4.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 4">
-    
-      <img class="carousel-slide" src="/website/images/news-spr2025_5.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 5">
-    
-      <img class="carousel-slide" src="/website/images/news-spr2025_6.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 6">
-    
+    <div class="feature-text">
+      
+<p>We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huanyao, and Runqin presented their work at the 2025 Society for Psychotherapy Research Annual Conference. Their contributions showcased a wide range of innovative and impactful research in psychotherapy. Dr. Bloch-Elkouby also gave a featured presentation on advancements in AI-assisted mental health care.</p>
 
-    <button class="carousel-button prev" onclick="plusSlides(-1)">❮</button>
-    <button class="carousel-button next" onclick="plusSlides(1)">❯</button>
+
+    </div>
   </div>
 </div>
 
 <style>
 .carousel-button {
-  cursor: pointer;
   position: absolute;
   top: 50%;
-  width: auto;
-  padding: 12px;
-  margin-top: -22px;
+  background-color: rgba(0,0,0,0.4);
   color: white;
-  font-weight: bold;
-  font-size: 18px;
   border: none;
-  background-color: rgba(0, 0, 0, 0.4);
-  user-select: none;
+  padding: 10px 14px;
+  font-size: 18px;
+  cursor: pointer;
+  transform: translateY(-50%);
   border-radius: 4px;
-  z-index: 10;
-  transition: 0.3s;
+  z-index: 2;
 }
 .carousel-button:hover {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0,0,0,0.6);
 }
 .carousel-button.prev {
-  left: 0;
+  left: 10px;
 }
 .carousel-button.next {
-  right: 0;
+  right: 10px;
 }
 </style>
 
@@ -549,8 +553,8 @@ function showSlides(n) {
   const slides = document.querySelectorAll(".carousel-slide");
   if (!slides.length) return;
   slideIndex = (n + slides.length) % slides.length;
-  slides.forEach((slide, idx) => {
-    slide.style.display = idx === slideIndex ? "block" : "none";
+  slides.forEach((slide, i) => {
+    slide.style.display = (i === slideIndex) ? "block" : "none";
   });
 }
 function plusSlides(n) {
@@ -561,65 +565,69 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 </script>
 
-<div class="carousel-container" style="max-width: 700px; margin: 2em auto; position: relative; text-align: center;">
-  <div class="carousel-text" style="margin-bottom: 1em;">
-    <h2>SPR Conference 2025 Student Highlights</h2>
-    <p>
+<div>
+  
+    <p class="feature-title
+      
+        right
+      
+    ">SPR Conference 2025 Student Highlights</p>
+  
 
-We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huanyao, and Runqin presented their work at the 2025 Society for Psychotherapy Research Annual Conference. Their contributions showcased a wide range of innovative and impactful research in psychotherapy. Dr. Bloch-Elkouby also gave a featured presentation on advancements in AI-assisted mental health care.
+  <div class="feature">
+    <div class="feature-image" style="position: relative;">
+      
+      
+        <img class="carousel-slide" img-fit="" src="/website/images/news-spr2025_poster_rebecca.jpg" loading="lazy" alt="SPR image 1" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
+        <img class="carousel-slide" img-fit="" src="/website/images/news-spr2025_poster_pengyu.jpg" loading="lazy" alt="SPR image 2" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
+        <img class="carousel-slide" img-fit="" src="/website/images/news-spr2025_poster_aditya.jpg" loading="lazy" alt="SPR image 3" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
+        <img class="carousel-slide" img-fit="" src="/website/images/news-spr2025_poster_stephanie.jpg" loading="lazy" alt="SPR image 4" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
+        <img class="carousel-slide" img-fit="" src="/website/images/news-spr2025_poster_jingqian.jpg" loading="lazy" alt="SPR image 5" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
+        <img class="carousel-slide" img-fit="" src="/website/images/news-spr2025_poster_huanyao.jpg" loading="lazy" alt="SPR image 6" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
+        <img class="carousel-slide" img-fit="" src="/website/images/news-spr2025_poster_runqin.jpg" loading="lazy" alt="SPR image 7" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
 
-</p>
-  </div>
+      <button class="carousel-button prev" onclick="plusSlides(-1)">❮</button>
+      <button class="carousel-button next" onclick="plusSlides(1)">❯</button>
+    </div>
 
-  <div class="carousel-wrapper" style="position: relative;">
-    
-    
-      <img class="carousel-slide" src="/website/images/news-spr2025_poster_rebecca.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 1">
-    
-      <img class="carousel-slide" src="/website/%0Aimages/news-spr2025_poster_pengyu.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 2">
-    
-      <img class="carousel-slide" src="/website/%0Aimages/news-spr2025_poster_aditya.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 3">
-    
-      <img class="carousel-slide" src="/website/%0Aimages/news-spr2025_poster_stephanie.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 4">
-    
-      <img class="carousel-slide" src="/website/%0Aimages/news-spr2025_poster_jingqian.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 5">
-    
-      <img class="carousel-slide" src="/website/%0Aimages/news-spr2025_poster_huanyao.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 6">
-    
-      <img class="carousel-slide" src="/website/%0Aimages/news-spr2025_poster_runqin.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 7">
-    
+    <div class="feature-text">
+      
+<p>We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huanyao, and Runqin presented their work at the 2025 Society for Psychotherapy Research Annual Conference. Their contributions showcased a wide range of innovative and impactful research in psychotherapy. Dr. Bloch-Elkouby also gave a featured presentation on advancements in AI-assisted mental health care.</p>
 
-    <button class="carousel-button prev" onclick="plusSlides(-1)">❮</button>
-    <button class="carousel-button next" onclick="plusSlides(1)">❯</button>
+
+    </div>
   </div>
 </div>
 
 <style>
 .carousel-button {
-  cursor: pointer;
   position: absolute;
   top: 50%;
-  width: auto;
-  padding: 12px;
-  margin-top: -22px;
+  background-color: rgba(0,0,0,0.4);
   color: white;
-  font-weight: bold;
-  font-size: 18px;
   border: none;
-  background-color: rgba(0, 0, 0, 0.4);
-  user-select: none;
+  padding: 10px 14px;
+  font-size: 18px;
+  cursor: pointer;
+  transform: translateY(-50%);
   border-radius: 4px;
-  z-index: 10;
-  transition: 0.3s;
+  z-index: 2;
 }
 .carousel-button:hover {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0,0,0,0.6);
 }
 .carousel-button.prev {
-  left: 0;
+  left: 10px;
 }
 .carousel-button.next {
-  right: 0;
+  right: 10px;
 }
 </style>
 
@@ -629,8 +637,8 @@ function showSlides(n) {
   const slides = document.querySelectorAll(".carousel-slide");
   if (!slides.length) return;
   slideIndex = (n + slides.length) % slides.length;
-  slides.forEach((slide, idx) => {
-    slide.style.display = idx === slideIndex ? "block" : "none";
+  slides.forEach((slide, i) => {
+    slide.style.display = (i === slideIndex) ? "block" : "none";
   });
 }
 function plusSlides(n) {
