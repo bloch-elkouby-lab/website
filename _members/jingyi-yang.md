@@ -1,6 +1,6 @@
 ---
 name: Jingyi (Violet) Yang, M.A.
-image: images/profile-jingyi_Yang.jpeg
+image: images/profile-jingyi_yang.jpeg
 description: Research Assistant
 role: RA
 ---
