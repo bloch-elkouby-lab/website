@@ -1,7 +1,7 @@
 ---
 name: Tamara Eid, M.A.
 image: images/tamara_eid_biopic.jpg
-description: Research Assistant
+description: Lab Alumni
 role: alum
 
 ---
