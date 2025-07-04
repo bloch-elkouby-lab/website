@@ -1,6 +1,6 @@
 ---
 name: Erin Kelly, B.S.
-image: images/Erin_Kelly_biopic.jpg
+image: images/profile-erin_kelly.jpg
 description: Research Assistant
 role: RA
 ---

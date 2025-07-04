@@ -1,6 +1,6 @@
 ---
 name: Hanjiang Xu, B.S.
-image: images/Hanjiang_Xu_biopic.jpg
+image: images/profile-hanjiang_xu.jpg
 description: Research Assistant
 role: RA
 ---

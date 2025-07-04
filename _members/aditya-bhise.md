@@ -1,6 +1,6 @@
 ---
 name: Aditya Bhise, M.A
-image: images/aditya_biopic.jpg
+image: images/profile-aditya_bhise.jpg
 description: Research Assistant
 role: RA
 ---

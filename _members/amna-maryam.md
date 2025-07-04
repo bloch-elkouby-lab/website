@@ -1,6 +1,6 @@
 ---
 name: Amna Maryam, M.A.
-image: images/amna_biopic.jpg
+image: images/profile-amna_maryam.jpg
 description: Research Assistant
 role: RA
 ---

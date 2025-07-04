@@ -1,6 +1,6 @@
 ---
 name: Bailie Schock, M.A
-image: images/bailie_biopic.jpeg
+image: images/profile-bailie_schock.jpeg
 description: Lab Alumni
 role: alum
 ---

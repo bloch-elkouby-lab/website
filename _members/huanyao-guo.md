@@ -1,6 +1,6 @@
 ---
-name: Wendy Guo, B.A.
-image: images/wendy_guo_biopic.jpeg
+name: Huanyao (Wendy) Guo, B.A.
+image: images/profile-huanyao_guo.jpeg
 description: Research Assistant
 role: RA
 

@@ -1,6 +1,6 @@
 ---
 name: Inna Goncearenco, M.A.
-image: images/inna_biopic.jpg
+image: images/profile-inna_goncearenco.jpg
 description: Coordinator 2023-2024
 role: prev-RC
 ---
