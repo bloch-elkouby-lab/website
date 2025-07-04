@@ -44,8 +44,7 @@ We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huan
 images/news-spr2025_poster_pengyu.jpg,
 images/news-spr2025_poster_aditya.jpg,
 images/news-spr2025_poster_stephanie.jpg,
-images/news-spr2025_poster_jade.jpg,
-images/news-spr2025_poster_jason.jpg,
+images/news-spr2025_poster_jingqian.jpg,
 images/news-spr2025_poster_huanyao.jpg,
 images/news-spr2025_poster_runqin.jpg""
   title="SPR Conference 2025 Student Highlights"
