@@ -41,7 +41,7 @@
 
 <title>News | Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research</title>
 
-<link rel="icon" href="">
+<link rel="icon" href="/website/images/icon-favicon.png">
 
 <meta name="title" content="News">
 <meta name="description" content="Dr Sarah Bloch-Elkouby is an Assistant Professor, Ferkauf Graduate School of Psychology, Yeshiva University">
@@ -74,7 +74,7 @@
     "headline": "News",
     "publisher": {
       "@type": "Organization",
-      "logo": { "@type": "ImageObject", "url": "" }
+      "logo": { "@type": "ImageObject", "url": "/website/images/icon-favicon.png" }
     },
     "url": ""
   }
@@ -370,6 +370,12 @@
 <header class="background" style="--image: url('/website/images/background.jpg')" data-dark="false">
   <a href="/website/" class="home">
     
+      <span class="logo">
+        
+          <img src="/website/images/icon-logo.png" alt="logo">
+        
+      </span>
+    
     
       <span class="title" data-tooltip="Home">
         
@@ -477,7 +483,7 @@
   size: ;
 -->
 
-<div class="carousel-container" style="max-width: 600px; position: relative; margin: 1em 0;">
+<div class="carousel-container" style="max-width: 700px; margin: 2em auto; position: relative; text-align: center;">
   <div class="carousel-text" style="margin-bottom: 1em;">
     <h2>SPR Conference 2025 Highlights of Dr. Bloch-Elkouby</h2>
     <p>
@@ -486,48 +492,48 @@ We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huan
 
 </p>
   </div>
-  
-  <div class="carousel-wrapper">
+
+  <div class="carousel-wrapper" style="position: relative;">
+    
+    
+      <img class="carousel-slide" src="images/news-spr2025_1.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 1">
+    
+      <img class="carousel-slide" src="images/news-spr2025_2.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 2">
+    
+      <img class="carousel-slide" src="images/news-spr2025_3.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 3">
+    
+      <img class="carousel-slide" src="images/news-spr2025_4.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 4">
+    
+      <img class="carousel-slide" src="images/news-spr2025_5.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 5">
+    
+      <img class="carousel-slide" src="images/news-spr2025_6.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 6">
+    
+
     <button class="carousel-button prev" onclick="plusSlides(-1)">❮</button>
-    <div class="carousel-slides">
-      
-      
-        <img class="carousel-slide" src="images/news-spr2025_1.jpg" style="width: 100%; display: none;">
-      
-        <img class="carousel-slide" src="images/news-spr2025_2.jpg" style="width: 100%; display: none;">
-      
-        <img class="carousel-slide" src="images/news-spr2025_3.jpg" style="width: 100%; display: none;">
-      
-        <img class="carousel-slide" src="images/news-spr2025_4.jpg" style="width: 100%; display: none;">
-      
-        <img class="carousel-slide" src="images/news-spr2025_5.jpg" style="width: 100%; display: none;">
-      
-        <img class="carousel-slide" src="images/news-spr2025_6.jpg" style="width: 100%; display: none;">
-      
-    </div>
     <button class="carousel-button next" onclick="plusSlides(1)">❯</button>
   </div>
 </div>
 
 <style>
-.carousel-wrapper {
-  position: relative;
-  overflow: hidden;
-}
-.carousel-slide {
-  display: none;
-}
 .carousel-button {
+  cursor: pointer;
   position: absolute;
   top: 50%;
-  background-color: rgba(0,0,0,0.6);
+  width: auto;
+  padding: 12px;
+  margin-top: -22px;
   color: white;
-  border: none;
-  padding: 8px 12px;
-  cursor: pointer;
-  transform: translateY(-50%);
+  font-weight: bold;
   font-size: 18px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.4);
+  user-select: none;
+  border-radius: 4px;
   z-index: 10;
+  transition: 0.3s;
+}
+.carousel-button:hover {
+  background-color: rgba(0, 0, 0, 0.6);
 }
 .carousel-button.prev {
   left: 0;
@@ -539,25 +545,23 @@ We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huan
 
 <script>
 let slideIndex = 0;
-const showSlides = (n) => {
+function showSlides(n) {
   const slides = document.querySelectorAll(".carousel-slide");
   if (!slides.length) return;
   slideIndex = (n + slides.length) % slides.length;
-  slides.forEach((slide, i) => {
-    slide.style.display = i === slideIndex ? "block" : "none";
+  slides.forEach((slide, idx) => {
+    slide.style.display = idx === slideIndex ? "block" : "none";
   });
-};
-
-const plusSlides = (n) => {
+}
+function plusSlides(n) {
   showSlides(slideIndex + n);
-};
-
+}
 document.addEventListener("DOMContentLoaded", () => {
   showSlides(0);
 });
 </script>
 
-<div class="carousel-container" style="max-width: 600px; position: relative; margin: 1em 0;">
+<div class="carousel-container" style="max-width: 700px; margin: 2em auto; position: relative; text-align: center;">
   <div class="carousel-text" style="margin-bottom: 1em;">
     <h2>SPR Conference 2025 Student Highlights</h2>
     <p>
@@ -566,50 +570,50 @@ We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huan
 
 </p>
   </div>
-  
-  <div class="carousel-wrapper">
+
+  <div class="carousel-wrapper" style="position: relative;">
+    
+    
+      <img class="carousel-slide" src="images/news-spr2025_poster_rebecca.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 1">
+    
+      <img class="carousel-slide" src="images/news-spr2025_poster_pengyu.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 2">
+    
+      <img class="carousel-slide" src="images/news-spr2025_poster_aditya.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 3">
+    
+      <img class="carousel-slide" src="images/news-spr2025_poster_stephanie.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 4">
+    
+      <img class="carousel-slide" src="images/news-spr2025_poster_jingqian.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 5">
+    
+      <img class="carousel-slide" src="images/news-spr2025_poster_huanyao.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 6">
+    
+      <img class="carousel-slide" src="images/news-spr2025_poster_runqin.jpg" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image 7">
+    
+
     <button class="carousel-button prev" onclick="plusSlides(-1)">❮</button>
-    <div class="carousel-slides">
-      
-      
-        <img class="carousel-slide" src="images/news-spr2025_poster_rebecca.jpg" style="width: 100%; display: none;">
-      
-        <img class="carousel-slide" src="images/news-spr2025_poster_pengyu.jpg" style="width: 100%; display: none;">
-      
-        <img class="carousel-slide" src="images/news-spr2025_poster_aditya.jpg" style="width: 100%; display: none;">
-      
-        <img class="carousel-slide" src="images/news-spr2025_poster_stephanie.jpg" style="width: 100%; display: none;">
-      
-        <img class="carousel-slide" src="images/news-spr2025_poster_jingqian.jpg" style="width: 100%; display: none;">
-      
-        <img class="carousel-slide" src="images/news-spr2025_poster_huanyao.jpg" style="width: 100%; display: none;">
-      
-        <img class="carousel-slide" src="images/news-spr2025_poster_runqin.jpg" style="width: 100%; display: none;">
-      
-    </div>
     <button class="carousel-button next" onclick="plusSlides(1)">❯</button>
   </div>
 </div>
 
 <style>
-.carousel-wrapper {
-  position: relative;
-  overflow: hidden;
-}
-.carousel-slide {
-  display: none;
-}
 .carousel-button {
+  cursor: pointer;
   position: absolute;
   top: 50%;
-  background-color: rgba(0,0,0,0.6);
+  width: auto;
+  padding: 12px;
+  margin-top: -22px;
   color: white;
-  border: none;
-  padding: 8px 12px;
-  cursor: pointer;
-  transform: translateY(-50%);
+  font-weight: bold;
   font-size: 18px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.4);
+  user-select: none;
+  border-radius: 4px;
   z-index: 10;
+  transition: 0.3s;
+}
+.carousel-button:hover {
+  background-color: rgba(0, 0, 0, 0.6);
 }
 .carousel-button.prev {
   left: 0;
@@ -621,19 +625,17 @@ We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huan
 
 <script>
 let slideIndex = 0;
-const showSlides = (n) => {
+function showSlides(n) {
   const slides = document.querySelectorAll(".carousel-slide");
   if (!slides.length) return;
   slideIndex = (n + slides.length) % slides.length;
-  slides.forEach((slide, i) => {
-    slide.style.display = i === slideIndex ? "block" : "none";
+  slides.forEach((slide, idx) => {
+    slide.style.display = idx === slideIndex ? "block" : "none";
   });
-};
-
-const plusSlides = (n) => {
+}
+function plusSlides(n) {
   showSlides(slideIndex + n);
-};
-
+}
 document.addEventListener("DOMContentLoaded", () => {
   showSlides(0);
 });
