@@ -45,7 +45,7 @@ We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huan
   text=text
   flip=false
   fit=true
-  align="right"
+  align="left"
   style="bare"
 %}
 
