@@ -23,13 +23,39 @@ We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huan
 {%
   include feature-carousel.html
   images="images/news-spr2025_1.jpg,images/news-spr2025_2.jpg,images/news-spr2025_3.jpg,images/news-spr2025_4.jpg,images/news-spr2025_5.jpg,images/news-spr2025_6.jpg"
-  title="SPR 2025 Conference Highlights"
+  title="SPR Conference 2025 Highlights of Dr. Bloch-Elkouby"
   text=text
   flip=false
   fit=true
   align="right"
   style="bare"
 %}
+
+
+{% capture text %}
+
+We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huanyao, and Runqin presented their work at the 2025 Society for Psychotherapy Research Annual Conference. Their contributions showcased a wide range of innovative and impactful research in psychotherapy. Dr. Bloch-Elkouby also gave a featured presentation on advancements in AI-assisted mental health care.
+
+{% endcapture %}
+
+{%
+  include feature-carousel.html
+  images="images="images/news-spr2025_poster_rebecca.jpg,
+images/news-spr2025_poster_pengyu.jpg,
+images/news-spr2025_poster_aditya.jpg,
+images/news-spr2025_poster_stephanie.jpg,
+images/news-spr2025_poster_jade.jpg,
+images/news-spr2025_poster_jason.jpg,
+images/news-spr2025_poster_huanyao.jpg,
+images/news-spr2025_poster_runqin.jpg""
+  title="SPR Conference 2025 Student Highlights"
+  text=text
+  flip=false
+  fit=true
+  align="right"
+  style="bare"
+%}
+
 
 
 {% capture text %}
