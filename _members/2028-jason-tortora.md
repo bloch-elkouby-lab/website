@@ -1,6 +1,6 @@
 ---
 name: Jason Tortora, J.D.
-image: images/biopic.jpg
+image: images/profile-default.jpg
 description: Doctoral Student<br>Class 2028
 role: doctoral
 ---

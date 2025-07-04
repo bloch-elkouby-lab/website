@@ -1,6 +1,6 @@
 ---
 name: Alexis Aberman, B.S.
-image: images/aberman_biopic.jpg
+image: images/profile-alexis_aberman.jpg
 description: Doctoral Student<br>Class 2027
 role: doctoral
 
