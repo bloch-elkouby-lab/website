@@ -26,7 +26,7 @@ nav:
 {% include section.html %}
 
 ## Previous Research Coordinators
-{% include list.html data="members" component="portrait" filters="role: alum-RC" %}
+{% include list.html data="members" component="portrait" filters="role: prev-RC" %}
 {% include section.html background="images/background.jpg" dark=true %}
 {% include section.html %}
 
