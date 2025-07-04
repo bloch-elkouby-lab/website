@@ -1,6 +1,6 @@
 ---
 name: Pengyu (Jimmy) Chen, M.A.
-image: images/Jimmy_Chen_biopic_new.jpg
+image: images/profile-pengyu_chen.jpg
 description: Research Coordinator
 role: manager
 
