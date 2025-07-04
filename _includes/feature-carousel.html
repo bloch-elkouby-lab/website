@@ -1,3 +1,5 @@
+{% assign carousel_id = 'carousel-' | append: include.title | slugify %}
+
 <div>
   {% if include.title %}
     <p class="feature-title
@@ -8,11 +10,11 @@
   {% endif %}
 
   <div class="feature" {% if include.flip %} data-flip {% endif %}>
-    <div class="feature-image" style="position: relative;">
+    <div class="feature-image" id="{{ carousel_id }}" style="position: relative;">
       {% assign image_list = include.images | split: "," %}
       {% for img in image_list %}
         <img
-          class="carousel-slide"
+          class="carousel-slide-{{ carousel_id }}"
           {% if include.fit %} img-fit {% endif %}
           src="{{ img | strip | relative_url }}"
           loading="lazy"
@@ -22,8 +24,8 @@
         >
       {% endfor %}
 
-      <button class="carousel-button prev" onclick="plusSlides(-1)">&#10094;</button>
-      <button class="carousel-button next" onclick="plusSlides(1)">&#10095;</button>
+      <button class="carousel-button prev" onclick="plusSlides('{{ carousel_id }}', -1)">&#10094;</button>
+      <button class="carousel-button next" onclick="plusSlides('{{ carousel_id }}', 1)">&#10095;</button>
     </div>
 
     <div class="feature-text">
@@ -58,19 +60,37 @@
 </style>
 
 <script>
-let slideIndex = 0;
-function showSlides(n) {
-  const slides = document.querySelectorAll(".carousel-slide");
+window.carouselState = window.carouselState || {};
+
+function showSlides(id, n) {
+  const className = ".carousel-slide-" + id;
+  const slides = document.querySelectorAll(className);
   if (!slides.length) return;
-  slideIndex = (n + slides.length) % slides.length;
+
+  if (!(id in window.carouselState)) {
+    window.carouselState[id] = 0;
+  }
+
+  const total = slides.length;
+  const index = (n + total) % total;
+
   slides.forEach((slide, i) => {
-    slide.style.display = (i === slideIndex) ? "block" : "none";
+    slide.style.display = (i === index) ? "block" : "none";
   });
+
+  window.carouselState[id] = index;
 }
-function plusSlides(n) {
-  showSlides(slideIndex + n);
+
+function plusSlides(id, delta) {
+  const current = window.carouselState[id] || 0;
+  showSlides(id, current + delta);
 }
+
 document.addEventListener("DOMContentLoaded", () => {
-  showSlides(0);
+  const allCarousels = document.querySelectorAll("[id^='carousel-']");
+  allCarousels.forEach(el => {
+    const id = el.id;
+    showSlides(id, 0);
+  });
 });
 </script>
