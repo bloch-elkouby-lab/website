@@ -22,7 +22,7 @@ We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huan
 
 {%
   include feature-carousel.html
-  images="images/news-spr2025_1.jpg,images/news-spr2025_2.jpg,images/news-spr2025_3.jpg,images/news-spr2025_4.jpg,images/news-spr2025_5.jpg,images/news-spr2025_6.jpg"
+  images="images\news-spr2025_1.jpg,images\news-spr2025_2.jpg,images\news-spr2025_3.jpg,images\news-spr2025_4.jpg,images\news-spr2025_5.jpg,images\news-spr2025_6.jpg"
   title="SPR Conference 2025 Highlights of Dr. Bloch-Elkouby"
   text=text
   flip=false
