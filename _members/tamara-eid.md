@@ -1,6 +1,6 @@
 ---
 name: Tamara Eid, M.A.
-image: images/tamara_eid_biopic.jpg
+image: images/profile-tamara_eid.jpg
 description: Lab Alumni
 role: alum
 

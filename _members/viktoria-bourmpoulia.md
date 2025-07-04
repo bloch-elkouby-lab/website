@@ -1,6 +1,6 @@
 ---
 name: Viktoria Bourmpoulia, B.A.
-image: images/Viktoria_Bourmpoulia_biopic.JPG
+image: images/profile-viktoria_bourmpoulia.JPG
 description: Research Assistant
 role: RA
 ---

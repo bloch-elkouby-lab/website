@@ -1,6 +1,6 @@
 ---
 name: Jingqian (Jade) Wei, B.A.
-image: images/wei_biopic.jpg
+image: images/profile-jingqian_wei.jpg
 description: Research Assistant
 role: RA
 ---

@@ -1,6 +1,6 @@
 ---
 name: Meenakshi Kothari, B.S.
-image: images/meenakshi_bio.jpg
+image: images/profile-meenakshi_kothari.jpg
 description: Lab Alumnni
 role: alum
 ---

@@ -1,6 +1,6 @@
 ---
 name: Yongxue (Angel) Wei, B.A.
-image: images/Angel_Wei_biopic.jpg
+image: images/profile-yongxue_wei.jpg
 description: Research Assistant
 role: RA
 ---

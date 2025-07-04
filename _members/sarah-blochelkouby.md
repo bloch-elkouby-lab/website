@@ -1,6 +1,6 @@
 ---
 name: Sarah Bloch-Elkouby, PhD
-image: images/sarah_biopic.jpg
+image: images/profile-sarah_blochelkouby.jpg
 role: pi
 aliases:
   - Bloch-Elkouby

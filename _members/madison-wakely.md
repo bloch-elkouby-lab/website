@@ -1,6 +1,6 @@
 ---
 name: Madison Wakely, B.S.
-image: images/Madison_Wakely_biopic.jpg
+image: images/profile-madison_wakely.jpg
 description: Research Assistant
 role: RA
 ---

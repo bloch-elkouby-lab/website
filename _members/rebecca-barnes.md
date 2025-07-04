@@ -1,6 +1,6 @@
 ---
 name: Rebecca Barnes, M.A.
-image: images/rebecca_biopic.jpeg
+image: images/profile-rebecca_barnes.jpeg
 description: Research Assistant
 role: RA
 ---

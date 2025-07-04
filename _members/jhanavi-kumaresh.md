@@ -1,6 +1,6 @@
 ---
 name: Jhanavi Kumaresh, M.A.
-image: images/Jhanavi_Kumaresh_biopic.jpeg
+image: images/profile-jhanavi_kumaresh.jpeg
 description: Research Assistant
 role: RA
 ---

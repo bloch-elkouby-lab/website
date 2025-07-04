@@ -1,6 +1,6 @@
 ---
 name: Stephanie Prekas, B.S.
-image: images/stephanie_biopic.jpg
+image: images/profile-stephanie_prekas.jpg
 description: Research Assistant
 role: RA
 ---

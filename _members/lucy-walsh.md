@@ -1,6 +1,6 @@
 ---
 name: Lucy Walsh, M.A.
-image: images/walsh_biopic.jpeg
+image: images/profile-lucy_walsh.jpeg
 description: Lab Alumnni
 role: alum
 ---
