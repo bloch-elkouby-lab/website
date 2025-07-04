@@ -1,6 +1,6 @@
 ---
 name: Theo Mack, B.A.
-image: images/theo_mack_biopic.jpeg
+image: images/profile-theo_mack.jpeg
 role: doctoral
 description: Doctoral Student<br>Class 2029
 

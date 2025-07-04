@@ -1,6 +1,6 @@
 ---
 name: Laura Baruch, B.A.
-image: images/laura_biopic.png
+image: images/profile-laura_baruch.png
 role: doctoral
 description: Doctoral Student<br>Class 2029
 
