@@ -7,7 +7,7 @@
   <div class="carousel-wrapper" style="position: relative;">
     {% assign image_list = include.images | split: "," %}
     {% for img in image_list %}
-      <img class="carousel-slide" src="{{ img | strip }}" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image {{ forloop.index }}" />
+      <img class="carousel-slide" src="{{ img | relative_url }}" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image {{ forloop.index }}" />
     {% endfor %}
 
     <button class="carousel-button prev" onclick="plusSlides(-1)">&#10094;</button>
