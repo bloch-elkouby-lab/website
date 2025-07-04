@@ -2,7 +2,7 @@
 name: Adelaide Jones, B.A.
 image: images/adelaide_biopic.jpg
 role: doctoral
-description: Doctoral Student Class 2028
+description: Doctoral Student<br>Class 2028
 
 ---
 

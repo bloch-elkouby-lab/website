@@ -1,7 +1,7 @@
 ---
 name: Ronit Shvarzman, B.S.
 image: images/ronit_biopic.jpg
-description: Doctoral Student Class 2028
+description: Doctoral Student<br>Class 2028
 role: doctoral
 
 ---

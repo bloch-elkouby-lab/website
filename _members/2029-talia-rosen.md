@@ -2,7 +2,7 @@
 name: Talia Rosen, B.A.
 image: images/talia_biopic.jpg
 role: doctoral
-description: Doctoral Student Class 2029
+description: Doctoral Student<br>Class 2029
 
 ---
 

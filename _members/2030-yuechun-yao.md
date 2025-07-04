@@ -2,7 +2,7 @@
 name: Yuechun Yao, M.A.
 image: images/profile-yuechun_yao.jpg
 role: doctoral
-description: Doctoral Student Class 2030
+description: Doctoral Student<br>Class 2030
 
 ---
 
