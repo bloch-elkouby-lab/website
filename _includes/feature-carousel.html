@@ -1,40 +1,40 @@
-<div class="carousel-container" style="max-width: 600px; position: relative; margin: 1em 0;">
+<div class="carousel-container" style="max-width: 700px; margin: 2em auto; position: relative; text-align: center;">
   <div class="carousel-text" style="margin-bottom: 1em;">
     <h2>{{ include.title }}</h2>
     <p>{{ include.text }}</p>
   </div>
-  
-  <div class="carousel-wrapper">
-    <button class="carousel-button prev" onclick="plusSlides(-1)">❮</button>
-    <div class="carousel-slides">
-      {% assign image_list = include.images | split: "," %}
-      {% for img in image_list %}
-        <img class="carousel-slide" src="{{ img | strip }}" style="width: 100%; display: none;" />
-      {% endfor %}
-    </div>
-    <button class="carousel-button next" onclick="plusSlides(1)">❯</button>
+
+  <div class="carousel-wrapper" style="position: relative;">
+    {% assign image_list = include.images | split: "," %}
+    {% for img in image_list %}
+      <img class="carousel-slide" src="{{ img | strip }}" style="width: 100%; display: none; border-radius: 8px;" alt="Conference image {{ forloop.index }}" />
+    {% endfor %}
+
+    <button class="carousel-button prev" onclick="plusSlides(-1)">&#10094;</button>
+    <button class="carousel-button next" onclick="plusSlides(1)">&#10095;</button>
   </div>
 </div>
 
 <style>
-.carousel-wrapper {
-  position: relative;
-  overflow: hidden;
-}
-.carousel-slide {
-  display: none;
-}
 .carousel-button {
+  cursor: pointer;
   position: absolute;
   top: 50%;
-  background-color: rgba(0,0,0,0.6);
+  width: auto;
+  padding: 12px;
+  margin-top: -22px;
   color: white;
-  border: none;
-  padding: 8px 12px;
-  cursor: pointer;
-  transform: translateY(-50%);
+  font-weight: bold;
   font-size: 18px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.4);
+  user-select: none;
+  border-radius: 4px;
   z-index: 10;
+  transition: 0.3s;
+}
+.carousel-button:hover {
+  background-color: rgba(0, 0, 0, 0.6);
 }
 .carousel-button.prev {
   left: 0;
@@ -46,19 +46,17 @@
 
 <script>
 let slideIndex = 0;
-const showSlides = (n) => {
+function showSlides(n) {
   const slides = document.querySelectorAll(".carousel-slide");
   if (!slides.length) return;
   slideIndex = (n + slides.length) % slides.length;
-  slides.forEach((slide, i) => {
-    slide.style.display = i === slideIndex ? "block" : "none";
+  slides.forEach((slide, idx) => {
+    slide.style.display = idx === slideIndex ? "block" : "none";
   });
-};
-
-const plusSlides = (n) => {
+}
+function plusSlides(n) {
   showSlides(slideIndex + n);
-};
-
+}
 document.addEventListener("DOMContentLoaded", () => {
   showSlides(0);
 });
