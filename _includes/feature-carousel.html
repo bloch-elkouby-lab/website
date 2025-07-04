@@ -1,0 +1,65 @@
+<div class="carousel-container" style="max-width: 600px; position: relative; margin: 1em 0;">
+  <div class="carousel-text" style="margin-bottom: 1em;">
+    <h2>{{ include.title }}</h2>
+    <p>{{ include.text }}</p>
+  </div>
+  
+  <div class="carousel-wrapper">
+    <button class="carousel-button prev" onclick="plusSlides(-1)">❮</button>
+    <div class="carousel-slides">
+      {% assign image_list = include.images | split: "," %}
+      {% for img in image_list %}
+        <img class="carousel-slide" src="{{ img | strip }}" style="width: 100%; display: none;" />
+      {% endfor %}
+    </div>
+    <button class="carousel-button next" onclick="plusSlides(1)">❯</button>
+  </div>
+</div>
+
+<style>
+.carousel-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+.carousel-slide {
+  display: none;
+}
+.carousel-button {
+  position: absolute;
+  top: 50%;
+  background-color: rgba(0,0,0,0.6);
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  transform: translateY(-50%);
+  font-size: 18px;
+  z-index: 10;
+}
+.carousel-button.prev {
+  left: 0;
+}
+.carousel-button.next {
+  right: 0;
+}
+</style>
+
+<script>
+let slideIndex = 0;
+const showSlides = (n) => {
+  const slides = document.querySelectorAll(".carousel-slide");
+  if (!slides.length) return;
+  slideIndex = (n + slides.length) % slides.length;
+  slides.forEach((slide, i) => {
+    slide.style.display = i === slideIndex ? "block" : "none";
+  });
+};
+
+const plusSlides = (n) => {
+  showSlides(slideIndex + n);
+};
+
+document.addEventListener("DOMContentLoaded", () => {
+  showSlides(0);
+});
+</script>
