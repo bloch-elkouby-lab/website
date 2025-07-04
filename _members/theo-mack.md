@@ -2,7 +2,7 @@
 name: Theo Mack, B.A.
 image: images/theo_mack_biopic.jpeg
 role: doctoral
-description: First Year Doctoral Student
+description: Doctoral Student Class 2029
 
 ---
 

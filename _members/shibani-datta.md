@@ -1,7 +1,7 @@
 ---
 name: Shibani Datta, B.S.
 image: images/shibani_biopic.jpg
-description: Doctoral Student
+description: Doctoral Student Class 2028
 role: doctoral
 ---
 

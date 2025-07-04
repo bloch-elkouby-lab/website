@@ -1,7 +1,7 @@
 ---
 name: Bailie Schock, M.A
 image: images/bailie_biopic.jpeg
-description: Research Assistant
+description: Lab Alumni
 role: alum
 ---
 
