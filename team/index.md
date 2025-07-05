@@ -21,14 +21,17 @@ nav:
 {% include section.html %}
 
 ## Collaborating Research Assistants 
+{% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: RA" %}
 {% include section.html %}
 
 ## Previous Research Coordinators
+{% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: prev-RC" %}
 {% include section.html %}
 
 ## Lab Alumni
+{% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: alum" %}
 {% include section.html %}
 
