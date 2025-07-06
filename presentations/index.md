@@ -118,8 +118,6 @@ Ying, G., **Bloch-Elkouby, S.**, Galynker, I. (2019, May). Perceived burdensomen
 
 Schuck, A., Barzilay, S., **Bloch-Elkouby, S.**, Calati, R., Mahato, R., &amp; Galynker, I. (2019, May). Association between Clinicians’ Emotional Response, Therapeutic Alliance and Patient Suicidal Ideation. Poster presented at the upcoming Annual Meeting of the American Psychiatric Association. San-Francisco, US.
 
-Schuck, A., Calati, R., **Bloch-Elkouby, S.**, Barzilay, S., &amp; Galynker, I. (2019, March). Ruminative flooding as a mediator of the relationship between lifetime suicide risk and prospective suicidal thoughts and behaviors. Poster presented at the Annual Meeting of the Anxiety and Depression Association of America, Chicago, IL.
-
 
 
 {% include section.html %}
