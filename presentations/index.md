@@ -120,7 +120,6 @@ Schuck, A., Barzilay, S., **Bloch-Elkouby, S.**, Calati, R., Mahato, R., &amp; G
 
 Schuck, A., Calati, R., **Bloch-Elkouby, S.**, Barzilay, S., &amp; Galynker, I. (2019, March). Ruminative flooding as a mediator of the relationship between lifetime suicide risk and prospective suicidal thoughts and behaviors. Poster presented at the Annual Meeting of the Anxiety and Depression Association of America, Chicago, IL.
 
-**Bloch-Elkouby, S.** , Muran, J.C., Gorman, B., Safran, J., and Winston, A. (2013, October). Concordance between measures of outcome and assessment of possible deterioration. Poster presented at the Annual Meeting of the Society for Psychotherapy Research. Memphis, Tennessee.
 
 
 {% include section.html %}
