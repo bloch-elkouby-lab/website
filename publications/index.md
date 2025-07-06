@@ -11,8 +11,6 @@ nav:
 
 Lawrence, O. C., Rogers, M. L., Wolfe, A., **Bloch-Elkouby, S.**, Peterkin, D., Richards, J., Bafna, A., & Galynker, I. (2025). Examining mental health clinicians’ perspectives on the use of virtual patient interactions as a tool for clinical training. https://doi.org/10.1007/s41347-024-00470-2
 
-Lawrence, O. C., Rogers, M. L., Wolfe, A., **Bloch-Elkouby, S.**, Peterkin, D., Richards, J., Bafna, A., & Galynker, I. (2025). Examining mental health clinicians’ perspectives on the use of virtual patient interactions as a tool for clinical training. https://doi.org/10.1007/s41347-024-00470-2
-
 **Bloch-Elkouby, S.**, Jones, A., Shvarzman, R., Bhise, A., Kothari, M., & Goncearenco, I. (2025). Suicide, Theories of. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
 
 Goncearenco, I., Bhise, A., Tortora, J., Shi, R., & **Bloch-Elkouby, S.** (2025). Suicide, Preparatory Behaviors. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
