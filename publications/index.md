@@ -7,11 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
+ \* *indicates joint first authorship; ____ indicates contribution by students in the lab*
+
 ## 2025
 
 Lawrence, O. C., Rogers, M. L., Wolfe, A., **Bloch-Elkouby, S.**, Peterkin, D., Richards, J., Bafna, A., & Galynker, I. (2025). Examining mental health clinicians’ perspectives on the use of virtual patient interactions as a tool for clinical training. https://doi.org/10.1007/s41347-024-00470-2
 
-**Bloch-Elkouby, S.**, Jones, A., Shvarzman, R., Bhise, A., Kothari, M., & Goncearenco, I. (2025). Suicide, Theories of. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
+**Bloch-Elkouby, S.**, <ins>Jones, A., Shvarzman, R., Bhise, A., Kothari, M., & Goncearenco,</ins> I. (2025). Suicide, Theories of. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
 
 Goncearenco, I., Bhise, A., Tortora, J., Shi, R., & **Bloch-Elkouby, S.** (2025). Suicide, Preparatory Behaviors. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
 
@@ -22,9 +24,9 @@ Boritz, T., **Bloch-Elkouby, S.**, DiBartolomeo, A., & Aberman, A. Alliance Rupt
 
 Galynker, I., **Bloch-Elkouby, S.**, & Cohen, L. (2024). Suicide crisis syndrome: a specific diagnosis to aid suicide prevention. World Psychiatry 23 (3), 362-363. https://doi.org/10.1002/wps.21229
 
-**Bloch-Elkouby, S.**, Rogers, M., Goncearenco, I., Yanez, N., Nemeroff, C., Chennapragada, L., Cohen, L., & Galynker, I. (2024). The Narrative Crisis Model of Suicide:  A Review of Empirical Evidence for an Innovative Dynamic Model of Suicide and a comparison with other theoretical frameworks. Personalized Medicine in Psychiatry (In Press). https://doi.org/10.1016/j.pmip.2024.100131
+**\*** **Bloch-Elkouby, S.**, Rogers, M., Goncearenco, I., Yanez, N., Nemeroff, C., Chennapragada, L., Cohen, L., & Galynker, I. (2024). The Narrative Crisis Model of Suicide:  A Review of Empirical Evidence for an Innovative Dynamic Model of Suicide and a comparison with other theoretical frameworks. Personalized Medicine in Psychiatry (In Press). https://doi.org/10.1016/j.pmip.2024.100131
 
-Rogers, M., **Bloch-Elkouby, S.**, Goncearenco I., Cohen, L., Nemeroff, C., & Galynker, I. (2024). The Narrative Crisis Model of Suicide as a Framework for Suicide Prevention. Personalized Medicine in Psychiatry (In Press). https://doi.org/10.1016/j.pmip.2024.100130
+**\*** Rogers, M., **Bloch-Elkouby, S.**, Goncearenco I., Cohen, L., Nemeroff, C., & Galynker, I. (2024). The Narrative Crisis Model of Suicide as a Framework for Suicide Prevention. Personalized Medicine in Psychiatry (In Press). https://doi.org/10.1016/j.pmip.2024.100130
 
 De Luca, G. P., Parghi, N., El Hayek, R., **Bloch-Elkouby, S.**, Peterkin, D., Wolfe, A. & Galynker, I. (2024). Machine learning approach for the development of a crucial tool in suicide prevention: The Suicide Crisis Inventory-2 (SCI-2) Short Form. PLoS one, 19(5), e0299048. https://doi.org/10.1371/journal.pone.0299048
 
@@ -52,7 +54,7 @@ Muran, J. C., Eubanks, C. F., Lipner, L. M., & **Bloch‐Elkouby, S.** (2023). R
 
 Cohen, L. J., Mokhtar, R., Richards, J., Hernandez, M., **Bloch‐Elkouby, S.**, & Galynker, I. (2022). The narrative‐crisis model of suicide and its prediction of near‐term suicide risk. Suicide and Life‐Threatening Behavior, 52(2), 231-243. https://doi.org/10.1111/sltb.12816
 
-**Bloch‐Elkouby, S.**, & Barzilay, S. (2022). Alliance-focused safety planning and suicide risk management. Psychotherapy, 59(2), 157-162. https://doi.org/10.1037/pst0000416
+**\*** **Bloch‐Elkouby, S.**, & Barzilay, S. (2022). Alliance-focused safety planning and suicide risk management. Psychotherapy, 59(2), 157-162. https://doi.org/10.1037/pst0000416
 
 ## 2021
 
