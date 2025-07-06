@@ -7,7 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
- \* *indicates joint first authorship; ____ indicates contribution by students in the lab*
+
+\* *indicates joint first authorship; ____ indicates contribution by students in the lab*
 
 ## 2025
 
