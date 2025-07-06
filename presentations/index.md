@@ -9,9 +9,9 @@ nav:
 
 ## Conference presentations
 
-Upcoming: **Bloch-Elkouby, S.**, Gomes de Siqueira, A., Johnson, B., Jones, A, Chen, J., Lok, B., &amp; Galynker, I. The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study. In S. Eberhardt (chair) _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_. Paper in a panel to be presented at the upcoming SPR conference in Krakow, Poland.
+_Upcoming_: **Bloch-Elkouby, S.**, Gomes de Siqueira, A., Johnson, B., Jones, A, Chen, J., Lok, B., &amp; Galynker, I. The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study. In S. Eberhardt (chair) _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_. Paper in a panel to be presented at the upcoming SPR conference in Krakow, Poland.
 
-Upcoming: Discussant in Structured Discussion: What’s Tricky about Transforming Training? A Discussion on Training Providers. To be presented at the upcoming SPR conference in Krakow, Poland.
+_Upcoming_: Discussant in Structured Discussion: What’s Tricky about Transforming Training? A Discussion on Training Providers. To be presented at the upcoming SPR conference in Krakow, Poland.
 
 **Bloch-Elkouby, S.**, Yao, H., Johnson, B., <ins>Schock, B., Wei, J. W., Prekas, S., Eid, T.</ins> , Lok, B., &amp; Galynker, I. (2024,
 November 18). AI- driven virtual patients: a cutting-edge tool to investigate the impact of implicit racial biases on clinical judgment and clinical process with high-risk patients. Oral presentation paper presented at the 2024 meeting of the International Association for Suicide Prevention Pan-American Conference. Minneapolis, Minnesota.
@@ -54,7 +54,7 @@ Eubanks-Carter, C., **Bloch-Elkouby, S.**, Hungr, C., Muran, J.C., Safran, J. (2
 
 ## Panels chaired
 
-Upcoming 2025: Aafjes-van Doorn &amp; **Bloch-Elkouby, S.** &amp; (2025, June). “The impact of AI on psychotherapy: New developments and future directions.” Invited Semi-Plenary at the upcoming Annual Meeting of the Society for Psychotherapy Research, Krakow, Poland.
+_Upcoming 2025_: Aafjes-van Doorn &amp; **Bloch-Elkouby, S.** &amp; (2025, June). “The impact of AI on psychotherapy: New developments and future directions.” Invited Semi-Plenary at the upcoming Annual Meeting of the Society for Psychotherapy Research, Krakow, Poland.
 
 **Bloch-Elkouby, S.** &amp; Aafjes-van Doorn (2024, June). _“I don’t want to talk to a robot”_. Can artificial intelligence research promote more effective treatments and clinical training approaches? Structured discussion at the Annual Meeting of the Society for Psychotherapy Research, Ottawa, Canada.
 
@@ -70,7 +70,7 @@ Upcoming 2025: Aafjes-van Doorn &amp; **Bloch-Elkouby, S.** &amp; (2025, June). 
 
 ## Invited lectures
 
-Upcoming: **Bloch-Elkouby, S.** (2025, November 18 th ). _The therapeutic alliance with High-Risk Patients: Challenges and Opportunities_. Invited keynote speaker at the University Institute of Psychotherapy of Lauzanne University,
+_Upcoming_: **Bloch-Elkouby, S.** (2025, November 18 th ). _The therapeutic alliance with High-Risk Patients: Challenges and Opportunities_. Invited keynote speaker at the University Institute of Psychotherapy of Lauzanne University,
 Switzerland.
 
 **Bloch-Elkouby, S.** (2023, March 1). _Alliance-focused techniques to promote collaborative suicide risk assessment and safety planning_. Invited training at the Addictions Institute, Mount Sinai Beth Israel. New York, NY.
@@ -92,14 +92,13 @@ Switzerland.
 
 ## Posters 
 
+_Upcoming_: <ins>Bhise, A., Baruch, L., Datta, S., Eid, T., Wei, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025, June 25-28). The Impact of Virtual Patients’ Race on Clinical Judgement: A Qualitative Analysis of 150 Case Conceptualization Narratives. Poster to be presented the Annual Meeting of the Society for Psychotherapy Research, Kraków, Poland.
 
-Upcoming: <ins>Bhise, A., Baruch, L., Datta, S., Eid, T., Wei, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025, June 25-28). The Impact of Virtual Patients’ Race on Clinical Judgement: A Qualitative Analysis of 150 Case Conceptualization Narratives. Poster to be presented the Annual Meeting of the Society for Psychotherapy Research, Kraków, Poland.
+_Upcoming_: <ins>Chen. P., Shi, R., Wei, Datta, S.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Do virtual patients’ inaccurate responses and technological problems impede clinicians’ engagement and perception of the therapeutic alliance? Poster to be presented at The Society of Psychotherapy Research Krakow, Poland.
 
-Upcoming: <ins>Chen. P., Shi, R., Wei, Datta, S.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Do virtual patients’ inaccurate responses and technological problems impede clinicians’ engagement and perception of the therapeutic alliance? Poster to be presented at The Society of Psychotherapy Research Krakow, Poland.
+_Upcoming_: <ins>Eid, T., Prekas A.S, Barnes, R., Bhise, A.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Moderators of the Relationship between Implicit and Explicit Racial Bias Among Clinicians. Poster to be presented at The Society of Psychotherapy Research Krakow, Poland.
 
-Upcoming: <ins>Eid, T., Prekas A.S, Barnes, R., Bhise, A.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Moderators of the Relationship between Implicit and Explicit Racial Bias Among Clinicians. Poster to be presented at The Society of Psychotherapy Research Krakow, Poland.
-
-Upcoming: <ins>Guo, W., Prekas, S., Wei, J., Maryam, A.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Does clinicians’ emotion regulation (trait) predict clinicians’ experience of the alliance with high-risk virtual patients?
+_Upcoming_: <ins>Guo, W., Prekas, S., Wei, J., Maryam, A.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Does clinicians’ emotion regulation (trait) predict clinicians’ experience of the alliance with high-risk virtual patients?
 
 
 {% include section.html %}
