@@ -108,6 +108,9 @@ _Upcoming_: <ins>Wei, J., Shi, R., Chen, J., Tortora, J.</ins> , &amp; **Bloch-E
 
 <ins>Aberman, A. Jones, D., Shvarzman, R.</ins> , &amp; Tortora, J. &amp; **Bloch-Elkouby, S.** (2024, June). The role of self-compassion in evidence-based suicide-specific interventions: a critical review. Poster presented at the annual meeting of the Society for Psychotherapy Research, Ottawa, Canada.
 
+<ins>Goncearenco, I.</ins> , &amp; **Bloch-Elkouby, S.** (2024, April). Hidden Barriers: Exploring Self-Disgust/Hatred and Disgust with Others in Individuals with Concealed vs. Disclosed Past-Month Suicidal Ideation. Poster presented at the annual meeting of the American Psychiatric Association. New York, NY.
+
+Gordon, G., Samstag, L., &amp; **Bloch-Elkouby, S.** (2022, March). Explicit and Implicit Racial Bias in Nursing- Can Mindfulness Mitigate Aversive Racism? Poster presented at 93rd Annual Eastern Psychological Association Conference the New York, NY.
 
 
 {% include section.html %}
