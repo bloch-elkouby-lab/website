@@ -7,6 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
+## 2025
+
+Lawrence, O. C., Rogers, M. L., Wolfe, A., **Bloch-Elkouby, S.**, Peterkin, D., Richards, J., Bafna, A., & Galynker, I. (2025). Examining mental health clinicians’ perspectives on the use of virtual patient interactions as a tool for clinical training. https://doi.org/10.1007/s41347-024-00470-2
 
 ## 2024
 
