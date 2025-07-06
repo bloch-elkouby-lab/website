@@ -116,6 +116,13 @@ Forestal, C., Schuck, a., **Bloch-Elkouby, S.**, &amp; Galynker, I. (2019, May).
 
 Ying, G., **Bloch-Elkouby, S.**, Galynker, I. (2019, May). Perceived burdensomeness and thwarted belongingness mediate the relationship between depression and the suicide crisis syndrome. Poster presented at the Annual Meeting of the American Psychiatric Association. San-Francisco, US.
 
+Schuck, A., Barzilay, S., **Bloch-Elkouby, S.**, Calati, R., Mahato, R., &amp; Galynker, I. (2019, May). Association between Clinicians’ Emotional Response, Therapeutic Alliance and Patient Suicidal Ideation. Poster presented at the upcoming Annual Meeting of the American Psychiatric Association. San-Francisco, US.
+
+Schuck, A., Calati, R., **Bloch-Elkouby, S.**, Barzilay, S., &amp; Galynker, I. (2019, March). Ruminative flooding as a mediator of the relationship between lifetime suicide risk and prospective suicidal thoughts and behaviors. Poster presented at the Annual Meeting of the Anxiety and Depression Association of America, Chicago, IL.
+
+**Bloch-Elkouby, S.** , Muran, J.C., Gorman, B., Safran, J., and Winston, A. (2013, October). Concordance between measures of outcome and assessment of possible deterioration. Poster presented at the Annual Meeting of the Society for Psychotherapy Research. Memphis, Tennessee.
+
+
 {% include section.html %}
 
 {% include search-box.html %}
