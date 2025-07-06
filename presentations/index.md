@@ -118,6 +118,7 @@ Ying, G., **Bloch-Elkouby, S.**, Galynker, I. (2019, May). Perceived burdensomen
 
 Schuck, A., Barzilay, S., **Bloch-Elkouby, S.**, Calati, R., Mahato, R., &amp; Galynker, I. (2019, May). Association between Clinicians’ Emotional Response, Therapeutic Alliance and Patient Suicidal Ideation. Poster presented at the upcoming Annual Meeting of the American Psychiatric Association. San-Francisco, US.
 
+**Bloch-Elkouby, S.** , Muran, J.C., Gorman, B., Safran, J., and Winston, A. (2013, October). Concordance between measures of outcome and assessment of possible deterioration. Poster presented at the Annual Meeting of the Society for Psychotherapy Research. Memphis, Tennessee.
 
 
 {% include section.html %}
