@@ -93,6 +93,14 @@ Switzerland.
 ## Posters 
 
 
+Upcoming: <ins>Bhise, A., Baruch, L., Datta, S., Eid, T., Wei, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025, June 25-28). The Impact of Virtual Patients’ Race on Clinical Judgement: A Qualitative Analysis of 150 Case Conceptualization Narratives. Poster to be presented the Annual Meeting of the Society for Psychotherapy Research, Kraków, Poland.
+
+Upcoming: <ins>Chen. P., Shi, R., Wei, Datta, S.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Do virtual patients’ inaccurate responses and technological problems impede clinicians’ engagement and perception of the therapeutic alliance? Poster to be presented at The Society of Psychotherapy Research Krakow, Poland.
+
+Upcoming: <ins>Eid, T., Prekas A.S, Barnes, R., Bhise, A.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Moderators of the Relationship between Implicit and Explicit Racial Bias Among Clinicians. Poster to be presented at The Society of Psychotherapy Research Krakow, Poland.
+
+Upcoming: <ins>Guo, W., Prekas, S., Wei, J., Maryam, A.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Does clinicians’ emotion regulation (trait) predict clinicians’ experience of the alliance with high-risk virtual patients?
+
 
 {% include section.html %}
 
