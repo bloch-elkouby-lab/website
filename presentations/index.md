@@ -9,6 +9,19 @@ nav:
 
 ## Conference presentations
 
+Upcoming: **Bloch-Elkouby, S.**, Gomes de Siqueira, A., Johnson, B., Jones, A, Chen, J., Lok, B., &amp; Galynker, I. The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study. In S. Eberhardt (chair) _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_. Paper in a panel to be presented at the upcoming SPR conference in Krakow, Poland.
+
+Upcoming: Discussant in Structured Discussion: What’s Tricky about Transforming Training? A Discussion on Training Providers. To be presented at the upcoming SPR conference in Krakow, Poland.
+
+**Bloch-Elkouby, S.**, Yao, H., Johnson, B., <ins>Schock, B., Wei, J. W., Prekas, S., Eid, T.</ins> , Lok, B., &amp; Galynker, I. (2024,
+November 18). AI- driven virtual patients: a cutting-edge tool to investigate the impact of implicit racial biases on clinical judgment and clinical process with high-risk patients. Oral presentation paper presented at the 2024 meeting of the International Association for Suicide Prevention Pan-American Conference. Minneapolis, Minnesota.
+
+**Bloch-Elkouby, S.**, Yao, H., Johnson, B., <ins>Goncearenco, I.</ins> , Lok, B., &amp; Galynker, I. (2024, June). Virtual human interactions: a cutting-edge tool to investigate the impact of cultural factors and implicit biases on the alliance and clinical judgment with high-risk patients. In S. Goldberg (chair) _A New Era of Alliance Research_. Paper in a panel that presented at the annual meeting of the Society for Psychotherapy Research. Ottawa, Canada.
+
+**Bloch-Elkouby, S.**, <ins>Goncearenco, I.</ins> , Johnson, B., Yao, H., Lok, B., &amp; Galynker, I. (2024, April). AI-powered virtual
+patients in the service of suicide prevention among diverse adolescents. In S. Bloch-Elkouby (chair) _Using cutting-edge AI research to enhance clinical training and suicide prevention_. Paper in a panel presented at the Annual Meeting
+of the Anxiety and Depression Association of America. Boston, Massachusetts.
+
 **Bloch-Elkouby, S.**, & Barzilay, S. (2023, October). _Combining Alliance-Focused Training principles with the Narrative Crisis Model to promote effective suicide risk assessments and interventions_. In S. Bloch-Elkouby (chair), Working with patients at high-risk for suicidal behaviors and lethal overdoses across treatment phases: new conceptual developments. Paper in a panel presented at the Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research. Amherst, Massachusetts.
 
 **Bloch-Elkouby S.**, Lokai, A., Chen, L., Urmanche, A., Eubanks, C. & Muran, C. (2023, June). _The alliance among cross-cultural and White dyads: Alliance ruptures, resolutions, and microaggressions_. In A. Gumz (chair), New Research on Alliance Ruptures. Paper in a panel presented at the Annual Meeting of the Society for Psychotherapy Research, Dublin, Ireland.
@@ -41,6 +54,12 @@ Eubanks-Carter, C., **Bloch-Elkouby, S.**, Hungr, C., Muran, J.C., Safran, J. (2
 
 ## Panels chaired
 
+Upcoming 2025: Aafjes-van Doorn &amp; **Bloch-Elkouby, S.** &amp; (2025, June). “The impact of AI on psychotherapy: New developments and future directions.” Invited Semi-Plenary at the upcoming Annual Meeting of the Society for Psychotherapy Research, Krakow, Poland.
+
+**Bloch-Elkouby, S.** &amp; Aafjes-van Doorn (2024, June). _“I don’t want to talk to a robot”_. Can artificial intelligence research promote more effective treatments and clinical training approaches? Structured discussion at the Annual Meeting of the Society for Psychotherapy Research, Ottawa, Canada.
+
+**Bloch-Elkouby, S.** (2024, April). _Using Cutting Edge Ai Research to Enhance Clinical Training and Suicide Prevention._
+
 **Bloch-Elkouby, S.** (2023, October). _Working with patients at high-risk for suicidal behaviors and lethal overdoses across treatment phases: new conceptual developments_. Panel chaired at the Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research. Amherst, Massachusetts.
 
 **Bloch-Elkouby, S.** (2021, June). _The impact of cultural differences and biases on the process and outcome of psychotherapy_. Panel chaired at the Annual Meeting of the Society for Psychotherapy Research. Heidelberg, Germany (online event).
@@ -50,6 +69,9 @@ Eubanks-Carter, C., **Bloch-Elkouby, S.**, Hungr, C., Muran, J.C., Safran, J. (2
 **Bloch-Elkouby, S.**. (2014, April). _One complex case, three integrative theory options_. Panel chaired at the Annual Meeting of the Society for the Exploration of Psychotherapy Integration. Montreal, Canada.
 
 ## Invited lectures
+
+Upcoming: **Bloch-Elkouby, S.** (2025, November 18 th ). _The therapeutic alliance with High-Risk Patients: Challenges and Opportunities_. Invited keynote speaker at the University Institute of Psychotherapy of Lauzanne University,
+Switzerland.
 
 **Bloch-Elkouby, S.** (2023, March 1). _Alliance-focused techniques to promote collaborative suicide risk assessment and safety planning_. Invited training at the Addictions Institute, Mount Sinai Beth Israel. New York, NY.
 
@@ -68,6 +90,7 @@ Eubanks-Carter, C., **Bloch-Elkouby, S.**, Hungr, C., Muran, J.C., Safran, J. (2
 **Bloch-Elkouby, S.** (2017, March 16). Moderator for the panel: _Striving and Struggling: Stories from Schechter Manhattan Parents about Race_. Panel hosted by Solomon Schechter School of Manhattan. New York, NY
 
 
+## Posters 
 
 
 

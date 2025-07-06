@@ -16,18 +16,18 @@ Lawrence, O. C., Rogers, M. L., Wolfe, A., **Bloch-Elkouby, S.**, Peterkin, D., 
 
 **Bloch-Elkouby, S.**, <ins>Jones, A., Shvarzman, R., Bhise, A., Kothari, M., & Goncearenco,</ins> I. (2025). Suicide, Theories of. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
 
-<ins>Goncearenco, I., Bhise, A., Tortora, J., Shi, R.</ins>, & **Bloch-Elkouby, S.** (2025). Suicide, Preparatory Behaviors. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
+<ins>Goncearenco, I., Bhise, A., Tortora, J., Shi, R.</ins> , & **Bloch-Elkouby, S.** (2025). Suicide, Preparatory Behaviors. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
 
 
 ## 2024
 
-Boritz, T., **Bloch-Elkouby, S.**, DiBartolomeo, A., & <ins>Aberman, A</ins>. Alliance Rupture and Repair Processes in Borderline Personality Disorder. (2024) In N. Kazantzis (Ed.) Alliance Rupture Repair in Cognitive Behavioral Therapies. Springer Nature. (In Press)
+Boritz, T., **Bloch-Elkouby, S.**, DiBartolomeo, A., & <ins>Aberman, A</ins> . Alliance Rupture and Repair Processes in Borderline Personality Disorder. (2024) In N. Kazantzis (Ed.) Alliance Rupture Repair in Cognitive Behavioral Therapies. Springer Nature. (In Press)
 
 Galynker, I., **Bloch-Elkouby, S.**, & Cohen, L. (2024). Suicide crisis syndrome: a specific diagnosis to aid suicide prevention. World Psychiatry 23 (3), 362-363. https://doi.org/10.1002/wps.21229
 
-**\*** **Bloch-Elkouby, S.**, Rogers, M., <ins>Goncearenco, I</ins>., Yanez, N., Nemeroff, C., Chennapragada, L., Cohen, L., & Galynker, I. (2024). The Narrative Crisis Model of Suicide:  A Review of Empirical Evidence for an Innovative Dynamic Model of Suicide and a comparison with other theoretical frameworks. Personalized Medicine in Psychiatry (In Press). https://doi.org/10.1016/j.pmip.2024.100131
+**\*** **Bloch-Elkouby, S.**, Rogers, M., <ins>Goncearenco, I</ins> ., Yanez, N., Nemeroff, C., Chennapragada, L., Cohen, L., & Galynker, I. (2024). The Narrative Crisis Model of Suicide:  A Review of Empirical Evidence for an Innovative Dynamic Model of Suicide and a comparison with other theoretical frameworks. Personalized Medicine in Psychiatry (In Press). https://doi.org/10.1016/j.pmip.2024.100131
 
-Rogers, M., **\*** **Bloch-Elkouby, S.**, <ins>Goncearenco I</ins>., Cohen, L., Nemeroff, C., & Galynker, I. (2024). The Narrative Crisis Model of Suicide as a Framework for Suicide Prevention. Personalized Medicine in Psychiatry (In Press). https://doi.org/10.1016/j.pmip.2024.100130
+Rogers, M., **\*** **Bloch-Elkouby, S.**, <ins>Goncearenco I</ins> ., Cohen, L., Nemeroff, C., & Galynker, I. (2024). The Narrative Crisis Model of Suicide as a Framework for Suicide Prevention. Personalized Medicine in Psychiatry (In Press). https://doi.org/10.1016/j.pmip.2024.100130
 
 De Luca, G. P., Parghi, N., El Hayek, R., **Bloch-Elkouby, S.**, Peterkin, D., Wolfe, A. & Galynker, I. (2024). Machine learning approach for the development of a crucial tool in suicide prevention: The Suicide Crisis Inventory-2 (SCI-2) Short Form. PLoS one, 19(5), e0299048. https://doi.org/10.1371/journal.pone.0299048
 
@@ -43,7 +43,7 @@ Cohen, L. J., Hernandez, M., Mokhtar, R., Richards, J., **Bloch-Elkouby, S.**, R
 
 Cohen, L. J., Imbastaro, B., Peterkin, D., **Bloch‐Elkouby, S.**, Wolfe, A., & Galynker, I. (2023). A suicide-specific diagnosis–The case for. Crisis, 44(3). https://doi.org/10.1027/0227-5910/a000911
 
-**Bloch-Elkouby, S.**, <ins>Yanez, N., Chennapragada, L</ins>., Richards, J., Cohen, L., & Galynker, I. (2023). The Narrative-Crisis Model of Suicide: a Novel and Empirically-Validated Diathesis-Stress Model of Suicide. In: Pompili, M. (eds) Suicide Risk Assessment and Prevention. Springer, Cham. https://doi.org/10.1007/978-3-030-41319-4_14-1
+**Bloch-Elkouby, S.**, <ins>Yanez, N., Chennapragada, L</ins> ., Richards, J., Cohen, L., & Galynker, I. (2023). The Narrative-Crisis Model of Suicide: a Novel and Empirically-Validated Diathesis-Stress Model of Suicide. In: Pompili, M. (eds) Suicide Risk Assessment and Prevention. Springer, Cham. https://doi.org/10.1007/978-3-030-41319-4_14-1
 
 ## 2022
 
