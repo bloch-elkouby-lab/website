@@ -120,7 +120,6 @@ Schuck, A., Barzilay, S., **Bloch-Elkouby, S.**, Calati, R., Mahato, R., &amp; G
 
 **Bloch-Elkouby, S.** , Muran, J.C., Gorman, B., Safran, J., and Winston, A. (2013, October). Concordance between measures of outcome and assessment of possible deterioration. Poster presented at the Annual Meeting of the Society for Psychotherapy Research. Memphis, Tennessee.
 
-
 {% include section.html %}
 
 {% include search-box.html %}
