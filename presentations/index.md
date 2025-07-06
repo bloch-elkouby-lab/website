@@ -100,6 +100,15 @@ _Upcoming_: <ins>Eid, T., Prekas A.S, Barnes, R., Bhise, A.</ins> , &amp; **Bloc
 
 _Upcoming_: <ins>Guo, W., Prekas, S., Wei, J., Maryam, A.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Does clinicians’ emotion regulation (trait) predict clinicians’ experience of the alliance with high-risk virtual patients?
 
+_Upcoming_: <ins>Prekas, A.S., Eid, T., Chen, P. Maryam, A., Guo, W.</ins> &amp; **Bloch-Elkouby, S.** (2025). Suicide risk assessment among adolescent virtual patients: The role of implicit racial biases. Poster to be presented at the Society for Psychotherapy Research, Krakow, Poland.
+
+_Upcoming_: <ins>Shvarzman, R., Baruch, L., Rosen, T., Wei, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Implicit Racial Bias and Clinician’s Observed Emotional Responses in Psychotherapy: A Virtual Interaction Study. Poster to be presented at the Society for Psychotherapy Research, Krakow, Poland.
+
+_Upcoming_: <ins>Wei, J., Shi, R., Chen, J., Tortora, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Does mindfulness moderate the impact of patients’ race and clinicians’ implicit racial biases on clinicians’ emotional response to minoritized youth? Poster to be presented at the Society for Psychotherapy Research, Krakow, Poland.
+
+<ins>Aberman, A. Jones, D., Shvarzman, R.</ins> , &amp; Tortora, J. &amp; **Bloch-Elkouby, S.** (2024, June). The role of self-compassion in evidence-based suicide-specific interventions: a critical review. Poster presented at the annual meeting of the Society for Psychotherapy Research, Ottawa, Canada.
+
+
 
 {% include section.html %}
 
