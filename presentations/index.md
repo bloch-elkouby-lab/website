@@ -112,6 +112,9 @@ _Upcoming_: <ins>Wei, J., Shi, R., Chen, J., Tortora, J.</ins> , &amp; **Bloch-E
 
 Gordon, G., Samstag, L., &amp; **Bloch-Elkouby, S.** (2022, March). Explicit and Implicit Racial Bias in Nursing- Can Mindfulness Mitigate Aversive Racism? Poster presented at 93rd Annual Eastern Psychological Association Conference the New York, NY.
 
+Forestal, C., Schuck, a., **Bloch-Elkouby, S.**, &amp; Galynker, I. (2019, May). Extreme anxiety moderates the relationship between hopelessness and suicidal thoughts and behaviors. Poster presented at the American Psychiatric Association. San-Francisco, US.
+
+Ying, G., **Bloch-Elkouby, S.**, Galynker, I. (2019, May). Perceived burdensomeness and thwarted belongingness mediate the relationship between depression and the suicide crisis syndrome. Poster presented at the Annual Meeting of the American Psychiatric Association. San-Francisco, US.
 
 {% include section.html %}
 
