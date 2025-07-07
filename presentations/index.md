@@ -9,9 +9,9 @@ nav:
 
 ## Conference presentations
 
-_Upcoming_: **Bloch-Elkouby, S.**, Gomes de Siqueira, A., Johnson, B., Jones, A, Chen, J., Lok, B., &amp; Galynker, I. The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study. In S. Eberhardt (chair) _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_. Paper in a panel to be presented at the upcoming SPR conference in Krakow, Poland.
+**Bloch-Elkouby, S.**, Gomes de Siqueira, A., Johnson, B., Jones, A, Chen, J., Lok, B., &amp; Galynker, I. The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study. In S. Eberhardt (chair) _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_. Paper in a panel presented at the upcoming SPR conference in Krakow, Poland.
 
-_Upcoming_: Discussant in Structured Discussion: What’s Tricky about Transforming Training? A Discussion on Training Providers. To be presented at the upcoming SPR conference in Krakow, Poland.
+Discussant in Structured Discussion: What’s Tricky about Transforming Training? A Discussion on Training Providers. Presented at the upcoming SPR conference in Krakow, Poland.
 
 **Bloch-Elkouby, S.**, Yao, H., Johnson, B., <ins>Schock, B., Wei, J. W., Prekas, S., Eid, T.</ins> , Lok, B., &amp; Galynker, I. (2024,
 November 18). AI- driven virtual patients: a cutting-edge tool to investigate the impact of implicit racial biases on clinical judgment and clinical process with high-risk patients. Oral presentation paper presented at the 2024 meeting of the International Association for Suicide Prevention Pan-American Conference. Minneapolis, Minnesota.
@@ -54,7 +54,7 @@ Eubanks-Carter, C., **Bloch-Elkouby, S.**, Hungr, C., Muran, J.C., Safran, J. (2
 
 ## Panels chaired
 
-_Upcoming 2025_: Aafjes-van Doorn &amp; **Bloch-Elkouby, S.** &amp; (2025, June). “The impact of AI on psychotherapy: New developments and future directions.” Invited Semi-Plenary at the upcoming Annual Meeting of the Society for Psychotherapy Research, Krakow, Poland.
+Aafjes-van Doorn &amp; **Bloch-Elkouby, S.** &amp; (2025, June). “The impact of AI on psychotherapy: New developments and future directions.” Invited Semi-Plenary at the Annual Meeting of the Society for Psychotherapy Research, Krakow, Poland.
 
 **Bloch-Elkouby, S.** &amp; Aafjes-van Doorn (2024, June). _“I don’t want to talk to a robot”_. Can artificial intelligence research promote more effective treatments and clinical training approaches? Structured discussion at the Annual Meeting of the Society for Psychotherapy Research, Ottawa, Canada.
 
@@ -92,19 +92,19 @@ Switzerland.
 
 ## Posters 
 
-_Upcoming_: <ins>Bhise, A., Baruch, L., Datta, S., Eid, T., Wei, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025, June 25-28). The Impact of Virtual Patients’ Race on Clinical Judgement: A Qualitative Analysis of 150 Case Conceptualization Narratives. Poster to be presented the Annual Meeting of the Society for Psychotherapy Research, Kraków, Poland.
+<ins>Bhise, A., Baruch, L., Datta, S., Eid, T., Wei, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025, June 25-28). The Impact of Virtual Patients’ Race on Clinical Judgement: A Qualitative Analysis of 150 Case Conceptualization Narratives. Poster presented the Annual Meeting of the Society for Psychotherapy Research, Kraków, Poland.
 
-_Upcoming_: <ins>Chen. P., Shi, R., Wei, Datta, S.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Do virtual patients’ inaccurate responses and technological problems impede clinicians’ engagement and perception of the therapeutic alliance? Poster to be presented at The Society of Psychotherapy Research Krakow, Poland.
+<ins>Chen. P., Shi, R., Wei, Datta, S.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Do virtual patients’ inaccurate responses and technological problems impede clinicians’ engagement and perception of the therapeutic alliance? Poster presented at The Society of Psychotherapy Research Krakow, Poland.
 
-_Upcoming_: <ins>Eid, T., Prekas A.S, Barnes, R., Bhise, A.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Moderators of the Relationship between Implicit and Explicit Racial Bias Among Clinicians. Poster to be presented at The Society of Psychotherapy Research Krakow, Poland.
+<ins>Eid, T., Prekas A.S, Barnes, R., Bhise, A.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Moderators of the Relationship between Implicit and Explicit Racial Bias Among Clinicians. Poster presented at The Society of Psychotherapy Research Krakow, Poland.
 
-_Upcoming_: <ins>Guo, W., Prekas, S., Wei, J., Maryam, A.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Does clinicians’ emotion regulation (trait) predict clinicians’ experience of the alliance with high-risk virtual patients?
+<ins>Guo, W., Prekas, S., Wei, J., Maryam, A.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Does clinicians’ emotion regulation (trait) predict clinicians’ experience of the alliance with high-risk virtual patients? Poster presented at The Society of Psychotherapy Research Krakow, Poland.
 
-_Upcoming_: <ins>Prekas, A.S., Eid, T., Chen, P. Maryam, A., Guo, W.</ins> &amp; **Bloch-Elkouby, S.** (2025). Suicide risk assessment among adolescent virtual patients: The role of implicit racial biases. Poster to be presented at the Society for Psychotherapy Research, Krakow, Poland.
+<ins>Prekas, A.S., Eid, T., Chen, P. Maryam, A., Guo, W.</ins> &amp; **Bloch-Elkouby, S.** (2025). Suicide risk assessment among adolescent virtual patients: The role of implicit racial biases. Poster presented at the Society for Psychotherapy Research, Krakow, Poland.
 
-_Upcoming_: <ins>Shvarzman, R., Baruch, L., Rosen, T., Wei, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Implicit Racial Bias and Clinician’s Observed Emotional Responses in Psychotherapy: A Virtual Interaction Study. Poster to be presented at the Society for Psychotherapy Research, Krakow, Poland.
+<ins>Shvarzman, R., Baruch, L., Rosen, T., Wei, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Implicit Racial Bias and Clinician’s Observed Emotional Responses in Psychotherapy: A Virtual Interaction Study. Poster presented at the Society for Psychotherapy Research, Krakow, Poland.
 
-_Upcoming_: <ins>Wei, J., Shi, R., Chen, J., Tortora, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Does mindfulness moderate the impact of patients’ race and clinicians’ implicit racial biases on clinicians’ emotional response to minoritized youth? Poster to be presented at the Society for Psychotherapy Research, Krakow, Poland.
+<ins>Wei, J., Shi, R., Chen, J., Tortora, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Does mindfulness moderate the impact of patients’ race and clinicians’ implicit racial biases on clinicians’ emotional response to minoritized youth? Poster presented at the Society for Psychotherapy Research, Krakow, Poland.
 
 <ins>Aberman, A. Jones, D., Shvarzman, R.</ins> , &amp; Tortora, J. &amp; **Bloch-Elkouby, S.** (2024, June). The role of self-compassion in evidence-based suicide-specific interventions: a critical review. Poster presented at the annual meeting of the Society for Psychotherapy Research, Ottawa, Canada.
 
