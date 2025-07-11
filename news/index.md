@@ -38,7 +38,7 @@ She was a discussant of _What’s Tricky about Transforming Training? A Discussi
 
 {% capture text %}
 
-Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason 
+Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason presented their poster at the 2025 SPR conference. 
 
 {% endcapture %}
 
