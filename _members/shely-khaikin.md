@@ -1,5 +1,5 @@
 ---
-name: Shely Khaikin, M.A.
+name: Shely Khaikin, B.A.
 image: images/profile-shely_khaikin.jpg
 description: Research Assistant
 role: RA

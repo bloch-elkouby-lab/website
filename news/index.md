@@ -16,11 +16,11 @@ nav:
 
 {% capture text %}
 
-Dr. Bloch-Elkouby moderated the plenary __ with Dr. Aafjes-van Doorn
+Dr. Bloch-Elkouby moderated the plenary _Friend or foe? An update and future directions on AI applications in psychotherapy research_ with Dr. Aafjes-van Doorn. 
 
-She presented two papers at the SPR 2025 annual conference. In the _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_ panel, she presented the paper **_The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study_**.
+She also presented a paper at the SPR 2025 annual conference. In the _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_ panel, she presented the paper **_The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study_**. 
 
-
+She was a discussant of _What’s Tricky about Transforming Training? A Discussion on Training Providers_ structured discussion session. 
 
 {% endcapture %}
 
@@ -38,13 +38,13 @@ She presented two papers at the SPR 2025 annual conference. In the _Preventing S
 
 {% capture text %}
 
-We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huanyao, and Runqin presented their work at the 2025 Society for Psychotherapy Research Annual Conference. Their contributions showcased a wide range of innovative and impactful research in psychotherapy. Dr. Bloch-Elkouby also gave a featured presentation on advancements in AI-assisted mental health care.
+Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason 
 
 {% endcapture %}
 
 {%
   include feature-carousel.html
-  images="images/news-spr2025_poster_rebecca.jpg,images/news-spr2025_poster_pengyu.jpg,images/news-spr2025_poster_aditya.jpg,images/news-spr2025_poster_stephanie.jpg,images/news-spr2025_poster_jingqian.jpg,images/news-spr2025_poster_huanyao.jpg,images/news-spr2025_poster_runqin.jpg"
+  images="images/news-spr2025_poster_pengyu.jpg,images/news-spr2025_poster_rebecca.jpg,images/news-spr2025_poster_aditya.jpg,images/news-spr2025_poster_stephanie.jpg,images/news-spr2025_poster_jingqian.jpg,images/news-spr2025_poster_huanyao.jpg,images/news-spr2025_poster_runqin.jpg"
   title="SPR Conference 2025 Student Highlights"
   text=text
   flip=false

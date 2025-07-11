@@ -11,7 +11,7 @@ nav:
 
 **Bloch-Elkouby, S.**, Gomes de Siqueira, A., Johnson, B., <ins>Jones, A, Chen, J.</ins>, Lok, B., &amp; Galynker, I. The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study. In S. Eberhardt (chair) _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_. Paper in a panel presented at the annual conference of SPR in Krakow, Poland.
 
-Discussant in Structured Discussion: What’s Tricky about Transforming Training? A Discussion on Training Providers. Presented at the annual conference of SPR in Krakow, Poland.
+Discussant in Structured Discussion: What’s Tricky about Transforming Training? A Discussion on Training Providers. Presented at the 2025 annual conference of SPR in Krakow, Poland.
 
 **Bloch-Elkouby, S.**, Yao, H., Johnson, B., <ins>Schock, B., Wei, J. W., Prekas, S., Eid, T.</ins> , Lok, B., &amp; Galynker, I. (2024,
 November 18). AI- driven virtual patients: a cutting-edge tool to investigate the impact of implicit racial biases on clinical judgment and clinical process with high-risk patients. Oral presentation paper presented at the 2024 meeting of the International Association for Suicide Prevention Pan-American Conference. Minneapolis, Minnesota.
