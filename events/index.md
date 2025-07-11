@@ -5,4 +5,7 @@ nav:
   tooltip: Events 
 ---
 
-## Events
+## Upcoming Events
+
+
+Chairing a symposium on the use of AI in suicide risk assessment

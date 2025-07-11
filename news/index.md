@@ -16,14 +16,18 @@ nav:
 
 {% capture text %}
 
-We are proud to share that Rebecca, Pengyu, Aditya, Stephanie, Jade, Jason, Huanyao, and Runqin presented their work at the 2025 Society for Psychotherapy Research Annual Conference. Their contributions showcased a wide range of innovative and impactful research in psychotherapy. Dr. Bloch-Elkouby also gave a featured presentation on advancements in AI-assisted mental health care.
+Dr. Bloch-Elkouby moderated the plenary __ with Dr. Aafjes-van Doorn
+
+She presented two papers at the SPR 2025 annual conference. In the _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_ panel, she presented the paper **_The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study_**.
+
+
 
 {% endcapture %}
 
 {%
   include feature-carousel.html
   images="images/news-spr2025_1.jpg,images/news-spr2025_2.jpg,images/news-spr2025_3.jpg,images/news-spr2025_4.jpg,images/news-spr2025_5.jpg,images/news-spr2025_6.jpg"
-  title="SPR Conference 2025 Highlights of Dr. Bloch-Elkouby"
+  title="SPR Conference 2025"
   text=text
   flip=false
   fit=true
