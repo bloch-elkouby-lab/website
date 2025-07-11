@@ -9,7 +9,7 @@ nav:
 
 ## Conference presentations
 
-**Bloch-Elkouby, S.**, Gomes de Siqueira, A., Johnson, B., <ins>Jones, A, Chen, J.<ins>, Lok, B., &amp; Galynker, I. The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study. In S. Eberhardt (chair) _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_. Paper in a panel presented at the annual conference of SPR in Krakow, Poland.
+**Bloch-Elkouby, S.**, Gomes de Siqueira, A., Johnson, B., <ins>Jones, A, Chen, J.</ins>, Lok, B., &amp; Galynker, I. The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study. In S. Eberhardt (chair) _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_. Paper in a panel presented at the annual conference of SPR in Krakow, Poland.
 
 Discussant in Structured Discussion: What’s Tricky about Transforming Training? A Discussion on Training Providers. Presented at the annual conference of SPR in Krakow, Poland.
 
