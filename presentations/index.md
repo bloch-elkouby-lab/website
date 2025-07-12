@@ -13,8 +13,6 @@ nav:
 
 Discussant in Structured Discussion: What’s Tricky about Transforming Training? A Discussion on Training Providers. Presented at the 2025 annual conference of SPR in Krakow, Poland.
 
-Delgadillo, J., **Bloch-Elkouby, S.**. A cross-cultural examination of suicide risk factors to inform personalized and culturally-adapted risk management practice. In J. M. G. Penedo & N. Solomonov (chair) _Innovative approaches to enhance precision and personalization in psychotherapy_. Paper in a panel presented at the 2025 annual conference of SPR in Krakow, Poland.
-
 **Bloch-Elkouby, S.**, Yao, H., Johnson, B., <ins>Schock, B., Wei, J. W., Prekas, S., Eid, T.</ins> , Lok, B., &amp; Galynker, I. (2024,
 November 18). AI- driven virtual patients: a cutting-edge tool to investigate the impact of implicit racial biases on clinical judgment and clinical process with high-risk patients. Oral presentation paper presented at the 2024 meeting of the International Association for Suicide Prevention Pan-American Conference. Minneapolis, Minnesota.
 
