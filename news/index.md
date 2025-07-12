@@ -46,34 +46,16 @@ Rebecca investigated whether the higher risk assessment of a patient would lead 
 Aditya tested whether clinician's case conceptualization differed for patients with minority races via a qualitative analysis.
 Stephanie explored the role of implicit racial bias in suicide risk assessments among adolescent virtual patients. 
 Jade inquired if the elevation effects of negative emotional response resulted from the clinician's implicit racial bias against the Black would be alleviated by clinicians being more mindful in the interaction. 
-
-
-{% endcapture %}
-
-{%
-  include feature-carousel.html
-  images="images/news-spr2025_poster_pengyu.jpg,images/news-spr2025_poster_rebecca.jpg,images/news-spr2025_poster_aditya.jpg,images/news-spr2025_poster_stephanie.jpg,images/news-spr2025_poster_jingqian.jpg"
-  title="RA's posters"
-  text=text
-  flip=false
-  fit=true
-  align="left"
-  style="bare"
-%}
-
-
-{% capture text %}
 Wendy looked into whether the poor emotional regulation skills would lead to more ruptures in therapeutic alliance. 
 Runqin researched the role of implicit racial biases in clinician's interview (therapy) experiences.
 Ronit explored the interplay between implicit racial bias and clinician emotional responses such that they would report more positive responses but display more negative facial expressions.  
 Jason examined if implicit racial biases impede clinicians' empathy. 
 
-
 {% endcapture %}
 
 {%
   include feature-carousel.html
-  images="images/news-spr2025_poster_huanyao.jpg,images/news-spr2025_poster_runqin.jpg,images/news-spr2025_poster_ronit.png,images/news-spr2025_poster_jason.png"
+  images="images/news-spr2025_poster_pengyu.jpg,images/news-spr2025_poster_rebecca.jpg,images/news-spr2025_poster_aditya.jpg,images/news-spr2025_poster_stephanie.jpg,images/news-spr2025_poster_jingqian.jpg,images/news-spr2025_poster_huanyao.jpg,images/news-spr2025_poster_runqin.jpg,images/news-spr2025_poster_ronit.png,images/news-spr2025_poster_jason.png"
   title="RA posters"
   text=text
   flip=false
@@ -93,7 +75,7 @@ In the 2025 SPR conference, Ronit Shvarzman was awarded the Enrico Jones Trainee
   include feature-carousel.html
   image="images/news-spr2025_ronit.jpg,images/news-spr2025_talia_alexis.jpg"
   link=""
-  title=""
+  title="Student Awards"
   flip=false
   fit=true
   align="right"
@@ -102,10 +84,10 @@ In the 2025 SPR conference, Ronit Shvarzman was awarded the Enrico Jones Trainee
 %}
 
 
+{% include section.html %}
+
 {% capture text %}
 
-
-{% include section.html %}
 
 The Bloch-Elkouby Lab for Suicide Prevention and Research is delighted to welcome four new Ferkauf Adult Psy D students to the lab! Welcome, Laura Baruch, Theo Mack, Talia Rosen, and Runqin Shi-- we're thrilled to have you on the team!
 
