@@ -28,6 +28,7 @@ She was a discussant of _What’s Tricky about Transforming Training? A Discussi
 {%
   include feature-carousel.html
   images="images/news-spr2025_1.jpg,images/news-spr2025_2.jpg,images/news-spr2025_3.jpg,images/news-spr2025_4.jpg,images/news-spr2025_5.jpg,images/news-spr2025_6.jpg"
+  title="Dr. Bloch's Presentation"
   text=text
   flip=false
   fit=true
@@ -52,6 +53,7 @@ Jade inquired if the elevation effects of negative emotional response resulted f
 {%
   include feature-carousel.html
   images="images/news-spr2025_poster_pengyu.jpg,images/news-spr2025_poster_rebecca.jpg,images/news-spr2025_poster_aditya.jpg,images/news-spr2025_poster_stephanie.jpg,images/news-spr2025_poster_jingqian.jpg"
+  title="RA's posters"
   text=text
   flip=false
   fit=true
@@ -72,6 +74,7 @@ Jason examined if implicit racial biases impede clinicians' empathy.
 {%
   include feature-carousel.html
   images="images/news-spr2025_poster_huanyao.jpg,images/news-spr2025_poster_runqin.jpg,images/news-spr2025_poster_ronit.png,images/news-spr2025_poster_jason.png"
+  title="RA posters"
   text=text
   flip=false
   fit=true
