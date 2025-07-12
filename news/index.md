@@ -12,10 +12,9 @@ nav:
 {% include search-info.html %}
 
 
+# 2025 Annual Conference of Society of Psychotherapy Research (SPR)
 <section id="spr2025">
 {% include section.html %}
-
-# 2025 Annual Conference of Society of Psychotherapy Research (SPR)
 
 {% capture text %}
 
