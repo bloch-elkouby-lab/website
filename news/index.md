@@ -84,11 +84,7 @@ Jason examined if implicit racial biases impede clinicians' empathy.
 
 {% capture text %}
 
-
-Many Bloch-Elkouby lab members, including Dr. Bloch-Elkouby, participated in and presented their research at the SPR International Annual Meeting in Kraków, Poland. Eight student lab members presented posters; among them, Ronit Shvarzman was awarded the Enrico Jones Trainee Award. Alexis Aberman and Talia Rosen’s John and Elaine Altmaier Depression Research Grant was also featured by NASPR at the chapter meeting.
-
-Dr. Bloch-Elkouby co-chaired a semi-plenary at the conference: “Friend or foe? An update and future directions on AI applications in psychotherapy research.” She was a discussant for the discussion: “What’s Tricky about Transforming Training? A Discussion on Training Providers.” Finally she also presented on her research: “Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care.”
-
+In the 2025 SPR conference, Ronit Shvarzman was awarded the Enrico Jones Trainee Award. Alexis Aberman and Talia Rosen’s John and Elaine Altmaier Depression Research Grant was also featured by NASPR at the chapter meeting.
 
 {% endcapture %}
 
