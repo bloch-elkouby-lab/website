@@ -13,6 +13,7 @@ nav:
 
 {% include section.html %}
 
+# 2025 Annual Conference of Society of Psychotherapy Research (SPR)
 
 {% capture text %}
 
@@ -27,11 +28,10 @@ She was a discussant of _What’s Tricky about Transforming Training? A Discussi
 {%
   include feature-carousel.html
   images="images/news-spr2025_1.jpg,images/news-spr2025_2.jpg,images/news-spr2025_3.jpg,images/news-spr2025_4.jpg,images/news-spr2025_5.jpg,images/news-spr2025_6.jpg"
-  title="SPR Conference 2025"
   text=text
   flip=false
   fit=true
-  align="right"
+  align="left"
   style="bare"
 %}
 
@@ -56,11 +56,10 @@ Jason examined if implicit racial biases impede clinicians' empathy.
 {%
   include feature-carousel.html
   images="images/news-spr2025_poster_pengyu.jpg,images/news-spr2025_poster_rebecca.jpg,images/news-spr2025_poster_aditya.jpg,images/news-spr2025_poster_stephanie.jpg,images/news-spr2025_poster_jingqian.jpg,images/news-spr2025_poster_huanyao.jpg,images/news-spr2025_poster_runqin.jpg"
-  title="SPR Conference 2025 Student Posters"
   text=text
   flip=false
   fit=true
-  align="right"
+  align="left"
   style="bare"
 %}
 

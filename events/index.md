@@ -8,4 +8,4 @@ nav:
 ## Upcoming Events
 
 
-Chairing a symposium on the use of AI in suicide risk assessment
+DrChairing a symposium on the use of AI in suicide risk assessment
