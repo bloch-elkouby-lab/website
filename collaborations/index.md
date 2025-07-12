@@ -22,5 +22,3 @@ Dr. Bloch-Elkouby has a long-lasting collaboration with the [Brief Psychotherapy
 
 {% include section.html %}
 
-{% include search-box.html %}
-

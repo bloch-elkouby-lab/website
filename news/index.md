@@ -41,15 +41,15 @@ She was a discussant of _What’s Tricky about Transforming Training? A Discussi
 
 Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason presented their poster at the 2025 SPR conference. 
 
-Jimmy examined the feasibility of applying virtual patients as a clinical training tool by exploring the impact of technological problems on therapeutic alliance. 
-Rebecca investigated whether the higher risk assessment of a patient would lead to lower therapeutic alliance. 
-Aditya tested whether clinician's case conceptualization differed for patients with minority races via a qualitative analysis.
-Stephanie explored the role of implicit racial bias in suicide risk assessments among adolescent virtual patients. 
-Jade inquired if the elevation effects of negative emotional response resulted from the clinician's implicit racial bias against the Black would be alleviated by clinicians being more mindful in the interaction. 
-Wendy looked into whether the poor emotional regulation skills would lead to more ruptures in therapeutic alliance. 
-Runqin researched the role of implicit racial biases in clinician's interview (therapy) experiences.
-Ronit explored the interplay between implicit racial bias and clinician emotional responses such that they would report more positive responses but display more negative facial expressions.  
-Jason examined if implicit racial biases impede clinicians' empathy. 
+**Jimmy** examined the feasibility of applying virtual patients as a clinical training tool by exploring the impact of technological problems on therapeutic alliance. 
+**Rebecca** investigated whether the higher risk assessment of a patient would lead to lower therapeutic alliance. 
+**Aditya** tested whether clinician's case conceptualization differed for patients with minority races via a qualitative analysis.
+**Stephanie** explored the role of implicit racial bias in suicide risk assessments among adolescent virtual patients. 
+**Jade** inquired if the elevation effects of negative emotional response resulted from the clinician's implicit racial bias against the Black would be alleviated by clinicians being more mindful in the interaction. 
+**Wendy** looked into whether the poor emotional regulation skills would lead to more ruptures in therapeutic alliance. 
+**Runqin** researched the role of implicit racial biases in clinician's interview (therapy) experiences.
+**Ronit** explored the interplay between implicit racial bias and clinician emotional responses such that they would report more positive responses but display more negative facial expressions.  
+**Jason** examined if implicit racial biases impede clinicians' empathy. 
 
 {% endcapture %}
 
