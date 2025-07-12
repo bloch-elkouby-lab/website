@@ -22,7 +22,7 @@ nav:
   {% include feature.html
     title="2025 IASR/AFSP International Summit on Suicide Research"
     text=text
-    image="images/news-iasr2025.jpg"
+    image="images/events-2025_symposium.jpg"
     flip=false
     fit=true
     align="left"
@@ -45,9 +45,9 @@ nav:
   {% endcapture %}
 
   {% include feature.html
-    title="Upcoming Event: Talk at Lausanne Conference on Suicide Prevention"
+    title="Talk at Lausanne Conference on Suicide Prevention"
     text=text
-    image="images/news-lausanne2025.jpg"
+    image="images/events-2025_keynote_speaker.jpg"
     flip=false
     fit=true
     align="left"
