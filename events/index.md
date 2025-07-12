@@ -5,11 +5,11 @@ nav:
   tooltip: Events 
 ---
 
-## Upcoming Events
+# Upcoming Events
 
 
 
-<section id="iasr-afsp-2025">
+{% include section.html %}
   {% capture text %}
   Dr. Sarah Bloch-Elkouby will be presenting at the 2025 IASR/AFSP International Summit on Suicide Research, taking place November 8–11, 2025. She will be part of a symposium titled:  
   _“Revolutionizing Suicide Risk Assessment and Training with AI: Insights from Virtual Human Interactions and Natural Language Processing Cutting-Edge Studies.”_
@@ -28,9 +28,9 @@ nav:
     align="left"
     style="bare"
   %}
-</section>
+{% include section.html %}
 
-<section id="lausanne-2025">
+{% include section.html %}
   {% capture text %}
   This November, Dr. Sarah Bloch-Elkouby will be presenting at a conference in Lausanne, Switzerland, as part of ongoing international efforts to advance suicide prevention research and clinical practice.
 
@@ -53,4 +53,4 @@ nav:
     align="left"
     style="bare"
   %}
-</section>
+{% include section.html %}
