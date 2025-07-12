@@ -88,6 +88,8 @@ In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Tra
 %}
 {% include section.html %}
 
+## Previous News
+
 {% include section.html %}
 
 {% capture text %}
