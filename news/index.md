@@ -11,6 +11,8 @@ nav:
 
 {% include search-info.html %}
 
+
+<section id="spr2025">
 {% include section.html %}
 
 # 2025 Annual Conference of Society of Psychotherapy Research (SPR)
@@ -82,6 +84,10 @@ In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Tra
   style="bare"
   text=text
 %}
+
+</section>
+
+<section id="rest">
 
 {% capture text %}
 
@@ -350,5 +356,5 @@ American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the pro
 
 
 
-
+</section>
 
