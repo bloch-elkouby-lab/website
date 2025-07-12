@@ -37,6 +37,8 @@ She was a discussant of _What’s Tricky about Transforming Training? A Discussi
 
 {% include section.html %}
 
+
+
 {% include section.html %}
 
 {% capture text %}
@@ -67,6 +69,9 @@ Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason present
 %}
 
 {% include section.html %}
+
+
+
 {% include section.html %}
 
 {% capture text %}
