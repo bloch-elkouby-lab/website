@@ -90,7 +90,7 @@ In the 2025 SPR conference, Ronit Shvarzman was awarded the Enrico Jones Trainee
 
 {%
   include feature.html
-  image="images/news-spr2025_ronit,images/news-spr2025_talia_alexis"
+  image="images/news-spr2025_ronit.jpg,images/news-spr2025_talia_alexis.jpg"
   link=""
   title=""
   flip=false
