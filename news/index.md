@@ -102,6 +102,8 @@ In the 2025 SPR conference, Ronit Shvarzman was awarded the Enrico Jones Trainee
 {% capture text %}
 
 
+{% include section.html %}
+
 The Bloch-Elkouby Lab for Suicide Prevention and Research is delighted to welcome four new Ferkauf Adult Psy D students to the lab! Welcome, Laura Baruch, Theo Mack, Talia Rosen, and Runqin Shi-- we're thrilled to have you on the team!
 
 {% endcapture %}
