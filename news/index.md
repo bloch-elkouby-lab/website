@@ -18,7 +18,7 @@ nav:
 
 Dr. Bloch-Elkouby moderated the plenary _Friend or foe? An update and future directions on AI applications in psychotherapy research_ with Dr. Aafjes-van Doorn. 
 
-She also presented a paper at the SPR 2025 annual conference. In the _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_ panel, she presented the paper **_The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study_**. 
+She presented a paper at the SPR 2025 annual conference. In the _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_ panel, she presented the paper **_The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study_**. She co-authored a paper in the __ panel, 
 
 She was a discussant of _What’s Tricky about Transforming Training? A Discussion on Training Providers_ structured discussion session. 
 
@@ -40,16 +40,27 @@ She was a discussant of _What’s Tricky about Transforming Training? A Discussi
 
 Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason presented their poster at the 2025 SPR conference. 
 
+Jimmy examined the feasibility of applying virtual patients as a clinical training tool by exploring the impact of technological problems on therapeutic alliance. 
+Rebecca investigated whether the higher risk assessment of a patient would lead to lower therapeutic alliance. 
+Aditya tested whether clinician's case conceptualization differed for patients with minority races via a qualitative analysis.
+Stephanie explored the role of implicit racial bias in suicide risk assessments among adolescent virtual patients. 
+Jade inquired if the elevation effects of negative emotional response resulted from the clinician's implicit racial bias against the Black would be alleviated by clinicians being more mindful in the interaction. 
+Wendy looked into whether the poor emotional regulation skills would lead to more ruptures in therapeutic alliance. 
+Runqin researched the role of implicit racial biases in clinician's interview (therapy) experiences.
+Ronit explored the interplay between implicit racial bias and clinician emotional responses such that they would report more positive responses but display more negative facial expressions.  
+Jason examined if implicit racial biases impede clinicians' empathy. 
+
+
 {% endcapture %}
 
 {%
   include feature-carousel.html
   images="images/news-spr2025_poster_pengyu.jpg,images/news-spr2025_poster_rebecca.jpg,images/news-spr2025_poster_aditya.jpg,images/news-spr2025_poster_stephanie.jpg,images/news-spr2025_poster_jingqian.jpg,images/news-spr2025_poster_huanyao.jpg,images/news-spr2025_poster_runqin.jpg"
-  title="SPR Conference 2025 Student Highlights"
+  title="SPR Conference 2025 Student Posters"
   text=text
   flip=false
   fit=true
-  align="left"
+  align="right"
   style="bare"
 %}
 
@@ -61,8 +72,6 @@ Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason present
 Many Bloch-Elkouby lab members, including Dr. Bloch-Elkouby, participated in and presented their research at the SPR International Annual Meeting in Kraków, Poland. Eight student lab members presented posters; among them, Ronit Shvarzman was awarded the Enrico Jones Trainee Award. Alexis Aberman and Talia Rosen’s John and Elaine Altmaier Depression Research Grant was also featured by NASPR at the chapter meeting.
 
 Dr. Bloch-Elkouby co-chaired a semi-plenary at the conference: “Friend or foe? An update and future directions on AI applications in psychotherapy research.” She was a discussant for the discussion: “What’s Tricky about Transforming Training? A Discussion on Training Providers.” Finally she also presented on her research: “Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care.”
-
-[Check out the photos here!](https://drive.google.com/drive/folders/13Er_OxYcgbPXMFXinPjmHZsB1b0IMvQz?usp=sharing)
 
 
 {% endcapture %}
