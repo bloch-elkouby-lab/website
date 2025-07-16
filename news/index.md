@@ -166,7 +166,7 @@ Alexis Aberman and Talia Rosen have been named as the recipients of the North Am
 {% include section.html %}
 
 
-% capture text %}
+{% capture text %}
 
 
 Congratulations to all of the doctoral student lab members, for the incredible externship sites they have matched with for 2025-2026!
