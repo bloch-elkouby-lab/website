@@ -70,6 +70,10 @@ Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason present
 
 {% include section.html %}
 
+
+
+{% include section.html %}
+
 {% capture text %}
 
 In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Trainee Award. **Alexis Aberman and Talia Rosen**’s John and Elaine Altmaier Depression Research Grant was also featured by NASPR at the chapter meeting.
@@ -112,6 +116,50 @@ Alexis Aberman was named a recipient of the Society for the Advancement of Psych
 {% include section.html %}
 
 
+{% include section.html %}
+
+{% capture text %}
+
+Ronit Shvarzman was awarded a trainee conference travel award and will be traveling to Krakow, Poland, to attend the 2025 SPR Conference and be recognized at the North American Chapter Business Meeting. At the conference, Ronit will present a poster on her research: “Implicit Racial Bias and Clinician Emotional Responses in Psychotherapy: A Virtual Interaction Study.” 
+
+{% endcapture %}
+
+{%
+  image="images/news-SPR_travel_award.jpg"
+  link=""
+  title="Trainee Conference Travel Award"
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+  text=text
+%}
+
+{% include section.html %}
+
+
+{% include section.html %}
+
+{% capture text %}
+
+Alexis Aberman and Talia Rosen have been named as the recipients of the North American Society for Psychotherapy Research John and Elaine Altmaier Depression Research Grant. Their qualitative research project will explore the impacts of self-compassion and the therapeutic alliance on recovery from suicidal ideation and behaviors. The study will involve interviews with former patients who consider themselves recovered from suicidality, as well as the therapists whom they credit as instrumental in their recovery. After qualitative data from interviews have been collected and analyzed, participants will be invited to participate in focus groups, during which these individuals with lived experience will provide invaluable feedback on ways to implement and disseminate the insights gained throughout the study. This grant will allow for the compensation of patient and therapist participants, as well as consultation from Dr. Ursula Whiteside, an expert with lived experience.
+
+{% endcapture %}
+
+{%
+  image="images/news-spr2025_talia_alexis.jpg"
+  link=""
+  title="John and Elaine Altmaier Depression Research Grant"
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+  text=text
+%}
+
+{% include section.html %}
+
+
 ## Previous News
 
 {% include section.html %}
@@ -139,13 +187,12 @@ Congratulations to all of the doctoral student lab members, for the incredible e
   image="images/news-externship_match.png"
   link=""
   title=""
-  flip=true
+  flip=false
   fit=true
   align="left"
   style="bare"
   text=text
 %}
-
 
 
 {% capture text %}
