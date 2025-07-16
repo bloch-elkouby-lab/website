@@ -68,9 +68,18 @@ Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason present
   style="bare"
 %}
 
+<<<<<<< HEAD
+
+{% capture text %}
+=======
 {% include section.html %}
+>>>>>>> e2c49fb94ff1774e00a129d2aca8e28f2723d23b
 
+<<<<<<< HEAD
+Alexis Aberman, a third-year PsyD student in the Lab, was named a recipient of the Society for the Advancement of Psychotherapy’s Student Research Grant. Her qualitative dissertation project will focus on individuals with lived experience who view themselves as recovered from suicidality. Her research will explore patient experiences of what they view as contributing to their recovery from suicidality, both inside and outside of treatment. This grant will allow for the compensation of participants and the compensation of Dr. Ursula Whiteside, an expert with lived experience, who will serve as a consultant to the research team.
+=======
 
+>>>>>>> e2c49fb94ff1774e00a129d2aca8e28f2723d23b
 
 {% include section.html %}
 
@@ -93,9 +102,65 @@ In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Tra
 %}
 {% include section.html %}
 
+
+## Grants and Awards
+{% include section.html %}
+
+{% capture text %}
+
+Alexis Aberman was named a recipient of the Society for the Advancement of Psychotherapy's Student Research Grant. Her qualitative dissertation project will focus on individuals with lived experience who view themselves as recovered from suicidality. Her research will explore patient experiences of what they view as contributing to their recovery from suicidality, both inside and outside of treatment. This grant will allow for the compensation of participants and the compensation of Dr. Usrula Whiteside, an expert with lived experience who will serve as a consultant to the research team.
+
+{% endcapture %}
+
+{%
+  include feature-carousel.html
+  image="images/news-Alexis_grant.png"
+  title="Society for the Advancement of Psychotherapy's Student Research Grant"
+  text=text
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+%}
+
+{% include section.html %}
+
+
 ## Previous News
 
 {% include section.html %}
+
+
+% capture text %}
+
+
+Congratulations to all of the doctoral student lab members, for the incredible externship sites they have matched with for 2025-2026!
+
+**Alexis Aberman** - NYU Langone Military Family Center
+**Jason Tortora** - Kingsboro Psychiatric Center
+**Ronit Shvarzman** - Pratt Institute of Art Counseling Center
+**Adelaide Jones** - Nassau University Medical Center
+**Talia Rosen** - New York Presbyterian Westchester Division, Inpatient Horizon Unit
+**Theo Mack**- Academics West School-Based Clinical Psychology
+**Runqin Shi** - Pace University Counseling Center
+**Laura Baruch** - Pace University Counseling Center
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/news-externship_match.png"
+  link=""
+  title=""
+  flip=true
+  fit=true
+  align="left"
+  style="bare"
+  text=text
+%}
+
+
 
 {% capture text %}
 
