@@ -68,19 +68,6 @@ Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason present
   style="bare"
 %}
 
-<<<<<<< HEAD
-
-{% capture text %}
-=======
-{% include section.html %}
->>>>>>> e2c49fb94ff1774e00a129d2aca8e28f2723d23b
-
-<<<<<<< HEAD
-Alexis Aberman, a third-year PsyD student in the Lab, was named a recipient of the Society for the Advancement of Psychotherapy’s Student Research Grant. Her qualitative dissertation project will focus on individuals with lived experience who view themselves as recovered from suicidality. Her research will explore patient experiences of what they view as contributing to their recovery from suicidality, both inside and outside of treatment. This grant will allow for the compensation of participants and the compensation of Dr. Ursula Whiteside, an expert with lived experience, who will serve as a consultant to the research team.
-=======
-
->>>>>>> e2c49fb94ff1774e00a129d2aca8e28f2723d23b
-
 {% include section.html %}
 
 {% capture text %}
@@ -113,7 +100,6 @@ Alexis Aberman was named a recipient of the Society for the Advancement of Psych
 {% endcapture %}
 
 {%
-  include feature-carousel.html
   image="images/news-Alexis_grant.png"
   title="Society for the Advancement of Psychotherapy's Student Research Grant"
   text=text
