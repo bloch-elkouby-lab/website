@@ -170,13 +170,13 @@ Alexis Aberman and Talia Rosen have been named as the recipients of the North Am
 
 Congratulations to all of the doctoral student lab members, for the incredible externship sites they have matched with for 2025-2026!
 
-**Alexis Aberman** - NYU Langone Military Family Center
-**Jason Tortora** - Kingsboro Psychiatric Center
-**Ronit Shvarzman** - Pratt Institute of Art Counseling Center
-**Adelaide Jones** - Nassau University Medical Center
-**Talia Rosen** - New York Presbyterian Westchester Division, Inpatient Horizon Unit
-**Theo Mack**- Academics West School-Based Clinical Psychology
-**Runqin Shi** - Pace University Counseling Center
+**Alexis Aberman** - NYU Langone Military Family Center;
+**Jason Tortora** - Kingsboro Psychiatric Center;
+**Ronit Shvarzman** - Pratt Institute of Art Counseling Center;
+**Adelaide Jones** - Nassau University Medical Center;
+**Talia Rosen** - New York Presbyterian Westchester Division, Inpatient Horizon Unit;
+**Theo Mack**- Academics West School-Based Clinical Psychology;
+**Runqin Shi** - Pace University Counseling Center;
 **Laura Baruch** - Pace University Counseling Center
 
 
