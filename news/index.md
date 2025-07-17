@@ -192,7 +192,7 @@ Congratulations to all of the doctoral student lab members, for the incredible e
   image="images/news-externship_match.png"
   link=""
   title=""
-  flip=false
+  flip=true
   fit=true
   align="left"
   style="bare"
