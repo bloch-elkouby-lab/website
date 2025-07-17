@@ -100,7 +100,7 @@ In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Tra
 
 {% capture text %}
 
-Alexis Aberman was named a recipient of the Society for the Advancement of Psychotherapy's Student Research Grant. Her qualitative dissertation project will focus on individuals with lived experience who view themselves as recovered from suicidality. Her research will explore patient experiences of what they view as contributing to their recovery from suicidality, both inside and outside of treatment. This grant will allow for the compensation of participants and the compensation of Dr. Usrula Whiteside, an expert with lived experience who will serve as a consultant to the research team.
+**Alexis Aberman** was named a recipient of the Society for the Advancement of Psychotherapy's Student Research Grant. Her qualitative dissertation project will focus on individuals with lived experience who view themselves as recovered from suicidality. Her research will explore patient experiences of what they view as contributing to their recovery from suicidality, both inside and outside of treatment. This grant will allow for the compensation of participants and the compensation of Dr. Usrula Whiteside, an expert with lived experience who will serve as a consultant to the research team.
 
 {% endcapture %}
 
@@ -122,7 +122,7 @@ Alexis Aberman was named a recipient of the Society for the Advancement of Psych
 
 {% capture text %}
 
-Ronit Shvarzman was awarded a trainee conference travel award and will be traveling to Krakow, Poland, to attend the 2025 SPR Conference and be recognized at the North American Chapter Business Meeting. At the conference, Ronit will present a poster on her research: “Implicit Racial Bias and Clinician Emotional Responses in Psychotherapy: A Virtual Interaction Study.” 
+**Ronit Shvarzman** was awarded a trainee conference travel award and will be traveling to Krakow, Poland, to attend the 2025 SPR Conference and be recognized at the North American Chapter Business Meeting. At the conference, Ronit will present a poster on her research: “Implicit Racial Bias and Clinician Emotional Responses in Psychotherapy: A Virtual Interaction Study.” 
 
 {% endcapture %}
 
@@ -145,7 +145,7 @@ Ronit Shvarzman was awarded a trainee conference travel award and will be travel
 
 {% capture text %}
 
-Alexis Aberman and Talia Rosen have been named as the recipients of the North American Society for Psychotherapy Research John and Elaine Altmaier Depression Research Grant. Their qualitative research project will explore the impacts of self-compassion and the therapeutic alliance on recovery from suicidal ideation and behaviors. The study will involve interviews with former patients who consider themselves recovered from suicidality, as well as the therapists whom they credit as instrumental in their recovery. After qualitative data from interviews have been collected and analyzed, participants will be invited to participate in focus groups, during which these individuals with lived experience will provide invaluable feedback on ways to implement and disseminate the insights gained throughout the study. This grant will allow for the compensation of patient and therapist participants, as well as consultation from Dr. Ursula Whiteside, an expert with lived experience.
+**Alexis Aberman** and **Talia Rosen** have been named as the recipients of the North American Society for Psychotherapy Research John and Elaine Altmaier Depression Research Grant. Their qualitative research project will explore the impacts of self-compassion and the therapeutic alliance on recovery from suicidal ideation and behaviors. The study will involve interviews with former patients who consider themselves recovered from suicidality, as well as the therapists whom they credit as instrumental in their recovery. After qualitative data from interviews have been collected and analyzed, participants will be invited to participate in focus groups, during which these individuals with lived experience will provide invaluable feedback on ways to implement and disseminate the insights gained throughout the study. This grant will allow for the compensation of patient and therapist participants, as well as consultation from Dr. Ursula Whiteside, an expert with lived experience.
 
 {% endcapture %}
 
