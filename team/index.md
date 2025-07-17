@@ -10,7 +10,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include section.html %}
 
-## Lab Research Coordinators
+## Lab Manager and Research Coordinators
 {% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: manager" %}
 {% include section.html %}
@@ -25,7 +25,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: RA" %}
 {% include section.html %}
 
-## Previous Research Coordinators
+## Previous Coordinators
 {% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: prev-RC" %}
 {% include section.html %}
