@@ -18,9 +18,7 @@ nav:
 
 Dr. Bloch-Elkouby moderated the plenary _Friend or foe? An update and future directions on AI applications in psychotherapy research_ with Dr. Aafjes-van Doorn. 
 
-She presented a paper at the SPR 2025 annual conference. In the _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_ panel, she presented the paper **_The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study_**. She co-authored a paper in the __ panel, 
-
-She was a discussant of _What’s Tricky about Transforming Training? A Discussion on Training Providers_ structured discussion session. 
+She presented a paper at the SPR 2025 annual conference. In the _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_ panel, she presented the paper **_The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study_**. She was also a discussant of _What’s Tricky about Transforming Training? A Discussion on Training Providers_ structured discussion session. 
 
 {% endcapture %}
 
@@ -51,7 +49,7 @@ Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason present
 **Stephanie** explored the role of implicit racial bias in suicide risk assessments among adolescent virtual patients.  
 **Jade** inquired if the elevation effects of negative emotional response resulted from the clinician's implicit racial bias against the Black would be alleviated by clinicians being more mindful in the interaction.  
 **Wendy** looked into whether the poor emotional regulation skills would lead to more ruptures in therapeutic alliance.  
-**Runqin** researched the role of implicit racial biases in clinician's interview (therapy) experiences. 
+**Runqin** researched the role of implicit racial biases in clinician's interview (therapy) experiences.  
 **Ronit** explored the interplay between implicit racial bias and clinician emotional responses such that they would report more positive responses but display more negative facial expressions.  
 **Jason** examined if implicit racial biases impede clinicians' empathy. 
 
