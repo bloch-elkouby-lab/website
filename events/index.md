@@ -13,7 +13,7 @@ nav:
   {% capture text %}
   Between November 8th and 11th, 2025, Dr. Sarah Bloch-Elkouby will be presenting at the IASR/AFSP International Summit on Suicide Research in Boston, Massachusetts. This global summit aims to unite leading researchers in suicide prevention and foster innovative, interdisciplinary collaborations.
 
-  Dr. Bloch-Elkouby will participate in the symposium titled:
+  Dr. Bloch-Elkouby will chair the symposium titled:
   
   _“Revolutionizing Suicide Risk Assessment and Training with AI: Insights from Virtual Human Interactions and Natural Language Processing Cutting-Edge Studies.”_
 
@@ -34,7 +34,7 @@ nav:
 
 {% include section.html %}
   {% capture text %}
-  This November, Dr. Sarah Bloch-Elkouby will be presenting at a conference in Lausanne, Switzerland, as part of ongoing international efforts to advance suicide prevention research and clinical practice.
+  This November, Dr. Sarah Bloch-Elkouby will be a keynote speaker at a conference in Lausanne, Switzerland, as part of ongoing international efforts to advance suicide prevention research and clinical practice.
 
   **Title:**  
   _The Therapeutic Alliance in Suicidal Crisis: Clinical Challenges and Intervention Pathways_
