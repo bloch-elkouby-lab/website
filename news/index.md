@@ -173,7 +173,7 @@ Alexis Aberman and Talia Rosen have been named as the recipients of the North Am
 {% capture text %}
 
 
-Congratulations to all of the doctoral student lab members, for the incredible externship sites they have matched with for 2025-2026!
+Congratulations to all of the doctoral student lab members for the incredible externship sites they have matched with for 2025-2026!
 
 **Alexis Aberman** - NYU Langone Military Family Center;
 **Jason Tortora** - Kingsboro Psychiatric Center;
