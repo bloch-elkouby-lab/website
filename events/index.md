@@ -1,8 +1,8 @@
 ---
-title: Events
+title: Upcoming Events
 nav:
   order: 8
-  tooltip: Events 
+  tooltip: Upcoming Events 
 ---
 
 # Upcoming Events
