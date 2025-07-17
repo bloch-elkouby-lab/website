@@ -104,7 +104,8 @@ Alexis Aberman was named a recipient of the Society for the Advancement of Psych
 
 {% endcapture %}
 
-{%
+{% 
+  include feature.html
   image="images/news-Alexis_grant.png"
   title="Society for the Advancement of Psychotherapy's Student Research Grant"
   text=text
@@ -125,7 +126,8 @@ Ronit Shvarzman was awarded a trainee conference travel award and will be travel
 
 {% endcapture %}
 
-{%
+{% 
+  include feature.html
   image="images/news-SPR_travel_award.jpg"
   link=""
   title="Trainee Conference Travel Award"
@@ -147,7 +149,8 @@ Alexis Aberman and Talia Rosen have been named as the recipients of the North Am
 
 {% endcapture %}
 
-{%
+{% 
+  include feature.html
   image="images/news-spr2025_talia_alexis.jpg"
   link=""
   title="John and Elaine Altmaier Depression Research Grant"
@@ -157,6 +160,7 @@ Alexis Aberman and Talia Rosen have been named as the recipients of the North Am
   style="bare"
   text=text
 %}
+
 
 {% include section.html %}
 
