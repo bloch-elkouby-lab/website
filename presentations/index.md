@@ -75,7 +75,6 @@ Aafjes-van Doorn &amp; **Bloch-Elkouby, S.** &amp; (2025, June). “The impact o
 **Bloch-Elkouby, S.**. (2014, April). _One complex case, three integrative theory options_. Panel chaired at the Annual Meeting of the Society for the Exploration of Psychotherapy Integration. Montreal, Canada.
 
 <h2 id="Lectures">Invited lectures</h2>
-## Invited lectures
 
 _Upcoming_: **Bloch-Elkouby, S.** (2025, November 18 th ). _The therapeutic alliance with High-Risk Patients: Challenges and Opportunities_. Invited keynote speaker at the University Institute of Psychotherapy of Lauzanne University,
 Switzerland.
