@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-<nav style="background-color: #aed6f1 ; overflow: hidden;">
+<nav style="background-color: #85c1e9 ; overflow: hidden;">
   <a href="#2025" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2025</a>
   <a href="#2024" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2024</a>
   <a href="#2023" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2023</a>
@@ -18,7 +18,6 @@ nav:
   <a href="#2017" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2017</a>
 </nav>
 
-<br>
 <i>Note: *indicates joint first authorship; ____ indicates contribution by students in the lab</i>
 
 <h2 id="2025">2025</h2>

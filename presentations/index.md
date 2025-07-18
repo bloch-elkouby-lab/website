@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Presentations
 
-<nav style="background-color: #aed6f1 ; overflow: hidden;">
+<nav style="background-color: #85c1e9 ; overflow: hidden;">
   <a href="#Presentation" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">Conference presentations</a>
   <a href="#Panels" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">Panels chaired</a>
   <a href="#Lectures" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">Invited lectures</a>
