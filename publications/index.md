@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-<nav style="background-color: #fdfefe ; overflow: hidden;">
+<nav style="background-color: #ebf5fb ; overflow: hidden;">
   <a href="#2025" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2025</a>
   <a href="#2024" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2024</a>
   <a href="#2023" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2023</a>
