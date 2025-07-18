@@ -7,10 +7,21 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
+<nav style="background-color: #aed6f1 ; overflow: hidden;">
+  <a href="#2025" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2025</a>
+  <a href="#2024" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2024</a>
+  <a href="#2023" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2023</a>
+  <a href="#2022" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2022</a>
+  <a href="#2021" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2021</a>
+  <a href="#2020" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2020</a>
+  <a href="#2019" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2019</a>
+  <a href="#2017" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2017</a>
+</nav>
 
-\* *indicates joint first authorship; ____ indicates contribution by students in the lab*
+<br>
+<i>Note: *indicates joint first authorship; ____ indicates contribution by students in the lab</i>
 
-## 2025
+<h2 id="2025">2025</h2>
 
 Lawrence, O. C., Rogers, M. L., Wolfe, A., **Bloch-Elkouby, S.**, Peterkin, D., Richards, J., Bafna, A., & Galynker, I. (2025). Examining mental health clinicians’ perspectives on the use of virtual patient interactions as a tool for clinical training. https://doi.org/10.1007/s41347-024-00470-2
 
@@ -18,8 +29,7 @@ Lawrence, O. C., Rogers, M. L., Wolfe, A., **Bloch-Elkouby, S.**, Peterkin, D., 
 
 <ins>Goncearenco, I., Bhise, A., Tortora, J., Shi, R.</ins> , & **Bloch-Elkouby, S.** (2025). Suicide, Preparatory Behaviors. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
 
-
-## 2024
+<h2 id="2024">2024</h2>
 
 Boritz, T., **Bloch-Elkouby, S.**, DiBartolomeo, A., & <ins>Aberman, A</ins> . Alliance Rupture and Repair Processes in Borderline Personality Disorder. (2024) In N. Kazantzis (Ed.) Alliance Rupture Repair in Cognitive Behavioral Therapies. Springer Nature. (In Press)
 
@@ -37,7 +47,7 @@ Sarli, G., Rogers, M. L., **Bloch-Elkouby, S.**, Lawrence, O. C., Gomes de Sique
 
 Cohen, L. J., Hernandez, M., Mokhtar, R., Richards, J., **Bloch-Elkouby, S.**, Rogers, M. L., & Galynker, I. (2023). Stressful life events and near-term suicidal risk in a clinical population. Psychiatric quarterly, 94(3), 467-482.
 
-## 2023
+<h2 id="2023">2023</h2>
 
 **Bloch‐Elkouby, S.**, Zilcha‐Mano, S., Rogers, M. L., Park, J. Y., Manlongat, K., Krumerman, M., & Galynker, I. (2023). Who are the patients who deny suicidal intent? Exploring patients' characteristics associated with self‐disclosure and denial of suicidal intent. Acta Psychiatrica Scandinavica, 147(2), 205-216. https://doi.org/10.1111/acps.13511
 
@@ -45,7 +55,7 @@ Cohen, L. J., Imbastaro, B., Peterkin, D., **Bloch‐Elkouby, S.**, Wolfe, A., &
 
 **Bloch-Elkouby, S.**, <ins>Yanez, N., Chennapragada, L</ins> ., Richards, J., Cohen, L., & Galynker, I. (2023). The Narrative-Crisis Model of Suicide: a Novel and Empirically-Validated Diathesis-Stress Model of Suicide. In: Pompili, M. (eds) Suicide Risk Assessment and Prevention. Springer, Cham. https://doi.org/10.1007/978-3-030-41319-4_14-1
 
-## 2022
+<h2 id="2022">2022</h2>
 
 Park, J. Y., Rogers, M. L., **Bloch‐Elkouby, S.**, Richards, J. A., Lee, S., Galynker, I., & You, S. (2023). Factor structure and validation of the revised Suicide Crisis Inventory in a Korean population. Psychiatry investigation, 20(2), 162-173. https://doi.org/10.30773/pi.2022.0208
 
@@ -57,7 +67,7 @@ Cohen, L. J., Mokhtar, R., Richards, J., Hernandez, M., **Bloch‐Elkouby, S.**,
 
 **\*** **Bloch‐Elkouby, S.**, & Barzilay, S. (2022). Alliance-focused safety planning and suicide risk management. Psychotherapy, 59(2), 157-162. https://doi.org/10.1037/pst0000416
 
-## 2021
+<h2 id="2021">2021</h2>
 
 **Bloch‐Elkouby, S.**, Barzilay, S., Gorman, B. S., Lawrence, O. C., Rogers, M. L., Richards, J., Cohen, L., Johnson, B. & Galynker, I. (2021). The revised suicide crisis inventory (SCI-2): Validation and assessment of prospective suicidal outcomes at one month follow-up. Journal of affective disorders, 295, 1280-1291. https://doi.org/10.1016/j.jad.2021.08.048
 
@@ -72,7 +82,7 @@ McMullen, L., Parghi, N., Rogers, M. L., Yao, H., **Bloch‐Elkouby, S.**, & Gal
 Gomes de Siqueira, A., Yao, H., Bafna, A., **Bloch‐Elkouby, S.**, Richards, J., Lloveras, L. B., Feeney, K., Morris, S., Musser, E., Lok, B. & Galynker, I. (2021, December). Investigating the Effects of Virtual Patients’ Nonsensical Responses on Users’ Facial Expressions in Mental Health Training Scenarios. In Proceedings of the 27th ACM Symposium on Virtual Reality Software and Technology (pp. 1-10). https://doi.org/10.1145/3489849.3489864
 
 
-## 2020
+<h2 id="2020">2020</h2>
 
 **Bloch‐Elkouby, S.**, Gorman, B., Lloveras, L., Wilkerson. T., Schuck, A., Barzilay, S., Calati, R., Schnur, D., & Galynker, I. (2020). How do distal and proximal risk factors combine to predict suicidal ideation and behaviors? A prospective study of the narrative crisis model of suicide. Journal of Affective Disorders, 277, 914-926. https://doi.org/10.1016/j.jad.2020.08.088
 
@@ -84,7 +94,7 @@ Calati, R., Cohen, L. J., Schuck, A., Jeon, M., Levy, D., **Bloch‐Elkouby, S.*
 
 Zilcha-Mano, S., Eubanks, C. F., **Bloch‐Elkouby, S.**, & Muran, J. C. (2020) Can we agree we just had a rupture? Patient-therapist congruence on ruptures and its effects on outcome in brief relational therapy vs. cognitive behavioral therapy. Journal of counseling psychology,  67 (3), 315. https://doi.org/10.1037/cou0000400
 
-## 2019
+<h2 id="2019">2019</h2>
 
 Barzilay, S., Schuck A., Bloch-Elkouby, S., Yaseen, S., Hawes, M., Rosenfield, P., Foster, A., & Galynker, I. (2019) Associations between Clinicians’ Emotional Responses, Therapeutic Alliance and Patient Suicidal Ideation. Depression and anxiety, 37(3), 214-223. https://doi.org/10.1002/da.22973
 
@@ -94,7 +104,8 @@ Yaseen, Z., **Bloch‐Elkouby, S.**, Barzilay, S., & Galynker, I. (2019). Teachi
 
 Schuck, A., Calati, R., Barzilay, S., **Bloch‐Elkouby, S.**, & Galynker, I. (2019). Suicide Crisis Syndrome: A review of supporting evidence for a new suicide‐specific diagnosis. Behavioral sciences & the law, 37(3), 223-239. https://doi.org/10.1002/bsl.2397
 
-## 2017
+<h2 id="2017">2017</h2>
+
 **Bloch‐Elkouby, S.**, Knopf, L., Gold, J., Muran, J.C. (2017). Assimilative psychodynamic psychotherapy: A critical case study reconsideration. Journal of Psychotherapy Integration, 27, 254–264. https://doi.org/10.1037/int0000062
 
 Chui, A., **Bloch‐Elkouby, S.**, & Barber, J. (2017). Benefits and Challenges: A Closer Look at Case Studies within Trials. In Fishman, D.B., Messer, S.B., Edwards, D.J.A., & Dattilio, F.M. (Eds.). Case studies within psychotherapy trials: Expanding the gold standard. New York: Oxford University Press.
