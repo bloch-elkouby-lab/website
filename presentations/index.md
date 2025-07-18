@@ -7,11 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Presentations
 
-<nav style="background-color: #85c1e9 ; overflow: hidden;">
-  <a href="#Presentation" style="float: center; color: white; padding: 16px 18px; text-decoration: none; font-weight: bold">Conference presentations</a>
-  <a href="#Panels" style="float: center; color: white; padding: 16px 18px; text-decoration: none; font-weight: bold">Panels chaired</a>
-  <a href="#Lectures" style="float: center; color: white; padding: 16px 18px; text-decoration: none; font-weight: bold">Invited lectures</a>
-  <a href="#Posters" style="float: center; color: white; padding: 16px 18px; text-decoration: none; font-weight: bold">Poster</a>
+<nav style="background-color: #fdfefe ; overflow: hidden;">
+  <a href="#Presentation" style="float: center; color: #5dade2; padding: 16px 18px; text-decoration: none; font-weight: bold">Conference presentations</a>
+  <a href="#Panels" style="float: center; color: #5dade2; padding: 16px 18px; text-decoration: none; font-weight: bold">Panels chaired</a>
+  <a href="#Lectures" style="float: center; color: #5dade2; padding: 16px 18px; text-decoration: none; font-weight: bold">Invited lectures</a>
+  <a href="#Posters" style="float: center; color: #5dade2; padding: 16px 18px; text-decoration: none; font-weight: bold">Poster</a>
 </nav>
 
 <h2 id="Presentation">Conference presentations</h2>
