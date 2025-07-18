@@ -17,8 +17,8 @@ nav:
   
   _“Revolutionizing Suicide Risk Assessment and Training with AI: Insights from Virtual Human Interactions and Natural Language Processing Cutting-Edge Studies.”_
 
-  The presentation schedule will be provided once finalized. Stay tuned for updates as the event approaches!
-
+  Details of the presentation will be provide on this website once finalized. Please stay tuned for more updates!
+  
   {% endcapture %}
 
   {% include feature.html
@@ -34,16 +34,16 @@ nav:
 
 {% include section.html %}
   {% capture text %}
-  This November, Dr. Sarah Bloch-Elkouby will be a keynote speaker at a conference in Lausanne, Switzerland, as part of ongoing international efforts to advance suicide prevention research and clinical practice.
+  This November, Dr. Sarah Bloch-Elkouby will be presenting at a conference in Lausanne, Switzerland, as part of ongoing international efforts to advance suicide prevention research and clinical practice.
 
   **Title:**  
   _The Therapeutic Alliance in Suicidal Crisis: Clinical Challenges and Intervention Pathways_
 
-  Her talk will explore the complex interpersonal dynamics that can arise in therapy with individuals at high risk for suicide, particularly those with histories of relational trauma or insecure attachment. Emphasis will be placed on how these challenges impact the formation of a therapeutic alliance—an essential protective factor in suicide prevention.
+  This talk will explore the complex interpersonal dynamics in therapy sessions with individuals at high risk for suicide, particularly those with insecure attachment style and previous histories of relational trauma. Emphasis will be placed on how these challenges impact the formation of therapeutic alliance, which is an essential protective factor in suicide prevention.
 
-  The presentation will include a review of recent research and introduce practical clinical tools to strengthen the therapeutic alliance during crisis, such as narrative-informed assessment models, alliance-centered safety planning, and integrative inpatient interventions. It will also highlight innovative training resources utilizing artificial intelligence to support clinicians in managing high-risk situations.
+  The presentation will include a review of recent research and introduce practical clinical tools that strengthen the therapeutic alliance during crisis, such as narrative-informed assessment models, alliance-centered safety planning, and integrative in-patient interventions. It will also highlight the current innovative training resources that utilizes artificial intelligence to support clinicians in accessing and managing high-risk situations.
 
-  Stay tuned for more updates on this important event.
+  Details of the presentation will be provide on this website once finalized. Please stay tuned for more updates!
   {% endcapture %}
 
   {% include feature.html
