@@ -8,14 +8,14 @@ nav:
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 <nav style="background-color: #85c1e9 ; overflow: hidden;">
-  <a href="#2025" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2025</a>
-  <a href="#2024" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2024</a>
-  <a href="#2023" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2023</a>
-  <a href="#2022" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2022</a>
-  <a href="#2021" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2021</a>
-  <a href="#2020" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2020</a>
-  <a href="#2019" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2019</a>
-  <a href="#2017" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">2017</a>
+  <a href="#2025" style="float: center; color: white; padding: 16px 18px; text-decoration: none; font-weight: bold">2025</a>
+  <a href="#2024" style="float: center; color: white; padding: 16px 18px; text-decoration: none; font-weight: bold">2024</a>
+  <a href="#2023" style="float: center; color: white; padding: 16px 18px; text-decoration: none; font-weight: bold">2023</a>
+  <a href="#2022" style="float: center; color: white; padding: 16px 18px; text-decoration: none; font-weight: bold">2022</a>
+  <a href="#2021" style="float: center; color: white; padding: 16px 18px; text-decoration: none; font-weight: bold">2021</a>
+  <a href="#2020" style="float: center; color: white; padding: 16px 18px; text-decoration: none; font-weight: bold">2020</a>
+  <a href="#2019" style="float: center; color: white; padding: 16px 18px; text-decoration: none; font-weight: bold">2019</a>
+  <a href="#2017" style="float: center; color: white; padding: 16px 18px; text-decoration: none; font-weight: bold">2017</a>
 </nav>
 
 <i>Note: *indicates joint first authorship; ____ indicates contribution by students in the lab</i>
