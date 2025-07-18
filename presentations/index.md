@@ -7,7 +7,14 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Presentations
 
-## Conference presentations
+<nav style="background-color: #2471a3 ; overflow: hidden;">
+  <a href="#Presentation" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">Conference presentations</a>
+  <a href="#Panels" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">Panels chaired</a>
+  <a href="#Lectures" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">Invited lectures</a>
+  <a href="#Posters" style="float: center; color: white; padding: 14px 16px; text-decoration: none; font-weight: bold">Poster</a>
+</nav>
+
+<h2 id="Presentation">Conference presentations</h2>
 
 **Bloch-Elkouby, S.**, Gomes de Siqueira, A., Johnson, B., <ins>Jones, A, Chen, J.</ins>, Lok, B., &amp; Galynker, I. The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study. In S. Eberhardt & T. Steinbrenner (chair) _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_. Paper in a panel presented at the 2025 annual conference of SPR in Krakow, Poland.
 
@@ -51,7 +58,7 @@ Eubanks-Carter, C., **Bloch-Elkouby, S.**, Hungr, C., Muran, J.C., Safran, J. (2
 
 **Bloch-Elkouby, S.** (2013, June). _Integrative therapy in effect: A case study_. Paper Presented at the Annual Meeting of the Society for the Exploration of Psychotherapy Integration. Barcelona, Spain.
 
-## Panels chaired
+<h2 id="Panels">Panels chaired</h2>
 
 Aafjes-van Doorn &amp; **Bloch-Elkouby, S.** &amp; (2025, June). “The impact of AI on psychotherapy: New developments and future directions.” Invited Semi-Plenary at the Annual Meeting of the Society for Psychotherapy Research, Krakow, Poland.
 
@@ -67,6 +74,7 @@ Aafjes-van Doorn &amp; **Bloch-Elkouby, S.** &amp; (2025, June). “The impact o
 
 **Bloch-Elkouby, S.**. (2014, April). _One complex case, three integrative theory options_. Panel chaired at the Annual Meeting of the Society for the Exploration of Psychotherapy Integration. Montreal, Canada.
 
+<h2 id="Lectures">Invited lectures</h2>
 ## Invited lectures
 
 _Upcoming_: **Bloch-Elkouby, S.** (2025, November 18 th ). _The therapeutic alliance with High-Risk Patients: Challenges and Opportunities_. Invited keynote speaker at the University Institute of Psychotherapy of Lauzanne University,
@@ -88,8 +96,7 @@ Switzerland.
 
 **Bloch-Elkouby, S.** (2017, March 16). Moderator for the panel: _Striving and Struggling: Stories from Schechter Manhattan Parents about Race_. Panel hosted by Solomon Schechter School of Manhattan. New York, NY
 
-
-## Posters 
+<h2 id="Posters">Posters</h2>
 
 <ins>Bhise, A., Baruch, L., Datta, S., Eid, T., Wei, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025, June 25-28). The Impact of Virtual Patients’ Race on Clinical Judgement: A Qualitative Analysis of 150 Case Conceptualization Narratives. Poster presented the Annual Meeting of the Society for Psychotherapy Research, Kraków, Poland.
 
