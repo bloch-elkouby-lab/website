@@ -10,7 +10,7 @@ nav:
 <nav style="background-color: #ebf5fb ; overflow: hidden;">
   <a href="#Presentation" style="float: center; color: #5dade2; padding: 16px 18px; text-decoration: none; font-weight: bold">Conference presentations</a>
   <a href="#Panels" style="float: center; color: #5dade2; padding: 16px 18px; text-decoration: none; font-weight: bold">Panels chaired</a>
-  <a href="#Lectures" style="float: center; color: #5dade2; padding: 16px 18px; text-decoration: none; font-weight: bold">Invited lectures</a>
+  <a href="#Lecture" style="float: center; color: #5dade2; padding: 16px 18px; text-decoration: none; font-weight: bold">Invited lectures</a>
   <a href="#Posters" style="float: center; color: #5dade2; padding: 16px 18px; text-decoration: none; font-weight: bold">Poster</a>
 </nav>
 
@@ -74,7 +74,7 @@ Aafjes-van Doorn &amp; **Bloch-Elkouby, S.** &amp; (2025, June). “The impact o
 
 **Bloch-Elkouby, S.**. (2014, April). _One complex case, three integrative theory options_. Panel chaired at the Annual Meeting of the Society for the Exploration of Psychotherapy Integration. Montreal, Canada.
 
-<h2 id="Lectures">Invited lectures</h2>
+<h2 id="Lecture">Invited lectures</h2>
 
 _Upcoming_: **Bloch-Elkouby, S.** (2025, November 18 th ). _The therapeutic alliance with High-Risk Patients: Challenges and Opportunities_. Invited keynote speaker at the University Institute of Psychotherapy of Lauzanne University,
 Switzerland.
