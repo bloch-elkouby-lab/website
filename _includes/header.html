@@ -27,7 +27,7 @@
       </span>
     {% endif %}
     {% if site.logo-text != false %}
-      <span class="title" data-tooltip="Home">
+      <span class="title">
         {% if site.title and site.show-title != false %}
           <span>{{ site.title }}</span>
         {% endif %}
@@ -48,32 +48,24 @@
     {% assign all_pages = site.pages | where_exp: "page", "page.nav" %}
     {% assign top_pages = all_pages | where_exp: "page", "page.parent == nil or page.parent == ''" | sort: "nav.order" %}
 
-
     {% for parent in top_pages %}
       {% assign children = all_pages | where: "parent", parent.title | sort: "nav.order" %}
 
       {% if children.size > 0 %}
         <div class="dropdown">
-          <a
-            href="{{ parent.url | relative_url }}"
-            class="dropdown-toggle"
-          >
+          <a href="{{ parent.url | relative_url }}" class="dropdown-toggle">
             {{ parent.title }}
           </a>
           <div class="dropdown-menu">
             {% for child in children %}
-              <a
-                href="{{ child.url | relative_url }}"
-              >
+              <a href="{{ child.url | relative_url }}">
                 {{ child.title }}
               </a>
             {% endfor %}
           </div>
         </div>
       {% else %}
-        <a
-          href="{{ parent.url | relative_url }}"
-        >
+        <a href="{{ parent.url | relative_url }}">
           {{ parent.title }}
         </a>
       {% endif %}
