@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Join the team / Collaborate
 parent: Team
 nav:
   order: 1
