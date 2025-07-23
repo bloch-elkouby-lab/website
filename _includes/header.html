@@ -57,7 +57,6 @@
           <a
             href="{{ parent.url | relative_url }}"
             class="dropdown-toggle"
-            data-tooltip="{{ parent.nav.tooltip }}"
           >
             {{ parent.title }}
           </a>
@@ -65,7 +64,6 @@
             {% for child in children %}
               <a
                 href="{{ child.url | relative_url }}"
-                data-tooltip="{{ child.nav.tooltip }}"
               >
                 {{ child.title }}
               </a>
@@ -75,7 +73,6 @@
       {% else %}
         <a
           href="{{ parent.url | relative_url }}"
-          data-tooltip="{{ parent.nav.tooltip }}"
         >
           {{ parent.title }}
         </a>
