@@ -174,29 +174,38 @@ header[data-big] {
   display: inline-block;
 
   .dropdown-toggle {
-    padding: 10px;
+    padding: 10px 15px;
     display: block;
+    font-weight: 500;
+    cursor: pointer;
   }
 
   .dropdown-menu {
     display: none;
     position: absolute;
-    left: 0;
     top: 100%;
+    left: 0;
+    margin-top: 10px;
     background: white;
-    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
     min-width: 160px;
     z-index: 1000;
+    padding: 10px 0;
+    border: none;
 
     a {
       display: block;
-      padding: 10px;
-      white-space: nowrap;
+      padding: 10px 20px;
+      font-size: 14px;
+      font-weight: 400;
+      color: #222;
       text-decoration: none;
-      color: #333;
+      white-space: nowrap;
+      transition: background 0.2s;
 
       &:hover {
-        background-color: #f2f2f2;
+        background: #f2f2f2;
       }
     }
   }
@@ -205,3 +214,4 @@ header[data-big] {
     display: block;
   }
 }
+
