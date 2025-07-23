@@ -22,6 +22,8 @@ We are known to be a productive lab at Yeshiva University and Mount Sinai. In th
 
 RAs also have the opportunities to take the lead in new projects, conduct their own projects, conduct additional analysis, present posters on the lab projects, and participate in manuscript writing. 
 
+Unfortunately, since Dr. Bloch-Elkouby is an assistant professor at the PsyD program, she cannot take a PhD student. 
+
 ## Current Openings
 
 Due to limited funding, we only offer unpaid volunteer positions. Research assistants and coordinators are all part-time and fully remote. You can arrange your own time to do the lab work and collaborate with labmates. 
