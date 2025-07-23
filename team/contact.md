@@ -1,6 +1,6 @@
 ---
 title: Contact
-parent: team
+parent: Team
 nav:
   order: 1
   tooltip: Contact the Team
