@@ -70,7 +70,7 @@ The lab is focusing on suicide prevention, psychotherapy process and multi-cultu
 {% capture text %}
 
 Our team consists of graduate students who are passionate about advancing clinical psychology research and practice to benefit society and improve lives.
-
+<p>
 {%
   include button.html
   link="team"
@@ -79,8 +79,9 @@ Our team consists of graduate students who are passionate about advancing clinic
   flip=true
   style="bare"
 %}
-  
-  
+</p>
+
+<p>
 {%
   include button.html
   link="team/contact"
@@ -89,6 +90,7 @@ Our team consists of graduate students who are passionate about advancing clinic
   flip=true
   style="bare"
 %}
+</p>
 
 {% endcapture %}
 
