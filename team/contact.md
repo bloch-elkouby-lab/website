@@ -40,21 +40,27 @@ Requirement:
 * **At least one year commitment, though a two-year commitment is preferred**
 * **6 to 10 hours of weekly commitment**
 
+<div class="dense-list">
+
 If you have the following skills, we would appreciate if you attach supporting materials to demonstrate your skills:
-* Data processing via SPSS, R, or Python 
-    * Attach a previous data cleaning manual, syntax, R script, or Python script
-* Inferential statistics via SPSS, R, or Python
-    * Attach a previous data analyis section in academic writing, syntax, R script, or Python script
-* Clinical knowledge, particularly in diagnostic interviews, therapeutic alliance, and suicide prevention
-    * Attach a transcript with courses, CV describing clinical experiences, or workshop certificate
-* Recruitment poster making
-    * Attach previous flyers or posters
-* Website management
-    * Attach your Github profile link
-* Academic writing
-    * Attach posters presented at a conference, papers submitted to a journal, or a thesis. 
-* Academic achievement 
-    * Attach a transcript
+
+* Data processing via SPSS, R, or Python  
+  * Attach a previous data cleaning manual, syntax, R script, or Python script
+* Inferential statistics via SPSS, R, or Python  
+  * Attach a previous data analyis section in academic writing, syntax, R script, or Python script
+* Clinical knowledge, particularly in diagnostic interviews, therapeutic alliance, and suicide prevention  
+  * Attach a transcript with courses, CV describing clinical experiences, or workshop certificate
+* Recruitment poster making  
+  * Attach previous flyers or posters
+* Website management  
+  * Attach your Github profile link
+* Academic writing  
+  * Attach posters presented at a conference, papers submitted to a journal, or a thesis
+* Academic achievement  
+  * Attach a transcript
+
+</div>
+
 
 ## How to increase your competitiveness
 

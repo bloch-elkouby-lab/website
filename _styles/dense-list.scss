@@ -1,0 +1,18 @@
+---
+---
+
+.dense-list ul,
+.dense-list ol {
+  padding-left: 1.5em;
+  margin: 0;
+
+  li {
+    margin: 0.2em 0;
+    line-height: 1.4;
+
+    ul, ol {
+      margin: 0.2em 0;
+      padding-left: 1.2em;
+    }
+  }
+}
