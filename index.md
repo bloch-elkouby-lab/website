@@ -79,7 +79,8 @@ Our team consists of graduate students who are passionate about advancing clinic
   flip=true
   style="bare"
 %}
-
+  
+  
 {%
   include button.html
   link="team/contact"
