@@ -143,7 +143,17 @@ header[data-big] .title > *:last-child:not(:only-child) {
   font-size: var(--large);
 }
 
-.dropdown-menu {
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown .dropdown-toggle {
+  padding: 10px 15px;
+  display: block;
+  font-weight: 500;
+  cursor: pointer;
+}
+.dropdown .dropdown-menu {
   display: none;
   position: absolute;
   top: 100%;
@@ -157,7 +167,7 @@ header[data-big] .title > *:last-child:not(:only-child) {
   padding: 10px 0;
   border: none;
 }
-.dropdown-menu a {
+.dropdown .dropdown-menu a {
   display: block;
   padding: 10px 20px;
   font-size: 14px;
@@ -167,7 +177,7 @@ header[data-big] .title > *:last-child:not(:only-child) {
   white-space: nowrap;
   transition: background 0.2s;
 }
-.dropdown-menu a:hover {
+.dropdown .dropdown-menu a:hover {
   background: #f2f2f2;
 }
 
