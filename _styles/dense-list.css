@@ -1,0 +1,18 @@
+.dense-list ul,
+.dense-list ol {
+  padding-left: 1.5em;
+  margin: 0;
+}
+.dense-list ul li,
+.dense-list ol li {
+  margin: 0.2em 0;
+  line-height: 1.4;
+}
+.dense-list ul li ul, .dense-list ul li ol,
+.dense-list ol li ul,
+.dense-list ol li ol {
+  margin: 0.2em 0;
+  padding-left: 1.2em;
+}
+
+/*# sourceMappingURL=dense-list.css.map */
