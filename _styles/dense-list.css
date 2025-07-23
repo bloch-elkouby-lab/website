@@ -5,8 +5,8 @@
 }
 .dense-list ul li,
 .dense-list ol li {
-  margin: 0.2em 0;
-  line-height: 1.4;
+  margin: 0.4em 0;
+  line-height: 1.6;
 }
 .dense-list ul li ul, .dense-list ul li ol,
 .dense-list ol li ul,
