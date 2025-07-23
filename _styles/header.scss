@@ -210,6 +210,8 @@ header[data-big] {
       }
     }
   }
+
+  &:hover .dropdown-menu {
+    display: block;
+  }
 }
-
-
