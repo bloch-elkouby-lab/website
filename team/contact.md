@@ -40,7 +40,7 @@ Requirement:
 * **At least one year commitment, though a two-year commitment is preferred**
 * **6 to 10 hours of weekly commitment**
 
-<div class="dense-list">
+<div class="dense-list" markdown="1">
 
 If you have the following skills, we would appreciate if you attach supporting materials to demonstrate your skills:
 
@@ -62,7 +62,7 @@ If you have the following skills, we would appreciate if you attach supporting m
 </div>
 
 
-## How to increase your competitiveness
+## How to Increase Competitiveness
 
 * Browse lab projects and find what interests you
 * Read lab publications
