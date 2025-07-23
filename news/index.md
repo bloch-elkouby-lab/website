@@ -10,14 +10,24 @@ nav:
 
 {% include search-info.html %}
 
+## Team Memember Updates
+
+{% capture text %}
+
+Congratulations and welcome new RAs who have joined the lab: Angle Wei, Violet Yang⁩, Jhanavi Kumaresh,  Madison Wakely,  Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia⁩ , and Hanjiang Xu. ⁩It is exciting to have you on board and achieve great things together.
+
+At the same time, we'd like to express our gratitude and best wishes to Rebecca Barnes. As her prepare to depart, her contributions to the lab have been truly valued and will be missed. The team wishes all the best for Rebecca's future endeavors!
+
+{% endcapture %}
+
 ## 2025 Annual Conference of Society of Psychotherapy Research
 {% include section.html %}
 
 {% capture text %}
 
-Dr. Bloch-Elkouby moderated the plenary _Friend or foe? An update and future directions on AI applications in psychotherapy research_ with Dr. Aafjes-van Doorn. 
+Dr. Bloch-Elkouby moderated the plenary _Friend or foe? An update and future directions on AI applications in psychotherapy research_ with Dr. Aafjes-van Doorn.
 
-She presented a paper at the SPR 2025 annual conference. In the _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_ panel, she presented the paper **_The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study_**. She was also a discussant of _What’s Tricky about Transforming Training? A Discussion on Training Providers_ structured discussion session. 
+She presented a paper at the SPR 2025 annual conference. In the _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_ panel, she presented the paper **_The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study_**. She was also a discussant of _What’s Tricky about Transforming Training? A Discussion on Training Providers_ structured discussion session.
 
 {% endcapture %}
 
@@ -40,7 +50,7 @@ She presented a paper at the SPR 2025 annual conference. In the _Preventing Setb
 
 {% capture text %}
 
-Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason presented their poster at the 2025 SPR conference. 
+Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason presented their poster at the 2025 SPR conference.
 
 **Jimmy** examined the feasibility of applying virtual patients as a clinical training tool by exploring the impact of technological problems on therapeutic alliance.  
 **Rebecca** investigated whether the higher risk assessment of a patient would lead to lower therapeutic alliance.  
@@ -50,7 +60,7 @@ Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason present
 **Wendy** looked into whether the poor emotional regulation skills would lead to more ruptures in therapeutic alliance.  
 **Runqin** researched the role of implicit racial biases in clinician's interview (therapy) experiences.  
 **Ronit** explored the interplay between implicit racial bias and clinician emotional responses such that they would report more positive responses but display more negative facial expressions.  
-**Jason** examined if implicit racial biases impede clinicians' empathy. 
+**Jason** examined if implicit racial biases impede clinicians' empathy.
 
 {% endcapture %}
 
@@ -101,7 +111,7 @@ In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Tra
 
 {% endcapture %}
 
-{% 
+{%
   include feature.html
   image="images/news-Alexis_grant.png"
   title="Society for the Advancement of Psychotherapy's Student Research Grant"
@@ -119,11 +129,11 @@ In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Tra
 
 {% capture text %}
 
-**Ronit Shvarzman** was awarded a trainee conference travel award and will be traveling to Krakow, Poland, to attend the 2025 SPR Conference and be recognized at the North American Chapter Business Meeting. At the conference, Ronit will present a poster on her research: “Implicit Racial Bias and Clinician Emotional Responses in Psychotherapy: A Virtual Interaction Study.” 
+**Ronit Shvarzman** was awarded a trainee conference travel award and will be traveling to Krakow, Poland, to attend the 2025 SPR Conference and be recognized at the North American Chapter Business Meeting. At the conference, Ronit will present a poster on her research: “Implicit Racial Bias and Clinician Emotional Responses in Psychotherapy: A Virtual Interaction Study.”
 
 {% endcapture %}
 
-{% 
+{%
   include feature.html
   image="images/news-SPR_travel_award.jpg"
   link=""
@@ -146,7 +156,7 @@ In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Tra
 
 {% endcapture %}
 
-{% 
+{%
   include feature.html
   image="images/news-spr2025_talia_alexis.jpg"
   link=""
@@ -278,7 +288,7 @@ We are delighted to announce that our wonderful lab coordinator, Inna Goncearenc
 
 {% capture text %}
 
-We are thrilled to announce that several of our talented lab students have successfully matched with prestigious externship sites. Please join us in congratulating Ronit, Alexis, Adelaide and Shibani on their well-deserved success! We are incredibly proud of their accomplishments! 
+We are thrilled to announce that several of our talented lab students have successfully matched with prestigious externship sites. Please join us in congratulating Ronit, Alexis, Adelaide and Shibani on their well-deserved success! We are incredibly proud of their accomplishments!
 
 *Ronit Shvarzman* matched with the Icahn School of Medicine at Mount Sinai – Psychosis Risk Program
 
@@ -306,7 +316,7 @@ We are thrilled to announce that several of our talented lab students have succe
 {% capture text %}
 
 
-Interested in learning more about suicide prevention and resiliency? Join us on Thursday, 4/4/2024 for a panel discussion, light dinner, and networking! This event is co-sponsored by the Yeshiva University Office of Alumni Affairs, Ferkauf Graduate School of Psychology, Wurzweiler School of Social Work, and the Yeshiva University Counseling Center and will feature Dr. Bloch-Elkouby and several other experts in suicide prevention. 
+Interested in learning more about suicide prevention and resiliency? Join us on Thursday, 4/4/2024 for a panel discussion, light dinner, and networking! This event is co-sponsored by the Yeshiva University Office of Alumni Affairs, Ferkauf Graduate School of Psychology, Wurzweiler School of Social Work, and the Yeshiva University Counseling Center and will feature Dr. Bloch-Elkouby and several other experts in suicide prevention.
 
 [Learn more about the presenters and register here](https://yeshiva.imodules.com/s/1739/images/gid5/editor_documents/flyer_mental_health_with_presenters.pdf?__hstc%253D56700149.127f235496b213a4ef0d3449dec71682.1709856000260.1709856000261.1709856000262.1%2526__hssc%253D56700149.1.1709856000263%2526__hsfp%253D3897018725%2526sessionid%253D768fc85d-13ba-45e9-b36e-e0a5da82a767%2526cc%253D1)
 
@@ -367,7 +377,7 @@ Congratulations, Inna, on the acceptance of your abstract “Hidden Barriers: Ex
 {% capture text %}
 
 
-Dr. Bloch-Elkouby will present preliminary findings about the therapeutic alliance and clinical judgment in therapeutic encounters with AI-powered virtual patients. 
+Dr. Bloch-Elkouby will present preliminary findings about the therapeutic alliance and clinical judgment in therapeutic encounters with AI-powered virtual patients.
 
 {% endcapture %}
 
@@ -406,7 +416,7 @@ Congratulations, Alexis, on the acceptance of your abstract on the role of self-
 
 {% capture text %}
 
-Dr. Bloch-Elkouby will chair a symposium "Using cutting edge AI research to enhance clinical training and suicide prevention" at the upcoming ADAA 2024 conference in Boston on April 11 - 14, 2024. 
+Dr. Bloch-Elkouby will chair a symposium "Using cutting edge AI research to enhance clinical training and suicide prevention" at the upcoming ADAA 2024 conference in Boston on April 11 - 14, 2024.
 
 {% endcapture %}
 
@@ -446,7 +456,7 @@ Dr. Bloch-Elkouby was awarded the Bergin and Garfield Emerging Scholar Award by 
 {% capture text %}
 
 
-American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the project "Effectivness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for post-discharge suicide prevention (Co-investigator: Dr. Bloch-Elkouby). 
+American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the project "Effectivness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for post-discharge suicide prevention (Co-investigator: Dr. Bloch-Elkouby).
 
 {% endcapture %}
 
@@ -465,4 +475,3 @@ American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the pro
 
 
 {% include section.html %}
-
