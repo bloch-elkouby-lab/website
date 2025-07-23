@@ -9,13 +9,12 @@ nav:
 {% include section.html %}
 <p>
   {% capture text %}
-  Between November 8th and 11th, 2025, Dr. Sarah Bloch-Elkouby will be presenting at the IASR/AFSP International Summit on Suicide Research in Boston, Massachusetts. This global summit aims to unite leading researchers in suicide prevention and foster innovative, interdisciplinary collaborations.
+  Between November 8th and 11th, 2025, Dr. Sarah Bloch-Elkouby will chair the symposium at the IASR/AFSP International Summit on Suicide Research in Boston, Massachusetts. This global summit aims to unite leading researchers in suicide prevention and foster innovative, interdisciplinary collaborations.
 
-  Dr. Bloch-Elkouby will chair the symposium titled:
+  **Title:**
+    _Revolutionizing Suicide Risk Assessment and Training with AI: Insights from Virtual Human Interactions and Natural Language Processing Cutting-Edge Studies._
   
-  _“Revolutionizing Suicide Risk Assessment and Training with AI: Insights from Virtual Human Interactions and Natural Language Processing Cutting-Edge Studies.”_
-
-  Details of the presentation will be provide on this website once finalized. Please stay tuned for more updates!
+  The exact session time is to be determined by the Summit Organizers.
   
   {% endcapture %}
 
@@ -32,7 +31,7 @@ nav:
 
 <p>
   {% capture text %}
-  This November, Dr. Sarah Bloch-Elkouby will be presenting at a conference in Lausanne, Switzerland, as part of ongoing international efforts to advance suicide prevention research and clinical practice.
+  This November, Dr. Sarah Bloch-Elkouby will be a keynote speaker at a conference in Lausanne, Switzerland, as part of ongoing international efforts to advance suicide prevention research and clinical practice.
 
   **Title:**  
   _The Therapeutic Alliance in Suicidal Crisis: Clinical Challenges and Intervention Pathways_
@@ -41,11 +40,11 @@ nav:
 
   The presentation will include a review of recent research and introduce practical clinical tools that strengthen the therapeutic alliance during crisis, such as narrative-informed assessment models, alliance-centered safety planning, and integrative in-patient interventions. It will also highlight the current innovative training resources that utilizes artificial intelligence to support clinicians in accessing and managing high-risk situations.
 
-  Details of the presentation will be provide on this website once finalized. Please stay tuned for more updates!
+  The exact time for the presentation is to be determined.
   {% endcapture %}
 
   {% include feature.html
-    title="Talk at Lausanne Conference on Suicide Prevention"
+    title="Keynote Speaker at Lausanne Conference on Suicide Prevention"
     text=text
     image="images/events-2025_keynote_speaker.jpg"
     flip=false
