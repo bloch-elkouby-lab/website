@@ -69,12 +69,21 @@ The lab is focusing on suicide prevention, psychotherapy process and multi-cultu
 
 {% capture text %}
 
-Our team consists of graduate and undergraduate students who are passionate about advancing clinical psychology research and practice to benefit society and improve lives. 
+Our team consists of graduate students who are passionate about advancing clinical psychology research and practice to benefit society and improve lives.
 
 {%
   include button.html
   link="team"
   text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{%
+  include button.html
+  link="team/contact"
+  text="Join our team / Contact for collaboration"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
