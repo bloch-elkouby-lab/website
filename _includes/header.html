@@ -46,7 +46,8 @@
     </a>
 
     {% assign all_pages = site.pages | where_exp: "page", "page.nav" %}
-    {% assign top_pages = all_pages | where_exp: "page", "page.parent == nil" | sort: "nav.order" %}
+    {% assign top_pages = all_pages | where_exp: "page", "page.parent == nil or page.parent == ''" | sort: "nav.order" %}
+
 
     {% for parent in top_pages %}
       {% assign children = all_pages | where: "parent", parent.title | sort: "nav.order" %}
