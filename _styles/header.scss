@@ -167,3 +167,41 @@ header[data-big] {
     font-size: var(--large);
   }
 }
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+
+  .dropdown-toggle {
+    padding: 10px;
+    display: block;
+  }
+
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    background: white;
+    border: 1px solid #ccc;
+    min-width: 160px;
+    z-index: 1000;
+
+    a {
+      display: block;
+      padding: 10px;
+      white-space: nowrap;
+      text-decoration: none;
+      color: #333;
+
+      &:hover {
+        background-color: #f2f2f2;
+      }
+    }
+  }
+
+  &:hover .dropdown-menu {
+    display: block;
+  }
+}

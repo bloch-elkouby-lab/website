@@ -1,5 +1,8 @@
 ---
-title: "Contact"
-permalink: /team/contact
+title: Contact
+parent: team
+nav:
+  order: 1
+  tooltip: Contact the Team
+permalink: /contact/
 ---
-## {% include icon.html icon="fa-solid fa-feather-pointed" %} Contact

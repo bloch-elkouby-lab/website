@@ -48,15 +48,44 @@
       | where_exp: "page", "page.nav"
       | sort: "nav.order"
     %}
-    {% for page in pages %}
-      {% if page.nav %}
-        <a
-          href="{{ page.dir | relative_url }}"
-          data-tooltip="{{ page.nav.tooltip }}"
-        >
-          {{ page.title }}
-        </a>
+    {% assign grouped = pages | group_by_exp: "page", "page.parent" %}
+
+    {% for group in grouped %}
+      {% assign parent = group.name %}
+      {% assign children = group.items %}
+
+      {% if parent == "nil" %}
+        {% for page in children %}
+          <a
+            href="{{ page.url | relative_url }}"
+            data-tooltip="{{ page.nav.tooltip }}"
+          >
+            {{ page.title }}
+          </a>
+        {% endfor %}
+      {% else %}
+        {% assign parent_page = pages | where: "title", parent | first %}
+        <div class="dropdown">
+          <a
+            href="{{ parent_page.url | relative_url }}"
+            class="dropdown-toggle"
+            data-tooltip="{{ parent_page.nav.tooltip }}"
+          >
+            {{ parent_page.title }}
+          </a>
+          <div class="dropdown-menu">
+            {% for child in children %}
+              <a
+                href="{{ child.url | relative_url }}"
+                data-tooltip="{{ child.nav.tooltip }}"
+              >
+                {{ child.title }}
+              </a>
+            {% endfor %}
+          </div>
+        </div>
       {% endif %}
     {% endfor %}
+
   </nav>
 </header>
