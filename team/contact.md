@@ -6,3 +6,5 @@ nav:
   tooltip: Contact the Team
 permalink: /contact/
 ---
+
+## Contact
