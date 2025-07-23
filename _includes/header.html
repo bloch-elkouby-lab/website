@@ -44,35 +44,21 @@
     <a href="{{ "/" | relative_url }}" class="home">
       Home
     </a>
-    {% assign pages = site.pages
-      | where_exp: "page", "page.nav"
-      | sort: "nav.order"
-    %}
-    
-    {% assign grouped = pages | group_by_exp: "page", "page.parent" %}
 
-    {% for group in grouped %}
-      {% assign parent = group.name %}
-      {% assign children = group.items %}
+    {% assign all_pages = site.pages | where_exp: "page", "page.nav" %}
+    {% assign top_pages = all_pages | where_exp: "page", "page.parent == nil" | sort: "nav.order" %}
 
-      {% if parent == "nil" %}
-        {% for page in children %}
-          <a
-            href="{{ page.url | relative_url }}"
-            data-tooltip="{{ page.nav.tooltip }}"
-          >
-            {{ page.title }}
-          </a>
-        {% endfor %}
-      {% else %}
-        {% assign parent_page = pages | where: "title", parent | first %}
+    {% for parent in top_pages %}
+      {% assign children = all_pages | where: "parent", parent.title | sort: "nav.order" %}
+
+      {% if children.size > 0 %}
         <div class="dropdown">
           <a
-            href="{{ parent_page.url | relative_url }}"
+            href="{{ parent.url | relative_url }}"
             class="dropdown-toggle"
-            data-tooltip="{{ parent_page.nav.tooltip }}"
+            data-tooltip="{{ parent.nav.tooltip }}"
           >
-            {{ parent_page.title }}
+            {{ parent.title }}
           </a>
           <div class="dropdown-menu">
             {% for child in children %}
@@ -85,8 +71,14 @@
             {% endfor %}
           </div>
         </div>
+      {% else %}
+        <a
+          href="{{ parent.url | relative_url }}"
+          data-tooltip="{{ parent.nav.tooltip }}"
+        >
+          {{ parent.title }}
+        </a>
       {% endif %}
     {% endfor %}
-
   </nav>
 </header>
