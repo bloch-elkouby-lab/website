@@ -2,7 +2,6 @@
 title: Presentations
 nav:
   order: 5
-  tooltip: Presentations
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Presentations

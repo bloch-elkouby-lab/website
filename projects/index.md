@@ -2,7 +2,6 @@
 title: Projects
 nav:
   order: 3
-  tooltip: Projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
