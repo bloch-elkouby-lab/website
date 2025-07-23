@@ -36,25 +36,25 @@ The lab cannot sponsor H1-B visa. The applicant will need to hold a F-1 or J-1 s
 Please title your email RA Application: [Your Name], attach your CV, cover letter, and supporting materials such as an unofficial transcript and academic writing samples. 
 
 Requirement: 
-  * **Attend the weekly team meeting (1pm-2pm US Eastern time Monday on Zoom)**
-  * **At least one year commitment, though a two-year commitment is preferred**
-  * **6 to 10 hours of weekly commitment**
+* **Attend the weekly team meeting (1pm-2pm US Eastern time Monday on Zoom)**
+* **At least one year commitment, though a two-year commitment is preferred**
+* **6 to 10 hours of weekly commitment**
 
 If you have the following skills, we would appreciate if you attach supporting materials to demonstrate your skills:
 * Data processing via SPSS, R, or Python 
-  * Attach a previous data cleaning manual, syntax, R script, or Python script
+    * Attach a previous data cleaning manual, syntax, R script, or Python script
 * Inferential statistics via SPSS, R, or Python
-  * Attach a previous data analyis section in academic writing, syntax, R script, or Python script
+    * Attach a previous data analyis section in academic writing, syntax, R script, or Python script
 * Clinical knowledge, particularly in diagnostic interviews, therapeutic alliance, and suicide prevention
-  * Attach a transcript with courses, CV describing clinical experiences, or workshop certificate
+    * Attach a transcript with courses, CV describing clinical experiences, or workshop certificate
 * Recruitment poster making
-  * Attach previous flyers or posters
+    * Attach previous flyers or posters
 * Website management
-  * Attach your Github profile link
+    * Attach your Github profile link
 * Academic writing
-  * Attach posters presented at a conference, papers submitted to a journal, or a thesis. 
+    * Attach posters presented at a conference, papers submitted to a journal, or a thesis. 
 * Academic achievement 
-  * Attach a transcript
+    * Attach a transcript
 
 ## How to increase your competitiveness
 
