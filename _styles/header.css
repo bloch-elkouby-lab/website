@@ -180,5 +180,8 @@ header[data-big] .title > *:last-child:not(:only-child) {
 .dropdown .dropdown-menu a:hover {
   background: #f2f2f2;
 }
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
 
 /*# sourceMappingURL=header.css.map */
