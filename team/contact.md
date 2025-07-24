@@ -8,7 +8,7 @@ permalink: /contact/
 
 # Collaborate
 
-If you would like to collaborate with the lab, you can email Sarah Bloch-Elkouby, PhD. at [sarahelkouby@hotmail.com](mailto:sarahelkouby@hotmail.com).
+If you would like to collaborate with the lab, you can email Sarah Bloch-Elkouby, PhD. at [sarah.blochelkouby@yu.edu](mailto:sarah.blochelkouby@yu.edu).
 
 
 # Join the team
@@ -22,13 +22,9 @@ We are known to be a productive lab at Yeshiva University and Mount Sinai. In th
 
 RAs also have the opportunities to take the lead in new projects, conduct their own projects, conduct additional analysis, present posters on the lab projects, and participate in manuscript writing. 
 
-Unfortunately, since Dr. Bloch-Elkouby is an assistant professor at the PsyD program, she cannot take a PhD student. 
-
 ## Current Openings
 
-Due to limited funding, we only offer unpaid volunteer positions. Research assistants and coordinators are all part-time and fully remote. You can arrange your own time to do the lab work and collaborate with labmates. 
-
-We are not actively recruiting as of July 22, 2025. However, we will keep your information and reach out to you once we have an opening. 
+We are not actively recruiting as of July 22, 2025. However, if your interests and skills allign with the lab, please feel free to reach out. 
 
 ## International Students
 
@@ -52,8 +48,6 @@ If you have the following skills, we would appreciate if you attach supporting m
   * Attach a previous data analyis section in academic writing, syntax, R script, or Python script
 * Clinical knowledge, particularly in diagnostic interviews, therapeutic alliance, and suicide prevention  
   * Attach a transcript with courses, CV describing clinical experiences, or workshop certificate
-* Recruitment poster making  
-  * Attach previous flyers or posters
 * Website management  
   * Attach your Github profile link
 * Academic writing  
