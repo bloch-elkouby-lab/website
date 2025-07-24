@@ -1,7 +1,10 @@
 ---
 title: Projects
+parent: Research
 nav:
-  order: 3
+  order: 1
+
+permalink: /projects/
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects

@@ -2,7 +2,8 @@
 title: Presentations
 parent: Research
 nav:
-  order: 5
+  order: 2
+permalink: /presentations/
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Presentations

@@ -1,7 +1,9 @@
 ---
 title: Publications
+parent: Research
 nav:
-  order: 4
+  order: 3
+permalink: /publications/
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research

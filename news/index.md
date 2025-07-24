@@ -1,7 +1,7 @@
 ---
 title: News
 nav:
-  order: 7
+  order: 6
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}News

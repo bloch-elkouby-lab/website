@@ -1,6 +1,5 @@
 ---
-title: Presentations
-parent: Research
+title: Research
 nav:
   order: 3
 ---
