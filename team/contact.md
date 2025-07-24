@@ -51,7 +51,7 @@ If you have the following skills, we would appreciate if you attach supporting m
 * Website management  
   * Attach your Github profile link
 * Academic writing  
-  * Attach posters presented at a conference, papers submitted to a journal, or a thesis
+  * Attach a writing sample
 * Academic achievement  
   * Attach a transcript
 
