@@ -84,7 +84,7 @@ Our team consists of graduate students who are passionate about advancing clinic
 <p>
 {%
   include button.html
-  link="team/contact"
+  link="contact"
   text="Join our team / Contact for collaboration"
   icon="fa-solid fa-arrow-right"
   flip=true
