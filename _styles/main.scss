@@ -6,3 +6,22 @@ main {
   flex-direction: column;
   flex-grow: 1;
 }
+
+
+.member-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.portrait-box {
+  flex: 0 0 200px; /* Fixed width for the portrait section */
+}
+
+.bio-box {
+  flex: 1;
+  min-width: 0; /* Allows text to wrap properly */
+  overflow-wrap: break-word;
+  word-break: break-word;
+}

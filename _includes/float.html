@@ -1,11 +1,8 @@
-<div
-  class="float"
-  {% if include.flip %}
-    data-flip
-  {% endif %}
-  {% if include.clear %}
-    data-clear
-  {% endif %}
->
-  {{ include.content | markdownify }}
+<div class="member-wrapper" {% if include.flip %} data-flip {% endif %} {% if include.clear %} data-clear {% endif %}>
+  <div class="portrait-box">
+    {{ include.content | markdownify }}
+  </div>
+  <div class="bio-box">
+    {{ content }}
+  </div>
 </div>
