@@ -17,7 +17,7 @@ permalink: /presentations/
 
 <h2 id="Presentation">Conference presentations</h2>
 
-Jaime Delgadillo, **Bloch-Elkouby, S.**. Paper 3: A cross-cultural examination of suicide risk factors to inform personalized and culturally-adapted risk management practice. International Examples of Productive Practice-Research Networks (CE) [Panel [In Person]]
+Jaime Delgadillo, **Bloch-Elkouby, S.** A cross-cultural examination of suicide risk factors to inform personalized and culturally-adapted risk management practice. Paper is presented in person at panel named International Examples of Productive Practice-Research Networks (CE).
 
 **Bloch-Elkouby, S.**, Gomes de Siqueira, A., Johnson, B., <ins>Jones, A, Chen, J.</ins>, Lok, B., &amp; Galynker, I. The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study. In S. Eberhardt & T. Steinbrenner (chair) _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_. Paper in a panel presented at the 2025 annual conference of SPR in Krakow, Poland.
 
@@ -103,6 +103,7 @@ Switzerland.
 <ins>Bhise, A., Baruch, L., Datta, S., Eid, T., Wei, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025, June 25-28). The Impact of Virtual Patients’ Race on Clinical Judgement: A Qualitative Analysis of 150 Case Conceptualization Narratives. Poster presented the Annual Meeting of the Society for Psychotherapy Research, Kraków, Poland.
 
 <ins>Chen. P., Shi, R., Wei, Datta, S.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Do virtual patients’ inaccurate responses and technological problems impede clinicians’ engagement and perception of the therapeutic alliance? Poster presented at The Society of Psychotherapy Research Krakow, Poland.
+<a href="bloch-elkouby-lab/website/research/spr2025_chen.md">Click here to see Chen's poster</a>
 
 <ins>Eid, T., Prekas A.S, Barnes, R., Bhise, A.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Moderators of the Relationship between Implicit and Explicit Racial Bias Among Clinicians. Poster presented at The Society of Psychotherapy Research Krakow, Poland.
 
