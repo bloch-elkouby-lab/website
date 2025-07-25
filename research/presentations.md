@@ -103,7 +103,6 @@ Switzerland.
 <ins>Bhise, A., Baruch, L., Datta, S., Eid, T., Wei, J.</ins> , &amp; **Bloch-Elkouby, S.** (2025, June 25-28). The Impact of Virtual Patients’ Race on Clinical Judgement: A Qualitative Analysis of 150 Case Conceptualization Narratives. Poster presented the Annual Meeting of the Society for Psychotherapy Research, Kraków, Poland.
 
 <ins>Chen. P., Shi, R., Wei, Datta, S.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Do virtual patients’ inaccurate responses and technological problems impede clinicians’ engagement and perception of the therapeutic alliance? Poster presented at The Society of Psychotherapy Research Krakow, Poland.
-<a href="/presentations/spr2025_chen/">Click here to see Chen's poster</a>
 
 <ins>Eid, T., Prekas A.S, Barnes, R., Bhise, A.</ins> , &amp; **Bloch-Elkouby, S.** (2025). Moderators of the Relationship between Implicit and Explicit Racial Bias Among Clinicians. Poster presented at The Society of Psychotherapy Research Krakow, Poland.
 
