@@ -17,6 +17,8 @@ permalink: /presentations/
 
 <h2 id="Presentation">Conference presentations</h2>
 
+Jaime Delgadillo, **Bloch-Elkouby, S.**. Paper 3: A cross-cultural examination of suicide risk factors to inform personalized and culturally-adapted risk management practice. International Examples of Productive Practice-Research Networks (CE) [Panel [In Person]]
+
 **Bloch-Elkouby, S.**, Gomes de Siqueira, A., Johnson, B., <ins>Jones, A, Chen, J.</ins>, Lok, B., &amp; Galynker, I. The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study. In S. Eberhardt & T. Steinbrenner (chair) _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_. Paper in a panel presented at the 2025 annual conference of SPR in Krakow, Poland.
 
 Discussant in Structured Discussion: What’s Tricky about Transforming Training? A Discussion on Training Providers. Presented at the 2025 annual conference of SPR in Krakow, Poland.
