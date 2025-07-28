@@ -34,7 +34,7 @@ The lab cannot sponsor H1-B visa. The applicant will need to hold a F-1 or J-1 s
 Please title your email RA Application: [Your Name], attach your CV, cover letter, and supporting materials such as an unofficial transcript and academic writing samples. 
 
 Requirement: 
-* **Attend the weekly team meeting (1pm-2pm US Eastern time Monday on Zoom)**
+* **Attend the weekly team meeting (11:00am-12:15pm US Eastern time Monday on Zoom)**
 * **At least one year commitment, though a two-year commitment is preferred**
 * **6 to 10 hours of weekly commitment**
 
