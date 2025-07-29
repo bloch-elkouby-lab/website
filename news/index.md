@@ -13,7 +13,7 @@ nav:
 ## Team Memember Updates
 
 
-Congratulations and welcome new RAs who have joined the lab: Angle Wei, Violet Yang, Jhanavi Kumaresh,  Madison Wakely,  Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, and Hanjiang Xu. It is exciting to have you on board and achieve great things together.
+Congratulations and welcome new RAs who have joined the lab: Lilian Guo, Chi Kyu Lee, Angle Wei, Violet Yang, Jhanavi Kumaresh,  Madison Wakely,  Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, and Hanjiang Xu. It is exciting to have you on board and achieve great things together.
 
 At the same time, we'd like to express our gratitude and best wishes to Rebecca Barnes. As her prepare to depart, her contributions to the lab have been truly valued and will be missed. The team wishes all the best for Rebecca's future endeavors!
 
