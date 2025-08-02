@@ -2,7 +2,7 @@
 title: Meet the team
 parent: Team
 nav:
-  order: 2
+  order: 1
 permalink: /team/
 ---
 

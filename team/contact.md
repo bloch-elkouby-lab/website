@@ -2,7 +2,7 @@
 title: Join the team / Collaborate
 parent: Team
 nav:
-  order: 1
+  order: 2
 permalink: /contact/
 ---
 
