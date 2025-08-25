@@ -1,7 +1,7 @@
 ---
 name: Shibani Datta, B.S.
 image: images/profile-shibani_datta.jpg
-description: Doctoral Student<br>Class 2028
+description: Lab Alumni
 role: alum
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: Rebecca Barnes, M.A.
 image: images/profile-rebecca_barnes.jpeg
-description: Research Assistant
+description: Lab Alumni
 role: alum
 ---
 
