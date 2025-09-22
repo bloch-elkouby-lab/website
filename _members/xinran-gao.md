@@ -1,6 +1,6 @@
 ---
 name: Xinran Gao, B.A.
-image: images/profile-xinran_gao.jpg.JPG
+image: images/profile-xinran_gao.jpg
 description: Research Assistant
 role: RA
 ---
