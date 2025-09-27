@@ -1,8 +1,8 @@
 ---
 name: Adelaide Jones, B.A.
 image: images/profile-adelaide_jones.jpg
-role: doctoral
-description: Doctoral Student<br>Class 2028
+role: manager
+description: Research Coordinator<br>Doctoral Student<br>Class 2028
 
 ---
 
