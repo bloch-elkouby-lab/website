@@ -11,9 +11,14 @@ permalink: /team/
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include section.html %}
 
-## Lab Manager and Research Coordinators
+## Lab Manager
 {% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: manager" %}
+{% include section.html %}
+
+## Research Coordinators
+{% include section.html %}
+{% include list.html data="members" component="portrait" filters="role: rc" %}
 {% include section.html %}
 
 ## Ferkauf Doctoral Students 
