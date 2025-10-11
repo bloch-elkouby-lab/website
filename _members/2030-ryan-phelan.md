@@ -1,5 +1,5 @@
 ---
-name: Ryan Phelan, M.A.
+name: Ryan Phelan, B.A.
 image: images/profile-ryan_phelan.jpeg
 role: doctoral
 description: Doctoral Student<br>Class 2030
