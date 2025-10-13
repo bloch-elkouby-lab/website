@@ -1,6 +1,6 @@
 ---
 name: Dov Frank, B.A.
-image: images/profile-dov_frank.jpeg
+image: images/profile-dov_frank.jpg
 role: doctoral
 description: Doctoral Student<br>Class 2030
 
