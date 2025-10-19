@@ -38,7 +38,7 @@ nav:
 
   This talk will explore the complex interpersonal dynamics in therapy sessions with individuals at high risk for suicide, particularly those with insecure attachment style and previous histories of relational trauma. Emphasis will be placed on how these challenges impact the formation of therapeutic alliance, which is an essential protective factor in suicide prevention.
 
-  The presentation will include a review of recent research and introduce practical clinical tools that strengthen the therapeutic alliance during crisis, such as narrative-informed assessment models, alliance-centered safety planning, and integrative in-patient interventions. It will also highlight the current innovative training resources that utilizes artificial intelligence to support clinicians in accessing and managing high-risk situations.
+  The presentation will include a review of recent research and introduce practical clinical tools that strengthen the therapeutic alliance during crisis, such as narrative-informed assessment models, alliance-centered safety planning, and integrative inpatient interventions. It will also highlight the current innovative training resources that utilize artificial intelligence to support clinicians in accessing and managing high-risk situations.
 
   The exact time for the presentation is to be determined.
   {% endcapture %}

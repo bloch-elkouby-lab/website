@@ -5,7 +5,9 @@
 
 Welcome to our research lab, where collaboration is at the heart of our scientific endeavors. Our lab is led by Dr. Sarah Bloch-Elkouby, an Assistant Professor in the Clinical Psychology PsyD program at Ferkauf Graduate School of Psychology and an Assistant Clinical Professor at the Mount Sinai Behavioral Health Center. With a rich background in law, social work, and clinical psychology, Dr. Bloch-Elkouby is dedicated to bridging the gap between research and clinical practice, as well as between suicide prevention and psychotherapy research. 
 
-Our lab's grant-funded research program is focused on two distinct, yet intertwined domains:
+Our lab was established in 2021, with a grant-funded research program that focuses on two distinct, yet intertwined domains:
+
+
 
 **Suicide prevention:** We are committed to developing effective approaches to recognize and address imminent risk for suicidal behaviors;
 
