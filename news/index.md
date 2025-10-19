@@ -13,10 +13,9 @@ nav:
 ## Team Memember Updates
 
 
-Congratulations and welcome new RAs who have joined the lab: Lilian Guo, Chi Kyu Lee, Angle Wei, Violet Yang, Jhanavi Kumaresh,  Madison Wakely,  Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, and Hanjiang Xu. It is exciting to have you on board and achieve great things together.
+Congratulations and welcome to the new RAs who have joined the lab: Lilian Guo, Chi Kyu Lee, Angle Wei, Violet Yang, Jhanavi Kumaresh, Madison Wakely, Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, Xinran Gao, and Hanjiang Xu. We’re excited to have you on board and look forward to achieving great things together!
 
-At the same time, we'd like to express our gratitude and best wishes to Rebecca Barnes. As her prepare to depart, her contributions to the lab have been truly valued and will be missed. The team wishes all the best for Rebecca's future endeavors!
-
+At the same time, we’d like to express our gratitude and best wishes to Rebecca Barnes. As she prepares to depart, we want to acknowledge her valued contributions to the lab — she will be greatly missed. The team wishes her all the best in her future endeavors!
 
 ## 2025 Annual Conference of Society of Psychotherapy Research
 {% include section.html %}
