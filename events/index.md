@@ -56,7 +56,7 @@ nav:
   {% include feature.html
     title=""
     text=""
-    image="images/upcoming_flyer_1.jp2"
+    image="images/upcoming_flyer_1.jpg"
     flip=false
     fit=true
     align="left"
