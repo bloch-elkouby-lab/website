@@ -56,7 +56,7 @@ nav:
   {% include feature.html
     title=""
     text=""
-    image="images/upcoming_flyer_1.jpg"
+    image="images/upcoming_flyer_1.jpg,images/upcoming_flyer_2.jpg,images/upcoming_flyer_3.jpg,images/upcoming_flyer_4.jpg"
     flip=false
     fit=true
     align="left"
