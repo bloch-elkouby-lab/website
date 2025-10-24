@@ -72,19 +72,23 @@ $wrap: 800px;
 
 .flyer-row {
   display: flex;
-  flex-wrap: nowrap;        /* all in one row */
+  flex-wrap: wrap;           /* allow wrapping to next line */
   justify-content: center;
-  align-items: flex-start;
-  gap: 15px;
+  gap: 20px;
 }
 
-/* make vertical flyers look natural */
+/* Each flyer takes up ~45% of the row width (2 per row) */
+.flyer-row > * {
+  flex: 0 0 45%;
+  max-width: 45%;
+}
+
+/* Style the image inside each flyer */
 .flyer-row img {
-  width: auto !important;   /* use the image’s natural width */
-  height: 400px !important; /* control the visual size */
-  object-fit: contain;      /* keep vertical proportions */
+  width: 100% !important;    /* take full width of its container */
+  height: auto !important;
+  object-fit: contain;
   border-radius: 8px;
-  box-shadow: none;
   display: block;
   margin: 0 auto;
 }
