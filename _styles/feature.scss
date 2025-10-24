@@ -59,25 +59,48 @@ $wrap: 800px;
   }
 }
 
-/* === Flyer Row Layout === */
+/* === Keynote Section === */
+.keynote-section {
+  margin-bottom: 3rem;
+}
+
+/* === Flyers Section === */
+.flyer-section {
+  margin: 2rem 0;
+  text-align: center;
+}
+
 .flyer-row {
   display: flex;
-  flex-wrap: wrap;          /* allows wrapping if needed */
+  flex-wrap: nowrap;        /* all in one row */
   justify-content: center;
   align-items: flex-start;
   gap: 15px;
-  margin-top: 1rem;
 }
 
-/* Override any default sizing applied by feature.html */
-.flyer-row .feature-image,
+/* make vertical flyers look natural */
 .flyer-row img {
-  width: auto !important;   /* let image use its natural width */
-  height: 400px;            /* adjust this for your flyer size */
-  max-width: 100%;
-  object-fit: contain;      /* preserves aspect ratio (good for vertical) */
+  width: auto !important;   /* use the image’s natural width */
+  height: 400px !important; /* control the visual size */
+  object-fit: contain;      /* keep vertical proportions */
   border-radius: 8px;
-  box-shadow: none;         /* optional: remove any shadows if undesired */
+  box-shadow: none;
   display: block;
   margin: 0 auto;
+}
+
+/* responsive fix: stack flyers on smaller screens */
+@media (max-width: 900px) {
+  .flyer-row {
+    flex-wrap: wrap;
+  }
+  .flyer-row img {
+    height: 350px !important;
+  }
+}
+
+@media (max-width: 600px) {
+  .flyer-row img {
+    height: 300px !important;
+  }
 }
