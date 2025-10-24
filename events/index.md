@@ -54,9 +54,39 @@ nav:
   %}
   
   {% include feature.html
+    title="Keynote Speaker at Lausanne Conference on Suicide Prevention"
+    text=text
+    image="images/upcoming_flyer_1.jpg" 
+    flip=false
+    fit=true
+    align="left"
+    style="bare"
+  %}
+
+  {% include feature.html
     title=""
     text=""
-    image="images/upcoming_flyer_1.jpg,images/upcoming_flyer_2.jpg,images/upcoming_flyer_3.jpg,images/upcoming_flyer_4.jpg"
+    image="images/upcoming_flyer_2.jpg" 
+    flip=false
+    fit=true
+    align="left"
+    style="bare"
+  %}
+
+  {% include feature.html
+    title=""
+    text=""
+    image="images/upcoming_flyer_3.jpg" 
+    flip=false
+    fit=true
+    align="left"
+    style="bare"
+  %}
+
+  {% include feature.html
+    title=""
+    text=""
+    image="images/upcoming_flyer_4.jpg" 
     flip=false
     fit=true
     align="left"
