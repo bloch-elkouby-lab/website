@@ -56,48 +56,24 @@
   margin-bottom: 3rem;
 }
 
-/* === Flyers Section === */
+/* === Flyer Section Layout === */
 .flyer-section {
-  margin: 2rem 0;
-  text-align: center;
+  padding: 2rem 0;
 }
 
 .flyer-row {
-  display: flex;
-  flex-wrap: wrap; /* allow wrapping to next line */
-  justify-content: center;
-  gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* flexible 2-column layout */
+  gap: 1.5rem;
+  justify-items: center; /* center images nicely */
+  align-items: start;
 }
 
-/* Each flyer takes up ~45% of the row width (2 per row) */
-.flyer-row > * {
-  flex: 0 0 45%;
-  max-width: 45%;
-}
-
-/* Style the image inside each flyer */
-.flyer-row img {
-  width: 100% !important; /* take full width of its container */
-  height: auto !important;
-  object-fit: contain;
-  border-radius: 8px;
-  display: block;
+/* Make sure the included feature blocks shrink nicely */
+.flyer-row .feature {
+  width: 100%;
+  max-width: 500px; /* optional: limits image stretch */
   margin: 0 auto;
-}
-
-/* responsive fix: stack flyers on smaller screens */
-@media (max-width: 900px) {
-  .flyer-row {
-    flex-wrap: wrap;
-  }
-  .flyer-row img {
-    height: 350px !important;
-  }
-}
-@media (max-width: 600px) {
-  .flyer-row img {
-    height: 300px !important;
-  }
 }
 
 /*# sourceMappingURL=feature.css.map */
