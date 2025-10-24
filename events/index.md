@@ -43,7 +43,8 @@ nav:
   The exact time for the presentation is to be determined.
   {% endcapture %}
 
-  {% include feature.html
+  <!-- === Main Feature Section === -->
+{% include feature.html
     title="Keynote Speaker at Lausanne Conference on Suicide Prevention"
     text=text
     image="images/events-2025_keynote_speaker.jpg"
@@ -51,46 +52,49 @@ nav:
     fit=true
     align="left"
     style="bare"
-  %}
-  
+%}
+
+<!-- === Flyers Row Section === -->
+<div class="flyer-row">
   {% include feature.html
-    title=""
-    text=""
-    image="images/upcoming_flyer_1.jpg" 
-    flip=false
-    fit=true
-    align="left"
-    style="bare"
+      title=""
+      text=""
+      image="images/upcoming_flyer_1.jpg" 
+      flip=false
+      fit=true
+      align="left"
+      style="bare"
   %}
 
   {% include feature.html
-    title=""
-    text=""
-    image="images/upcoming_flyer_2.jpg" 
-    flip=false
-    fit=true
-    align="left"
-    style="bare"
+      title=""
+      text=""
+      image="images/upcoming_flyer_2.jpg" 
+      flip=false
+      fit=true
+      align="left"
+      style="bare"
   %}
 
   {% include feature.html
-    title=""
-    text=""
-    image="images/upcoming_flyer_3.jpg" 
-    flip=false
-    fit=true
-    align="left"
-    style="bare"
+      title=""
+      text=""
+      image="images/upcoming_flyer_3.jpg" 
+      flip=false
+      fit=true
+      align="left"
+      style="bare"
   %}
 
   {% include feature.html
-    title=""
-    text=""
-    image="images/upcoming_flyer_4.jpg" 
-    flip=false
-    fit=true
-    align="left"
-    style="bare"
+      title=""
+      text=""
+      image="images/upcoming_flyer_4.jpg" 
+      flip=false
+      fit=true
+      align="left"
+      style="bare"
   %}
-</p>
+</div>
+
 {% include section.html %}

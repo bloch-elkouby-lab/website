@@ -58,3 +58,20 @@ $wrap: 800px;
     max-width: calc($wrap / 2);
   }
 }
+
+/* === Flyer Row Styles === */
+.flyer-row {
+  display: flex;
+  flex-wrap: nowrap;   /* keeps all four on one line */
+  justify-content: center;
+  align-items: flex-start;
+  gap: 10px;           /* space between each image */
+}
+
+/* make sure the images fit nicely */
+.flyer-row img {
+  width: 23%;          /* ~4 images per row with small gaps */
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
