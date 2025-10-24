@@ -12,9 +12,13 @@ nav:
 
 ## Team Memember Updates
 
+**Doctoral Students**
+Congratulations and welcome to the new Ferkauf Doctoral Students who have joined the lab: Charlize Dilmanian, Dov Frank, Yuechun Yao, and Ryan Phelan. We are excited to have all the new doctoral students on board and look forward to working with them in the future! 
 
+**Research Assistant**
 Congratulations and welcome to the new RAs who have joined the lab: Lilian Guo, Chi Kyu Lee, Angle Wei, Violet Yang, Jhanavi Kumaresh, Madison Wakely, Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, Xinran Gao, and Hanjiang Xu. We’re excited to have you on board and look forward to achieving great things together!
 
+ **Lab Alumni**
 At the same time, we’d like to express our gratitude and best wishes to Rebecca Barnes. As she prepares to depart, we want to acknowledge her valued contributions to the lab — she will be greatly missed. The team wishes her all the best in her future endeavors!
 
 ## 2025 Annual Conference of Society of Psychotherapy Research
