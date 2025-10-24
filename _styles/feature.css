@@ -51,21 +51,27 @@
     max-width: 400px;
   }
 }
-/* === Flyer Row Styles === */
+/* === Flyer Row Layout === */
 .flyer-row {
   display: flex;
-  flex-wrap: nowrap; /* keeps all four on one line */
+  flex-wrap: wrap; /* allows wrapping if needed */
   justify-content: center;
   align-items: flex-start;
-  gap: 10px; /* space between each image */
+  gap: 15px;
+  margin-top: 1rem;
 }
 
-/* make sure the images fit nicely */
+/* Override any default sizing applied by feature.html */
+.flyer-row .feature-image,
 .flyer-row img {
-  width: 30%; /* ~4 images per row with small gaps */
-  height: auto;
+  width: auto !important; /* let image use its natural width */
+  height: 400px; /* adjust this for your flyer size */
+  max-width: 100%;
+  object-fit: contain; /* preserves aspect ratio (good for vertical) */
   border-radius: 8px;
-  object-fit: cover;
+  box-shadow: none; /* optional: remove any shadows if undesired */
+  display: block;
+  margin: 0 auto;
 }
 
 /*# sourceMappingURL=feature.css.map */
