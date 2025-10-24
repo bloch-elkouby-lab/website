@@ -61,18 +61,16 @@ nav:
      SECTION 2: Flyers Carousel
 ===================== -->
 <section class="flyer-section">
-  <div class="flyer-carousel-wrapper" style="display: flex; justify-content: center;">
-    <div class="flyer-carousel">
-      {% include feature-carousel.html
-        images="images/upcoming_flyer_1.jpg,images/upcoming_flyer_2.jpg,images/upcoming_flyer_3.jpg,images/upcoming_flyer_4.jpg"
-        title=""
-        text=""
-        flip=false
-        fit=true
-        align="middle"
-        style="bare"
-      %}
-    </div>
+  <div class="flyer-carousel">
+    {% include feature-carousel.html
+      images="images/upcoming_flyer_1.jpg,images/upcoming_flyer_2.jpg,images/upcoming_flyer_3.jpg,images/upcoming_flyer_4.jpg"
+      title=""
+      text=""
+      flip=false
+      fit=true
+      align="middle"
+      style="bare"
+    %}
   </div>
 </section>
 
