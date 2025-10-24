@@ -60,7 +60,7 @@ nav:
   text=""
   flip=false
   fit=true
-  align="left"
+  align="middle"
   style="bare"
   %}
 </p>
