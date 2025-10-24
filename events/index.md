@@ -52,5 +52,15 @@ nav:
     align="left"
     style="bare"
   %}
+  
+  {% include feature.html
+    title=""
+    text=""
+    image="images/upcoming_flyer_1.jp2"
+    flip=false
+    fit=true
+    align="left"
+    style="bare"
+  %}
 </p>
 {% include section.html %}
