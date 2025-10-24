@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:41113191
+  title: 'Suicide Crisis Syndrome: examining supporting evidence and barriers to diagnostic
+    validity.'
+  authors:
+  - Igor Galynker
+  - Lisa Cohen
+  - Anna Stefania Prekas
+  - Sarah Bloch-Elkouby
+  - Mary King
+  - Yael Apter Levy
+  publisher: Frontiers in psychiatry
+  date: '2025-09-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41113191
+  term: Bloch-Elkouby, S[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39279405
   title: 'Suicide crisis syndrome: a specific diagnosis to aid suicide prevention.'
   authors:
