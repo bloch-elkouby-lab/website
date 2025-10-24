@@ -39,7 +39,7 @@ This talk will explore the complex interpersonal dynamics in therapy sessions wi
 
 The presentation will include a review of recent research and introduce practical clinical tools that strengthen the therapeutic alliance during crisis, such as narrative-informed assessment models, alliance-centered safety planning, and integrative inpatient interventions. It will also highlight the current innovative training resources that utilize artificial intelligence to support clinicians in accessing and managing high-risk situations.
 
-The exact time for the presentation is to be determined.
+The exact time for the presentation is to be determined. Flyers for the event have been attached below. 
 {% endcapture %}
 
 
