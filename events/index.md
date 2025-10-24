@@ -54,8 +54,8 @@ nav:
   %}
   
   {% include feature.html
-    title="Keynote Speaker at Lausanne Conference on Suicide Prevention"
-    text=text
+    title=""
+    text=""
     image="images/upcoming_flyer_1.jpg" 
     flip=false
     fit=true
