@@ -65,3 +65,5 @@ nav:
   %}
 </p>
 {% include section.html %}
+
+<img src="images/upcoming_flyer_1.jpg" alt="Flyer Page1" style="width:500px;height:600px;">
