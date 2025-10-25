@@ -58,7 +58,18 @@ nav:
 <!-- =====================
      Flyers Row Section
 ===================== -->
-<section style="text-align:center; margin: 40px 0;">
+<section style="text-align:left; margin: 60px 0;">
+  
+  <!-- Section Title -->
+  <h2 style="
+    font-size: 1.8rem; 
+    font-weight: 600; 
+    margin-bottom: 30px;
+  ">
+    Flyer for Lausanne Conference on Suicide Prevention
+  </h2>
+
+  <!-- Flyers Container -->
   <div style="
     display: flex; 
     justify-content: center; 
