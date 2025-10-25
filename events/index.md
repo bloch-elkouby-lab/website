@@ -66,4 +66,24 @@ nav:
 </p>
 {% include section.html %}
 
-<img src="images/upcoming_flyer_1.jpg" alt="Flyer Page1" style="width:500px;height:600px;">
+<!-- =====================
+     Flyers Row Section
+===================== -->
+<section style="text-align:center; margin: 40px 0;">
+  <div style="
+    display: flex; 
+    justify-content: center; 
+    align-items: flex-start; 
+    flex-wrap: wrap; 
+    gap: 20px;
+  ">
+    <img src="{{ '/images/upcoming_flyer_1.jpg' | relative_url }}" alt="Flyer 1" 
+         style="width: 22%; max-width: 280px; height: auto; border-radius: 8px;">
+    <img src="{{ '/images/upcoming_flyer_2.jpg' | relative_url }}" alt="Flyer 2" 
+         style="width: 22%; max-width: 280px; height: auto; border-radius: 8px;">
+    <img src="{{ '/images/upcoming_flyer_3.jpg' | relative_url }}" alt="Flyer 3" 
+         style="width: 22%; max-width: 280px; height: auto; border-radius: 8px;">
+    <img src="{{ '/images/upcoming_flyer_4.jpg' | relative_url }}" alt="Flyer 4" 
+         style="width: 22%; max-width: 280px; height: auto; border-radius: 8px;">
+  </div>
+</section>
