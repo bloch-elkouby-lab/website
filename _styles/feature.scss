@@ -58,3 +58,43 @@ $wrap: 800px;
     max-width: calc($wrap / 2);
   }
 }
+
+/* === Keynote section === */
+.keynote-section {
+  padding: 2rem 0;
+}
+
+/* === Flyers carousel section === */
+.flyer-section {
+  padding: 3rem 0;
+  display: flex;
+  justify-content: center; /* centers the carousel horizontally */
+  background-color: #fafafa; /* optional: subtle section contrast */
+}
+
+/* Centers and enlarges the carousel block */
+.flyer-carousel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px; /* how wide the carousel can grow */
+  margin: 0 auto;
+}
+
+/* Make images bigger and responsive */
+.flyer-carousel img {
+  width: 100%;
+  max-width: 700px; /* increase for larger flyers (e.g., 800px or 900px) */
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px; /* optional: soft corners */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* optional: depth */
+}
+
+/* Larger images on wide screens */
+@media (min-width: 992px) {
+  .flyer-carousel img {
+    max-width: 900px;
+  }
+}

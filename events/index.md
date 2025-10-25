@@ -29,7 +29,10 @@ nav:
   %}
 </p>
 
-<p>
+<!-- =====================
+     SECTION 1: Keynote Feature
+===================== -->
+<section class="keynote-section">
   {% capture text %}
   This November, Dr. Sarah Bloch-Elkouby will be a keynote speaker at a conference in Lausanne, Switzerland, as part of ongoing international efforts to advance suicide prevention research and clinical practice.
 
@@ -52,16 +55,23 @@ nav:
     align="left"
     style="bare"
   %}
+</section>
 
-  {%
-  include feature-carousel.html
-  images="images/upcoming_flyer_1.jpg,images/upcoming_flyer_2.jpg,images/upcoming_flyer_3.jpg,images/upcoming_flyer_4.jpg" 
-  title="Keynote Talk Flyer"
-  text=""
-  flip=false
-  fit=true
-  align="middle"
-  style="bare"
-  %}
-</p>
+<!-- =====================
+     SECTION 2: Flyers Carousel
+===================== -->
+<section class="flyer-section">
+  <div class="flyer-carousel">
+    {% include feature-carousel.html
+      images="images/upcoming_flyer_1.jpg,images/upcoming_flyer_2.jpg,images/upcoming_flyer_3.jpg,images/upcoming_flyer_4.jpg" 
+      title="Keynote Talk Flyer"
+      text=""
+      flip=false
+      fit=true
+      align="middle"
+      style="bare"
+    %}
+  </div>
+</section>
+
 {% include section.html %}
