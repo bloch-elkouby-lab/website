@@ -40,7 +40,7 @@ nav:
 
   The presentation will include a review of recent research and introduce practical clinical tools that strengthen the therapeutic alliance during crisis, such as narrative-informed assessment models, alliance-centered safety planning, and integrative inpatient interventions. It will also highlight the current innovative training resources that utilize artificial intelligence to support clinicians in accessing and managing high-risk situations.
 
-  The exact time for the presentation is to be determined.
+  The exact time for the presentation is to be determined. The flyer for the conference is attached below. 
   {% endcapture %}
 
   {% include feature.html
@@ -51,17 +51,6 @@ nav:
     fit=true
     align="left"
     style="bare"
-  %}
-
-  {%
-  include feature-carousel.html
-  images="images/upcoming_flyer_1.jpg,images/upcoming_flyer_2.jpg,images/upcoming_flyer_3.jpg,images/upcoming_flyer_4.jpg" 
-  title="Keynote Talk Flyer"
-  text=""
-  flip=false
-  fit=true
-  align="middle"
-  style="bare"
   %}
 </p>
 {% include section.html %}
@@ -78,12 +67,12 @@ nav:
     gap: 20px;
   ">
     <img src="{{ '/images/upcoming_flyer_1.jpg' | relative_url }}" alt="Flyer 1" 
-         style="width: 22%; max-width: 280px; height: auto; border-radius: 8px;">
+         style="width: 30%; max-width: 300px; height: auto; border-radius: 8px;">
     <img src="{{ '/images/upcoming_flyer_2.jpg' | relative_url }}" alt="Flyer 2" 
-         style="width: 22%; max-width: 280px; height: auto; border-radius: 8px;">
+         style="width: 30%; max-width: 300px; height: auto; border-radius: 8px;">
     <img src="{{ '/images/upcoming_flyer_3.jpg' | relative_url }}" alt="Flyer 3" 
-         style="width: 22%; max-width: 280px; height: auto; border-radius: 8px;">
+         style="width: 30%; max-width: 300px; height: auto; border-radius: 8px;">
     <img src="{{ '/images/upcoming_flyer_4.jpg' | relative_url }}" alt="Flyer 4" 
-         style="width: 22%; max-width: 280px; height: auto; border-radius: 8px;">
+         style="width: 30%; max-width: 300px; height: auto; border-radius: 8px;">
   </div>
 </section>
