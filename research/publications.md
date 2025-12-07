@@ -27,7 +27,7 @@ permalink: /publications/
 
 Galynker, I., Cohen, L., Prekas, A. S., King, M., Apter Levy, Y, & **Bloch-Elkouby, S.** Suicide Crisis Syndrome: Examining Supporting Evidence and Barriers to Diagnostic Validity. Frontiers in Psychiatry, 16, 1627463.
 
-Lawrence, O. C., Rogers, M. L., Wolfe, A., **Bloch-Elkouby, S.**, Peterkin, D., Richards, J., Bafna, A., & Galynker, I. (2025). Mental Health Providers’ Perspectives on the Use of Virtual Patient Interactions for Clinical Training in Working with Acutely Suicidal Patients. <a href="https://doi.org/10.1007/s41347-024-00470-2">https://doi.org/10.1007/s41347-024-00470-2</a>
+Lawrence, O. C., Wolfe, A., Rogers, M. L., **Bloch-Elkouby, S.**, Peterkin, D., Lok, B., Yao, H., Gomes, A., Serge Mitelman, Foster, A., & Igor Galynker. (2025). Mental Health Providers’ Perspectives on the Use of Virtual Patient Interactions for Clinical Training in Working with Acutely Suicidal Patients. Journal of Technology in Behavioral Science. <a href="https://doi.org/10.1007/s41347-024-00470-2">https://doi.org/10.1007/s41347-024-00470-2</a>
 
 **Bloch-Elkouby, S.**, <ins>Jones, A., Shvarzman, R., Bhise, A., Kothari, M., & Goncearenco,</ins> I. (2025). Suicide, Theories of. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
 
