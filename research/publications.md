@@ -23,6 +23,10 @@ permalink: /publications/
 
 <h2 id="2025">2025</h2>
 
+**Bloch-Elkouby, S.**, Johnson, B., Chen, J. El Hayek, R., Jones, A., Eid, T., Gomes de Siqueira, A., Apter, Y., Yao, H., Lok, B., Foster, A., Galynker, I. (2025) Can training mental health clinicians in emotional awareness using virtual patient interactions improve the therapeutic alliance and contribute to reducing patients’ suicidal thoughts? Psychiatry Research. 
+
+Galynker, I., Cohen, L., Prekas, A. S., King, M., Apter Levy, Y, & Bloch-Elkouby, S. Suicide Crisis Syndrome: Examining Supporting Evidence and Barriers to Diagnostic Validity. Frontiers in Psychiatry, 16, 1627463.
+
 Lawrence, O. C., Rogers, M. L., Wolfe, A., **Bloch-Elkouby, S.**, Peterkin, D., Richards, J., Bafna, A., & Galynker, I. (2025). Examining mental health clinicians’ perspectives on the use of virtual patient interactions as a tool for clinical training. <a href="https://doi.org/10.1007/s41347-024-00470-2">https://doi.org/10.1007/s41347-024-00470-2</a>
 
 **Bloch-Elkouby, S.**, <ins>Jones, A., Shvarzman, R., Bhise, A., Kothari, M., & Goncearenco,</ins> I. (2025). Suicide, Theories of. In D. G. Friedman-Wheeler & A. Wenzel (Eds.) Sage Encyclopedia of Mood and Anxiety Disorders. (In Press)
