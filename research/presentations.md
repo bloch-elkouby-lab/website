@@ -17,19 +17,17 @@ permalink: /presentations/
 
 <h2 id="Presentation">Conference presentations</h2>
 
+**Bloch-Elkouby, S.**, Gomes de Siqueira, A., Johnson, B., Jones, A, Chen, J., Lok, B., & Galynker, I. (2025, June). The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study. In S. Eberhardt (chair) Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care. Paper in a panel presented the 2025 Annual Meeting of the Society for Psychotherapy Research, Krakow, Poland.
+
+Babl, A., **Bloch-Elkouby, S.**, Freetly-Porter, A., Mageras, K., McDonalds, J., Urmanche, D. (2025, June) What’s Tricky about Transforming Training? A Discussion on Training Providers. Structured Discussion presented at the 2025 Annual Meeting of the Society for Psychotherapy Research, Krakow, Poland.
+
 Jaime Delgadillo, **Bloch-Elkouby, S.** A cross-cultural examination of suicide risk factors to inform personalized and culturally-adapted risk management practice. Paper is presented in person at panel named International Examples of Productive Practice-Research Networks (CE).
 
-**Bloch-Elkouby, S.**, Gomes de Siqueira, A., Johnson, B., <ins>Jones, A, Chen, J.</ins>, Lok, B., &amp; Galynker, I. The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study. In S. Eberhardt & T. Steinbrenner (chair) _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_. Paper in a panel presented at the 2025 annual conference of SPR in Krakow, Poland.
-
-Discussant in Structured Discussion: What’s Tricky about Transforming Training? A Discussion on Training Providers. Presented at the 2025 annual conference of SPR in Krakow, Poland.
-
-**Bloch-Elkouby, S.**, Yao, H., Johnson, B., <ins>Schock, B., Wei, J. W., Prekas, S., Eid, T.</ins> , Lok, B., &amp; Galynker, I. (2024,
-November 18). AI- driven virtual patients: a cutting-edge tool to investigate the impact of implicit racial biases on clinical judgment and clinical process with high-risk patients. Oral presentation paper presented at the 2024 meeting of the International Association for Suicide Prevention Pan-American Conference. Minneapolis, Minnesota.
+**Bloch-Elkouby, S.**, Yao, H., Johnson, B., <ins>Schock, B., Wei, J. W., Prekas, S., Eid, T.</ins> , Lok, B., &amp; Galynker, I. (2024, November 18). AI- driven virtual patients: a cutting-edge tool to investigate the impact of implicit racial biases on clinical judgment and clinical process with high-risk patients. Oral presentation paper presented at the 2024 meeting of the International Association for Suicide Prevention Pan-American Conference. Minneapolis, Minnesota.
 
 **Bloch-Elkouby, S.**, Yao, H., Johnson, B., <ins>Goncearenco, I.</ins> , Lok, B., &amp; Galynker, I. (2024, June). Virtual human interactions: a cutting-edge tool to investigate the impact of cultural factors and implicit biases on the alliance and clinical judgment with high-risk patients. In S. Goldberg (chair) _A New Era of Alliance Research_. Paper in a panel that presented at the annual meeting of the Society for Psychotherapy Research. Ottawa, Canada.
 
-**Bloch-Elkouby, S.**, <ins>Goncearenco, I.</ins> , Johnson, B., Yao, H., Lok, B., &amp; Galynker, I. (2024, April). AI-powered virtual
-patients in the service of suicide prevention among diverse adolescents. In S. Bloch-Elkouby (chair) _Using cutting-edge AI research to enhance clinical training and suicide prevention_. Paper in a panel presented at the Annual Meeting of the Anxiety and Depression Association of America. Boston, Massachusetts.
+**Bloch-Elkouby, S.**, <ins>Goncearenco, I.</ins> , Johnson, B., Yao, H., Lok, B., &amp; Galynker, I. (2024, April). AI-powered virtual patients in the service of suicide prevention among diverse adolescents. In S. Bloch-Elkouby (chair) _Using cutting-edge AI research to enhance clinical training and suicide prevention_. Paper in a panel presented at the Annual Meeting of the Anxiety and Depression Association of America. Boston, Massachusetts.
 
 **Bloch-Elkouby, S.**, & Barzilay, S. (2023, October). _Combining Alliance-Focused Training principles with the Narrative Crisis Model to promote effective suicide risk assessments and interventions_. In S. Bloch-Elkouby (chair), Working with patients at high-risk for suicidal behaviors and lethal overdoses across treatment phases: new conceptual developments. Paper in a panel presented at the Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research. Amherst, Massachusetts.
 
