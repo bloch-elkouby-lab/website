@@ -21,10 +21,9 @@
 }
 
 .card-image img {
-  aspect-ratio: 3 / 2;
-  object-fit: cover;
   width: 100%;
-  // box-shadow: var(--shadow);
+  height: auto;
+  display: block;
 }
 
 .card-text {
