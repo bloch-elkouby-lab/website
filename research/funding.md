@@ -10,9 +10,9 @@ permalink: /funding/
 ## Funding
 
 {% include card.html
-   title="My Project"
-   subtitle="Open-source tool"
-   description="A short **markdown** description of the project."
+   title="**Effectiveness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for Post-Discharge Suicide Prevention**"
+   subtitle="Focus Grant from the American Foundation for Suicide Prevention"
+   description="**Amount**: $1,5M&emsp;**Grant Number**:<br>**Role**: Co-I. &emsp; &emsp; &ensp;**PI**: Igor Galynker, M.D., Ph.D. &emsp; &emsp;**Awarded**: May 2023"
    image="/images/afsp.png"
    style="featured"
 %}
