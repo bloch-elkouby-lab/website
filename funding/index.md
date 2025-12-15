@@ -1,7 +1,8 @@
 ---
 title: Funding
+parent: Collaborations
 nav:
-  order: 5
+  order: 2
 ---
 
 ## Funding
