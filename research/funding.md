@@ -9,9 +9,13 @@ permalink: /funding/
 
 ## Funding
 
-{% include card.html %}
-
-{% include card.html %}
+{% include card.html
+   title="My Project"
+   subtitle="Open-source tool"
+   description="A short **markdown** description of the project."
+   image="/images/afsp.png"
+   style="featured"
+%}
 
 ### Effectiveness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for Post-Discharge Suicide Prevention
 **Grant**: Focus Grant from the American Foundation for Suicide Prevention  
