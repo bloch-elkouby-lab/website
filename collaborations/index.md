@@ -19,8 +19,5 @@ Dr. Bloch-Elkouby's collaboration with [the Galynker Suicide Prevention Research
 ### The Virtual Experiences Research Group at Herbert Wertheim College of Engineering, University of Florida
 Dr. Bloch-Elkouby collaborated with Dr. Benjamine Lok and his [Virtual Experiences Research Group](https://verg.cise.ufl.edu/) since 2018 over the development of three virtual patients with high suicide risk, Bernie, Cynthia, and Noah, in the NIMH R34 grant (MH119294-01; PI: Igor Galynker) and AFSP grant (YIG-0-023-20, PI: Sarah Bloch-Elkouby). Dr. Lok, Dr. Gomes de Siqueira, and Dr. Yao are the main architects of the virtual patient technology that Dr. Bloch-Elkouby used in her lab.
 
-
-
-
 {% include section.html %}
 
