@@ -10,17 +10,14 @@ permalink: /funding/
 ## Funding
 
 {% include card.html
-   title="<b>Effectiveness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for Post-Discharge Suicide Prevention</b>"
-   subtitle="Focus Grant from the American Foundation for Suicide Prevention"
+   title="<b>Focus Grant from the American Foundation for Suicide Prevention</b>"
+   subtitle="Effectiveness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for Post-Discharge Suicide Prevention"
    description="<b>Amount</b>: $1,5M<br><b>Grant Number</b>:<br><b>Role</b>: Co-I<br><b>PI</b>: Igor Galynker, M.D., Ph.D.<br><b>Awarded</b>: May 2023"
    image="/images/afsp.png"
    style="featured"
 %}
 
-### Effectiveness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for Post-Discharge Suicide Prevention
-**Grant**: Focus Grant from the American Foundation for Suicide Prevention  
-**Amount**: $1,5M &emsp;**Grant Number**:  
-**Role**: Co-I. &emsp; &emsp; &ensp;**PI**: Igor Galynker, M.D., Ph.D. &emsp; &emsp;**Awarded**: May 2023
+
 ### Enhancing Suicide Risk Assessment and Prevention among Diverse Adolescents Using Virtual Human Interactions
 **Grant**: Young Investigator Grant from the American Foundation for Suicide Prevention  
 **Amount**: $90k   **Grant Number**: YIG-0-023-20  
