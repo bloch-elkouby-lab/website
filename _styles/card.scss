@@ -6,7 +6,7 @@
   justify-content: stretch;
   align-items: center;
   flex-direction: column;
-  width: 500px;
+  width: 450px;
   max-width: calc(100% - 20px - 20px);
   margin: 20px;
   background: var(--background);
@@ -17,7 +17,7 @@
 }
 
 .card[data-style="small"] {
-  width: 450px;
+  width: 400px;
 }
 
 .card-image img {
@@ -31,9 +31,11 @@
   justify-content: flex-start;
   align-items: left;
   flex-direction: column;
-  gap: 10px;
+  gap: 20px;
   max-width: 100%;
   padding: 20px;
+  font-size: small;
+  line-height: 5px;
 }
 
 .card-text > *,
