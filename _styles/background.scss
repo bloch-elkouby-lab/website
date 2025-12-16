@@ -8,10 +8,6 @@
   z-index: 1;
 }
 
-.background[data-size="wide"] {
-  max-width: 1280px;
-}
-
 .background:before {
   content: "";
   position: absolute;
