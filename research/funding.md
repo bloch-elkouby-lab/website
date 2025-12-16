@@ -1,6 +1,3 @@
-<!-- size: wide; -->
-<!-- section break -->
-
 ---
 title: Funding
 parent: Research
@@ -9,6 +6,9 @@ nav:
 
 permalink: /funding/
 ---
+
+<!-- size: wide; -->
+<!-- section break -->
 
 ## Funding
 
