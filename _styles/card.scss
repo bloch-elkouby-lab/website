@@ -33,8 +33,7 @@
   flex-direction: column;
   gap: 20px;
   max-width: 100%;
-  padding: 5px;
-  font-size: medium;
+  padding: 20px;
 }
 
 .card-text > *,
@@ -50,4 +49,8 @@
 .card-subtitle {
   margin-top: -15px;
   font-style: italic;
+}
+
+.card-description {
+  line-height: 1.2;
 }
