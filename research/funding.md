@@ -11,8 +11,8 @@ permalink: /funding/
 
 {% include card.html
    title="<b>Focus Grant from the American Foundation for Suicide Prevention</b>"
-   subtitle="<a href="https://afsp.org/grant/effectiveness-of-diagnostic-vs-symptom-only-suicide-crisis-syndrome-assessment-sc">Effectiveness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for Post-Discharge Suicide Prevention</a>"
-   description="<b>Amount</b>: $1,5M<br><b>Grant Number</b>:<br><b>Role</b>: Co-I<br><b>PI</b>: Igor Galynker, M.D., Ph.D.<br><b>Awarded</b>: May 2023"
+   subtitle="NULL"
+   description="<a href="https://afsp.org/grant/effectiveness-of-diagnostic-vs-symptom-only-suicide-crisis-syndrome-assessment-sc">Effectiveness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for Post-Discharge Suicide Prevention</a><br><b>Amount</b>: $1,5M<br><b>Grant Number</b>:<br><b>Role</b>: Co-I<br><b>PI</b>: Igor Galynker, M.D., Ph.D.<br><b>Awarded</b>: May 2023"
    image="/images/afsp.png"
    style="featured"
 %}
