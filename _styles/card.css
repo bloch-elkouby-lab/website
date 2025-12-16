@@ -49,7 +49,11 @@
 }
 
 .card-description {
-  line-height: 1.2;
+  line-height: 1;
+}
+
+.card-description p {
+  margin: 0.25em 0;
 }
 
 /*# sourceMappingURL=card.css.map */
