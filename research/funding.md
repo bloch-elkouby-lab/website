@@ -7,8 +7,6 @@ nav:
 permalink: /funding/
 ---
 
-
-
 ## Funding
 
 
@@ -28,21 +26,21 @@ permalink: /funding/
 
 {% include card.html
    title="<b>Small Collaborative Research Grant from the Society for Psychotherapy Research</b>"
-   description="Different but allied? Exploring the relational dynamics of multicultural therapy dyads and their impact on the process and outcome of therapy<br>**Amount**: $5k <br>**Grant Number**: <br>**Role**: Co-PI<br>**Awarded**: Sept 2020"
+   description="Different but allied? Exploring the relational dynamics of multicultural therapy dyads and their impact on the process and outcome of therapy<br>**Amount**: $5k <br>**Role**: Co-PI<br>**Awarded**: Sept 2020"
    image="/images/Logo spr.png"
    style="featured"
 %}
 
 {% include card.html
    title="<b>Beginning Scholar Pilot Grant from the Psychoanalytic Fund for Research, American Psychoanalytic Association</b>"
-   description="Toward a better understanding of the overlap between alliance ruptures and racial miccroaggressions<br>**Amount**: $5k <br>**Grant Number**: <br>**Role**: PI<br>**Awarded**: Sept 2019"
+   description="Toward a better understanding of the overlap between alliance ruptures and racial miccroaggressions<br>**Amount**: $5k <br>**Role**: PI<br>**Awarded**: Sept 2019"
    image="images/Logo APsA.png"
    style="featured"
 %}
 
 {% include card.html
    title="<b>Early Career Diversity Research Grant, Society for the Advancement of Psychotherapy, APA Division 29 </b>"
-   description="When racial biases stand in our way: toward a better understanding of racial microaggressions and alliance in early treatment<br>**Amount**: $5k <br>**Grant Number**: <br>**Role**: PI<br>**Awarded**: Aug 2019"
+   description="When racial biases stand in our way: toward a better understanding of racial microaggressions and alliance in early treatment<br>**Amount**: $5k<br>**Role**: PI<br>**Awarded**: Aug 2019"
    image="images/Logo APA.svg"
    style="featured"
 %}
