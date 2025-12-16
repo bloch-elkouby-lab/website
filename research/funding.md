@@ -40,6 +40,6 @@ permalink: /funding/
 {% include card.html
    title="<b>Early Career Diversity Research Grant, Society for the Advancement of Psychotherapy, APA Division 29 </b>"
    description="When racial biases stand in our way: toward a better understanding of racial microaggressions and alliance in early treatment<br>**Amount**: $5k <br>**Grant Number**: <br>**Role**: PI<br>**Awarded**: Aug 2019"
-   image="images/Logo APA.png"
+   image="images/Logo APA.svg"
    style="featured"
 %}
