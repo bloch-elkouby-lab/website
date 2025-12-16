@@ -7,8 +7,7 @@ nav:
 permalink: /funding/
 ---
 
-<!-- size: wide; -->
-<!-- section break -->
+
 
 ## Funding
 
