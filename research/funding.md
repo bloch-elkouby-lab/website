@@ -9,6 +9,7 @@ permalink: /funding/
 
 ## Funding
 
+<div class="grid">
 {% include card.html
    title="<b>Focus Grant from the American Foundation for Suicide Prevention</b>"
    description="**Title**: Effectiveness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for Post-Discharge Suicide Prevention<br>**Amount**: $1,5M<br>**Grant Number**:<br>**Role**: Co-I<br>**PI**: Igor Galynker, M.D., Ph.D.<br>**Awarded**: May 2023<br>[Link to grant website](https://afsp.org/grant/effectiveness-of-diagnostic-vs-symptom-only-suicide-crisis-syndrome-assessment-sc)"
@@ -43,3 +44,5 @@ permalink: /funding/
    image="images/Logo APA.svg"
    style="featured"
 %}
+
+</div>
