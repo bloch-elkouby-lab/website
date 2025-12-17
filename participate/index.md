@@ -1,5 +1,5 @@
 ---
-title: Participate
+title: Participate<br>In Our Studies
 nav:
   order: 4
 ---
