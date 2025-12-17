@@ -17,17 +17,7 @@
 
   <div class="card-text">
     {% if include.title %}
-      <a
-        {% if include.link %}
-          href="{{ include.link | relative_url }}"
-        {% endif %}
-        {% if include.tooltip %}
-          data-tooltip="{{ include.tooltip }}"
-        {% endif %}
-        class="card-title"
-      >
         {{ include.title }}
-    </a>
     {% endif %}
 
     {% if include.subtitle %}
@@ -51,7 +41,7 @@
         </a>
       </div>
     {% endif %}
-    
+
     {% if include.tags or include.repo %}
       {% include tags.html tags=include.tags repo=include.repo %}
     {% endif %}
