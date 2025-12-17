@@ -1,5 +1,5 @@
 ---
-title: Research Projects
+title: Research<br>Projects
 nav:
   order: 3
 permalink: /research/
