@@ -94,10 +94,6 @@ nav {
 
 nav > a {
   padding: 5px;
-  white-space: normal;
-  text-align: center;
-  max-width: 12ch;
-  line-height: 1.2;
 }
 
 nav > a:hover {
