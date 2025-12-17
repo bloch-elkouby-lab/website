@@ -40,6 +40,18 @@
       </div>
     {% endif %}
 
+    {% if include.link %}
+      <div class="card-link">
+        <a
+          href="{{ include.link }}"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {{ include.link_text | default: "Link to grant website" }}
+        </a>
+      </div>
+    {% endif %}
+    
     {% if include.tags or include.repo %}
       {% include tags.html tags=include.tags repo=include.repo %}
     {% endif %}
