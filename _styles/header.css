@@ -143,6 +143,12 @@ header[data-big] .title > *:last-child:not(:only-child) {
   font-size: var(--large);
 }
 
+.title-main {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.1;
+}
+
 .dropdown {
   position: relative;
   display: inline-block;
