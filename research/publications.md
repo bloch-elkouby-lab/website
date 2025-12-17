@@ -17,6 +17,7 @@ permalink: /publications/
   <a href="#2020" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2020</a>
   <a href="#2019" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2019</a>
   <a href="#2017" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2017</a>
+  <a href="#Conf" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">Conferences</a>
 </nav>
 
 <i>Note: *indicates joint first authorship; ____ indicates contribution by students in the lab</i>
@@ -113,3 +114,9 @@ Schuck, A., Calati, R., Barzilay, S., **Bloch‐Elkouby, S.**, & Galynker, I. (2
 **Bloch‐Elkouby, S.**, Knopf, L., Gold, J., Muran, J.C. (2017). Assimilative psychodynamic psychotherapy: A critical case study reconsideration. Journal of Psychotherapy Integration, 27, 254–264. <a href="https://doi.org/10.1037/int0000062">https://doi.org/10.1037/int0000062>
 
 Chui, A., **Bloch‐Elkouby, S.**, & Barber, J. (2017). Benefits and Challenges: A Closer Look at Case Studies within Trials. In Fishman, D.B., Messer, S.B., Edwards, D.J.A., & Dattilio, F.M. (Eds.). Case studies within psychotherapy trials: Expanding the gold standard. New York: Oxford University Press.
+
+
+<h2 id="Conf">Conference presentations</h2>
+
+
+

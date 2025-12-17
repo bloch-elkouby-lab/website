@@ -1,7 +1,7 @@
 ---
 title: Upcoming Events
 nav:
-  order: 7
+  order: 9
 ---
 
 # Upcoming Events

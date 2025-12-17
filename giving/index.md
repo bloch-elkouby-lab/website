@@ -1,7 +1,7 @@
 ---
 title: Giving
 nav:
-  order: 5
+  order: 6
 ---
 
 
