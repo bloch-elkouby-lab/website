@@ -1,6 +1,6 @@
 ---
 title: Projects
-parent: Research
+parent: Research<br>Projects
 nav:
   order: 1
 

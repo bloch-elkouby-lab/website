@@ -1,6 +1,6 @@
 ---
 title: Presentations
-parent: Research
+parent: Research<br>Projects
 nav:
   order: 2
 permalink: /presentations/
