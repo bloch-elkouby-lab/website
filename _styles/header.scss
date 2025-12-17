@@ -169,6 +169,12 @@ header[data-big] {
   }
 }
 
+.title-main {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.1;
+}
+
 
 .dropdown {
   position: relative;
