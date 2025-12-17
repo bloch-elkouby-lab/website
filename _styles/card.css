@@ -51,6 +51,7 @@
 
 .card-description {
   line-height: 1.3;
+  align-items: left;
 }
 
 .card-description p {
