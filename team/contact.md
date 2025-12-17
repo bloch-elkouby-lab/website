@@ -24,7 +24,7 @@ RAs also have the opportunities to take the lead in new projects, conduct their 
 
 ## Current Openings
 
-We are not actively recruiting as of July 22, 2025. However, if your interests and skills allign with the lab, please feel free to reach out. 
+We are not actively recruiting as of Dec 17, 2025. Next round of recruitment is anticipated to happen around May 2026. However, if your interests and skills allign with the lab, please feel free to reach out. 
 
 ## International Students
 
@@ -34,7 +34,7 @@ The lab cannot sponsor H1-B visa. The applicant will need to hold a F-1 or J-1 s
 Please title your email RA Application: [Your Name], attach your CV, cover letter, and supporting materials such as an unofficial transcript and academic writing samples. 
 
 Requirement: 
-* **Attend the weekly team meeting (11:00am-12:15pm US Eastern time Monday on Zoom)**
+* **Attend the weekly team meeting (11:00am-12:15pm US Eastern time/UTC+5 Monday on Zoom)**
 * **At least one year commitment, though a two-year commitment is preferred**
 * **6 to 10 hours of weekly commitment**
 
