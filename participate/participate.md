@@ -1,0 +1,28 @@
+---
+
+permalink: /participate/
+---
+
+## Participate in our studies!!
+
+{% include card.html
+   title="<b>From Suicidality to Recovery: A Qualitative Study on the Lived Experiences of Suicidality Survivors</b>"
+   description="Who can participate?<br>
+• 18 years old or older<br>
+• Have seriously considered ending your life at some point<br>
+• Consider yourself recovered from suicidality<br>
+• View psychotherapy as an important part of your recovery<br>
+• Located within the US at the time of participation<br>
+
+What does participation involve?<br>
+• Remote or in-person, depending on your preference<br>
+• 1-1.5 hour interview<br>
+• 1 hour focus group<br>
+
+Why participate?<br>
+• All participants receive $100 after completing the study<br>
+• Your story can help us improve mental health care for others. If you're open to sharing what helped you recover, we'd be honored to learn from you!
+If you are interested in participating, please contact suicide.recovery.study@gmail.com."
+   link="/participate/Recovery from Suicide.png"
+   style="featured"
+%}
