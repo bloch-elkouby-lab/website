@@ -1,5 +1,5 @@
 ---
-title: Upcoming Events
+title: Upcoming<br>Events
 nav:
   order: 9
 ---

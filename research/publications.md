@@ -164,32 +164,33 @@ Eubanks-Carter, C., **Bloch-Elkouby, S.**, Hungr, C., Muran, J.C., Safran, J. (2
 
 <h2 id="Panels">Panels chaired</h2>
 
-Aafjes-van Doorn &amp; **Bloch-Elkouby, S.** (2025, June). _The impact of AI on psychotherapy: New developments and future directions._ Invited Semi-Plenary at the Annual Meeting of the Society for Psychotherapy Research, Krakow, Poland.
+Aafjes-van Doorn, K., & **Bloch-Elkouby, S.** (2025, June). *The impact of AI on psychotherapy: New developments and future directions* [Invited semi-plenary]. Annual Meeting of the Society for Psychotherapy Research, Krakow, Poland.
 
-**Bloch-Elkouby, S.** &amp; Aafjes-van Doorn (2024, June). _“I don’t want to talk to a robot”. Can artificial intelligence research promote more effective treatments and clinical training approaches?_ Structured discussion at the Annual Meeting of the Society for Psychotherapy Research, Ottawa, Canada.
+**Bloch-Elkouby, S.**, & Aafjes-van Doorn, K. (2024, June). *“I don’t want to talk to a robot”: Can artificial intelligence research promote more effective treatments and clinical training approaches?* [Structured discussion]. Annual Meeting of the Society for Psychotherapy Research, Ottawa, Canada.
 
-**Bloch-Elkouby, S.** (2024, April). _Using Cutting Edge Ai Research to Enhance Clinical Training and Suicide Prevention._ Panel chaired at the Annual Meeting of the Anxiety and Depression Association of America, Boston, MA, USA. 
+**Bloch-Elkouby, S.** (2024, April). *Using cutting-edge AI research to enhance clinical training and suicide prevention* [Panel chair]. Annual Meeting of the Anxiety and Depression Association of America, Boston, MA, United States.
 
-**Bloch-Elkouby, S.** (2023, October). _Working with patients at high-risk for suicidal behaviors and lethal overdoses across treatment phases: new conceptual developments_. Panel chaired at the Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research, Amherst, MA, USA.
+**Bloch-Elkouby, S.** (2023, October). *Working with patients at high risk for suicidal behaviors and lethal overdoses across treatment phases: New conceptual developments* [Panel chair]. Biennial Meeting of the North American Chapter of the Society for Psychotherapy Research, Amherst, MA, United States.
 
-**Bloch-Elkouby, S.** (2021, June). _The impact of cultural differences and biases on the process and outcome of psychotherapy_. Online panel chaired at the Annual Meeting of the Society for Psychotherapy Research, Heidelberg, Germany.
+**Bloch-Elkouby, S.** (2021, June). *The impact of cultural differences and biases on the process and outcome of psychotherapy* [Online panel chair]. Annual Meeting of the Society for Psychotherapy Research, Heidelberg, Germany.
 
-**Bloch-Elkouby, S.** (2015, June). _Can the twain actually meet? Integrating psychodynamic & cognitive-behavioral Treatments_. Structured discussion chaired for the Annual Meeting of the Society for the Exploration of Psychotherapy Integration, Philadelphia, PA, USA.
+**Bloch-Elkouby, S.** (2015, June). *Can the twain actually meet? Integrating psychodynamic and cognitive-behavioral treatments* [Structured discussion chair]. Annual Meeting of the Society for the Exploration of Psychotherapy Integration, Philadelphia, PA, United States.
 
-**Bloch-Elkouby, S.**. (2014, April). _One complex case, three integrative theory options_. Panel chaired at the Annual Meeting of the Society for the Exploration of Psychotherapy Integration, Montreal, Canada.
+**Bloch-Elkouby, S.** (2014, April). *One complex case, three integrative theory options* [Panel chair]. Annual Meeting of the Society for the Exploration of Psychotherapy Integration, Montreal, Canada.
+
 
 <h2 id="Lecture">Invited Lectures</h2>
 
+Upcoming: **Bloch-Elkouby, S.** (2026, May). *The therapeutic alliance as a diagnostic and intervention tool with high-risk patients* [Invited grand rounds presentation]. Mount Sinai Medical Center, New York, NY, United States.
 
-Upcoming: **Bloch-Elkouby, S.** (2026, May). _The therapeutic alliance as a diagnostic and intervention tool with high-risk patients._ Invited Psychology Grand Rounds presentation at Mount Sinai Medical Center, New York, NY, USA. 
+Upcoming: **Bloch-Elkouby, S.** (2026, April 16). *Suicide prevention in rabbinic work and pastoral counseling* [Invited lecture]. Yeshivat Maharat, New York, NY, United States.
 
-Upcoming: **Bloch-Elkouby, S.** (2026, April 16). _Suicide prevention in rabbinic work and pastoral counseling._ Invited lecture at Yeshivat Maharat, a Jewish Orthodox Rabbinical School for Women, New York, NY, USA.
 
-- **Bloch-Elkouby, S.** (2025, November 18). *The therapeutic alliance with high-risk patients: Challenges and opportunities* [Invited keynote address]. University Institute of Psychotherapy, University of Lausanne, Écublens, Vaud, Switzerland.
+**Bloch-Elkouby, S.** (2025, November 18). *The therapeutic alliance with high-risk patients: Challenges and opportunities* [Invited keynote address]. University Institute of Psychotherapy, University of Lausanne, Écublens, Vaud, Switzerland.
 
-- **Bloch-Elkouby, S.**, Brusso, A., Joaquin, M., & Liu, D. (2024, December 20). *Considerations for family planning among early career psychologists* [Panel]. Early Career Committee, APA Division 29.
+**Bloch-Elkouby, S.**, Brusso, A., Joaquin, M., & Liu, D. (2024, December 20). *Considerations for family planning among early career psychologists* [Panel moderator]. Early Career Committee, APA Division 29.
 
-- **Bloch-Elkouby, S.** (2024, October 30). *Beyond sci-fi: Harnessing AI-driven virtual human interactions in psychotherapy research and suicide prevention training* [Invited lecture]. Center for Depression, Anxiety, and Stress Research, Harvard Medical School, Boston, MA, United States.
+**Bloch-Elkouby, S.** (2024, October 30). *Beyond sci-fi: Harnessing AI-driven virtual human interactions in psychotherapy research and suicide prevention training* [Invited lecture]. Center for Depression, Anxiety, and Stress Research, Harvard Medical School, Boston, MA, United States.
 
 Alper, D., **Bloch-Elkouby, S.**, Flaherty, H., Hammer, S., & Speiser, S. (2024, April 4). *Suicide prevention and resiliency: An evening for practitioners* [Panel discussion]. Co-sponsored by the YU Office of Alumni Affairs, Ferkauf Graduate School of Psychology, Wurzweiler School of Social Work, & the YU Counseling Center, New York, NY, United States.
 
