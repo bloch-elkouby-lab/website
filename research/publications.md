@@ -28,7 +28,7 @@ permalink: /publications/
 
 <h2 id="In Press">In Press</h2>
 
-Boritz, T., **Bloch‐Elkouby, S.**, DiBartolomeo, A., & <ins>Aberman, A.</ins> (In Press). Alliance rupture and repair processes in borderline personality disorder. In N. Kazantzis (Ed.), *Alliance rupture repair in cognitive behavioral therapies*. Springer, Cham.
+Boritz, T., **Bloch‐Elkouby, S.**, DiBartolomeo, A., & <ins>Aberman, A.</ins> (In Press). Alliance rupture and repair processes in borderline personality disorder. In A. Okamoto (Ed.), *Alliance rupture repair in cognitive behavioral therapies*. Springer, Cham.
 
 <h2 id="2025">2025</h2>
 

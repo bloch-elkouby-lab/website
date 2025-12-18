@@ -1,6 +1,6 @@
 ---
 title: "Spring 2025 Presentation - Guo"
-permalink: /presentations/spr2025_guo/
+permalink: /posters/spr2025_guo/
 ---
 ## {% include icon.html icon="fa-solid fa-feather-pointed" %} Wendy Guo's Poster
 
