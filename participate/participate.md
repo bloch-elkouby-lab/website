@@ -1,5 +1,5 @@
 ---
-
+title: Participate
 permalink: /participate/
 ---
 
