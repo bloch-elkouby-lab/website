@@ -23,6 +23,6 @@ Why participate?<br>
 • All participants receive $100 after completing the study<br>
 • Your story can help us improve mental health care for others. If you're open to sharing what helped you recover, we'd be honored to learn from you!
 If you are interested in participating, please contact suicide.recovery.study@gmail.com."
-   link="bloch-elkouby-lab/website/participate/Recovery from Suicide.png"
+   link="https://bloch-elkouby-lab.github.io/website/participate/Recovery%20from%20Suicide.png"
    style="featured"
 %}
