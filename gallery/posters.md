@@ -9,33 +9,56 @@ permalink: /posters/
 
 ## Posters
 
-<ins>Bhise, A.</ins>, <ins>Baruch, L.</ins>, <ins>Datta, S.</ins>, <ins>Eid, T.</ins>, <ins>Wei, J.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). The impact of virtual patients’ race on clinical judgement: A qualitative analysis of 150 case conceptualization narratives [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
+<nav style="background-color: #ebf5fb ; overflow: hidden;">
+  <!-- <a href="#2026" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2026</a> -->
+  <a href="#2025" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2025</a>
+  <a href="#Before 2025" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">Before 2025</a>
+</nav>
 
-<ins>Chen, J. P.</ins>, <ins>Shi, R.</ins>, <ins>Wei, J.</ins>, <ins>Datta, S.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). Do virtual patients’ inaccurate responses and technological problems impede clinicians’ engagement and perception of the therapeutic alliance? [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
+<!-- ON PREPARATION
+<h2 id="2026">2026</h2>
 
-<ins>Eid, T.</ins>, <ins>Prekas, A. S.</ins>, <ins>Barnes, R.</ins>, <ins>Bhise, A.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). Moderators of the relationship between implicit and explicit racial bias among clinicians [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
+<ins>Chen, J. P.</ins>, ... , & **Bloch-Elkouby, S.** (2026, June 24-27). *How does technical difficulties disproportionately impact the assessment of suicide crisis, suicide ideation, and overall suicide risk on Black people and why?* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
 
-<ins>Guo, W.</ins>, <ins>Prekas, A. S.</ins>, <ins>Wei, J.</ins>, <ins>Maryam, A.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). Does clinicians’ emotion regulation (trait) predict clinicians’ experience of the alliance with high-risk virtual patients? [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
+<ins>Xu, H.</ins>, <ins>Chen, J. P.</ins>, <ins>Yang, J.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Assessing Psychometric Properties of Suicide Crisis Syndrome Checklist (SCS-C) Using a Standardized Virtual Patient* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
 
-<ins>Prekas, A. S.</ins>, <ins>Eid, T.</ins>, <ins>Chen, J. P.</ins>, <ins>Maryam, A.</ins>, <ins>Guo, W.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). Suicide risk assessment among adolescent virtual patients: The role of implicit racial biases [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
+<ins>Yang, J.</ins>, <ins> Wei, Y.</ins>, <ins>Chen, J. P.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Computational Case Conceptualization for Suicide Crisis Syndrome: Generating Individualized Treatment Predictions* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
+-->
+<h2 id="2025">2025</h2>
 
-<ins>Shvarzman, R.</ins>, <ins>Baruch, L.</ins>, <ins>Rosen, T.</ins>, <ins>Wei, J.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). Implicit racial bias and clinicians’ observed emotional responses in psychotherapy: A virtual interaction study [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
+<ins>Chen, J. P.</ins>, <ins>Xu, H.</ins>, <ins>Yang, J.</ins>, & **Bloch-Elkouby, S.** (2025, Dec 11-12). *Reliability of suicide crisis syndrome checklist (SCS-C) across 70 clinicians interviewing the same virtual patient* [Poster presentation]. Technology in Psychiatry Summit 2025, virtual. 
 
-<ins>Wei, J.</ins>, <ins>Shi, R.</ins>, <ins>Chen, J. P.</ins>, <ins>Tortora, J.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). Does mindfulness moderate the impact of patients’ race and clinicians’ implicit racial biases on clinicians’ emotional response to minoritized youth? [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
+<ins>Barnes, R.</ins>, <ins>Berman, A.</ins>, <ins>Chen, J. P.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Why do clinicians struggle to establish a good alliance with high-risk patients? An investigation of clinicians' intrapsersonal factors* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
-<ins>Aberman, A.</ins>, <ins>Jones, D.</ins>, <ins>Shvarzman, R.</ins>, Tortora, J., & **Bloch-Elkouby, S.** (2024, June). The role of self-compassion in evidence-based suicide-specific interventions: A critical review [Poster presentation]. Society for Psychotherapy Research Annual Meeting, Ottawa, Canada.
+<ins>Bhise, A.</ins>, <ins>Baruch, L.</ins>, <ins>Datta, S.</ins>, <ins>Eid, T.</ins>, <ins>Wei, J.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *The impact of virtual patients’ race on clinical judgement: A qualitative analysis of 150 case conceptualization narratives* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
-<ins>Goncearenco, I.</ins>, & **Bloch-Elkouby, S.** (2024, April). Hidden barriers: Exploring self-disgust/hatred and disgust with others in individuals with concealed vs. disclosed past-month suicidal ideation [Poster presentation]. American Psychiatric Association Annual Meeting, New York, NY, United States.
+<ins>Chen, J. P.</ins>, <ins>Shi, R.</ins>, <ins>Wei, J.</ins>, <ins>Datta, S.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Do virtual patients’ inaccurate responses and technological problems impede clinicians’ engagement and perception of the therapeutic alliance?* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
-Gordon, G., Samstag, L., & **Bloch-Elkouby, S.** (2022, March). Explicit and implicit racial bias in nursing: Can mindfulness mitigate aversive racism? [Poster presentation]. Eastern Psychological Association 93rd Annual Meeting, New York, NY, United States.
+<ins>Eid, T.</ins>, <ins>Prekas, A. S.</ins>, <ins>Barnes, R.</ins>, <ins>Bhise, A.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Moderators of the relationship between implicit and explicit racial bias among clinicians* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
-Forestal, C., Schuck, A., **Bloch-Elkouby, S.**, & Galynker, I. (2019, May). Extreme anxiety moderates the relationship between hopelessness and suicidal thoughts and behaviors [Poster presentation]. American Psychiatric Association Annual Meeting, San Francisco, CA, United States.
+<ins>Guo, W.</ins>, <ins>Prekas, A. S.</ins>, <ins>Wei, J.</ins>, <ins>Maryam, A.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Is clinicians’ emotions regulation related to their experience of the alliance of high-risk virtual patients?* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
-Ying, G., **Bloch-Elkouby, S.**, & Galynker, I. (2019, May). Perceived burdensomeness and thwarted belongingness mediate the relationship between depression and the Suicide Crisis Syndrome [Poster presentation]. American Psychiatric Association Annual Meeting, San Francisco, CA, United States.
+<ins>Prekas, A. S.</ins>, <ins>Eid, T.</ins>, <ins>Chen, J. P.</ins>, <ins>Maryam, A.</ins>, <ins>Guo, W.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Exploring the role of implicit racial bias in clinical judgment using cutting edge virtual patient technology* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
-Schuck, A., Barzilay, S., **Bloch-Elkouby, S.**, Calati, R., Mahato, R., & Galynker, I. (2019, May). Association between clinicians’ emotional response, therapeutic alliance and patient suicidal ideation [Poster presentation]. American Psychiatric Association Annual Meeting, San Francisco, CA, United States.
+<ins>Shi, R.</ins>, <ins>Wei, J.</ins>, <ins>Rosen, T.</ins>, <ins>Baruch, L.</ins>, <ins>Chen, J. P.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *The role of implicit racial biases in shaping clinician interactions with virtual patients across racial lines* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland. 
 
-Schuck, A., Calati, R., **Bloch-Elkouby, S.**, Barzilay, S., & Galynker, I. (2019). Ruminative flooding as a mediator of the relationship between lifetime suicide risk and prospective suicidal thoughts and behaviors [Poster presentation]. Anxiety and Depression Association of America 39th Annual Conference, Chicago, IL, United States.
+<ins>Shvarzman, R.</ins>, <ins>Baruch, L.</ins>, <ins>Rosen, T.</ins>, <ins>Wei, J.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Implicit racial bias and clinicians’ observed emotional responses in psychotherapy: A virtual interaction study* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
-**Bloch-Elkouby, S.**, Muran, J. C., Gorman, B. S., Safran, J. D., & Winston, A. (2013, October). Concordance between measures of outcome and assessment of possible deterioration [Poster presentation]. Society for Psychotherapy Research Annual Meeting, Memphis, TN, United States.
+<ins>Wei, J.</ins>, <ins>Shi, R.</ins>, <ins>Chen, J. P.</ins>, <ins>Tortora, J.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Does mindfulness moderate the impact of patients’ race and clinicians’ implicit racial biases on clinicians’ emotional response to minoritized youth?* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
+
+<ins>Aberman, A.</ins>, <ins>Jones, D.</ins>, <ins>Shvarzman, R.</ins>, Tortora, J., & **Bloch-Elkouby, S.** (2024, June). *The role of self-compassion in evidence-based suicide-specific interventions: A critical review* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Ottawa, Canada.
+
+<ins>Goncearenco, I.</ins>, & **Bloch-Elkouby, S.** (2024, April). *Hidden barriers: Exploring self-disgust/hatred and disgust with others in individuals with concealed vs. disclosed past-month suicidal ideation* [Poster presentation]. American Psychiatric Association Annual Meeting, New York, NY, United States.
+
+Gordon, G., Samstag, L., & **Bloch-Elkouby, S.** (2022, March). *Explicit and implicit racial bias in nursing: Can mindfulness mitigate aversive racism?* [Poster presentation]. Eastern Psychological Association 93rd Annual Meeting, New York, NY, United States.
+
+Forestal, C., Schuck, A., **Bloch-Elkouby, S.**, & Galynker, I. (2019, May). *Extreme anxiety moderates the relationship between hopelessness and suicidal thoughts and behaviors* [Poster presentation]. American Psychiatric Association Annual Meeting, San Francisco, CA, United States.
+
+Ying, G., **Bloch-Elkouby, S.**, & Galynker, I. (2019, May). *Perceived burdensomeness and thwarted belongingness mediate the relationship between depression and the Suicide Crisis Syndrome* [Poster presentation]. American Psychiatric Association Annual Meeting, San Francisco, CA, United States.
+
+Schuck, A., Barzilay, S., **Bloch-Elkouby, S.**, Calati, R., Mahato, R., & Galynker, I. (2019, May). *Association between clinicians’ emotional response, therapeutic alliance and patient suicidal ideation* [Poster presentation]. American Psychiatric Association Annual Meeting, San Francisco, CA, United States.
+
+Schuck, A., Calati, R., **Bloch-Elkouby, S.**, Barzilay, S., & Galynker, I. (2019). *Ruminative flooding as a mediator of the relationship between lifetime suicide risk and prospective suicidal thoughts and behaviors* [Poster presentation]. Anxiety and Depression Association of America 39th Annual Conference, Chicago, IL, United States.
+
+**Bloch-Elkouby, S.**, Muran, J. C., Gorman, B. S., Safran, J. D., & Winston, A. (2013, October). *Concordance between measures of outcome and assessment of possible deterioration* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Memphis, TN, United States.
 
