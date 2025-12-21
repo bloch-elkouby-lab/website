@@ -6,7 +6,7 @@ permalink: /posters/spr2025_wei/
 
 ## Does Mindfulness Moderate the Impact of Patients’ Race and Clinicians’ Implicit Racial Biases on Clinicians’ Emotional Response to Minoritized Youth? ##
 
-by **Jade Wei**<sup>1,2</sup>, Runqin Shi<sup>2,3</sup>, Jimmy P. Chen<sup>1,2</sup>, Wendy Guo<sup>1,2</sup>, Jason Tortora<sup>2,3</sup>, & Sarah Bloch-Elkouby<sup>2,3</sup>
+by **Jade Wei**<sup>1,2</sup>, Runqin Shi<sup>1,2,3</sup>, Jimmy P. Chen<sup>1,2</sup>, Wendy Guo<sup>1,2</sup>, Jason Tortora<sup>3</sup>, & Sarah Bloch-Elkouby<sup>2,3</sup>
 
 1 Teachers College, Columbia University in the City of New York
 2 Icahn School of Medicine at Mount Sinai in New York City
@@ -27,8 +27,8 @@ by **Jade Wei**<sup>1,2</sup>, Runqin Shi<sup>2,3</sup>, Jimmy P. Chen<sup>1,2</
 ### Objective: ###
 
 1. Clinicians would show significantly different emotional responses to virtual patients of different races.
-2.There will be an interaction effect between virtual patients’ race and clinicians’ implicit racial biases, on the one hand, and clinicians’ emotional response to the virtual patients, such that clinicians with a higher implicit racial biases level will report more negative emotional responses to Black vs. White virtual patients.
-3.The level of clinicians’ mindfulness will moderate the relationship between virtual patients’ race and clinicians’ implicit racial biases, and clinicians’ emotional response, such that among clinicians with a higher level of mindfulness, the relationship between our virtual patients’ race and clinicians’ implicit racial biases, and clinicians’ emotional response will be weaker.
+2. There will be an interaction effect between virtual patients’ race and clinicians’ implicit racial biases, on the one hand, and clinicians’ emotional response to the virtual patients, such that clinicians with a higher implicit racial biases level will report more negative emotional responses to Black vs. White virtual patients.
+3. The level of clinicians’ mindfulness will moderate the relationship between virtual patients’ race and clinicians’ implicit racial biases, and clinicians’ emotional response, such that among clinicians with a higher level of mindfulness, the relationship between our virtual patients’ race and clinicians’ implicit racial biases, and clinicians’ emotional response will be weaker.
 
 ### Method: ###
 
@@ -46,7 +46,11 @@ Short Form (TRQ-SF)
 
 Analysis: Independent t-test and PROCESS macro (Models 1 & 3) to test moderation and three-way interaction effects.
 
-### Result: ###
+### Results: ###
+
+{% include figure.html
+   image="gallery/spr2025/spr2025_wei_results1.png"
+%}
 
 * Race difference (RQ1): There was no significant difference in clinicians’ emotional responses between those assigned to White (M=17.19, SD=4.74, n=100) and Black/Other (M=18.21, SD=4.91, n=91) virtual patients, t(185.9) = -1.46, p = .147, 95% CI [-2.40, 0.36]. The effect size was small, d = –0.21, 95% CI [–0.50, 0.07]. 
 

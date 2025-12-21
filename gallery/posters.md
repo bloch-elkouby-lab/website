@@ -42,7 +42,7 @@ permalink: /posters/
 
 <ins>Shvarzman, R.</ins>, <ins>Baruch, L.</ins>, <ins>Rosen, T.</ins>, <ins>Wei, J.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). [*Implicit racial bias and clinicians’ observed emotional responses in psychotherapy: A virtual interaction study*](https://bloch-elkouby-lab.github.io/website/posters/spr2025_shvarzman/) [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
-<ins>Tortora, J.</ins>, <ins>Jones, A.</ins>, <ins>Shvarzman, R.</ins>, <ins>Aberman, A.</ins> (2025, June 25-28). [*Therapist Empathy and How It May Be Affected By Implicit Biases Against Their Patient’s Identity*](https://bloch-elkouby-lab.github.io/website/posters/spr2025_tortora/) [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
+<ins>Tortora, J.</ins>, <ins>Jones, A.</ins>, <ins>Shvarzman, R.</ins>, <ins>Aberman, A.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). [*Therapist empathy and how it may be affected by implicit biases against their patient’s identity*](https://bloch-elkouby-lab.github.io/website/posters/spr2025_tortora/) [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
 <ins>Wei, J.</ins>, <ins>Shi, R.</ins>, <ins>Chen, J. P.</ins>, <ins>Tortora, J.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). [*Does mindfulness moderate the impact of patients’ race and clinicians’ implicit racial biases on clinicians’ emotional response to minoritized youth?*](https://bloch-elkouby-lab.github.io/website/posters/spr2025_wei/) [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
