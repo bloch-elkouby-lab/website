@@ -6,7 +6,11 @@ permalink: /posters/spr2025_guo/
 
 ## Is clinicians' emotion regulation related to their perception of the therapeutic alliance with high-risk virtual patients ? ##
 
-by **Wendy Guo**, Jade Wei, Stephanie Prekas, Amna Maryam, Runqin Shi, Sarah Bloch-Elkouby
+by **Wendy Guo**<sup>1,2</sup>, Jade Wei<sup>1,2</sup>, Anna Stephanie Prekas<sup>2</sup>, Amna Maryam<sup>1,2</sup>, Runqin Shi<sup>2,3</sup>, Sarah Bloch-Elkouby<sup>2,3</sup>
+
+1 Teachers College, Columbia University in the City of New York
+2 Icahn School of Medicine at Mount Sinai in New York City
+3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html
    image="gallery/spr2025/spr2025_guo.jpg"
