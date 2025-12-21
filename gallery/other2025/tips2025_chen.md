@@ -16,6 +16,8 @@ by **Jimmy P. Chen**<sup>1,2</sup>, Hanjiang Xu<sup>1,2</sup>, Jingyi Yang<sup>1
    image="gallery/other2025/tips2025_chen.png"
 %}
 
+### Audio Introduction: ###
+
 <audio controls>
   <source src="https://bloch-elkouby-lab.github.io/website/gallery/other2025/tips2025_chen.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
