@@ -1,5 +1,5 @@
 ---
-title: "Spring 2025 Presentation - Chen"
+title: "SPR2025 - Chen"
 permalink: /posters/spr2025_chen/
 ---
 ## {% include icon.html icon="fa-solid fa-feather-pointed" %} Jimmy Chen's Poster
@@ -9,7 +9,7 @@ permalink: /posters/spr2025_chen/
 by **Jimmy Pengyu Chen**, Jade Wei, Shibani Datta, Runqin Shi, Sarah Bloch-Elkouby
 
 {% include figure.html
-   image="gallery/poster_images/spr2025_poster_pengyu.jpg"
+   image="gallery/spr_2025/spr2025_chen.jpg"
 %}
 
 

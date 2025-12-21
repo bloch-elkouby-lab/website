@@ -8,6 +8,10 @@ permalink: /posters/spr2025_guo/
 
 by **Wendy Guo**, Jade Wei, Stephanie Prekas, Amna Maryam, Runqin Shi, Sarah Bloch-Elkouby
 
+{% include figure.html
+   image="gallery/spr2025/spr2025_guo.jpg"
+%}
+
 ### Background: ###
 
 Recent literature highlights the importance of establishing an effective therapeutic alliance when working with patients at high risk for suicide (Rudd et al., 2021; Fartacek et al., 2023), and the challenges that render this task difficult (Bloch-Elkouby & Barzilay, 2022). Among such challenges, therapists’ negative emotional responses were highlighted as key potential obstacles to a good alliance with high risk patients (Barzilay et al., 2020).
