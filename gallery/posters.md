@@ -12,7 +12,7 @@ permalink: /posters/
 <nav style="background-color: #ebf5fb ; overflow: hidden;">
   <!-- <a href="#2026" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2026</a> -->
   <a href="#2025" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2025</a>
-  <a href="#Before 2025" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">Before 2025</a>
+  <a href="#2013-2025" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2013-2025</a>
 </nav>
 
 <!-- ON PREPARATION
@@ -47,7 +47,7 @@ permalink: /posters/
 <ins>Wei, J.</ins>, <ins>Shi, R.</ins>, <ins>Chen, J. P.</ins>, <ins>Tortora, J.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Does mindfulness moderate the impact of patients’ race and clinicians’ implicit racial biases on clinicians’ emotional response to minoritized youth?* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
 
-<h2 id="Before 2025">Before 2025</h2>
+<h2 id="2013-2025">2013-2025</h2>
 
 <ins>Aberman, A.</ins>, <ins>Jones, D.</ins>, <ins>Shvarzman, R.</ins>, Tortora, J., & **Bloch-Elkouby, S.** (2024, June). *The role of self-compassion in evidence-based suicide-specific interventions: A critical review* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Ottawa, Canada.
 
