@@ -6,7 +6,7 @@ permalink: /posters/spr2025_chen/
 
 ## How much do inappropriate responses impede clinicians’ engagement and therapeutic alliance with a virtual patient? ##
 
-by **Jimmy Pengyu Chen**<sup>1,2</sup>, Jade Wei<sup>1,2</sup>, Shibani Datta<sup>2,3</sup>, Runqin Shi<sup>2,3</sup>, Sarah Bloch-Elkouby<sup>2,3</sup>
+by **Jimmy Pengyu Chen**<sup>1,2</sup>, Jade Wei<sup>1,2</sup>, Shibani Datta<sup>2,3</sup>, Runqin Shi<sup>2,3</sup>, & Sarah Bloch-Elkouby<sup>2,3</sup>
 
 1 Teachers College, Columbia University in the City of New York
 2 Icahn School of Medicine at Mount Sinai in New York City
@@ -64,3 +64,11 @@ However, it is to be emphasized that the realistic impact of technical errors is
 
 By the time of poster submission, the recoding of nonsensical responses was still in progress due to low interrater reliability. So the coding might not be accurate.  
 
+### References: ###
+
+Al-Amin, Md., Ali, M. S., Salam, A., Khan, A., Ali, A., Ullah, A., Alam, M. N., & Chowdhury, S. K. (2024). History of generative Artificial Intelligence (AI) chatbots: Past, present, and future development (Version 1). arXiv. https://doi.org/10.48550/ARXIV.2402.05122
+Anthony, K. (2003). The use and role of technology in counselling and psychotherapy. In S. Goss & K. Anthony, Technology in Counselling and Psychotherapy (pp. 13–35). Macmillan Education UK. https://doi.org/10.1007/978-0-230-50015-0_2
+Dupuy, L., Micoulaud-Franchi, J.-A., Cassoudesalle, H., Ballot, O., Dehail, P., Aouizerate, B., Cuny, E., De Sevin, E., & Philip, P. (2020). Evaluation of a virtual agent to train medical students conducting psychiatric interviews for diagnosing major depressive disorders. Journal of Affective Disorders, 263, 1–8. https://doi.org/10.1016/j.jad.2019.11.117
+Fink, M. C., Reitmeier, V., Stadler, M., Siebeck, M., Fischer, F., & Fischer, M. R. (2021). Assessment of Diagnostic Competences With Standardized Patients Versus Virtual Patients: Experimental Study in the Context of History Taking. Journal of Medical Internet Research, 23(3), e21196. https://doi.org/10.2196/21196
+Sabharwal, N., & Agrawal, A. (2020). Cognitive Virtual Assistants Using Google Dialogflow: Develop Complex Cognitive Bots Using the Google Dialogflow Platform. Apress. https://doi.org/10.1007/978-1-4842-5741-8
+Wintersteen, M. B., Mensinger, J. L., & Diamond, G. S. (2005). Do Gender and Racial Differences Between Patient and Therapist Affect Therapeutic Alliance and Treatment Retention in Adolescents? Professional Psychology: Research and Practice, 36(4), 400–408. https://doi.org/10.1037/0735-7028.36.4.400
