@@ -41,7 +41,19 @@
         </a>
       </div>
     {% endif %}
-
+    
+    {% if include.link2 %}
+      <div class="card-link">
+        <a
+          href="{{ include.link2 }}"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {{ include.link_text2 | default: "Click to email" }}
+        </a>
+      </div>
+    {% endif %}
+    
     {% if include.tags or include.repo %}
       {% include tags.html tags=include.tags repo=include.repo %}
     {% endif %}
