@@ -25,5 +25,6 @@ Why participate?<br>
 If you are interested in participating, please contact suicide.recovery.study@gmail.com."
    link="https://bloch-elkouby-lab.github.io/website/participate/Recovery%20from%20Suicide.png"
    link_text="See Flyer"
+   image="participate/Recovery from Suicide-cropped.png"
    style="featured"
 %}
