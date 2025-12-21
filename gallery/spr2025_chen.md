@@ -8,7 +8,9 @@ permalink: /posters/spr2025_chen/
 
 by **Jimmy Pengyu Chen**, Jade Wei, Shibani Datta, Runqin Shi, Sarah Bloch-Elkouby
 
-<img src="gallery/poster_images/spr2025_poster_pengyu.jpg" alt="Description" width="400" height="200">
+{% include figure.html
+   image="gallery/poster_images/spr2025_poster_pengyu.jpg"
+%}
 
 
 ### Background: ###
