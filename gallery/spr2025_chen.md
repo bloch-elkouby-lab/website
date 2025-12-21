@@ -6,7 +6,10 @@ permalink: /posters/spr2025_chen/
 
 ## How much do inappropriate responses impede clinicians’ engagement and therapeutic alliance with a virtual patient? ##
 
-by **Jimmy Chen**, Jade Wei, Shibani Datta, Runqin Shi, Sarah Bloch-Elkouby
+by **Jimmy Pengyu Chen**, Jade Wei, Shibani Datta, Runqin Shi, Sarah Bloch-Elkouby
+
+<img src="gallery/poster_images/spr2025_poster_pengyu.jpg" alt="Description" width="400" height="200">
+
 
 ### Background: ###
 Leveraging technology to augment and transform the process of psychotherapy has been a constant trend of efforts, from the use of telephone decades ago to the artificial intelligence (AI) today. The concerns have risen at the same time, cautioning that the use technology will lead to miscommunication due to missing non-verbal cues, inhibit inspirational thinking associated with self-discovery, and the quality of therapeutic alliance (Anthony, 2003). While these concerns remain valid and difficult to remedy, determining the impact of technological shortcomings becomes a vital index for the feasibility of such technology.

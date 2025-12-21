@@ -32,11 +32,9 @@ permalink: /posters/
 
 <ins>Bhise, A.</ins>, <ins>Baruch, L.</ins>, <ins>Datta, S.</ins>, <ins>Eid, T.</ins>, <ins>Wei, J.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *The impact of virtual patients’ race on clinical judgement: A qualitative analysis of 150 case conceptualization narratives* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
-<ins>Chen, J. P.</ins>, <ins>Shi, R.</ins>, <ins>Wei, J.</ins>, <ins>Datta, S.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Do virtual patients’ inaccurate responses and technological problems impede clinicians’ engagement and perception of the therapeutic alliance?* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
+<ins>Chen, J. P.</ins>, <ins>Shi, R.</ins>, <ins>Wei, J.</ins>, <ins>Datta, S.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). [*Do virtual patients’ inaccurate responses and technological problems impede clinicians’ engagement and perception of the therapeutic alliance?*](https://bloch-elkouby-lab.github.io/website/posters/spr2025_chen/) [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
-<ins>Eid, T.</ins>, <ins>Prekas, A. S.</ins>, <ins>Barnes, R.</ins>, <ins>Bhise, A.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Moderators of the relationship between implicit and explicit racial bias among clinicians* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
-
-<ins>Guo, W.</ins>, <ins>Prekas, A. S.</ins>, <ins>Wei, J.</ins>, <ins>Maryam, A.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Is clinicians’ emotions regulation related to their experience of the alliance of high-risk virtual patients?* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
+<ins>Guo, W.</ins>, <ins>Prekas, A. S.</ins>, <ins>Wei, J.</ins>, <ins>Maryam, A.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). [*Is clinicians’ emotions regulation related to their experience of the alliance of high-risk virtual patients?*](https://bloch-elkouby-lab.github.io/website/posters/spr2025_guo/) [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
 <ins>Prekas, A. S.</ins>, <ins>Eid, T.</ins>, <ins>Chen, J. P.</ins>, <ins>Maryam, A.</ins>, <ins>Guo, W.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Exploring the role of implicit racial bias in clinical judgment using cutting edge virtual patient technology* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
@@ -44,7 +42,11 @@ permalink: /posters/
 
 <ins>Shvarzman, R.</ins>, <ins>Baruch, L.</ins>, <ins>Rosen, T.</ins>, <ins>Wei, J.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Implicit racial bias and clinicians’ observed emotional responses in psychotherapy: A virtual interaction study* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
+<ins>Tortora, J.</ins>, <ins>Jones, A.</ins>, <ins>Shvarzman, R.</ins>, <ins>Aberman, A.</ins> (2025, June 25-28). *Therapist Empathy and How It May Be Affected By Implicit Biases Against Their Patient’s Identity* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
+
 <ins>Wei, J.</ins>, <ins>Shi, R.</ins>, <ins>Chen, J. P.</ins>, <ins>Tortora, J.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). *Does mindfulness moderate the impact of patients’ race and clinicians’ implicit racial biases on clinicians’ emotional response to minoritized youth?* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
+
+<h2 id="Before 2025">Before 2025</h2>
 
 <ins>Aberman, A.</ins>, <ins>Jones, D.</ins>, <ins>Shvarzman, R.</ins>, Tortora, J., & **Bloch-Elkouby, S.** (2024, June). *The role of self-compassion in evidence-based suicide-specific interventions: A critical review* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Ottawa, Canada.
 
