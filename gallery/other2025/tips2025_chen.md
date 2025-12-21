@@ -13,8 +13,14 @@ by **Jimmy P. Chen**<sup>1,2</sup>, Hanjiang Xu<sup>1,2</sup>, Jingyi Yang<sup>1
 3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html
-   image="gallery/spr2025/tips2025_chen.png"
+   image="gallery/other2025/tips2025_chen.png"
 %}
+
+<audio controls>
+  <source src="gallery/other2025/tips2025_chen.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 
 ### Background: ###
 
@@ -35,6 +41,7 @@ Hypotheses
 ### Methods: ###
 
 Clinician rated both SCS-C and C-SSRS-screener in five-point Likert scale (0 Not at all - 4 Extremely) after they interacted with the VP, according to their assessment. The scores were then dichotomized with scores below 2 (0 and 1) recoded as 0 (negative/absent) and the rest as 1 (positive/present). The SCS-C included 15 individual symptoms, 5 criteria, and 1 overall diagnosis. The question 1-5 in C-SSRS-screener that assessed the severity of suicidal ideation was included. With both measures, the validity of clinicians’ assessment was operationalized as the consistency between clinicians’ and experts’ ratings (correct/total) while interrater reliability was assessed using Gwet’s AC1 (Gwet, 2008). 
+
 ### Result: ###
 
 {% include figure.html

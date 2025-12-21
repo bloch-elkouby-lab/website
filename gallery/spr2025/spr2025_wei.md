@@ -4,7 +4,7 @@ permalink: /posters/spr2025_wei/
 ---
 ## {% include icon.html icon="fa-solid fa-feather-pointed" %} Jade Wei's Poster
 
-## placeholder? ##
+## Does Mindfulness Moderate the Impact of Patients’ Race and Clinicians’ Implicit Racial Biases on Clinicians’ Emotional Response to Minoritized Youth? ##
 
 by 
 
