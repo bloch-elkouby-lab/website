@@ -6,7 +6,7 @@ permalink: /posters/spr2025_bhise/
 
 ## The Impact of Patients’ Race on Clinical Judgement: A Qualitative Analysis of 100 Case Conceptualizations ##
 
-by **Aditya Bhise**<sup>1</sup>, Jade Wei<sup>1,2</sup>, Shibani Datta<sup>2,3</sup>, Tamara Eid<sup>1,2</sup>, and Sarah Bloch-Elkouby, Ph.D.
+by **Aditya Bhise**<sup>1</sup>, Jade Wei<sup>1,2</sup>, Shibani Datta<sup>2,3</sup>, Tamara Eid<sup>1,2</sup>, & Sarah Bloch-Elkouby<sup>2,3</sup>
 
 1 Icahn School of Medicine at Mount Sinai in New York City
 2 Teachers College, Columbia University in the City of New York
