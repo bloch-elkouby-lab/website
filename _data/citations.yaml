@@ -1,5 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:41420906
+  title: Can training clinicians in emotional awareness using virtual patient interactions
+    improve the therapeutic alliance with psychiatric outpatients and reduce suicidal
+    outcomes?
+  authors:
+  - Sarah Bloch-Elkouby
+  - Benjamin Johnson
+  - Jimmy P Chen
+  - Rawad El Hayek
+  - Adelaide Jones
+  - Tamara Eid
+  - Alexander Gomes de Siqueira
+  - Yael Apter
+  - Heng Yao
+  - Benjamin Lok
+  - Adriana Foster
+  - Igor Galynker
+  publisher: Psychiatry research
+  date: '2025-11-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41420906
+  term: Bloch-Elkouby, S[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:41113191
   title: 'Suicide Crisis Syndrome: examining supporting evidence and barriers to diagnostic
     validity.'
