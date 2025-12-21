@@ -34,10 +34,32 @@ Hypotheses
 
 ### Methods: ###
 
+Clinician rated both SCS-C and C-SSRS-screener in five-point Likert scale (0 Not at all - 4 Extremely) after they interacted with the VP, according to their assessment. The scores were then dichotomized with scores below 2 (0 and 1) recoded as 0 (negative/absent) and the rest as 1 (positive/present). The SCS-C included 15 individual symptoms, 5 criteria, and 1 overall diagnosis. The question 1-5 in C-SSRS-screener that assessed the severity of suicidal ideation was included. With both measures, the validity of clinicians’ assessment was operationalized as the consistency between clinicians’ and experts’ ratings (correct/total) while interrater reliability was assessed using Gwet’s AC1 (Gwet, 2008). 
 ### Result: ###
+
+{% include figure.html
+   image="gallery/spr2025/tips2025_chen_results1.png"
+%}
+
+
+Table 1 and 2 presents Noah’s correct SCS and C-SSRS screener ratings respectively. The number in the parentheses showed the number of clinicians who got the correct rating, divided by the total sample size. The third table documents the frequency distribution of clinician responses and their AC1 scores. 
+
+Clinician ratings demonstrated strong agreement with the VP design and high interrater reliability across SCS criteria (entrapment: 62/70, AC1 = .74; affective disturbance: 70/70, AC1 = 1.00; cognitive disturbance: 67/70, AC1 = .91; arousal disturbance: 64/70, AC1 = .84; social withdrawal: 66/70, AC1 = .91). The SCS diagnosis was moderately consistent and reliable (56/70; AC1 = .55), outperforming CSSRS risk assessment (35/70; AC1 = .15). Overall, the SCS-C items consistently ranked above the CSSRS items in AC1 scores and consistency ratings.
+
+However, some individual SCS symptoms demonstrated lower reliability (lowest 10/70, AC1 = .10), warranting further investigation.
+
 
 ### Conclusion: ###
 
-### Limitation: ###
+Although some SCS symptoms were rated less accurately, perhaps because the clinicians in the study were never trained on SCS or told to assess SCS, the strong criterion-level validity and interrater reliability for SCS-C and superiority to C-SSRS still provided evidence for its clinical utility. 
+
+The VP is also demonstrated to be an efficient tool for testing clinician-rated measures, providing stronger scalability and cost-effectiveness than standardized patients.
+
 
 ### References: ###
+
+Bloch-Elkouby, S., Rogers, M. L., Goncearenco, I., Yanez, N., Nemeroff, C., Chennapragada, L., ... & Galynker, I. (2024). The narrative crisis model of suicide: A review of empirical evidence for an innovative dynamic model of suicide and a comparison with other theoretical frameworks. *Personalized Medicine in Psychiatry, 45*, 100131. https://doi.org/10.1016/j.pmip.2024.100131
+
+Gwet, K. L. (2008). Computing inter-rater reliability and its variance in the presence of high agreement. *British Journal of Mathematical and Statistical Psychology, 61*, 29-48. https://doi.org/10.1348/000711006X126600
+
+Schuck, A., Calati, R., Barzilay, S., Bloch‐Elkouby, S., & Galynker, I. (2019). Suicide Crisis Syndrome: A review of supporting evidence for a new suicide‐specific diagnosis. *Behavioral Sciences & the Law, 37*(3), 223-239. https://doi.org/10.1002/bsl.2397
