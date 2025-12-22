@@ -6,7 +6,7 @@ permalink: /posters/spr2025_shvarzman/
 
 ## Implicit Racial Bias and Clinicians’ Observed Emotional Responses in Psychotherapy: A Virtual Interaction Study ##
 
-by Ronit Shvarzman<sup>1</sup>, Laura Baruch<sup>1</sup>, Talia Rosen<sup>1</sup>, Jade Wei<sup>2,3</sup>, & Sarah Bloch-Elkouby<sup>1,2</sup>
+by **Ronit Shvarzman**<sup>1</sup>, Laura Baruch<sup>1</sup>, Talia Rosen<sup>1</sup>, Jade Wei<sup>2,3</sup>, & Sarah Bloch-Elkouby<sup>1,2</sup>
 
 1 Ferkauf Graduate School of Psychology, Yeshiva University<br>
 2 Icahn School of Medicine at Mount Sinai in New York City<br>
