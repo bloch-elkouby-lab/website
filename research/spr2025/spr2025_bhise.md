@@ -13,7 +13,7 @@ by **Aditya Bhise**<sup>1</sup>, Jade Wei<sup>1,2</sup>, Shibani Datta<sup>2,3</
 3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_bhise.jpg"
+   image="research/spr2025/spr2025_bhise.jpg"
 %}
 
 ### Abstract: ###
@@ -37,15 +37,15 @@ The differences in the content of case conceptualizations were determined betwee
 ### Results: ###
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_bhise_results1.png"
+   image="research/spr2025/spr2025_bhise_results1.png"
 %}
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_bhise_results2.png"
+   image="research/spr2025/spr2025_bhise_results2.png"
 %}
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_bhise_results3.png"
+   image="research/spr2025/spr2025_bhise_results3.png"
 %}
 
 ### Conclusion: ###

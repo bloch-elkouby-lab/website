@@ -14,7 +14,7 @@ by **Ronit Shvarzman**<sup>1</sup>, Laura Baruch<sup>1</sup>, Talia Rosen<sup>1<
 
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_shvarzman.png"
+   image="research/spr2025/spr2025_shvarzman.png"
 %}
 
 ### Background: ###

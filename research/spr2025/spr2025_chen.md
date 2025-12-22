@@ -13,7 +13,7 @@ by **Jimmy Pengyu Chen**<sup>1,2</sup>, Jade Wei<sup>1,2</sup>, Shibani Datta<su
 3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_chen.jpg"
+   image="research/spr2025/spr2025_chen.jpg"
 %}
 
 

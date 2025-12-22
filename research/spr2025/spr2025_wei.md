@@ -13,7 +13,7 @@ by **Jade Wei**<sup>1,2</sup>, Runqin Shi<sup>1,2,3</sup>, Jimmy P. Chen<sup>1,2
 3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_wei.jpg"
+   image="research/spr2025/spr2025_wei.jpg"
 %}
 
 ### Background: ###
@@ -49,7 +49,7 @@ Analysis: Independent t-test and PROCESS macro (Models 1 & 3) to test moderation
 ### Results: ###
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_wei_results1.png"
+   image="research/spr2025/spr2025_wei_results1.png"
 %}
 
 * Race difference (RQ1): There was no significant difference in clinicians’ emotional responses between those assigned to White (M=17.19, SD=4.74, n=100) and Black/Other (M=18.21, SD=4.91, n=91) virtual patients, t(185.9) = -1.46, p = .147, 95% CI [-2.40, 0.36]. The effect size was small, d = –0.21, 95% CI [–0.50, 0.07]. 

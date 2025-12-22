@@ -13,13 +13,13 @@ by **Jimmy P. Chen**<sup>1,2</sup>, Hanjiang Xu<sup>1,2</sup>, Jingyi Yang<sup>1
 3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html
-   image="gallery/other2025/tips2025_chen.png"
+   image="research/other2025/tips2025_chen.png"
 %}
 
 ### Audio Introduction: ###
 
 <audio controls>
-  <source src="https://bloch-elkouby-lab.github.io/website/gallery/other2025/tips2025_chen.mp3" type="audio/mpeg">
+  <source src="https://bloch-elkouby-lab.github.io/website/research/other2025/tips2025_chen.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -47,7 +47,7 @@ Clinician rated both SCS-C and C-SSRS-screener in five-point Likert scale (0 Not
 ### Results: ###
 
 {% include figure.html
-   image="gallery/other2025/tips2025_chen_results1.png"
+   image="research/other2025/tips2025_chen_results1.png"
 %}
 
 

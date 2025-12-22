@@ -13,7 +13,7 @@ by **Runqin Shi**<sup>1,2,3</sup>, Jimmy Pengyu Chen<sup>1,2</sup>, Jade Wei<sup
 3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_shi.jpg"
+   image="research/spr2025/spr2025_shi.jpg"
 %}
 
 ### Background: ###
@@ -35,7 +35,7 @@ by **Runqin Shi**<sup>1,2,3</sup>, Jimmy Pengyu Chen<sup>1,2</sup>, Jade Wei<sup
 Participants (N=138, M=28.74, SD=3.57, range: 22-48 years old) are licensed and pre-licensed mental health professionals recruited from clinical psychology programs around the U.S. They were randomly assigned to interact with a Virtual Patient of either race. 
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_shi_method1.png"
+   image="research/spr2025/spr2025_shi_method1.png"
 %}
 
 **Measures**

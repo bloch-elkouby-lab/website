@@ -13,7 +13,7 @@ by **Anna Stephanie Prekas**<sup>1</sup>, Tamara Eid<sup>1,2</sup>, Jimmy Pengyu
 3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_prekas.jpg"
+   image="research/spr2025/spr2025_prekas.jpg"
 %}
 
 ### Background: ###

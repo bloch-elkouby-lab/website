@@ -15,7 +15,7 @@ by **Rebecca Barnes**<sup>1</sup>, Alexis Berman<sup>2</sup>, Jimmy Pengyu Chen<
 
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_barnes.jpg"
+   image="research/spr2025/spr2025_barnes.jpg"
 %}
 
 ### Background: ###

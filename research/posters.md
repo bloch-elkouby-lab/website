@@ -1,8 +1,8 @@
 ---
 title: Posters
-parent: Gallery
+parent: Research
 nav:
-  order: 2
+  order: 4
 
 permalink: /posters/
 ---

@@ -12,6 +12,6 @@ by **Jason Tortora**<sup>1</sup>, Adelaide Jones<sup>1</sup>, Ronit Shvarzman<su
 2 Icahn School of Medicine at Mount Sinai in New York City
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_tortora.png"
+   image="research/spr2025/spr2025_tortora.png"
 %}
 
