@@ -1,6 +1,6 @@
 ---
 title: Publications
-parent: Research<br>Projects
+parent: Research
 nav:
   order: 3
 permalink: /publications/

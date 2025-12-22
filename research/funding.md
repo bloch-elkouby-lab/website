@@ -1,6 +1,6 @@
 ---
 title: Funding
-parent: Research<br>Projects
+parent: Research
 nav:
   order: 4
 
