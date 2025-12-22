@@ -4,7 +4,7 @@ permalink: /posters/spr2025_guo/
 ---
 ## {% include icon.html icon="fa-solid fa-feather-pointed" %} Wendy Guo's Poster
 
-## Is clinicians' emotion regulation related to their perception of the therapeutic alliance with high-risk virtual patients ? ##
+## Is Clinicians' Emotion Regulation Related to Their Perception of the Therapeutic Alliance with High-Risk Virtual Patients ? ##
 
 by **Wendy Guo**<sup>1,2</sup>, Jade Wei<sup>1,2</sup>, Anna Stephanie Prekas<sup>2</sup>, Amna Maryam<sup>1,2</sup>, Runqin Shi<sup>1,2,3</sup>, & Sarah Bloch-Elkouby<sup>2,3</sup>
 
@@ -40,11 +40,11 @@ This study analyzed archival data from 151 mental health professionals interacti
 **Statistical Analysis**  
 Pearson correlations were conducted. Bonferroni corrections were applied to the results in light of the multiple tests conducted. Data normality was assessed with via skewness/kurtosis and missing data handled by listwise deletion (Tabachnick & Fidell, 2019).
 
-## Result ##
+### Results ###
 
 Two DERS subscales showed significant positive correlations specifically with the therapist-initiated of confrontation (Confrontation_th): DERS_Nonacceptance (r = .240, p < .01) and DERS_Impulse (r = .196, p < .05).
 
-## Discussion ##
+### Discussion ###
 
 * Findings suggest that clinicians’ Impulse control difficulties and Nonacceptance of emotional responses correlate with increased confrontational behaviors with the virtual patient.
 * Interestingly, clinicians’ emotion regulation deficits were not associated with their experience of the virtual patient’s withdrawal ruptures.

@@ -39,12 +39,12 @@ Hypotheses
 1. The number of technical errors would be positively correlated with the rupture of therapeutic alliance and negatively corrected with perceived alliance.
 2. Interviewing with Black Noah will exacerbate the damage of technical errors on therapeutic alliance.
 
-### Methods: ###
+### Method: ###
 
 The current study is a part of a larger study that utilizes VP to investigate the impact of racial bias on clinical judgement, therapy
 process on clinical interviewing and suicide risk assessment. The VP in the current study was developed based on Google Dialogflow, which is a natural language processing platform based on intent matching (Sabharwal & Agrawal, 2020). An extensive list of intents are created to comprehensively simulate Noah according to common aspects of inquiry in a diagnostic interview. Each intent is associated with a pre-scripted response, written by master-level research assistants and edited and approved by a psychologist with an expertise in suicide prevention. To improve realism, Noah respond in both text and voice. The voice and video are AI-generated and pre-recorded. There are two versions of Noah differed only by the video image: Black and White.
 
-### Result: ###
+### Results: ###
 
 On average, the diagnostic interviews lasted 30.77 minutes (SD = 14.084), generated 15.3 questions without a matching intent (SD=10.431), and 11.37 questions with a nonsensical response (SD=7.729). The working together subscale, which is calculated by averaging its 5 items, centered around a neutral response of “somewhat” (m=4.062, SD=1.145). Similarly, the internal rupture impact score centered around “some negative impact” (m=4.400, SD=1.288). 
 

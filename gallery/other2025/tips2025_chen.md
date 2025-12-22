@@ -40,14 +40,14 @@ Hypotheses
 * Interrater reliability of SCS would be high (AC1 >.80) and superior to that of the C-SSRS. 
 * The accuracy of SCS ratings would be high and superior to that of the C-SSRS
 
-### Methods: ###
+### Method: ###
 
 Clinician rated both SCS-C and C-SSRS-screener in five-point Likert scale (0 Not at all - 4 Extremely) after they interacted with the VP, according to their assessment. The scores were then dichotomized with scores below 2 (0 and 1) recoded as 0 (negative/absent) and the rest as 1 (positive/present). The SCS-C included 15 individual symptoms, 5 criteria, and 1 overall diagnosis. The question 1-5 in C-SSRS-screener that assessed the severity of suicidal ideation was included. With both measures, the validity of clinicians’ assessment was operationalized as the consistency between clinicians’ and experts’ ratings (correct/total) while interrater reliability was assessed using Gwet’s AC1 (Gwet, 2008). 
 
-### Result: ###
+### Results: ###
 
 {% include figure.html
-   image="gallery/spr2025/tips2025_chen_results1.png"
+   image="gallery/other2025/tips2025_chen_results1.png"
 %}
 
 
