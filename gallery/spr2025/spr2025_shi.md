@@ -8,8 +8,8 @@ permalink: /posters/spr2025_shi/
 
 by **Runqin Shi**<sup>1,2,3</sup>, Jimmy Pengyu Chen<sup>1,2</sup>, Jade Wei<sup>1,2</sup>, Talia Rosen<sup>3</sup>, Laura Baruch<sup>3</sup>, & Sarah Bloch-Elkouby<sup>1,3</sup>
 
-1 Icahn School of Medicine at Mount Sinai in New York City
-2 Teachers College, Columbia University in the City of New York
+1 Icahn School of Medicine at Mount Sinai in New York City<br>
+2 Teachers College, Columbia University in the City of New York<br>
 3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html
@@ -31,7 +31,7 @@ by **Runqin Shi**<sup>1,2,3</sup>, Jimmy Pengyu Chen<sup>1,2</sup>, Jade Wei<sup
 
 ### Method: ###
 
-**Participant** 
+**Participant**  
 Participants (N=138, M=28.74, SD=3.57, range: 22-48 years old) are licensed and pre-licensed mental health professionals recruited from clinical psychology programs around the U.S. They were randomly assigned to interact with a Virtual Patient of either race. 
 
 {% include figure.html
@@ -39,7 +39,7 @@ Participants (N=138, M=28.74, SD=3.57, range: 22-48 years old) are licensed and 
 %}
 
 **Measures**
-* Implicit racial biases were measured using the Race Implicit Association Test (IAT; Greenwald, Nosek, & Banaji, 2003). 3 categories: high white preference (‐3, -2), neutral (‐1, 0, 1), and high black preference (2, 3)
+* Implicit racial biases were measured using the Race Implicit Association Test (IAT; Greenwald, Nosek, & Banaji, 2003). 3 categories: high white preference (-3, -2), neutral (-1, 0, 1), and high black preference (2, 3)
 * Interaction length was timed in minutes by the VHI system
 * Clinicians’ enjoyment of the interaction was self-reported using a 1-item5-point Likert scale (1 = Poor, 5 = Excellent)
 * Clinicians’ racial identity, the moderator, was self-reported and categorized into White, Black, and Other
