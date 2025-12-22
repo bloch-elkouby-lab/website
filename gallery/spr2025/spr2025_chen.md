@@ -6,10 +6,10 @@ permalink: /posters/spr2025_chen/
 
 ## How much do inappropriate responses impede clinicians’ engagement and therapeutic alliance with a virtual patient? ##
 
-by **Jimmy Pengyu Chen**<sup>1,2</sup>, Jade Wei<sup>1,2</sup>, Shibani Datta<sup>2,3</sup>, Runqin Shi<sup>2,3</sup>, & Sarah Bloch-Elkouby<sup>2,3</sup>
+by **Jimmy Pengyu Chen**<sup>1,2</sup>, Jade Wei<sup>1,2</sup>, Shibani Datta<sup>2,3</sup>, Runqin Shi<sup>1,2,3</sup>, & Sarah Bloch-Elkouby<sup>2,3</sup>
 
-1 Teachers College, Columbia University in the City of New York
-2 Icahn School of Medicine at Mount Sinai in New York City
+1 Teachers College, Columbia University in the City of New York<br>
+2 Icahn School of Medicine at Mount Sinai in New York City<br>
 3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html

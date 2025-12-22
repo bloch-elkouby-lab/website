@@ -8,8 +8,8 @@ permalink: /posters/spr2025_bhise/
 
 by **Aditya Bhise**<sup>1</sup>, Jade Wei<sup>1,2</sup>, Shibani Datta<sup>2,3</sup>, Tamara Eid<sup>1,2</sup>, & Sarah Bloch-Elkouby<sup>2,3</sup>
 
-1 Icahn School of Medicine at Mount Sinai in New York City
-2 Teachers College, Columbia University in the City of New York
+1 Icahn School of Medicine at Mount Sinai in New York City<br>
+2 Teachers College, Columbia University in the City of New York<br>
 3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html

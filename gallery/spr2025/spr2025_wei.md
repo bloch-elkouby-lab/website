@@ -8,8 +8,8 @@ permalink: /posters/spr2025_wei/
 
 by **Jade Wei**<sup>1,2</sup>, Runqin Shi<sup>1,2,3</sup>, Jimmy P. Chen<sup>1,2</sup>, Wendy Guo<sup>1,2</sup>, Jason Tortora<sup>3</sup>, & Sarah Bloch-Elkouby<sup>2,3</sup>
 
-1 Teachers College, Columbia University in the City of New York
-2 Icahn School of Medicine at Mount Sinai in New York City
+1 Teachers College, Columbia University in the City of New York<br>
+2 Icahn School of Medicine at Mount Sinai in New York City<br>
 3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html
