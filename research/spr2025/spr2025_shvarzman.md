@@ -67,3 +67,9 @@ These findings demonstrate that:
 * For each question, future research should also examine moderation by implicit racial biases and explore patient’s suicide-risk level, which can impact clinicians’ emotional reactions to the patient  
 
 ### References: ###
+
+1.Benjamin, L. S. (1974). Structural Analysis of Social Behavior. Psychological Review, 81 , 392 425.
+2.Eubanks, C. F., Lubitz, J., Muran, J. C., & Safran, J. D. (2019). Rupture Resolution Rating System (3RS): Development and validation. Psychotherapy research : journal of the Society for Psychotherapy Research, 29(3), 306–319. https://doi.org/10.1080/10503307.2018.1552034
+3.Pasquali, C. E., Ybrandt, H., & Armelius, K. (2018). Client self-image, therapist acting, and the establishment of the therapeutic alliance in a training context. European Journal of Psychotherapy & Counselling, 20(4), 373–390. https://doi.org/10.1080/13642537.2018.1529687
+4.Ryum, T., Vogel, P. A., Walderhaug, E. P., & Stiles, T. C. (2015). The role of self‐image as a predictor of psychotherapy outcome. Scandinavian Journal of Psychology, 56(1), 62–68. https://doi.org/10.1111/sjop.12167
+5.Silverstone, P. H., & Salsali, M. (2003). Low self-esteem and psychiatric patients: Part I – The relationship between low self-esteem and psychiatric diagnosis. Annals of General Psychiatry, 2(1), 2. https://doi.org/10.1186/1475-2832-2-2
