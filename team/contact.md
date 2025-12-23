@@ -28,7 +28,7 @@ We are not actively recruiting as of Dec 17, 2025. Next round of recruitment is 
 
 ## International Students
 
-The lab cannot sponsor H1-B visa. The applicant will need to hold a F-1 or J-1 status to apply. The lab can sponsor OPT and CPT. Applicants need to be able to apply for OPT, CPT, or other employment authorizations to apply. 
+The lab cannot sponsor H1-B visa. The applicant will need to hold a F-1 or J-1 status to apply. The lab can sponsor OPT and CPT. Applicants need to be able to apply for OPT, CPT, or other employment authorizations to apply. The lab cannot sponsor OPT-STEM extension unless you happen to be prompted to lab manager or research coordinator and secure funding.  
 
 ## Application Instructions
 Please title your email RA Application: [Your Name], attach your CV, cover letter, and supporting materials such as an unofficial transcript and academic writing samples. 
