@@ -6,3 +6,5 @@ nav:
 
 permalink: /giving/
 ---
+
+This page is under development.

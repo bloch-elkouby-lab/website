@@ -13,7 +13,7 @@ by **FirstName LastName**<sup>Superscript</sup>, & Sarah Bloch-Elkouby <sup>Supe
 3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html
-   image="gallery/spr2025/spr2026_lastname.jpg"
+   image="research/spr2025/spr2026_lastname.jpg"
 %}
 
 ### Background: ###

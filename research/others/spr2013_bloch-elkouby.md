@@ -11,7 +11,7 @@ by **Sarah Bloch-Elkouby**<sup>1</sup>, J. Christopher Muran<sup>1</sup>, Bernar
 1 Adelphi University
 
 {% include figure.html
-   image="gallery/others/spr2013_bloch-elkouby.png"
+   image="research/others/spr2013_bloch-elkouby.png"
 %}
 
 ### Objective: ###
