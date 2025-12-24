@@ -30,3 +30,11 @@ If you are interested in participating, please contact click the link below for 
    image="participate/Recovery from Suicide-cropped.png"
    style="featured"
 %}
+
+## Statement of Confidentiality and Ethical Conduct
+
+We take research participation very seriously. All studies conducted by our lab follow [APA ethical guidelines](https://www.apa.org/ethics/code) and have been reviewed and approved by [WCG IRB](https://www.wcgclinical.com/irb-resources/irb-compliance-and-registration/).
+
+Your participation is voluntary, and you may withdraw at any time without penalty. Any information you provide will be kept confidential and used solely for research purposes. Data are stored securely, and any published results will be reported only in aggregate form so that individual participants cannot be identified.
+
+If you have questions about a study or your rights as a participant, you are encouraged to contact the research team for further information, using the contact information provided in the flyer. If you would like to make a complaint, you can email Dr. Bloch-Elkouby at [sarah.blochelkouby@yu.edu](mailto:sarah.blochelkouby@yu.edu) and cc Jimmy, the lab manager at [jimmypengyuchen@gmail.com](mailto:jimmypengyuchen@gmail.com).
