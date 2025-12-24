@@ -24,6 +24,7 @@ by **Sarah Bloch-Elkouby**<sup>1</sup>, J. Christopher Muran<sup>1</sup>, Bernar
 ### Method: ###
 
 #### Table 1: Patient Characteristics #### 
+
 | **Sex**       | **Race**      | **Education**       | **DSM: Axis I**     | **DSM: Axis II**    |
 | Female: 62.4% | White: 73.6%  | High School: 3.6%   | Depression: 49.2%   | Cluster C: 34.6%    |
 | Male: 37.2%   | Black: 6.8%   | Some College: 12.8% | Anxiety: 22.4%      | Cluster A and B: 2% |
