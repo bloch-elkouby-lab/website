@@ -48,9 +48,53 @@ by **Sarah Bloch-Elkouby**<sup>1</sup>, J. Christopher Muran<sup>1</sup>, Bernar
 | Target Complains (TC)                     | TC                       |
 | Global Assessment Scale (GAS)             | Symptom Checklist 90     |
 
-
 ### Results: ###
 
+#### Table 4: Termination against drop-out (N=250) ####
+
+| Outcome                         | Frequency | Percent |
+| Completed treatment             | 168       | 67.2    |
+| Dropped out                     | 53        | 21.2    |
+| Dropped out for external reasons| 12        | 5.6     |
+| Missing                         | 15        | 6       |
+
+#### Table 5: Reliable Change Index RCI (Jacobson and Truax, 1991) (N=72) ####
+
+$$
+\text{RCI} = \frac{X_2 - X_1}{SDiff}
+$$
+
+$$
+SDiff = \sqrt{2(SE)^2}
+$$
+
+| Outcome | IIP patients F | IIP patients % | IIP therapists F | IIP therapists % | SCL-90 F | SCL-90 % |
+|---|---:|---:|---:|---:|---:|---:|
+| Reliably improved (RCI < -1.96) | 8 | 11.1% | 21 | 29.2% | 16 | 16% |
+| Improved (-1.96 ≤ RCI < -0.5) | 25 | 34.7% | 23 | 31.9% | 27 | 27% |
+| No reliable change (-0.5 ≤ RCI < 0.5) | 22 | 30.6% | 12 | 16.7% | 18 | 18% |
+| Deteriorated (0.5 ≤ RCI < 1.96) | 15 | 20.8% | 14 | 19.4% | 8 | 8% |
+| Reliably deteriorated (RCI ≥ 1.96) | 2 | 2.8% | 2 | 2.8% | 3 | 3% |
+
+#### Relationship Between RCI for IIP Patients & Therapists ####
+
+In order to determine the relationship between the RCI calculated for the patients’ IIP and the therapists’ IIP t-tests and correlations were performed:
+
+T-test RCI IIP patient vs. RCI IIP therapist: 
+Mean RCI IIP for patients: -0.394
+Mean RCI IIP for therapists: -0.948
+t(71)=2.42 p= 0.18
+
+Correlation RCI patient and RCI therapist:
+r(70)= 0.187 p= 0.117
+
+T-test IIP patient at intake vs. IIP therapist at intake:
+Mean IIP for patients= 1.474
+Mean IIP for therapists: 1.479
+t(70)= 0.7 p=0.944
+
+Correlation IIP patient and IIP therapist at intake: 
+r(70)= 0.012 p=0.923
 
 
 
