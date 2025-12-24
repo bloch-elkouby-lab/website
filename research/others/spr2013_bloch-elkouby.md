@@ -23,14 +23,22 @@ by **Sarah Bloch-Elkouby**<sup>1</sup>, J. Christopher Muran<sup>1</sup>, Bernar
 
 ### Method: ###
 
-| Patients | Sex | Race | Education |
-|---|---|---|---|
-|  | Female: 62.4% | White: 73.6% | High School: 3.6% |
-|  | Male: 37.2% | Black: 6.8% | Some College: 12.8% |
-| Age | Mean=41 | Hispanic: 10% | College: 39.6% |
-|  | SD= 13.13 | Other: 4.8% | Post-College: 40.8% |
-|  |  | Unknown: 4.8% | Other: 4.8% |
+#### Table 1: Patient Characteristics #### 
+| **Sex**       | **Race**      | **Education**       | **DSM: Axis I**     | **DSM: Axis II**    |
+| Female: 62.4% | White: 73.6%  | High School: 3.6%   | Depression: 49.2%   | Cluster C: 34.6%    |
+| Male: 37.2%   | Black: 6.8%   | Some College: 12.8% | Anxiety: 22.4%      | Cluster A and B: 2% |
+| **Age**       | Hispanic: 10% | College: 39.6%      | Adjustment: 7.4%    | PD-NOS: 30.2%       |
+| Mean=41       | Other: 4.8%   | Post-College: 40.8% | No diagnosis: 15.6% | No diagnosis: 26.8% |
+| SD= 13.13     | Unknown: 4.8% | Other: 4.8%         | Other/missing: 5.4% | Other/missing:6.4%  |
 
+#### Table 2: Therapist Characteristics ####
+
+| **Sex**       | **Race**            | **Degree**          |
+| Female: 70.2% | White: 77.8%        | M.D. or D.O.: 29.8% |
+| Male: 29.8%   | Black: 2.8%         | M.A. or M.S.: 60.8% |
+| **Age**       | Hispanic: 9.3%      | PhD. Or PsyD.: 7%   |
+| Mean= 30      | Asian: 6.5%         | M.S.W.: 1.8%        |
+| SD= 6.13      | Other/Missing: 3.7% | Missing: 0.6%       |
 
 ### Results: ###
 
