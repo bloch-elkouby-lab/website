@@ -4,6 +4,7 @@ nav:
   order: 8
 
 permalink: /news_and_gallery/
+redirect_to: /news/
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}News
@@ -14,7 +15,7 @@ permalink: /news_and_gallery/
 
 ## Team Memember Updates
 
-**Doctoral Students**
+**Doctoral Students**  
 
 Congratulations and welcome to the new Ferkauf Doctoral Students who have joined the lab: Charlize Dilmanian, Dov Frank, Yuechun Yao, and Ryan Phelan. We are excited to have all the new doctoral students on board and look forward to working with them in the future! 
 

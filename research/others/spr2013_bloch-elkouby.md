@@ -23,6 +23,13 @@ by **Sarah Bloch-Elkouby**<sup>1</sup>, J. Christopher Muran<sup>1</sup>, Bernar
 
 ### Method: ###
 
+| Patients | Sex | Race | Education |
+|---|---|---|---|
+|  | Female: 62.4% | White: 73.6% | High School: 3.6% |
+|  | Male: 37.2% | Black: 6.8% | Some College: 12.8% |
+| Age | Mean=41 | Hispanic: 10% | College: 39.6% |
+|  | SD= 13.13 | Other: 4.8% | Post-College: 40.8% |
+|  |  | Unknown: 4.8% | Other: 4.8% |
 
 
 ### Results: ###
