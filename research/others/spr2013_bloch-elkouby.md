@@ -43,10 +43,10 @@ by **Sarah Bloch-Elkouby**<sup>1</sup>, J. Christopher Muran<sup>1</sup>, Bernar
 
 #### Outcome Assessments: ####
 
-| Therapists ratings   | Patients Self-report           |
-| Inventory of Interpersonal Problems (IIP)             |
-| Target Complains (TC)                                 |
-| Global Assessment Scale G.A.S. | Symptom Checklist 90 |
+| **Therapists ratings**                    | **Patients Self-report** |
+| Inventory of Interpersonal Problems (IIP) | IPP                      |
+| Target Complains (TC)                     | TC                       |
+| Global Assessment Scale (GAS)             | Symptom Checklist 90     |
 
 
 ### Results: ###
