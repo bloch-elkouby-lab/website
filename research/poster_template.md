@@ -1,5 +1,5 @@
 ---
-title: "SPR2025 - LastName"
+title: "SPR2026 - LastName"
 permalink: /posters/spr2025_lastname/
 ---
 ## {% include icon.html icon="fa-solid fa-feather-pointed" %} FirstName LastName's Poster
@@ -13,16 +13,16 @@ by **FirstName LastName**<sup>Superscript</sup>, & Sarah Bloch-Elkouby <sup>Supe
 3 Ferkauf Graduate School of Psychology, Yeshiva University
 
 {% include figure.html
-   image="gallery/spr2025/spr2025_lastname.jpg"
+   image="gallery/spr2025/spr2026_lastname.jpg"
 %}
 
 ### Background: ###
 
 ### Objective: ###
 
-### Methods: ###
+### Method: ###
 
-### Result: ###
+### Results: ###
 
 ### Conclusion: ###
 

@@ -1,14 +1,13 @@
 ---
 title: Funding
-parent: Research
+parent: Funding<br>& Giving
 nav:
-  order: 4
+  order: 1
 
 permalink: /funding/
 ---
 
-## Funding
-
+## Grants
 
 {% include card.html
    title="<b>Focus Grant from the American Foundation for Suicide Prevention</b>"
@@ -47,3 +46,10 @@ permalink: /funding/
    style="featured"
 %}
 
+## Awards
+
+
+
+## Mentored Student Awards
+
+emerging scholar award - 4 years / 2500USD - Dublin Summer 2023-2024, 2024-2025, declined 2025-2026

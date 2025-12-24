@@ -1,8 +1,8 @@
 ---
 name: Huanyao (Wendy) Guo, B.A.
 image: images/profile-huanyao_guo.jpeg
-description: Research Assistant
-role: RA
+description: Lab Alumni
+role: alum
 
 ---
 
