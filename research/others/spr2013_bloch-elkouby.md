@@ -40,7 +40,18 @@ by **Sarah Bloch-Elkouby**<sup>1</sup>, J. Christopher Muran<sup>1</sup>, Bernar
 | Mean= 30      | Asian: 6.5%         | M.S.W.: 1.8%        |
 | SD= 6.13      | Other/Missing: 3.7% | Missing: 0.6%       |
 
+#### Outcome Assessments: ####
+
+| Therapists ratings   | Patients Self-report           |
+| Inventory of Interpersonal Problems (IIP)             |
+| Target Complains (TC)                                 |
+| Global Assessment Scale G.A.S. | Symptom Checklist 90 |
+
+
 ### Results: ###
+
+
+
 
 ### Conclusion: ###
 
