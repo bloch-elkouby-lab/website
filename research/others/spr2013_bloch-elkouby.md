@@ -61,7 +61,7 @@ by **Sarah Bloch-Elkouby**<sup>1</sup>, J. Christopher Muran<sup>1</sup>, Bernar
 #### Table 5: Reliable Change Index RCI (Jacobson & Truax, 1991) (N=72) ####
 
 $$
-\text{RCI} = \frac{X_2 - X_1}{SDiff}   \hspace{1cm}   SDiff = \sqrt{2(SE)^2}
+\text{RCI} = \frac{X_2 - X_1}{SDiff}   \hspace{2cm}   SDiff = \sqrt{2(SE)^2}
 $$
 
 | Outcome | IIP patients F | IIP patients % | IIP therapists F | IIP therapists % | SCL-90 F | SCL-90 % |
@@ -75,20 +75,16 @@ $$
 
 In order to determine the relationship between the RCI calculated for the patients’ IIP and the therapists’ IIP t-tests and correlations were performed:
 
-| **T-test RCI IIP patient** | **therapist** | 
-| *m* = -0.394           | *m* = -0.948      |
-| *t*(71) = 2.42         | *p* = 0.18        |
+| **RCI IIP patient** | **Therapist** | 
+| *m* = -0.394        | *m* = -0.948      |
+| *t*(71) = 2.42      | *p* = 0.18        |
+| *r*(70) = 0.187     | *p* = 0.117       |
 
-Correlation RCI patient and RCI therapist:
-r(70)= 0.187 p= 0.117
 
-T-test IIP patient at intake vs. IIP therapist at intake:
-Mean IIP for patients= 1.474
-Mean IIP for therapists: 1.479
-t(70)= 0.7 p=0.944
-
-Correlation IIP patient and IIP therapist at intake: 
-r(70)= 0.012 p=0.923
+| **IIP patient at intake** | **Therapist** |
+| *m* = 1.474               | *m* = 1.479   |
+| *t*(70) = 0.7             | *p* = 0.944   |
+| *r*(70) = 0.012           | *p* = 0.923   |
 
 #### Clinical Significance (Jacobson & Truax, 1991) ####
 
