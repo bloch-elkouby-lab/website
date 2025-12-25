@@ -1,5 +1,5 @@
 ---
-title: News, Upcoming Events, & Gallery
+title: Upcoming Events,<br> News, & Gallery
 nav:
   order: 7
 
