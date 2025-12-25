@@ -61,11 +61,10 @@ by **Sarah Bloch-Elkouby**<sup>1</sup>, J. Christopher Muran<sup>1</sup>, Bernar
 #### Table 5: Reliable Change Index RCI (Jacobson & Truax, 1991) (N=72) ####
 
 $$
-\text{RCI} = \frac{X_2 - X_1}{SDiff}      SDiff = \sqrt{2(SE)^2}
+\text{RCI} = \frac{X_2 - X_1}{SDiff}   \hspace{1cm}   SDiff = \sqrt{2(SE)^2}
 $$
 
 | Outcome | IIP patients F | IIP patients % | IIP therapists F | IIP therapists % | SCL-90 F | SCL-90 % |
-|---|---:|---:|---:|---:|---:|---:|
 | Reliably improved (RCI < -1.96) | 8 | 11.1% | 21 | 29.2% | 16 | 16% |
 | Improved (-1.96 ≤ RCI < -0.5) | 25 | 34.7% | 23 | 31.9% | 27 | 27% |
 | No reliable change (-0.5 ≤ RCI < 0.5) | 22 | 30.6% | 12 | 16.7% | 18 | 18% |
