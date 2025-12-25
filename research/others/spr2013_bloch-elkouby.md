@@ -75,14 +75,10 @@ $$
 
 In order to determine the relationship between the RCI calculated for the patients’ IIP and the therapists’ IIP t-tests and correlations were performed:
 
-| **RCI IIP patient**       | **Therapist**     | 
-| *m* = -0.394              | *m* = -0.948      |
-| *t*(71) = 2.42            | *p* = 0.18        |
-| *r*(70) = 0.187           | *p* = 0.117       |
-| **IIP patient at intake** | **Therapist**     |
-| *m* = 1.474               | *m* = 1.479       |
-| *t*(70) = 0.7             | *p* = 0.944       |
-| *r*(70) = 0.012           | *p* = 0.923       |
+| **RCI IIP patient**       | **Therapist**     | **IIP patient at intake** | **Therapist**     |
+| *m* = -0.394              | *m* = -0.948      | *m* = 1.474               | *m* = 1.479       |
+| *t*(71) = 2.42            | *p* = 0.18        | *t*(70) = 0.7             | *p* = 0.944       |
+| *r*(70) = 0.187           | *p* = 0.117       | *r*(70) = 0.012           | *p* = 0.923       |
 
 #### Clinical Significance (Jacobson & Truax, 1991) ####
 
@@ -93,6 +89,14 @@ $$
 \text{Formula c: } c = \frac{SD_1 \times M_2 + SD_2 \times M_1}{SD_1 + SD_2}
 $$
 
+| Formula | Outcome | IIP patients F | IIP patients % | IIP therapists F | IIP therapists % | SCL-90 F | SCL-90 % | GAS F | GAS % |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Formula a | recovered | 0 | 0% | 5 | 6.94% | 0 | 0% | 9 | 12.5 |
+| Formula a | deteriorated | 0 | 0% | 0 | 0% | 0 | 0% | 0 | 0 |
+| Formula c | recovered | 8 | 11.1% | 19 | 26.38% | 17 | 23.6% |  |  |
+| Formula c | deteriorated | 8 | 11.1% | 6 | 8.3% | 0 | 0% |  |  |
+
+In order to obtain more comparable results between formula and c, we modified formula a: $$ a' = M_1 \pm 1S_1 $$
 
 ### Conclusion: ###
 
