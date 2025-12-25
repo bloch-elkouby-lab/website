@@ -90,16 +90,55 @@ $$
 $$
 
 | Formula | Outcome | IIP patients F | IIP patients % | IIP therapists F | IIP therapists % | SCL-90 F | SCL-90 % | GAS F | GAS % |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Formula a | recovered | 0 | 0% | 5 | 6.94% | 0 | 0% | 9 | 12.5 |
-| Formula a | deteriorated | 0 | 0% | 0 | 0% | 0 | 0% | 0 | 0 |
-| Formula c | recovered | 8 | 11.1% | 19 | 26.38% | 17 | 23.6% |  |  |
-| Formula c | deteriorated | 8 | 11.1% | 6 | 8.3% | 0 | 0% |  |  |
+| a | recovered | 0 | 0% | 5 | 6.94% | 0 | 0% | 9 | 12.5 |
+| a | deteriorated | 0 | 0% | 0 | 0% | 0 | 0% | 0 | 0 |
+| c | recovered | 8 | 11.1% | 19 | 26.38% | 17 | 23.6% |  |  |
+| c | deteriorated | 8 | 11.1% | 6 | 8.3% | 0 | 0% |  |  |
 
-In order to obtain more comparable results between formula and c, we modified formula a: $$ a' = M_1 \pm 1S_1 $$
+In order to obtain more comparable results between formula and c, we modified formula a: 
+$$ 
+a' = M_1 \pm 1S_1 
+$$
+
+| Formula | Outcome | IIP patients F | IIP patients % | IIP therapists F | IIP therapists % | SCL-90 F | SCL-90 % | GAS F | GAS % |
+| Formula a’ | recovered | 12 | 16.6% | 21 | 29.16% | 22 | 30.5% | 20 | 27.7% |
+| Formula a’ | deteriorated | 6 | 8.3% | 6 | 8.3% | 5 | 6.94% | 0 | 0% |
+
+#### Percent Improvement (PI) Method (Blanchard & Schwarz, 1988) ####
+
+To examine the relationship between all the outcome measures, we chose the percent improvement method with 
+$$
+PI = 100 \left( \frac{X_2 - X_1}{X_1} \right)
+$$
+
+#### Relationship Between PI for All the Outcome Variables ####
+
+In order to examine the relationship between the different outcomes, as measured by the PI, a principal component factor analysis followed by a promax oblique rotation was performed. Two factors, accounting for 57.7% of the variance, were retained for further rotation. The first factor had high loadings on of all the patient measures outcome but negligible loadings from the therapist measures. Conversely, the second factor had high loadings from all of the therapists measures. The correlation between the two factors was small (*r*=0.26). 
+
 
 ### Conclusion: ###
 
-### Limitation: ###
+1. Variability across measures : 
+   * Patients rates of change on the different outcome measures were highly correlated with each other.
+   * Rates of change as assessed by the therapists rated measures were highly correlated with each other.
 
-### References: ###
+2. Variability across raters:
+   * IIP: No correlation between therapists’ and patients’ ratings at intake. 
+   * No correlation between RCI for the IIP rated by patients and therapists. 
+   * PI method: Patients and therapists were both consistent in their assessments of improvement but their ratings were not strongly correlated. 
+
+3. Variability across methods:
+   * Jacobson and Truax: Formula  a and c for clinical significance do not yield comparable results.
+   * Formula a and a’ may provide more comparable results and need further exploration.
+
+4. Different ways of assessing deterioration were   proposed: RCI (most commonly used in the literature), clinical significance, and PI. 
+
+### Future Directions: ###
+
+1. Examining if process variables are associated with reliable improvement versus reliable deterioration.
+2. Examining if therapist personality variables are associated with reliable improvement versus deterioration. 
+3. Exploring further and replicate the results of the present study with regard to Jacobson’s and Truax’ formula a for  clinical significance. 
+
+### Acknowledgment: ###
+
+The  cases of the present study were extracted from the archival dataset of the Brief Psychotherapy Research Program at the Beth Israel Medical Center, New York. 
