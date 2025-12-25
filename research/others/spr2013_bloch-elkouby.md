@@ -58,14 +58,10 @@ by **Sarah Bloch-Elkouby**<sup>1</sup>, J. Christopher Muran<sup>1</sup>, Bernar
 | Dropped out for external reasons| 12        | 5.6     |
 | Missing                         | 15        | 6       |
 
-#### Table 5: Reliable Change Index RCI (Jacobson and Truax, 1991) (N=72) ####
+#### Table 5: Reliable Change Index RCI (Jacobson & Truax, 1991) (N=72) ####
 
 $$
-\text{RCI} = \frac{X_2 - X_1}{SDiff}
-$$
-
-$$
-SDiff = \sqrt{2(SE)^2}
+\text{RCI} = \frac{X_2 - X_1}{SDiff}      SDiff = \sqrt{2(SE)^2}
 $$
 
 | Outcome | IIP patients F | IIP patients % | IIP therapists F | IIP therapists % | SCL-90 F | SCL-90 % |
@@ -80,10 +76,9 @@ $$
 
 In order to determine the relationship between the RCI calculated for the patients’ IIP and the therapists’ IIP t-tests and correlations were performed:
 
-T-test RCI IIP patient vs. RCI IIP therapist: 
-Mean RCI IIP for patients: -0.394
-Mean RCI IIP for therapists: -0.948
-t(71)=2.42 p= 0.18
+| **T-test RCI IIP patient** | **therapist** | 
+| *m* = -0.394           | *m* = -0.948      |
+| *t*(71) = 2.42         | *p* = 0.18        |
 
 Correlation RCI patient and RCI therapist:
 r(70)= 0.187 p= 0.117
@@ -96,6 +91,9 @@ t(70)= 0.7 p=0.944
 Correlation IIP patient and IIP therapist at intake: 
 r(70)= 0.012 p=0.923
 
+#### Clinical Significance (Jacobson & Truax, 1991) ####
+
+We compared two of the three formulas determined by Jacobson and Truax to calculate the cut-off between functional and dysfunctional populations. Patients were considered recovered if they scored below the cut-off at intake and above the cut-off at termination. They were considered deteriorated if they scored above the cut at intake and below the cutoff at termination. 
 
 
 ### Conclusion: ###
