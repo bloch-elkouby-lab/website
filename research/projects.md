@@ -108,9 +108,7 @@ This project strives to combine new evidence-based tools in suicide prevention a
 <!-- {% include list.html component="card" data="projects" filters="group: culture" %} -->
 
 {% capture text %}
-To understand why some patients experience worsening symptoms or no improvement after undergoing therapy, our research delves into the interpersonal dynamics and the quality of the therapeutic alliance in therapy dyads using mixed-methods analyses. Aiming to uncover the underlying factors contributing to adverse therapy outcomes, this project is crucial for improving therapeutic techniques and strategies, ultimately enhancing their effectiveness and patient well-being.
-
-[Relevant Publications](https://drive.google.com/drive/folders/1Lnj8yDLlkutEWd1jmmnWMCSWab3HVOT0?usp=sharing)
+The primary goal of this project is to understand clinicians’ experiences and challenges when working with high-risk patients. Specifically, we aim to explore clinicians’ comfort levels, competencies, and therapeutic alliance processes in contexts involving suicidality or elevated risk. This project is designed as an observational study, collecting self-reported data on clinicians’ perceptions, behaviors, and attitudes in their routine clinical work.
 
 {% endcapture %}
 
@@ -118,7 +116,7 @@ To understand why some patients experience worsening symptoms or no improvement 
   include feature.html
   image="images/treatment.jpg"
   link=""
-  title="Understanding Treatment Deterioration and Patient-Therapist Interpersonal Dynamics"
+  title=" Clinician Study"
   flip=true
   align="left"
   style="bare"
