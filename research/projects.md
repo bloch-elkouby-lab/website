@@ -154,3 +154,21 @@ This project aims to capture fluctuations in suicidal ideation using high-freque
   style="bare"
   text=text
 %}
+
+
+{% capture text %}
+This research study is a collaboration between the Counseling Center of Yeshiva University and the Suicide Prevention and Psychotherapy Research Lab at Ferkauf Graduate School of Psychology, Yeshiva University. The primary purpose of this study is to enhance the accuracy and cultural sensitivity of suicide risk monitoring among undergraduate students with Jewish backgrounds who are receiving counseling services. The first aim is to evaluate treatment effectiveness. The second aim is to evaluate the utility of validated suicide risk assessment measures in detecting elevated risk states among students receiving counseling services. The third aim is to examine the role of cultural factors in student mental health and treatment experiences. 
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/talking.jpeg"
+  link=""
+  title="YU Counseling Study"
+  flip=true
+  align="right"
+  style="bare"
+  text=text
+%}
