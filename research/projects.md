@@ -124,9 +124,7 @@ The primary goal of this project is to understand clinicians’ experiences and 
 %}
 
 {% capture text %}
-Although recent research suggests that patients self-identifying as BIPOC underutilize treatment and terminate treatment prematurely, there is a paucity of research investigating the interpersonal dynamics at play within cross-cultural therapy dyads.  This project strives to deepen the field’s understanding of the interpersonal dynamics in cross-cultural dyads, identify obstacles to developing a strong therapeutic alliance, explore ethno-racial microaggressions, and assess their impact on therapy processes and outcomes.
-
-[Relevant Publications](https://drive.google.com/drive/folders/1FKZDdcrS8igKE7iFfULvqMeLoV7h1zJ2?usp=sharing)
+This study combines quantitative and qualitative approaches to examine suicidal ideation and crisis among high-risk patients. The quantitative segment investigates how self-compassion, therapeutic alliance, and disclosure behaviors relate to suicidality and treatment engagement. Simultaneously, the qualitative part explores the lived experiences of individuals with suicidal thoughts, focusing on the psychological, relational, and cultural factors influencing disclosure and recovery in psychotherapy. Together, these components aim to deepen understanding and improve interventions for those at risk.
 
 {% endcapture %}
 
@@ -134,7 +132,7 @@ Although recent research suggests that patients self-identifying as BIPOC underu
   include feature.html
   image="images/microagressions.jpg"
   link=""
-  title="Exploring Alliance Ruptures, Resolutions, and Microaggressions Among Cross-Cultural and White Dyads"
+  title="Understanding Patient Factors in Suicidal Crisis: The Roles of Self-Compassion, Alliance, and Disclosure"
   flip=false
   align="left"
   style="bare"
