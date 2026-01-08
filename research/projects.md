@@ -167,8 +167,8 @@ This research study is a collaboration between the Counseling Center of Yeshiva 
   image="images/talking.jpeg"
   link=""
   title="YU Counseling Study"
-  flip=true
-  align="right"
+  flip=false
+  align="left"
   style="bare"
   text=text
 %}
