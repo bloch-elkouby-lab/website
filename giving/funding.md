@@ -7,7 +7,7 @@ nav:
 permalink: /funding/
 ---
 
-## Grants
+## Grant Funding
 
 {% include card.html
    title="<b>Focus Grant from the American Foundation for Suicide Prevention</b>"
@@ -46,25 +46,10 @@ permalink: /funding/
    style="featured"
 %}
 
-## Awards
 
-<p>2024-2025	Bergin and Garfield Emerging Scholar Award, Society for Psychotherapy Research ($2,500)</p>
+## Mentored Students Grant Funding
 
-<p>2023-2024	Bergin and Garfield Emerging Scholar Award, Society for Psychotherapy Research ($2,500)</p>
-
-<p>2019-2020	Allies Muskin Career Development Leadership Award, Anxiety and Depression Association of America ($2,078)</p>
-
-<p>2015-2016   Second Place, George Stricker Research Fellowship, Derner School of Psychology, Adelphi University</p>
-
-<p>2014-2015	Commendation for Excellent Achievements, Derner School of Psychology, Adelphi University</p>
-
-<p>2014-2015   Sylvia Sanger Foundation Award for Psychotherapy Research, Derner School of Psychology, Adelphi University ($3,000)</p>
-
-## Mentored Student Awards
-
-Implicit Racial Bias and Clinician Emotional Responses in Psychotherapy: A Virtual Interaction Study
-Conference travel award from the North American Chapter of the Society for Psychotherapy Research ($1,000).
-Role: Research Mentor. Awardee: Ronit Shvarzman. 
+<!-- into cards -->
 
 Self-Compassion and the Therapeutic Alliance: A Collaborative Qualitative Study on Patient and Therapist Perspectives on Recovery from Suicidality
 John and Elaine Altmaier Depression Research Grant awarded to the North American chapter of the Society for Psychotherapy Research ($3,000) 
@@ -73,5 +58,3 @@ Role: Research Mentor. PIs: Alexis Aberman and Talia Rosen. Awarded: April 2025
 From Suicidality to Recovery: A Qualitative Study on the Lived Experiences of Suicide Attempt Survivors
 Predoctoral Grant awarded by the Society for the Advancement of Psychotherapy, APA Division 29. ($500)
 Role: Research Mentor. PI: Alexis Aberman. Awarded: February 2025
-
-
