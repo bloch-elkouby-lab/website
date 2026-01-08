@@ -99,6 +99,21 @@ This project strives to combine new evidence-based tools in suicide prevention a
   text=text
 %}
 
+{% capture text %}
+This project aims to capture fluctuations in suicidal ideation using high-frequency ecological momentary assessment (EMA) data. The goals include defining key constructs and time windows for EMA measurement, identifying potential moderator variables such as stress, affect, and social contact, and beginning initial modeling of fluctuation patterns and their relationships with clinical outcomes.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/observer.jpg"
+  link=""
+  title="EMA Study"
+  flip=true
+  align="left"
+  style="bare"
+  text=text
+%}
 
 
 {% include section.html %}
@@ -139,22 +154,6 @@ This study combines quantitative and qualitative approaches to examine suicidal 
   text=text
 %}
 
-{% capture text %}
-This project aims to capture fluctuations in suicidal ideation using high-frequency ecological momentary assessment (EMA) data. The goals include defining key constructs and time windows for EMA measurement, identifying potential moderator variables such as stress, affect, and social contact, and beginning initial modeling of fluctuation patterns and their relationships with clinical outcomes.
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/observer.jpg"
-  link=""
-  title="EMA Study"
-  flip=true
-  align="left"
-  style="bare"
-  text=text
-%}
-
 
 {% capture text %}
 This research study is a collaboration between the Counseling Center of Yeshiva University and the Suicide Prevention and Psychotherapy Research Lab at Ferkauf Graduate School of Psychology, Yeshiva University. The primary purpose of this study is to enhance the accuracy and cultural sensitivity of suicide risk monitoring among undergraduate students with Jewish backgrounds who are receiving counseling services. The first aim is to evaluate treatment effectiveness. The second aim is to evaluate the utility of validated suicide risk assessment measures in detecting elevated risk states among students receiving counseling services. The third aim is to examine the role of cultural factors in student mental health and treatment experiences. 
@@ -167,7 +166,7 @@ This research study is a collaboration between the Counseling Center of Yeshiva 
   image="images/talking.jpeg"
   link=""
   title="YU Counseling Study"
-  flip=false
+  flip=ture
   align="left"
   style="bare"
   text=text
