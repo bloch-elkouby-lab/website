@@ -48,17 +48,17 @@ permalink: /funding/
 
 ## Awards
 
-2024-2025	Bergin and Garfield Emerging Scholar Award, Society for Psychotherapy Research ($2,500)
+<p>2024-2025	Bergin and Garfield Emerging Scholar Award, Society for Psychotherapy Research ($2,500)</p>
 
-2023-2024	Bergin and Garfield Emerging Scholar Award, Society for Psychotherapy Research ($2,500)
+<p>2023-2024	Bergin and Garfield Emerging Scholar Award, Society for Psychotherapy Research ($2,500)</p>
 
-2019-2020	Allies Muskin Career Development Leadership Award, Anxiety and Depression Association of America ($2,078)
+<p>2019-2020	Allies Muskin Career Development Leadership Award, Anxiety and Depression Association of America ($2,078)</p>
 
-2015-2016   Second Place, George Stricker Research Fellowship, Derner School of Psychology, Adelphi University
+<p>2015-2016   Second Place, George Stricker Research Fellowship, Derner School of Psychology, Adelphi University</p>
 
-2014-2015	Commendation for Excellent Achievements, Derner School of Psychology, Adelphi University
+<p>2014-2015	Commendation for Excellent Achievements, Derner School of Psychology, Adelphi University</p>
 
-2014-2015   Sylvia Sanger Foundation Award for Psychotherapy Research, Derner School of Psychology, Adelphi University ($3,000)
+<p>2014-2015   Sylvia Sanger Foundation Award for Psychotherapy Research, Derner School of Psychology, Adelphi University ($3,000)</p>
 
 ## Mentored Student Awards
 
