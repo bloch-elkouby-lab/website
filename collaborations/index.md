@@ -8,9 +8,9 @@ nav:
 
 ## Collaborations
 
-### The Brief Psychotherapy Research Program at the Mount Sinai Behavioral Health Center
+### The Center for Alliance-Focused Training at Adelphi University
 
-Dr. Bloch-Elkouby has a long-standing collaboration with the [Center for Alliance-Focused Training](https://www.therapeutic-alliance.org/), which she joined as a graduate student under the mentorship of J. Christopher Muran, PhD. She currently serves as a consultant to the Center, as well as a clinical supervisor and co-investigator on multiple international projects examining the therapeutic alliance, cultural processes in psychotherapy, and clinical supervision. 
+Dr. Bloch-Elkouby has a long-standing and fruitful collaboration with the [Center for Alliance-Focused Training](https://www.therapeutic-alliance.org/), which she joined as a graduate student under the mentorship of J. Christopher Muran, PhD. She currently serves as a consultant to the Center, as well as a clinical supervisor and co-investigator on multiple international projects examining the therapeutic alliance, cultural processes in psychotherapy, and clinical supervision. 
 
 ### The Galynker Suicide Prevention Research Lab at Mount Sinai, New York
 
