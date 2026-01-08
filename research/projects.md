@@ -140,14 +140,15 @@ This study combines quantitative and qualitative approaches to examine suicidal 
 %}
 
 {% capture text %}
-This project aims to establish an observer-based coding scheme to identify ethnoracial racial microaggressions performed by patients or therapists in therapy, providing valuable insights for training and enhancing therapeutic practices.
+This project aims to capture fluctuations in suicidal ideation using high-frequency ecological momentary assessment (EMA) data. The goals include defining key constructs and time windows for EMA measurement, identifying potential moderator variables such as stress, affect, and social contact, and beginning initial modeling of fluctuation patterns and their relationships with clinical outcomes.
+
 {% endcapture %}
 
 {%
   include feature.html
   image="images/observer.jpg"
   link=""
-  title="Development of an observer-based measure of ethnoracial microaggressions"
+  title="EMA Study"
   flip=true
   align="left"
   style="bare"
