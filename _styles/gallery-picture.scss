@@ -1,0 +1,24 @@
+---
+---
+
+.gallery-picture {
+  width: 100%;
+  text-align: center;
+}
+
+/* Image sizing */
+.gallery-picture img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  aspect-ratio: 4 / 3; // optional, keeps uniform sizes
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* Caption */
+.gallery-caption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #555;
+}
