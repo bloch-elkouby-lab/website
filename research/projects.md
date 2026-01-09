@@ -21,7 +21,7 @@ permalink: /projects/
 
 ## Suicide Prevention Research
 
-<!-- {% include list.html component="card" data="projects" filters="group: suicide" %} -->
+{% include list.html component="card" data="projects" filters="group: suicide" %}
 
 
 {% capture text %}
