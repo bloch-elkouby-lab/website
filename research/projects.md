@@ -139,7 +139,7 @@ The primary goal of this project is to understand clinicians’ experiences and 
 %}
 
 {% capture text %}
-This study combines quantitative and qualitative approaches to examine suicidal ideation and crisis among high-risk patients. The quantitative segment investigates how self-compassion, therapeutic alliance, and disclosure behaviors relate to suicidality and treatment engagement. Simultaneously, the qualitative part explores the lived experiences of individuals with suicidal thoughts, focusing on the psychological, relational, and cultural factors influencing disclosure and recovery in psychotherapy. Together, these components aim to deepen understanding and improve interventions for those at risk.
+This project combines quantitative and qualitative approaches to examine suicidal ideation and crisis among high-risk patients. The quantitative segment investigates how self-compassion, therapeutic alliance, and disclosure behaviors relate to suicidality and treatment engagement. Simultaneously, the qualitative part explores the lived experiences of individuals with suicidal thoughts, focusing on the psychological, relational, and cultural factors influencing disclosure and recovery in psychotherapy. Together, these components aim to deepen understanding and improve interventions for those at risk.
 
 {% endcapture %}
 
@@ -156,7 +156,7 @@ This study combines quantitative and qualitative approaches to examine suicidal 
 
 
 {% capture text %}
-This research study is a collaboration between the Counseling Center of Yeshiva University and the Suicide Prevention and Psychotherapy Research Lab at Ferkauf Graduate School of Psychology, Yeshiva University. The primary purpose of this study is to enhance the accuracy and cultural sensitivity of suicide risk monitoring among undergraduate students with Jewish backgrounds who are receiving counseling services. The first aim is to evaluate treatment effectiveness. The second aim is to evaluate the utility of validated suicide risk assessment measures in detecting elevated risk states among students receiving counseling services. The third aim is to examine the role of cultural factors in student mental health and treatment experiences. 
+This project is a collaboration between the Counseling Center of Yeshiva University and the Suicide Prevention and Psychotherapy Research Lab at Ferkauf Graduate School of Psychology, Yeshiva University. The primary purpose of this study is to enhance the accuracy and cultural sensitivity of suicide risk monitoring among undergraduate students with Jewish backgrounds who are receiving counseling services. The first aim is to evaluate treatment effectiveness. The second aim is to evaluate the utility of validated suicide risk assessment measures in detecting elevated risk states among students receiving counseling services. The third aim is to examine the role of cultural factors in student mental health and treatment experiences. 
 
 
 {% endcapture %}
