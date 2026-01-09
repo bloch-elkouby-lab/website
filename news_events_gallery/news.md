@@ -11,7 +11,7 @@ permalink: /news/
 
 # News
 
-# {% include icon.html icon="fa-solid fa-wrench" %}News
+<!--# {% include icon.html icon="fa-solid fa-wrench" %}News -->
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -31,7 +31,6 @@ Congratulations and welcome to the new RAs who have joined the lab: Lilian Guo, 
  
 At the same time, we’d like to express our gratitude and best wishes to Rebecca Barnes. As she prepares to depart, we want to acknowledge her valued contributions to the lab — she will be greatly missed. The team wishes her all the best in her future endeavors!
 
-## 2025 IASR/AFSP International Summit on Suicide Research
 
 {% include section.html %}
 
@@ -44,16 +43,15 @@ At the same time, we’d like to express our gratitude and best wishes to Rebecc
   {% endcapture %}
 
   {% include feature.html
+    title="2025 IASR/AFSP International Summit on Suicide Research"
     text=text
-    image="images/events-2025_symposium.jpg"
+    image="news_events_gallery/new_images/news-2025_symposium.jpg"
     flip=false
     fit=true
     align="left"
     style="bare"
   %}
 
-
-## Keynote Speaker at Lausanne Conference on Suicide Prevention
 
 {% include section.html %}
 
@@ -70,8 +68,9 @@ At the same time, we’d like to express our gratitude and best wishes to Rebecc
   {% endcapture %}
 
   {% include feature.html
+    title="Keynote Speaker at Lausanne Conference on Suicide Prevention"
     text=text
-    image="images/events-2025_keynote_speaker.jpg"
+    image="news_events_gallery/new_images/news-2025_keynote_speaker.jpg"
     flip=false
     fit=true
     align="left"
