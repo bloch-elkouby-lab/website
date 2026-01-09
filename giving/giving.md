@@ -15,4 +15,4 @@ Targeted gifts can directly advance innovative lines of inquiry, such as the dev
 
 Examples of current and emerging areas of focus include research on antisemitism and suicide prevention within Jewish communities, as well as other community-specific initiatives that address unique social stressors and protective factors. Donor support enables us to respond rapidly to emerging needs and to translate research findings into meaningful, real-world impact.
 
-If you are interested in supporting the lab or would like to discuss potential giving opportunities, we encourage you to reach out to our lab manager to learn more about current priorities and project needs. All donations are tax-deductible and will be formally recognized in accordance with applicable tax regulations.
+If you are interested in supporting the lab or would like to discuss potential giving opportunities, we encourage you to reach out to our lab manager Jimmy Chen at [jimmypengyuchen@gmail.com](mailto:jimmypengyuchen@gmail.com) to learn more about current priorities and project needs. All donations are tax-deductible and will be formally recognized in accordance with applicable tax regulations.

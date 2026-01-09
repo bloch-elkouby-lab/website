@@ -2,8 +2,12 @@
 title: Gallery
 parent: News &<br>Events
 nav:
-    order: 1
+    order: 3
 permalink: /gallery/
 ---
 
-This page is under dev.
+# Gallery
+{include gallery-picture.html
+    image="/news_events_gallery/2026.01.06 - Hotpot.jpg/"
+    caption="Hotpot 2026"
+}

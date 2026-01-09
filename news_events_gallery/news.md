@@ -1,10 +1,10 @@
 ---
-title: News & Events
+title: News
 nav:
   order: 1
 
 parent: News &<br>Events
-permalink: /news_events/
+permalink: /news/
 
 ---
 

@@ -1,0 +1,16 @@
+
+<div class="gallery-picture" data-style="{{ include.style }}">
+    <img
+      src="{{ include.image | relative_url }}"
+      loading="lazy"
+      {% include fallback.html %}
+    >
+  </a>
+
+  <div class="gallery-caption">
+    {% if include.caption %}
+        {{ include.caption }}
+    {% endif %}
+
+  </div>
+</div>
