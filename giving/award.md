@@ -1,5 +1,11 @@
+---
+title: Funding
+parent: Funding<br>& Giving
+nav:
+  order: 2
 
-
+permalink: /research_awards/
+---
 
 ## Research Awards
 

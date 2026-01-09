@@ -2,7 +2,7 @@
 title: Giving
 parent: Funding<br>& Giving
 nav:
-  order: 2
+  order: 3
 
 permalink: /giving/
 ---

@@ -1,6 +1,9 @@
 ---
 title: News & Events
+nav:
+  order: 1
 
+parent: News &<br>Events
 permalink: /news_events/
 
 ---

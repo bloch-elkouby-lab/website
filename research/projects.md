@@ -7,8 +7,11 @@ nav:
 permalink: /projects/
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
+
+
+<!-->
+# {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 
 {% include tags.html tags="publication, resource, website" %}
@@ -21,6 +24,7 @@ permalink: /projects/
 
 <!-- {% include list.html component="card" data="projects" filters="group: suicide" %} -->
 
+<!-->
 {% capture text %}
 In recent years, there has been a worrying increase in child and adolescent suicide rates, particularly among individuals with marginalized ethno-racial and gender identities. Funded by the American Foundation for Suicide Prevention Young Investigator grant, this project evaluates the effectiveness of a novel AI-powered clinician training tool, the Virtual Human Interactions (VHI), to enhance clinical training in the assessment of imminent suicidal risk among diverse adolescent populations.
 
@@ -122,6 +126,7 @@ This project aims to capture fluctuations in suicidal ideation using high-freque
 
 <!-- {% include list.html component="card" data="projects" filters="group: culture" %} -->
 
+<!-->
 {% capture text %}
 The primary goal of this project is to understand clinicians’ experiences and challenges when working with high-risk patients. Specifically, we aim to explore clinicians’ comfort levels, competencies, and therapeutic alliance processes in contexts involving suicidality or elevated risk. This project is designed as an observational study, collecting self-reported data on clinicians’ perceptions, behaviors, and attitudes in their routine clinical work.
 
@@ -171,3 +176,8 @@ This project is a collaboration between the Counseling Center of Yeshiva Univers
   style="bare"
   text=text
 %}
+<-->
+
+
+
+
