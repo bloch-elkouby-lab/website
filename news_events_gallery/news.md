@@ -91,7 +91,7 @@ She presented a paper at the SPR 2025 annual conference. In the _Preventing Setb
 
 {%
   include feature-carousel.html
-  images="images/news-spr2025_1.jpg,images/news-spr2025_2.jpg,images/news-spr2025_3.jpg,images/news-spr2025_4.jpg,images/news-spr2025_5.jpg,images/news-spr2025_6.jpg"
+  images="news_events_gallery/new_images/news-spr2025_1.jpg,news_events_gallery/new_images/news-spr2025_2.jpg,news_events_gallery/new_images/news-spr2025_3.jpg,news_events_gallery/new_images/news-spr2025_4.jpg,news_events_gallery/new_images/news-spr2025_5.jpg,news_events_gallery/new_images/news-spr2025_6.jpg"
   title="Dr. Bloch's Presentation"
   text=text
   flip=false
@@ -147,7 +147,7 @@ In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Tra
 
 {%
   include feature-carousel.html
-  images="images/news-spr2025_ronit.jpg,images/news-spr2025_talia_alexis.jpg"
+  images="news_events_gallery/new_images/news-spr2025_ronit.jpg,news_events_gallery/new_images/news-spr2025_talia_alexis.jpg"
   link=""
   title="Student Awards"
   flip=false
@@ -216,7 +216,7 @@ In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Tra
 
 {%
   include feature.html
-  image="images/news-spr2025_talia_alexis.jpg"
+  image="news_events_gallery/new_images/news-spr2025_talia_alexis.jpg"
   link=""
   title="John and Elaine Altmaier Depression Research Grant"
   flip=false
