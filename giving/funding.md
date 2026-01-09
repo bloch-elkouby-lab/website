@@ -51,6 +51,22 @@ permalink: /funding/
 
 <!-- into cards -->
 
+
+{% include card.html
+   title="<b>John and Elaine Altmaier Depression Research Grant awarded to the North American chapter of the Society for Psychotherapy Research</b>"
+   description="<b>Title</b>: Self-Compassion and the Therapeutic Alliance: A Collaborative Qualitative Study on Patient and Therapist Perspectives on Recovery from Suicidality<br><b>Amount</b>: $3,000<br><b>Role</b>: Research Mentor<br><b>PI</b>: Alexis Aberman and Talia Rosen<br><b>Awarded</b>: April 2025"
+   image="images/Logo spr.png"
+   style="featured"
+%}
+
+{% include card.html
+   title="<b>Predoctoral Grant awarded by the Society for the Advancement of Psychotherapy, APA Division 29 </b>"
+   description="<b>Title</b>: From Suicidality to Recovery: A Qualitative Study on the Lived Experiences of Suicide Attempt Survivors<br><b>Amount</b>: $500<br><b>Role</b>: Research Mentor<br><b>PI</b>: Alexis Aberman <br><b>Awarded</b>: February 2025"
+   image="images/Logo APA.svg"
+   style="featured"
+%}
+
+<!--
 Self-Compassion and the Therapeutic Alliance: A Collaborative Qualitative Study on Patient and Therapist Perspectives on Recovery from Suicidality
 John and Elaine Altmaier Depression Research Grant awarded to the North American chapter of the Society for Psychotherapy Research ($3,000) 
 Role: Research Mentor. PIs: Alexis Aberman and Talia Rosen. Awarded: April 2025
@@ -58,3 +74,4 @@ Role: Research Mentor. PIs: Alexis Aberman and Talia Rosen. Awarded: April 2025
 From Suicidality to Recovery: A Qualitative Study on the Lived Experiences of Suicide Attempt Survivors
 Predoctoral Grant awarded by the Society for the Advancement of Psychotherapy, APA Division 29. ($500)
 Role: Research Mentor. PI: Alexis Aberman. Awarded: February 2025
+-->
