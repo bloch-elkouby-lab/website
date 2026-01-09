@@ -274,7 +274,7 @@ The Bloch-Elkouby Lab for Suicide Prevention and Research is delighted to welcom
 
 {%
   include feature.html
-  image="images/ferkauf.png"
+  image="images/Logo ferkauf.png"
   link=""
   title=""
   flip=false
@@ -314,7 +314,7 @@ We are thrilled to share that on of our incredible research assistants, Runqin S
 
 {%
   include feature.html
-  image="images/ferkauf.png"
+  image="images/Logo ferkauf.png"
   link=""
   title=""
   flip=true
@@ -499,7 +499,7 @@ Dr. Bloch-Elkouby was awarded the Bergin and Garfield Emerging Scholar Award by 
 
 {%
   include feature.html
-  image="images/spr.png"
+  image="images/Logo spr.png"
   link=""
   title=""
   flip=true
@@ -520,7 +520,7 @@ American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the pro
 
 {%
   include feature.html
-  image="images/afsp.png"
+  image="images/Logo afsp.png"
   link=""
   title=""
   flip=false
