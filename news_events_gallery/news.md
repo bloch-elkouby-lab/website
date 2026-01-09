@@ -31,6 +31,56 @@ Congratulations and welcome to the new RAs who have joined the lab: Lilian Guo, 
  
 At the same time, we’d like to express our gratitude and best wishes to Rebecca Barnes. As she prepares to depart, we want to acknowledge her valued contributions to the lab — she will be greatly missed. The team wishes her all the best in her future endeavors!
 
+## 2025 IASR/AFSP International Summit on Suicide Research
+
+{% include section.html %}
+
+  {% capture text %}
+  Between November 8th and 11th, 2025, Dr. Sarah Bloch-Elkouby chaired the symposium at the IASR/AFSP International Summit on Suicide Research in Boston, Massachusetts. This global summit aims to unite leading researchers in suicide prevention and foster innovative, interdisciplinary collaborations.
+
+  **Title:**
+    _Revolutionizing Suicide Risk Assessment and Training with AI: Insights from Virtual Human Interactions and Natural Language Processing Cutting-Edge Studies._
+  
+  {% endcapture %}
+
+  {% include feature.html
+    title="2025 IASR/AFSP International Summit on Suicide Research"
+    text=text
+    image="images/events-2025_symposium.jpg"
+    flip=false
+    fit=true
+    align="left"
+    style="bare"
+  %}
+
+
+## Keynote Speaker at Lausanne Conference on Suicide Prevention
+
+{% include section.html %}
+
+  {% capture text %}
+  In November 2025, Dr. Sarah Bloch-Elkouby was a keynote speaker at a conference in Lausanne, Switzerland, as part of ongoing international efforts to advance suicide prevention research and clinical practice.
+
+  **Title:**  
+  _The Therapeutic Alliance in Suicidal Crisis: Clinical Challenges and Intervention Pathways_
+
+  This talk explored the complex interpersonal dynamics in therapy sessions with individuals at high risk for suicide, particularly those with insecure attachment style and previous histories of relational trauma. Emphasis placed on how these challenges impact the formation of therapeutic alliance, which is an essential protective factor in suicide prevention.
+
+  The presentation included a review of recent research and introduce practical clinical tools that strengthen the therapeutic alliance during crisis, such as narrative-informed assessment models, alliance-centered safety planning, and integrative inpatient interventions. It also highlighted the current innovative training resources that utilize artificial intelligence to support clinicians in accessing and managing high-risk situations.
+  
+  {% endcapture %}
+
+  {% include feature.html
+    title="Keynote Speaker at Lausanne Conference on Suicide Prevention"
+    text=text
+    image="images/events-2025_keynote_speaker.jpg"
+    flip=false
+    fit=true
+    align="left"
+    style="bare"
+  %}
+
+
 ## 2025 Annual Conference of Society of Psychotherapy Research
 {% include section.html %}
 
