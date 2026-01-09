@@ -58,3 +58,11 @@ $wrap: 800px;
     max-width: calc($wrap / 2);
   }
 }
+
+.feature-subtitle {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.85em;
+  font-weight: 400;
+  color: #666;
+}

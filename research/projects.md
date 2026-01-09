@@ -7,21 +7,9 @@ nav:
 permalink: /projects/
 ---
 
-
-
-
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
-{% include section.html %}
-
 ## Suicide Prevention Research
-
-{% include list.html component="card" data="projects" filters="group: suicide" %}
 
 
 {% capture text %}

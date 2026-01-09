@@ -6,6 +6,11 @@
   {% endif %}
   ">{{ include.title }}</p>
   {% endif %}
+  {% if include.subtitle %}
+        <span class="feature-subtitle">
+          {{ include.subtitle }}
+        </span>
+      {% endif %}
 <div
   class="feature"
   {% if include.flip %}
