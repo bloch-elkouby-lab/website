@@ -1,5 +1,5 @@
 ---
-title: Funding
+title: Research Awards
 parent: Funding<br>& Giving
 nav:
   order: 2
