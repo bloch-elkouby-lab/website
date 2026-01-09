@@ -112,8 +112,6 @@ This project aims to capture fluctuations in suicidal ideation using high-freque
 
 ## Psychotherapy Research
 
-<!--{% include list.html component="card" data="projects" filters="group: culture" %} -->
-
 {% capture text %}
 To understand why some patients experience worsening symptoms or no improvement after undergoing therapy, our research delves into the interpersonal dynamics and the quality of the therapeutic alliance in therapy dyads using mixed-methods analyses. Aiming to uncover the underlying factors contributing to adverse therapy outcomes, this project is crucial for improving therapeutic techniques and strategies, ultimately enhancing their effectiveness and patient well-being.
 
@@ -133,8 +131,6 @@ To understand why some patients experience worsening symptoms or no improvement 
 %}
 
 
-
-
 {% capture text %}
 Although recent research suggests that patients self-identifying as BIPOC underutilize treatment and terminate treatment prematurely, there is a paucity of research investigating the interpersonal dynamics at play within cross-cultural therapy dyads.  This project strives to deepen the field’s understanding of the interpersonal dynamics in cross-cultural dyads, identify obstacles to developing a strong therapeutic alliance, explore ethno-racial microaggressions, and assess their impact on therapy processes and outcomes.
 
@@ -152,8 +148,6 @@ Although recent research suggests that patients self-identifying as BIPOC underu
   style="bare"
   text=text
 %}
-
-
 
 
 
