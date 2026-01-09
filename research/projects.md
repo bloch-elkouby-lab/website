@@ -25,8 +25,8 @@ In recent years, there has been a worrying increase in child and adolescent suic
 {%
   include feature.html
   image="images/ai_pic.jpg"
-  link=""
-  title="Enhancing Suicide Risk Assessment Among Diverse Adolescents Using Virtual Human Interactions"
+  title="The VHI Study"
+  subtitle="Official title: Enhancing Suicide Risk Assessment Among Diverse Adolescents Using Virtual Human Interactions"
   flip=true
   align="left"
   style="bare"
