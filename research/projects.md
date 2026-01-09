@@ -102,7 +102,7 @@ This project strives to combine new evidence-based tools in suicide prevention a
   text=text
 %}
 
-<!-->{% capture text %}
+<!-- {% capture text %}
 This project aims to capture fluctuations in suicidal ideation using high-frequency ecological momentary assessment (EMA) data. The goals include defining key constructs and time windows for EMA measurement, identifying potential moderator variables such as stress, affect, and social contact, and beginning initial modeling of fluctuation patterns and their relationships with clinical outcomes.
 
 {% endcapture %}
@@ -185,7 +185,7 @@ This project aims to establish an observer-based coding scheme to identify ethno
   text=text
 %}
 
-<!-->
+<!--
 {% capture text %}
 The primary goal of this project is to understand clinicians’ experiences and challenges when working with high-risk patients. Specifically, we aim to explore clinicians’ comfort levels, competencies, and therapeutic alliance processes in contexts involving suicidality or elevated risk. This project is designed as an observational study, collecting self-reported data on clinicians’ perceptions, behaviors, and attitudes in their routine clinical work.
 
@@ -235,7 +235,7 @@ This project is a collaboration between the Counseling Center of Yeshiva Univers
   style="bare"
   text=text
 %}
-<-->
+-->
 
 
 
