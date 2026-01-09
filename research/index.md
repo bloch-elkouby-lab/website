@@ -1,7 +1,7 @@
 ---
 title: Research
 nav:
-  order: 3
+  order: 2
 permalink: /research/
 redirect_to: /projects/
 ---
