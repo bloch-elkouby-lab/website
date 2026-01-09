@@ -21,7 +21,7 @@ permalink: /projects/
 
 ## Suicide Prevention Research
 
-{% include list.html component="card" data="projects" filters="group: suicide" %}
+<!-- {% include list.html component="card" data="projects" filters="group: suicide" %} -->
 
 
 {% capture text %}
@@ -124,8 +124,7 @@ This project aims to capture fluctuations in suicidal ideation using high-freque
 
 ## Psychotherapy Research
 
-
-{% include list.html component="card" data="projects" filters="group: culture" %} 
+<!--{% include list.html component="card" data="projects" filters="group: culture" %} -->
 
 {% capture text %}
 To understand why some patients experience worsening symptoms or no improvement after undergoing therapy, our research delves into the interpersonal dynamics and the quality of the therapeutic alliance in therapy dyads using mixed-methods analyses. Aiming to uncover the underlying factors contributing to adverse therapy outcomes, this project is crucial for improving therapeutic techniques and strategies, ultimately enhancing their effectiveness and patient well-being.
