@@ -44,7 +44,6 @@ At the same time, we’d like to express our gratitude and best wishes to Rebecc
   {% endcapture %}
 
   {% include feature.html
-    title="2025 IASR/AFSP International Summit on Suicide Research"
     text=text
     image="images/events-2025_symposium.jpg"
     flip=false
@@ -67,11 +66,10 @@ At the same time, we’d like to express our gratitude and best wishes to Rebecc
   This talk explored the complex interpersonal dynamics in therapy sessions with individuals at high risk for suicide, particularly those with insecure attachment style and previous histories of relational trauma. Emphasis placed on how these challenges impact the formation of therapeutic alliance, which is an essential protective factor in suicide prevention.
 
   The presentation included a review of recent research and introduce practical clinical tools that strengthen the therapeutic alliance during crisis, such as narrative-informed assessment models, alliance-centered safety planning, and integrative inpatient interventions. It also highlighted the current innovative training resources that utilize artificial intelligence to support clinicians in accessing and managing high-risk situations.
-  
+
   {% endcapture %}
 
   {% include feature.html
-    title="Keynote Speaker at Lausanne Conference on Suicide Prevention"
     text=text
     image="images/events-2025_keynote_speaker.jpg"
     flip=false

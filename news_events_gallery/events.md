@@ -9,7 +9,7 @@ permalink: /events/
 ---
 
 # Upcoming Events
-
+<!--
 {% include section.html %}
 <p>
   {% capture text %}
@@ -58,4 +58,4 @@ permalink: /events/
   %}
 </p>
 {% include section.html %}
-
+-->
