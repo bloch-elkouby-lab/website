@@ -11,10 +11,8 @@ permalink: /projects/
 
 ## Suicide Prevention Research
 
-### The VHI Study
-
 {% capture text %}
-In recent years, there has been a worrying increase in child and adolescent suicide rates, particularly among individuals with marginalized ethno-racial and gender identities. Funded by the American Foundation for Suicide Prevention Young Investigator grant, this project evaluates the effectiveness of a novel AI-powered clinician training tool, the Virtual Human Interactions (VHI), to enhance clinical training in the assessment of imminent suicidal risk among diverse adolescent populations.
+In recent years, there has been a worrying increase in child and adolescent suicide rates, particularly among individuals with marginalized ethno-racial and gender identities. Funded by the American Foundation for Suicide Prevention Young Investigator grant, this project evaluates the effectiveness of a novel AI-powered clinician training tool, the Virtual Human Interactions (VHI), to enhance clinical training in the assessment of imminent suicidal risk among diverse adolescent populations. 
 
 
 [American Foundation for Suicide Prevention Young Investigator grant info](https://afsp.org/grant/enhancing-suicide-risk-assessment-and-prevention-among-diverse-adolescents-using)
@@ -25,13 +23,14 @@ In recent years, there has been a worrying increase in child and adolescent suic
 
 {%
   include feature.html
-  image="images/ai_pic.jpg"
+  image="images/ai_pic01.jpg"
   title="Enhancing Suicide Risk Assessment Among Diverse Adolescents Using Virtual Human Interactions"
   flip=true
   align="left"
   style="bare"
   text=text
 %}
+
 
 {% capture text %}
 Recent literature shows that a large proportion of patients who made suicide attempts or even died by suicide denied suicidal ideation when inquired by their mental health provider shortly before their attempt or death. In the absence of patient-disclosure, engaging a patient in a collaborative and effective suicide-specific intervention is impossible. Accordingly, this project strives to understand patient, therapist, and patient-therapist interactional factors that impact patients’ decision to disclose suicidal ideation to their providers or to conceal it from them.
