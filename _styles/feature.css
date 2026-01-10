@@ -32,7 +32,7 @@
 }
 
 .feature-title {
-  font-size: var(--medium);
+  font-size: var(--large);
   text-align: center;
   font-family: var(--heading);
   font-weight: var(--semi-bold);
