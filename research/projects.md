@@ -40,7 +40,7 @@ Recent literature shows that a large proportion of patients who made suicide att
 
 {%
   include feature.html
-  image="images/non-discl.jpg"
+  image="images/ai_pic02.jpg"
   link=""
   title="Research on patients' non-disclosure of suicidal ideation"
   flip=false
@@ -61,7 +61,7 @@ In light of the growing body supporting the predictive validity of the Suicide C
 
 {%
   include feature.html
-  image="images/scs.jpg"
+  image="images/ai_pic03.jpg"
   link=""
   title="Research on a proposed suicide-specific diagnosis - The Suicide Crisis Syndrome"
   flip=true
@@ -80,7 +80,7 @@ This project strives to combine new evidence-based tools in suicide prevention a
 
 {%
   include feature.html
-  image="images/alliance.jpg"
+  image="images/ai_pic04.jpg"
   link=""
   title="Development of a new approach to suicide risk assessment and intervention"
   flip=false
@@ -106,8 +106,7 @@ This project aims to capture fluctuations in suicidal ideation using high-freque
 %}
 
 
-{% include section.html %}
--->
+{% include section.html %}-->
 
 ## Psychotherapy Research
 
@@ -120,7 +119,7 @@ To understand why some patients experience worsening symptoms or no improvement 
 
 {%
   include feature.html
-  image="images/treatment.jpg"
+  image="images/ai_pic05.jpg"
   link=""
   title="Understanding Treatment Deterioration and Patient-Therapist Interpersonal Dynamics"
   flip=true
@@ -139,7 +138,7 @@ Although recent research suggests that patients self-identifying as BIPOC underu
 
 {%
   include feature.html
-  image="images/microagressions.jpg"
+  image="images/ai_pic06.jpg"
   link=""
   title="Exploring Alliance Ruptures, Resolutions, and Microaggressions Among Cross-Cultural and White Dyads"
   flip=false
@@ -156,7 +155,7 @@ This project aims to establish an observer-based coding scheme to identify ethno
 
 {%
   include feature.html
-  image="images/observer.jpg"
+  image="images/ai_pic07.jpg"
   link=""
   title="Development of an observer-based measure of ethnoracial microaggressions"
   flip=true
