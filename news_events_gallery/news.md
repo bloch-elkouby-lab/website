@@ -294,7 +294,7 @@ Dr. Bloch-Elkouby will lead a structured discussion about the use of Artificial 
 
 {%
   include feature.html
-  image="images/spr ottawa.png"
+  image="news_events_gallery/new_images/spr ottawa 2.png"
   link=""
   title=""
   flip=true
@@ -334,7 +334,7 @@ We are delighted to announce that our wonderful lab coordinator, Inna Goncearenc
 
 {%
   include feature.html
-  image="images/gwu.jpg"
+  image="news_events_gallery/new_images/gwu.jpg"
   link=""
   title=""
   flip=false
@@ -384,7 +384,7 @@ Interested in learning more about suicide prevention and resiliency? Join us on 
 
 {%
   include feature.html
-  image="images/yu_flyer.png"
+  image="news_events_gallery/new_images/yu_flyer.png"
   link=""
   title=""
   flip=false
@@ -402,7 +402,7 @@ Congratulations to our amazing Research Assistant, Lucy Walsh, on getting matche
 
 {%
   include feature.html
-  image="images/morningside.jpeg"
+  image="news_events_gallery/new_images/morningside.jpeg"
   link=""
   title=""
   flip=true
@@ -421,7 +421,7 @@ Congratulations, Inna, on the acceptance of your abstract “Hidden Barriers: Ex
 
 {%
   include feature.html
-  image="images/apa 2024.png"
+  image="news_events_gallery/new_images/apa 2024.png"
   link=""
   title=""
   flip=false
@@ -441,7 +441,7 @@ Dr. Bloch-Elkouby will present preliminary findings about the therapeutic allian
 
 {%
   include feature.html
-  image="images/spr ottawa 2.png"
+  image="news_events_gallery/new_images/spr ottawa.png"
   link=""
   title=""
   flip=false
@@ -459,7 +459,7 @@ Congratulations, Alexis, on the acceptance of your abstract on the role of self-
 
 {%
   include feature.html
-  image="images/spr ottawa 3.png"
+  image="news_events_gallery/new_images/spr ottawa 3.png"
   link=""
   title=""
   flip=true
@@ -480,7 +480,7 @@ Dr. Bloch-Elkouby will chair a symposium "Using cutting edge AI research to enha
 
 {%
   include feature.html
-  image="images/adaa.jpeg"
+  image="news_events_gallery/new_images/adaa.jpeg"
   link=""
   title=""
   flip=false
