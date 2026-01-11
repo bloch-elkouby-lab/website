@@ -193,7 +193,7 @@ In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Tra
 
 {%
   include feature.html
-  image="images/news-SPR_travel_award.jpg"
+  image="news_events_gallery/new_images/news-spr2025_Krakow.jpeg"
   link=""
   title="Trainee Conference Travel Award"
   flip=false
@@ -254,7 +254,7 @@ Congratulations to all of the doctoral student lab members for the incredible ex
 
 {%
   include feature.html
-  image="images/news-externship_match.png"
+  image="images/congrats.jpg"
   link=""
   title=""
   flip=true
