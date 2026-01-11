@@ -121,10 +121,10 @@ Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason present
 **Jason** examined if implicit racial biases impede clinicians' empathy.
 
 {% endcapture %}
-
+bloch-elkouby-lab/website/research/spr2025/spr2025_barnes.jpg
 {%
   include feature-carousel.html
-  images="images/news-spr2025_poster_pengyu.jpg,images/news-spr2025_poster_rebecca.jpg,images/news-spr2025_poster_aditya.jpg,images/news-spr2025_poster_stephanie.jpg,images/news-spr2025_poster_jingqian.jpg,images/news-spr2025_poster_huanyao.jpg,images/news-spr2025_poster_runqin.jpg,images/news-spr2025_poster_ronit.png,images/news-spr2025_poster_jason.png"
+  images="research/spr2025/spr2025_chen.jpg,research/spr2025/spr2025_barnes.jpg,research/spr2025/spr2025_bhise.jpg,research/spr2025/spr2025_prekas.jpg,research/spr2025/spr2025_wei.jpg,research/spr2025/spr2025_guo.jpg,research/spr2025/spr2025_shi.jpg,research/spr2025/spr2025_shvarzman.png,research/spr2025/spr2025_tortora.png"
   title="RA posters"
   text=text
   flip=false
