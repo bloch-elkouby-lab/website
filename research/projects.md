@@ -138,7 +138,7 @@ Although recent research suggests that patients self-identifying as BIPOC underu
 
 {%
   include feature.html
-  image="images/ai_pic06.jpg"
+  image="images/ai_pic06.png"
   link=""
   title="Exploring Alliance Ruptures, Resolutions, and Microaggressions Among Cross-Cultural and White Dyads"
   flip=false
