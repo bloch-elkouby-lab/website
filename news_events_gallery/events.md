@@ -9,6 +9,7 @@ permalink: /events/
 ---
 
 # Upcoming Events
+
 <!--
 {% include section.html %}
 <p>
