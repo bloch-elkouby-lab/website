@@ -173,7 +173,7 @@ In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Tra
 
 {%
   include feature.html
-  image="images/news-Alexis_grant.png"
+  image="news_events_gallery/new_images/SAP logo.jpeg"
   title="Society for the Advancement of Psychotherapy's Student Research Grant"
   text=text
   flip=false
