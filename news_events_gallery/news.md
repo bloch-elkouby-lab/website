@@ -43,9 +43,9 @@ At the same time, we’d like to express our gratitude and best wishes to Rebecc
   {% endcapture %}
 
   {% include feature.html
+    images="news_events_gallery/new_images/IASR1.jpeg,news_events_gallery/new_images/IASR2.jpeg,news_events_gallery/new_images/IASR3.jpeg,news_events_gallery/new_images/IASR4.jpeg,news_events_gallery/new_images/IASR5.jpeg"
     title="2025 IASR/AFSP International Summit on Suicide Research"
     text=text
-    images="news_events_gallery/new_images/IASR1.jpeg,news_events_gallery/new_images/IASR2.jpeg,news_events_gallery/new_images/IASR3.jpeg,news_events_gallery/new_images/IASR4.jpeg,news_events_gallery/new_images/IASR5.jpeg"
     flip=false
     fit=true
     align="left"
