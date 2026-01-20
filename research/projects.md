@@ -31,6 +31,22 @@ In recent years, there has been a worrying increase in child and adolescent suic
   text=text
 %}
 
+{% capture text %}
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/noah-introduction-page.png"
+  title="Clinical Interviewing Pilot"
+  flip=true
+  align="right"
+  style="bare"
+  text=text
+%}
+
+
 
 {% capture text %}
 Recent literature shows that a large proportion of patients who made suicide attempts or even died by suicide denied suicidal ideation when inquired by their mental health provider shortly before their attempt or death. In the absence of patient-disclosure, engaging a patient in a collaborative and effective suicide-specific intervention is impossible. Accordingly, this project strives to understand patient, therapist, and patient-therapist interactional factors that impact patients’ decision to disclose suicidal ideation to their providers or to conceal it from them.
