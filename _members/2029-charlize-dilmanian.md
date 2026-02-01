@@ -2,7 +2,7 @@
 name: Charlize Dilmanian, B.A.
 image: images/profile-Charlize_ Dilmanian.jpeg
 role: doctoral
-description: Doctoral Student<br>Class 2030
+description: Doctoral Student<br>Class 2029
 
 ---
 
