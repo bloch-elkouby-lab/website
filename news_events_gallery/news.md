@@ -25,7 +25,7 @@ Congratulations and welcome to the new Ferkauf Doctoral Students who have joined
 
 **Research Assistant**
 
-Congratulations and welcome to the new RAs who have joined the lab: Lilian Guo, Chi Kyu Lee, Angle Wei, Violet Yang, Jhanavi Kumaresh, Madison Wakely, Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, Xinran Gao, and Hanjiang Xu. We’re excited to have you on board and look forward to achieving great things together!
+Congratulations and welcome to the new RAs who have joined the lab: Hanyu Zhang, Avraham Frohlich,Lilian Guo, Chi Kyu Lee, Angle Wei, Violet Yang, Jhanavi Kumaresh, Madison Wakely, Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, Xinran Gao, and Hanjiang Xu. We’re excited to have you on board and look forward to achieving great things together!
 
  **Lab Alumni**
  
