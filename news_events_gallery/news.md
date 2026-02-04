@@ -19,28 +19,30 @@ permalink: /news/
 
 ## Team Members’ Updates
 
-**Feburary 4th, 2026**
+**Feburary, 2026**
 
 Congratulations to Angel on submitting _Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients_ project to the Psi Chi Graduate Research Grants Program! Wishing you the best of luck with the review process.
 
 Congratulations to Viktoria on submitting _Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance_ project to the to the APA Division 38 Graduate Research Grant! Wishing you the best of luck with the review process.
 
-**January 22nd, 2026**
+**January, 2026**
 
 Congratulations and welcome to the new RAs who have joined the lab: Hanyu Zhang and Avraham Frohlich! We’re excited to have you on board and look forward to achieving great things together!
 
-**October, 2026**  
+**October, 2025**  
 
 Congratulations and welcome to the new Ferkauf Doctoral Students who have joined the lab: Charlize Dilmanian, Dov Frank, Yuechun Yao, and Ryan Phelan. We are excited to have all the new doctoral students on board and look forward to working with them in the future! 
 
-**Research Assistants**
+**July, 2025**  
+Congratulations and welcome to the new RAs who have joined the lab: Lilian Guo, Chi Kyu Lee! We’re excited to have you on board and look forward to achieving great things together! 
 
-Congratulations and welcome to the new RAs who have joined the lab: Lilian Guo, Chi Kyu Lee, Angle Wei, Violet Yang, Jhanavi Kumaresh, Madison Wakely, Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, Xinran Gao, and Hanjiang Xu. 
-
-
- **Lab Alumni**
- 
 At the same time, we’d like to express our gratitude and best wishes to Rebecca Barnes. As she prepares to depart, we want to acknowledge her valued contributions to the lab — she will be greatly missed. The team wishes her all the best in her future endeavors!
+
+
+**June, 2025A**
+
+Congratulations and welcome to the new RAs who have joined the lab: Angle Wei, Violet Yang, Jhanavi Kumaresh, Madison Wakely, Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, and Hanjiang Xu. 
+ 
 
 
 {% include section.html %}
