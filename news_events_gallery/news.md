@@ -36,6 +36,7 @@ Congratulations to Viktoria on submitting _Understanding Patients’ Experiences
   {% endcapture %}
 
   {%
+  include feature.html
   title="February 4th, 2026"
   text=text
   style="bare"
