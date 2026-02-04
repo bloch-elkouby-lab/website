@@ -17,7 +17,6 @@ permalink: /news/
 
 {% include search-info.html %}
 
-## Team Members’ Updates
 
 **Feburary, 2026 (fromat 1)**
 
