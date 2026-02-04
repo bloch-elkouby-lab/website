@@ -17,13 +17,13 @@ permalink: /news/
 
 {% include search-info.html %}
 
-## Team Memember Updates
+## Team Members' Updates
 
 **Doctoral Students**  
 
 Congratulations and welcome to the new Ferkauf Doctoral Students who have joined the lab: Charlize Dilmanian, Dov Frank, Yuechun Yao, and Ryan Phelan. We are excited to have all the new doctoral students on board and look forward to working with them in the future! 
 
-**Research Assistant**
+**Research Assistants**
 
 Congratulations to Angel on submitting <i>Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients</i> project to the Psi Chi Graduate Research Grants Program! Wishing you the best of luck with the review process.
 
