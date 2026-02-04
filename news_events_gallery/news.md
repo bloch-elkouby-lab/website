@@ -31,20 +31,17 @@ Congratulations to Viktoria on submitting _Understanding Patients’ Experiences
   {% capture text %}
   Congratulations to Angel on submitting <i>Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients</i> project to the Psi Chi Graduate Research Grants Program! Wishing you the best of luck with the review process.
   
-  Congratulations to Viktoria on submitting <i>Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance</i> project to the to the APA Division 38 Graduate Research Grant! Wishing you the best of luck with the review process.
-
-  **Title:**
-    Feburary 4th, 2026
+  Congratulations to Viktoria on submitting <i>Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance</i> project to the to the APA Division 38 Graduate Research Grant! Wishing you the best of luck with the review process. 
   
   {% endcapture %}
 
   {%
   include feature-carousel.html
+  title="February 4th, 2026"
   text=text
-  flip=false
-  fit=true
-  align="left"
+  image=false
   style="bare"
+  align="left"
 %}
 {% include section.html %}
 
@@ -58,7 +55,7 @@ Congratulations and welcome to the new Ferkauf Doctoral Students who have joined
 
 **Research Assistants**
 
-Congratulations and welcome to the new RAs who have joined the lab: Hanyu Zhang, Avraham Frohlich,Lilian Guo, Chi Kyu Lee, Angle Wei, Violet Yang, Jhanavi Kumaresh, Madison Wakely, Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, Xinran Gao, and Hanjiang Xu. 
+Congratulations and welcome to the new RAs who have joined the lab: Lilian Guo, Chi Kyu Lee, Angle Wei, Violet Yang, Jhanavi Kumaresh, Madison Wakely, Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, Xinran Gao, and Hanjiang Xu. 
 
  **Lab Alumni**
  
