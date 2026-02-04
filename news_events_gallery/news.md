@@ -19,7 +19,7 @@ permalink: /news/
 
 ## Team Members’ Updates
 
-**Feburary, 2026**
+**Feburary, 2026 (fromat 1)**
 
 Congratulations to Angel on submitting _Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients_ project to the Psi Chi Graduate Research Grants Program! Wishing you the best of luck with the review process.
 
@@ -29,14 +29,36 @@ Congratulations to Viktoria on submitting _Understanding Patients’ Experiences
 
   <div class="row justify-content-center">
     <div class="col-md-10">
-      <h2 class="text-center">February 4th, 2026</h2>
+      <h2 class="text-center">February 4th, 2026 (format 2)</h2>
       
-      <p>Congratulations to Angel on submitting _Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients_ project to the Psi Chi Graduate Research Grants Program! Wishing you the best of luck with the review process.</p>
+      <p>Congratulations to Angel on submitting <i>Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients</i> project to the Psi Chi Graduate Research Grants Program! Wishing you the best of luck with the review process.</p>
 
-      <p>Congratulations to Viktoria on submitting _Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance_ project to the to the APA Division 38 Graduate Research Grant! Wishing you the best of luck with the review process.</p>
+      <p>Congratulations to Viktoria on submitting <i>Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance</i> project to the to the APA Division 38 Graduate Research Grant! Wishing you the best of luck with the review process.</p>
     </div>
   </div>
 
+{% include section.html %}
+
+
+{% include section.html %}
+
+  {% capture text %}
+  Congratulations to Angel on submitting <i>Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients</i> project to the Psi Chi Graduate Research Grants Program! Wishing you the best of luck with the review process.
+
+  Congratulations to Viktoria on submitting <i>Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance</i> project to the to the APA Division 38 Graduate Research Grant! Wishing you the best of luck with the review process.
+  
+  {% endcapture %}
+
+  {%
+  include feature-carousel.html
+  images="images/Logo APA.svg"
+  title="February 4th, 2026 (format 3)"
+  text=text
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+%}
 {% include section.html %}
 
 **January, 2026**
@@ -47,6 +69,10 @@ Congratulations and welcome to the new RAs who have joined the lab: Hanyu Zhang 
 
 Congratulations and welcome to the new Ferkauf Doctoral Students who have joined the lab: Charlize Dilmanian, Dov Frank, Yuechun Yao, and Ryan Phelan. We are excited to have all the new doctoral students on board and look forward to working with them in the future! 
 
+**September, 2025**  
+
+Congratulations and welcome to the new RAs who have joined the lab: Xinran Gao! We’re excited to have you on board and look forward to achieving great things together!
+
 **July, 2025**  
 Congratulations and welcome to the new RAs who have joined the lab: Lilian Guo, Chi Kyu Lee! We’re excited to have you on board and look forward to achieving great things together! 
 
@@ -55,7 +81,7 @@ At the same time, we’d like to express our gratitude and best wishes to Rebecc
 
 **June, 2025**
 
-Congratulations and welcome to the new RAs who have joined the lab: Angle Wei, Violet Yang, Jhanavi Kumaresh, Madison Wakely, Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, and Hanjiang Xu. 
+Congratulations and welcome to the new RAs who have joined the lab: Angle Wei, Violet Yang, Jhanavi Kumaresh, Madison Wakely, Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, and Hanjiang Xu.  We’re excited to have you on board and look forward to achieving great things together!
  
 
 
