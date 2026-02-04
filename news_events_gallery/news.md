@@ -50,7 +50,7 @@ Congratulations to Viktoria on submitting _Understanding Patients’ Experiences
 
   {%
   include feature-carousel.html
-  images="images/Logo APA.svg"
+  images="images/Logo APA.svg, news_events_gallery/new_images/psichi logo.png"
   title="February 4th, 2026 (format 3)"
   text=text
   flip=false
