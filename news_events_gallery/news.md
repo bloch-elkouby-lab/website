@@ -27,15 +27,14 @@ Congratulations to Viktoria on submitting _Understanding Patients’ Experiences
 
 {% include section.html %}
 
-{% capture text %}
-Congratulations to Angel on submitting <i>Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients</i> project to the Psi Chi Graduate Research Grants Program! Wishing you the best of luck with the review process.
+  {% capture text %}
+  Congratulations to Angel on submitting <i>Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients</i> project to the Psi Chi Graduate Research Grants Program! Wishing you the best of luck with the review process.
 
-Congratulations to Viktoria on submitting <i>Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance</i> project to the to the APA Division 38 Graduate Research Grant! Wishing you the best of luck with the review process. 
+  Congratulations to Viktoria on submitting <i>Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance</i> project to the to the APA Division 38 Graduate Research Grant! Wishing you the best of luck with the review process. 
   
-{% endcapture %}
+  {% endcapture %}
 
-{% include text-only.html title="February 4th, 2026" text=text %}
-
+  {% include text-only.html title="February 4th, 2026" text=text %}
 {% include section.html %}
 
 **January 22nd, 2026**
