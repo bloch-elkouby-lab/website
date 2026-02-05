@@ -7,15 +7,44 @@ permalink: /gallery/
 ---
 
 # Gallery
-{% include gallery-picture.html
-  image="news_events_gallery/gallery_images/2026.01.06-Hotpot.jpg"
-  caption="Hotpot 2026"
-%}
 
 {% include gallery-picture.html
   image="news_events_gallery/gallery_images/2026.01.27-Milktea.jpg"
   caption="Milktea 2026"
 %}
+
+{% include gallery-picture.html
+  image="news_events_gallery/gallery_images/2026.01.06-Hotpot.jpg"
+  caption="Hotpot 2026"
+%}
+
+
+{% include gallery-picture.html
+  image="news_events_gallery/new_images/IASR5.jpeg"
+  caption="IASR/AFSP Summit 2025"
+%}
+
+{% include gallery-picture.html
+  image="news_events_gallery/new_images/IASR4.jpeg"
+  caption="IASR/AFSP Summit 2025"
+%}
+
+{% include gallery-picture.html
+  image="news_events_gallery/new_images/IASR3.jpeg"
+  caption="IASR/AFSP Summit 2025"
+%}
+
+{% include gallery-picture.html
+  image="news_events_gallery/new_images/IASR2.jpeg"
+  caption="IASR/AFSP Summit 2025"
+%}
+
+{% include gallery-picture.html
+  image="news_events_gallery/new_images/IASR1.jpeg"
+  caption="IASR/AFSP Summit 2025"
+%}
+
+
 
 <!--
 {% include gallery-picture.html
