@@ -25,13 +25,13 @@ permalink: /news/
 
   {% capture text %}
 
-  Congratulations to Viktoria Bourmpoulia on submitting a grant proposal, titled: <i>Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance</i> project to the American Psychological Association, Division 38 Graduate Student Health Psychology Research Award! Wishing you the best of luck with the review process.
+  Congratulations to **Viktoria Bourmpoulia** on submitting a grant proposal, titled: <i>Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance</i> project to the American Psychological Association, Division 38 Graduate Student Health Psychology Research Award! Wishing you the best of luck with the review process.
   
   {% endcapture %}
 
   {%
   include feature.html
-  images="images/Logo APA.svg"
+  image="images/Logo APA.svg"
   title="January 30th, 2026"
   text=text
   flip=false
@@ -64,13 +64,13 @@ permalink: /news/
 {% include section.html %}
 
   {% capture text %}
-  Congratulations to our research assistant Angel Wei on submitting a grant proposal, titled: <i>Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients</i> to the International Honor Society in Psychology Graduate Research Grants! Wishing you the best of luck with the review process.
+  Congratulations to our research assistant **Angel Wei** on submitting a grant proposal, titled: <i>Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients</i> to the International Honor Society in Psychology Graduate Research Grants! Wishing you the best of luck with the review process.
 
   {% endcapture %}
 
   {%
   include feature.html
-  images="news_events_gallery/new_images/psichi logo.png"
+  image="news_events_gallery/new_images/psichi logo.png"
   title="January 15th, 2026"
   text=text
   flip=false

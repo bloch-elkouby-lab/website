@@ -1,5 +1,5 @@
 ---
-title: Funding
+title: Grant Funding
 parent: Funding<br>& Giving
 nav:
   order: 1

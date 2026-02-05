@@ -13,7 +13,7 @@ permalink: /research_awards/
 
 <p>2023-2024	Bergin and Garfield Emerging Scholar Award, Society for Psychotherapy Research ($2,500)</p>
 
-<p>2019-2020	Allies Muskin Career Development Leadership Award, Anxiety and Depression Association of America ($2,078)</p>
+<p>2019-2020	Allies Muskin Career Development Leadership Award, Anxiety and Depression Association of America ($2,000)</p>
 
 <p>2015-2016   Runner Up, George Stricker Research Award, Derner School of Psychology, Adelphi University</p>
 
