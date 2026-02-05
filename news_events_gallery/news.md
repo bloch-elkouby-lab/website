@@ -228,12 +228,10 @@ permalink: /news/
 %}
 {% include section.html %}
 
-
-
 {% include section.html %}
 
   {% capture text %}
-  Congratulations and welcome to the new RAs who have joined the lab: **Angle Wei**, **Violet Yang**, **Jhanavi Kumaresh**, **Madison Wakely**, **Shely Khaikin**, **Erin Kelly**, **Viktoria Bourmpoulia**, and **Hanjiang Xu**.  We’re excited to have you on board and look forward to achieving great things together!
+  Congratulations and welcome to the new RAs who have joined the lab: **Angle Wei**, **Violet Yang**, **Jhanavi Kumaresh**, **Madison Wakely**, **Shely Khaikin**, **Erin Kelly**, **Viktoria Bourmpoulia**, and **Hanjiang Xu**.  We’re excited to have you on board and look forward to achieving great things together! 
   {% endcapture %}
 
   {%
@@ -246,7 +244,6 @@ permalink: /news/
   style="bare"
 %}
 {% include section.html %}
-
 
  
 {% include section.html %}
