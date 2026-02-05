@@ -684,9 +684,7 @@ function showSlides(id, n) {
   const slides = container.querySelectorAll(".carousel-slide");
   if (!slides.length) return;
 
-  if (!(id in window.carouselState)) {
-    window.carouselState[id] = 0;
-  }
+  if (!(id in window.carouselState)) window.carouselState[id] = 0;
 
   const total = slides.length;
   const index = (n + total) % total;
@@ -699,16 +697,20 @@ function showSlides(id, n) {
 }
 
 function plusSlides(id, delta) {
-  const current = window.carouselState[id] || 0;
+  const current = window.carouselState[id] ?? 0;
   showSlides(id, current + delta);
 }
 
-document.addEventListener("DOMContentLoaded", () => {
+function initCarousels() {
   const allCarousels = document.querySelectorAll("[id^='carousel-']");
-  allCarousels.forEach(el => {
-    showSlides(el.id, 0);
-  });
-});
+  allCarousels.forEach(el => showSlides(el.id, 0));
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initCarousels);
+} else {
+  initCarousels();
+}
 </script>
   </section>
 
@@ -856,9 +858,7 @@ function showSlides(id, n) {
   const slides = container.querySelectorAll(".carousel-slide");
   if (!slides.length) return;
 
-  if (!(id in window.carouselState)) {
-    window.carouselState[id] = 0;
-  }
+  if (!(id in window.carouselState)) window.carouselState[id] = 0;
 
   const total = slides.length;
   const index = (n + total) % total;
@@ -871,16 +871,20 @@ function showSlides(id, n) {
 }
 
 function plusSlides(id, delta) {
-  const current = window.carouselState[id] || 0;
+  const current = window.carouselState[id] ?? 0;
   showSlides(id, current + delta);
 }
 
-document.addEventListener("DOMContentLoaded", () => {
+function initCarousels() {
   const allCarousels = document.querySelectorAll("[id^='carousel-']");
-  allCarousels.forEach(el => {
-    showSlides(el.id, 0);
-  });
-});
+  allCarousels.forEach(el => showSlides(el.id, 0));
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initCarousels);
+} else {
+  initCarousels();
+}
 </script>
   </section>
 
@@ -1025,9 +1029,7 @@ function showSlides(id, n) {
   const slides = container.querySelectorAll(".carousel-slide");
   if (!slides.length) return;
 
-  if (!(id in window.carouselState)) {
-    window.carouselState[id] = 0;
-  }
+  if (!(id in window.carouselState)) window.carouselState[id] = 0;
 
   const total = slides.length;
   const index = (n + total) % total;
@@ -1040,16 +1042,20 @@ function showSlides(id, n) {
 }
 
 function plusSlides(id, delta) {
-  const current = window.carouselState[id] || 0;
+  const current = window.carouselState[id] ?? 0;
   showSlides(id, current + delta);
 }
 
-document.addEventListener("DOMContentLoaded", () => {
+function initCarousels() {
   const allCarousels = document.querySelectorAll("[id^='carousel-']");
-  allCarousels.forEach(el => {
-    showSlides(el.id, 0);
-  });
-});
+  allCarousels.forEach(el => showSlides(el.id, 0));
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initCarousels);
+} else {
+  initCarousels();
+}
 </script>
   </section>
 
@@ -1196,9 +1202,7 @@ function showSlides(id, n) {
   const slides = container.querySelectorAll(".carousel-slide");
   if (!slides.length) return;
 
-  if (!(id in window.carouselState)) {
-    window.carouselState[id] = 0;
-  }
+  if (!(id in window.carouselState)) window.carouselState[id] = 0;
 
   const total = slides.length;
   const index = (n + total) % total;
@@ -1211,16 +1215,20 @@ function showSlides(id, n) {
 }
 
 function plusSlides(id, delta) {
-  const current = window.carouselState[id] || 0;
+  const current = window.carouselState[id] ?? 0;
   showSlides(id, current + delta);
 }
 
-document.addEventListener("DOMContentLoaded", () => {
+function initCarousels() {
   const allCarousels = document.querySelectorAll("[id^='carousel-']");
-  allCarousels.forEach(el => {
-    showSlides(el.id, 0);
-  });
-});
+  allCarousels.forEach(el => showSlides(el.id, 0));
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initCarousels);
+} else {
+  initCarousels();
+}
 </script>
   </section>
 
@@ -1345,9 +1353,7 @@ function showSlides(id, n) {
   const slides = container.querySelectorAll(".carousel-slide");
   if (!slides.length) return;
 
-  if (!(id in window.carouselState)) {
-    window.carouselState[id] = 0;
-  }
+  if (!(id in window.carouselState)) window.carouselState[id] = 0;
 
   const total = slides.length;
   const index = (n + total) % total;
@@ -1360,16 +1366,20 @@ function showSlides(id, n) {
 }
 
 function plusSlides(id, delta) {
-  const current = window.carouselState[id] || 0;
+  const current = window.carouselState[id] ?? 0;
   showSlides(id, current + delta);
 }
 
-document.addEventListener("DOMContentLoaded", () => {
+function initCarousels() {
   const allCarousels = document.querySelectorAll("[id^='carousel-']");
-  allCarousels.forEach(el => {
-    showSlides(el.id, 0);
-  });
-});
+  allCarousels.forEach(el => showSlides(el.id, 0));
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initCarousels);
+} else {
+  initCarousels();
+}
 </script>
   </section>
 
@@ -1456,9 +1466,7 @@ function showSlides(id, n) {
   const slides = container.querySelectorAll(".carousel-slide");
   if (!slides.length) return;
 
-  if (!(id in window.carouselState)) {
-    window.carouselState[id] = 0;
-  }
+  if (!(id in window.carouselState)) window.carouselState[id] = 0;
 
   const total = slides.length;
   const index = (n + total) % total;
@@ -1471,16 +1479,20 @@ function showSlides(id, n) {
 }
 
 function plusSlides(id, delta) {
-  const current = window.carouselState[id] || 0;
+  const current = window.carouselState[id] ?? 0;
   showSlides(id, current + delta);
 }
 
-document.addEventListener("DOMContentLoaded", () => {
+function initCarousels() {
   const allCarousels = document.querySelectorAll("[id^='carousel-']");
-  allCarousels.forEach(el => {
-    showSlides(el.id, 0);
-  });
-});
+  allCarousels.forEach(el => showSlides(el.id, 0));
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initCarousels);
+} else {
+  initCarousels();
+}
 </script>
   </section>
 
