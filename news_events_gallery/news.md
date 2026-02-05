@@ -17,41 +17,22 @@ permalink: /news/
 
 {% include search-info.html %}
 
+<!--Feburary 2026-->
 
-**Feburary, 2026 (fromat 1)**
-
-Congratulations to Angel on submitting _Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients_ project to the Psi Chi Graduate Research Grants Program! Wishing you the best of luck with the review process.
-
-Congratulations to Viktoria on submitting _Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance_ project to the to the APA Division 38 Graduate Research Grant! Wishing you the best of luck with the review process.
-
-{% include section.html %}
-
-  <div class="row justify-content-center">
-    <div class="col-md-10">
-      <h2 class="text-center">February 4th, 2026 (format 2)</h2>
-      
-      <p>Congratulations to Angel on submitting <i>Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients</i> project to the Psi Chi Graduate Research Grants Program! Wishing you the best of luck with the review process.</p>
-
-      <p>Congratulations to Viktoria on submitting <i>Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance</i> project to the to the APA Division 38 Graduate Research Grant! Wishing you the best of luck with the review process.</p>
-    </div>
-  </div>
-
-{% include section.html %}
-
-
+## 2026
+<!--January 2026-->
 {% include section.html %}
 
   {% capture text %}
-  Congratulations to Angel on submitting <i>Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients</i> project to the Psi Chi Graduate Research Grants Program! Wishing you the best of luck with the review process.
 
-  Congratulations to Viktoria on submitting <i>Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance</i> project to the to the APA Division 38 Graduate Research Grant! Wishing you the best of luck with the review process.
+  Congratulations to Viktoria Bourmpoulia on submitting a grant proposal, titled: <i>Understanding Patients’ Experiences of Suicidal Crises and the Therapeutic Alliance</i> project to the American Psychological Association, Division 38 Graduate Student Health Psychology Research Award! Wishing you the best of luck with the review process.
   
   {% endcapture %}
 
   {%
-  include feature-carousel.html
-  images="images/Logo APA.svg, news_events_gallery/new_images/psichi logo.png"
-  title="February 4th, 2026 (format 3)"
+  include feature.html
+  images="images/Logo APA.svg"
+  title="January 30th, 2026"
   text=text
   flip=false
   fit=true
@@ -60,9 +41,48 @@ Congratulations to Viktoria on submitting _Understanding Patients’ Experiences
 %}
 {% include section.html %}
 
-**January, 2026**
+{% include section.html %}
 
-Congratulations and welcome to the new RAs who have joined the lab: Hanyu Zhang and Avraham Frohlich! We’re excited to have you on board and look forward to achieving great things together!
+  {% capture text %}
+  Congratulations and welcome to the new RAs who have joined the lab: **Hanyu Zhang** and **Avraham Frohlich**! We’re excited to have you on board and look forward to achieving great things together!
+
+  {% endcapture %}
+
+  {%
+  include feature-carousel.html
+  images="images/profile-hanyu_zhang.jpg"
+  title="January 22th, 2026"
+  text=text
+  flip=true
+  fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
+
+
+{% include section.html %}
+
+  {% capture text %}
+  Congratulations to our research assistant Angel Wei on submitting a grant proposal, titled: <i>Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients</i> to the International Honor Society in Psychology Graduate Research Grants! Wishing you the best of luck with the review process.
+
+  {% endcapture %}
+
+  {%
+  include feature.html
+  images="news_events_gallery/new_images/psichi logo.png"
+  title="January 15th, 2026"
+  text=text
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
+
+
+## 2025
+
 
 **October, 2025**  
 
