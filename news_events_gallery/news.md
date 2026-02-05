@@ -17,9 +17,11 @@ permalink: /news/
 
 {% include search-info.html %}
 
-<!--Feburary 2026-->
+
 
 ## 2026
+<!--Feburary 2026-->
+
 <!--January 2026-->
 {% include section.html %}
 
@@ -82,42 +84,18 @@ permalink: /news/
 
 
 ## 2025
-
-
-**October, 2025**  
-
-Congratulations and welcome to the new Ferkauf Doctoral Students who have joined the lab: Charlize Dilmanian, Dov Frank, Yuechun Yao, and Ryan Phelan. We are excited to have all the new doctoral students on board and look forward to working with them in the future! 
-
-**September, 2025**  
-
-Congratulations and welcome to the new RAs who have joined the lab: Xinran Gao! We’re excited to have you on board and look forward to achieving great things together!
-
-**July, 2025**  
-Congratulations and welcome to the new RAs who have joined the lab: Lilian Guo, Chi Kyu Lee! We’re excited to have you on board and look forward to achieving great things together! 
-
-At the same time, we’d like to express our gratitude and best wishes to Rebecca Barnes. As she prepares to depart, we want to acknowledge her valued contributions to the lab — she will be greatly missed. The team wishes her all the best in her future endeavors!
-
-
-**June, 2025**
-
-Congratulations and welcome to the new RAs who have joined the lab: Angle Wei, Violet Yang, Jhanavi Kumaresh, Madison Wakely, Shely Khaikin, Erin Kelly, Viktoria Bourmpoulia, and Hanjiang Xu.  We’re excited to have you on board and look forward to achieving great things together!
- 
-
+<!--November 2025-->
 
 {% include section.html %}
 
   {% capture text %}
   Between November 8th and 11th, 2025, Dr. Sarah Bloch-Elkouby chaired the symposium at the IASR/AFSP International Summit on Suicide Research in Boston, Massachusetts. This global summit aims to unite leading researchers in suicide prevention and foster innovative, interdisciplinary collaborations.
-
-  **Title:**
-    _Revolutionizing Suicide Risk Assessment and Training with AI: Insights from Virtual Human Interactions and Natural Language Processing Cutting-Edge Studies._
-  
   {% endcapture %}
 
   {%
   include feature-carousel.html
   images="news_events_gallery/new_images/IASR1.jpeg,news_events_gallery/new_images/IASR2.jpeg,news_events_gallery/new_images/IASR3.jpeg,news_events_gallery/new_images/IASR4.jpeg,news_events_gallery/new_images/IASR5.jpeg"
-  title="2025 IASR/AFSP International Summit on Suicide Research"
+  title="November 8th and 11th, 2025 IASR/AFSP International Summit on Suicide Research"
   text=text
   flip=false
   fit=true
@@ -126,23 +104,15 @@ Congratulations and welcome to the new RAs who have joined the lab: Angle Wei, V
 %}
 {% include section.html %}
 
- 
 {% include section.html %}
 
   {% capture text %}
   In November 2025, Dr. Sarah Bloch-Elkouby was a keynote speaker at a conference in Lausanne, Switzerland, as part of ongoing international efforts to advance suicide prevention research and clinical practice.
 
-  **Title:**  
-  _The Therapeutic Alliance in Suicidal Crisis: Clinical Challenges and Intervention Pathways_
-
-  This talk explored the complex interpersonal dynamics in therapy sessions with individuals at high risk for suicide, particularly those with insecure attachment style and previous histories of relational trauma. Emphasis placed on how these challenges impact the formation of therapeutic alliance, which is an essential protective factor in suicide prevention.
-
-  The presentation included a review of recent research and introduce practical clinical tools that strengthen the therapeutic alliance during crisis, such as narrative-informed assessment models, alliance-centered safety planning, and integrative inpatient interventions. It also highlighted the current innovative training resources that utilize artificial intelligence to support clinicians in accessing and managing high-risk situations.
-
   {% endcapture %}
 
   {% include feature.html
-    title="Keynote Speaker at Lausanne Conference on Suicide Prevention"
+    title="November, 2025, Keynote Speaker at Lausanne Conference on Suicide Prevention"
     text=text
     image="news_events_gallery/new_images/news-2025_keynote_speaker.jpg"
     flip=false
@@ -150,157 +120,171 @@ Congratulations and welcome to the new RAs who have joined the lab: Angle Wei, V
     align="left"
     style="bare"
   %}
+  {% include section.html %}
 
-
-## 2025 Annual Conference of Society of Psychotherapy Research
+<!--October, 2025-->
 {% include section.html %}
 
-{% capture text %}
+  {% capture text %}
+  Congratulations and welcome to the new Ferkauf Doctoral Students who have joined the lab: **Charlize Dilmanian**, **Dov Frank**, **Yuechun Yao**, and **Ryan Phelan**. We are excited to have all the new doctoral students on board and look forward to working with them in the future! 
 
-Dr. Bloch-Elkouby moderated the plenary _Friend or foe? An update and future directions on AI applications in psychotherapy research_ with Dr. Aafjes-van Doorn.
+  {% endcapture %}
 
-She presented a paper at the SPR 2025 annual conference. In the _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_ panel, she presented the paper **_The impact of patients’ race and clinicians’ implicit racial biases on the alliance and clinical judgment with high-risk patients: a cutting edge virtual human interactions study_**. She was also a discussant of _What’s Tricky about Transforming Training? A Discussion on Training Providers_ structured discussion session.
-
-{% endcapture %}
-
-{%
+  {%
   include feature-carousel.html
-  images="news_events_gallery/new_images/news-spr2025_1.jpg,news_events_gallery/new_images/news-spr2025_2.jpg,news_events_gallery/new_images/news-spr2025_3.jpg,news_events_gallery/new_images/news-spr2025_4.jpg,news_events_gallery/new_images/news-spr2025_5.jpg,news_events_gallery/new_images/news-spr2025_6.jpg"
-  title="Dr. Bloch's Presentation"
+  images="images/profile-Charlize_ Dilmanian.jpeg,images/profile-dov_frank.jpg,images/profile-yuechun_yao.jpg,images/profile-ryan_phelan.jpeg"
+  title="October, 2026"
   text=text
-  flip=false
+  flip=true
   fit=true
   align="left"
   style="bare"
 %}
-
 {% include section.html %}
 
-
-
+<!--September, 2025-->
 {% include section.html %}
 
-{% capture text %}
+  {% capture text %}
+  Congratulations and welcome to the new RAs who have joined the lab: **Xinran Gao**! We’re excited to have you on board and look forward to achieving great things together!
 
-Jimmy, Rebecca, Aditya, Stephanie, Jade, Wendy, Runqin, Ronit, and Jason presented their poster at the 2025 SPR conference.
+  {% endcapture %}
 
-**Jimmy** examined the feasibility of applying virtual patients as a clinical training tool by exploring the impact of technological problems on therapeutic alliance.  
-**Rebecca** investigated whether the higher risk assessment of a patient would lead to lower therapeutic alliance.  
-**Aditya** tested whether clinician's case conceptualization differed for patients with minority races via a qualitative analysis.  
-**Stephanie** explored the role of implicit racial bias in suicide risk assessments among adolescent virtual patients.  
-**Jade** inquired if the elevation effects of negative emotional response resulted from the clinician's implicit racial bias against the Black would be alleviated by clinicians being more mindful in the interaction.  
-**Wendy** looked into whether the poor emotional regulation skills would lead to more ruptures in therapeutic alliance.  
-**Runqin** researched the role of implicit racial biases in clinician's interview (therapy) experiences.  
-**Ronit** explored the interplay between implicit racial bias and clinician emotional responses such that they would report more positive responses but display more negative facial expressions.  
-**Jason** examined if implicit racial biases impede clinicians' empathy.
-
-{% endcapture %}
-bloch-elkouby-lab/website/research/spr2025/spr2025_barnes.jpg
-{%
-  include feature-carousel.html
-  images="research/spr2025/spr2025_chen.jpg,research/spr2025/spr2025_barnes.jpg,research/spr2025/spr2025_bhise.jpg,research/spr2025/spr2025_prekas.jpg,research/spr2025/spr2025_wei.jpg,research/spr2025/spr2025_guo.jpg,research/spr2025/spr2025_shi.jpg,research/spr2025/spr2025_shvarzman.png,research/spr2025/spr2025_tortora.png"
-  title="RA posters"
+  {%
+  include feature.html
+  image="images/profile-xinran_gao.jpg"
+  title="September, 2026"
   text=text
-  flip=false
+  flip=true
   fit=true
   align="left"
   style="bare"
 %}
+{% include section.html %}
+ 
+<!--July, 2025-->
+{% include section.html %}
 
+  {% capture text %}
+  Congratulations and welcome to the new RAs who have joined the lab: Lilian Guo, Chi Kyu Lee! We’re excited to have you on board and look forward to achieving great things together! 
+  
+  At the same time, we’d like to express our gratitude and best wishes to Rebecca Barnes. As she prepares to depart, we want to acknowledge her valued contributions to the lab — she will be greatly missed. The team wishes her all the best in her future endeavors!
+ 
+
+  {% endcapture %}
+
+  {%
+  include feature-carousel.html
+  images="images/profile-lilian_guo.jpg, images/profile-chikyu_lee.jpg"
+  title="July, 2026"
+  text=text
+  flip=true
+  fit=true
+  align="left"
+  style="bare"
+%}
 {% include section.html %}
 
 
+<!--June, 2025-->
 
 {% include section.html %}
 
-{% capture text %}
+  {% capture text %}
+  **Dr. Bloch-Elkouby** moderated the plenary _Friend or foe? An update and future directions on AI applications in psychotherapy research_ with Dr. Aafjes-van Doorn. She presented a paper in the _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_ panel. 
 
-In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Trainee Award. **Alexis Aberman and Talia Rosen**’s John and Elaine Altmaier Depression Research Grant was also featured by NASPR at the chapter meeting.
+  Doctoral student **Ronit Shvarzman** was awarded a trainee conference travel award and traveled to Krakow, Poland, to attend the 2025 SPR Conference and be recognized at the North American Chapter Business Meeting. 
 
-{% endcapture %}
+  The following Lab RAs presented their posters at the 2025 SPR Conference: Jimmy Chen, Rebecca Barnes, Aditya Bhise, Stephanie Prekas, Jade Wei, Wendy Guo, Runqin Shi, Ronit Shvarzman, and Jason Tortora.
+ 
+  {% endcapture %}
 
-{%
+  {%
+  include feature-carousel.html
+  images="news_events_gallery/new_images/news-spr2025_1.jpg,news_events_gallery/new_images/news-spr2025_2.jpg,news_events_gallery/new_images/news-spr2025_3.jpg,news_events_gallery/new_images/news-spr2025_4.jpg,news_events_gallery/new_images/news-spr2025_5.jpg,news_events_gallery/new_images/news-spr2025_6.jpg,research/spr2025/spr2025_chen.jpg,research/spr2025/spr2025_barnes.jpg,research/spr2025/spr2025_bhise.jpg,research/spr2025/spr2025_prekas.jpg,research/spr2025/spr2025_wei.jpg,research/spr2025/spr2025_guo.jpg,research/spr2025/spr2025_shi.jpg,research/spr2025/spr2025_shvarzman.png,research/spr2025/spr2025_tortora.png"
+  title="June, 2025 Annual Conference of Society of Psychotherapy Research"
+  text=text
+  flip=true
+  fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
+
+{% include section.html %}
+
+  {% capture text %}
+  In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Trainee Award. **Alexis Aberman and Talia Rosen**’s John and Elaine Altmaier Depression Research Grant was also featured by NASPR at the chapter meeting. 
+ 
+
+  {% endcapture %}
+
+  {%
   include feature-carousel.html
   images="news_events_gallery/new_images/news-spr2025_ronit.jpg,news_events_gallery/new_images/news-spr2025_talia_alexis.jpg"
-  link=""
-  title="Student Awards"
-  flip=false
+  text=text
+  flip=true
   fit=true
   align="left"
   style="bare"
-  text=text
 %}
-
 {% include section.html %}
 
 
-## Grants and Awards
 {% include section.html %}
 
-{% capture text %}
+  {% capture text %}
+  Congratulations and welcome to the new RAs who have joined the lab: **Angle Wei**, **Violet Yang**, **Jhanavi Kumaresh**, **Madison Wakely**, **Shely Khaikin**, **Erin Kelly**, **Viktoria Bourmpoulia**, and **Hanjiang Xu**.  We’re excited to have you on board and look forward to achieving great things together!
+ 
 
-**Alexis Aberman** was named a recipient of the Society for the Advancement of Psychotherapy's Student Research Grant. Her qualitative dissertation project will focus on individuals with lived experience who view themselves as recovered from suicidality. Her research will explore patient experiences of what they view as contributing to their recovery from suicidality, both inside and outside of treatment. This grant will allow for the compensation of participants and the compensation of Dr. Usrula Whiteside, an expert with lived experience who will serve as a consultant to the research team.
+  {% endcapture %}
 
-{% endcapture %}
+  {%
+  include feature-carousel.html
+  images="images/profile-yongxue_wei.jpg, images/profile-jhanavi_kumaresh.jpeg, images/profile-madison_wakely.jpg, images/profile-shely_khaikin.jpg, images/profile-erin_kelly.jpg, images/profile-viktoria_bourmpoulia.JPG, images/profile-hanjiang_xu.jpg"
+  text=text
+  flip=true
+  fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
 
-{%
+
+ 
+{% include section.html %}
+
+  {% capture text %}
+  Congratulations to **Alexis Aberman** as a recipient of the Society for the Advancement of Psychotherapy's Student Research Grant. Her qualitative dissertation project will focus on individuals with lived experience who view themselves as recovered from suicidality. Her research will explore patient experiences of what they view as contributing to their recovery from suicidality, both inside and outside of treatment. This grant will allow for the compensation of participants and the compensation of Dr. Usrula Whiteside, an expert with lived experience who will serve as a consultant to the research team.
+  {% endcapture %}
+
+  {%
   include feature.html
   image="news_events_gallery/new_images/SAP logo.jpeg"
-  title="Society for the Advancement of Psychotherapy's Student Research Grant"
   text=text
-  flip=false
+  flip=true
   fit=true
   align="left"
   style="bare"
 %}
-
 {% include section.html %}
 
 
 {% include section.html %}
 
-{% capture text %}
+  {% capture text %}
+  Congratulations to **Alexis Aberman** and **Talia Rosen** have been named as the recipients of the North American Society for Psychotherapy Research John and Elaine Altmaier Depression Research Grant. Their qualitative research project will explore the impacts of self-compassion and the therapeutic alliance on recovery from suicidal ideation and behaviors. The study will involve interviews with former patients who consider themselves recovered from suicidality, as well as the therapists whom they credit as instrumental in their recovery. After qualitative data from interviews have been collected and analyzed, participants will be invited to participate in focus groups, during which these individuals with lived experience will provide invaluable feedback on ways to implement and disseminate the insights gained throughout the study. This grant will allow for the compensation of patient and therapist participants, as well as consultation from Dr. Ursula Whiteside, an expert with lived experience.
+  {% endcapture %}
 
-**Ronit Shvarzman** was awarded a trainee conference travel award and will be traveling to Krakow, Poland, to attend the 2025 SPR Conference and be recognized at the North American Chapter Business Meeting. At the conference, Ronit will present a poster on her research: “Implicit Racial Bias and Clinician Emotional Responses in Psychotherapy: A Virtual Interaction Study.”
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="news_events_gallery/new_images/news-spr2025_Krakow.jpeg"
-  link=""
-  title="Trainee Conference Travel Award"
-  flip=false
-  fit=true
-  align="left"
-  style="bare"
-  text=text
-%}
-
-{% include section.html %}
-
-
-{% include section.html %}
-
-{% capture text %}
-
-**Alexis Aberman** and **Talia Rosen** have been named as the recipients of the North American Society for Psychotherapy Research John and Elaine Altmaier Depression Research Grant. Their qualitative research project will explore the impacts of self-compassion and the therapeutic alliance on recovery from suicidal ideation and behaviors. The study will involve interviews with former patients who consider themselves recovered from suicidality, as well as the therapists whom they credit as instrumental in their recovery. After qualitative data from interviews have been collected and analyzed, participants will be invited to participate in focus groups, during which these individuals with lived experience will provide invaluable feedback on ways to implement and disseminate the insights gained throughout the study. This grant will allow for the compensation of patient and therapist participants, as well as consultation from Dr. Ursula Whiteside, an expert with lived experience.
-
-{% endcapture %}
-
-{%
+  {%
   include feature.html
   image="news_events_gallery/new_images/news-spr2025_talia_alexis.jpg"
-  link=""
-  title="John and Elaine Altmaier Depression Research Grant"
-  flip=false
+  text=text
+  flip=true
   fit=true
   align="left"
   style="bare"
-  text=text
 %}
-
-
 {% include section.html %}
 
 
