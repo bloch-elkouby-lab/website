@@ -18,13 +18,4 @@ We strongly encourage you to share your work with our community. The Program Com
 
 Don't miss the chance to present! The submission deadline is February 13, 2026, at 11:59 PM ET. If you are interested, please check out the <a href="https://sites.google.com/view/naspr-2026-conference/call-for-submissions_1">submission details</a>.
 
-<img src="bloch-elkouby-lab/website/news_events_gallery/events_images/CenterforJewishHistory.jpg" alt="Yeshiva University Museum" class="center-img">
-
-<style>
-  .center-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%; /* Optional: set a width if you want */
-  }
-</style>
+<img src="bloch-elkouby-lab/website/news_events_gallery/events_images/CenterforJewishHistory.jpg" alt="Yeshiva University Museum" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
