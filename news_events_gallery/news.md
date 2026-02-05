@@ -166,7 +166,7 @@ permalink: /news/
 {% include section.html %}
 
   {% capture text %}
-  Congratulations and welcome to the new RAs who have joined the lab: Lilian Guo, Chi Kyu Lee! We’re excited to have you on board and look forward to achieving great things together! 
+  Congratulations and welcome to the new RAs who have joined the lab: **Lilian Guo**, **Chi Kyu Lee**! We’re excited to have you on board and look forward to achieving great things together! 
   
   At the same time, we’d like to express our gratitude and best wishes to Rebecca Barnes. As she prepares to depart, we want to acknowledge her valued contributions to the lab — she will be greatly missed. The team wishes her all the best in her future endeavors!
  
@@ -175,7 +175,7 @@ permalink: /news/
 
   {%
   include feature-carousel.html
-  images="images/profile-lilian_guo.jpg, images/profile-chikyu_lee.jpg"
+  images="images/profile-lilian_guo.jpg, images/profile-chikyu_lee.jpg,images/profile-rebecca_barnes.jpeg"
   title="July, 2025"
   text=text
   flip=false
@@ -215,8 +215,6 @@ permalink: /news/
 
   {% capture text %}
   In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Trainee Award. **Alexis Aberman and Talia Rosen**’s John and Elaine Altmaier Depression Research Grant was also featured by NASPR at the chapter meeting. 
- 
-
   {% endcapture %}
 
   {%
@@ -229,6 +227,7 @@ permalink: /news/
   style="bare"
 %}
 {% include section.html %}
+
 
 
 {% include section.html %}
