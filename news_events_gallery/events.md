@@ -19,13 +19,16 @@ We strongly encourage you to share your work with our community. The Program Com
 Don't miss the chance to present! The submission deadline is February 13, 2026, at 11:59 PM ET. If you are interested and would like to submit your work, please check out the <a href="https://sites.google.com/view/naspr-2026-conference/call-for-submissions_1">submission details</a>.
 
 
-<img 
-  src="images/CenterforJewishHistory.jpg"
-  alt="Yeshiva University Museum"
-  style="
-    display: block;
-    margin: 0 auto;
-    width: 60%;
-    max-width: 700px;
-  "
->
+<div style="text-align:center;">
+  <img
+    src="images/CenterforJewishHistory.jpg"
+    alt="Yeshiva University Museum"
+    style="width:60%; max-width:700px;"
+  >
+</div>
+
+**Invited Lectures and Webinars**
+
+March 18, 2026 Dr. Bloch-Elkouby will present a webinar hosted by the Society for Psychotherapy Research (SPR) titled "Breaking Silos: Why Suicide Prevention and Psychotherapy Research Need Each Other."
+
+June 5, 2026 Dr. Bloch-Elkouby will present at the Psychology Grand Rounds at Mount Sinai Medical Center in New York. Her presentation is titled "The Therapeutic Alliance as a Diagnostic and Intervention Tool with High-Risk Patients."
