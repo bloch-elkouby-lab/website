@@ -221,7 +221,6 @@ permalink: /news/
   include feature-carousel.html
   images="news_events_gallery/new_images/news-spr2025_ronit.jpg,news_events_gallery/new_images/news-spr2025_talia_alexis.jpg"
   text=text
-  title="Test title"
   flip=false
   fit=true
   align="left"
