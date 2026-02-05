@@ -95,7 +95,7 @@ permalink: /news/
   {%
   include feature-carousel.html
   images="news_events_gallery/new_images/IASR1.jpeg,news_events_gallery/new_images/IASR2.jpeg,news_events_gallery/new_images/IASR3.jpeg,news_events_gallery/new_images/IASR4.jpeg,news_events_gallery/new_images/IASR5.jpeg"
-  title="November 8th and 11th, 2025 IASR/AFSP International Summit on Suicide Research"
+  title="November 8th–11th, 2025: IASR/AFSP International Summit on Suicide Research"
   text=text
   flip=false
   fit=true
@@ -112,10 +112,10 @@ permalink: /news/
   {% endcapture %}
 
   {% include feature.html
-    title="November, 2025, Keynote Speaker at Lausanne Conference on Suicide Prevention"
+    title="November, 2025: Keynote Speaker at the Lausanne Conference on Suicide Prevention"
     text=text
     image="news_events_gallery/new_images/news-2025_keynote_speaker.jpg"
-    flip=false
+    flip=true
     fit=true
     align="left"
     style="bare"
@@ -133,9 +133,9 @@ permalink: /news/
   {%
   include feature-carousel.html
   images="images/profile-Charlize_ Dilmanian.jpeg,images/profile-dov_frank.jpg,images/profile-yuechun_yao.jpg,images/profile-ryan_phelan.jpeg"
-  title="October, 2026"
+  title="October, 2025"
   text=text
-  flip=true
+  flip=false
   fit=true
   align="left"
   style="bare"
@@ -153,7 +153,7 @@ permalink: /news/
   {%
   include feature.html
   image="images/profile-xinran_gao.jpg"
-  title="September, 2026"
+  title="September, 2025"
   text=text
   flip=true
   fit=true
@@ -176,9 +176,9 @@ permalink: /news/
   {%
   include feature-carousel.html
   images="images/profile-lilian_guo.jpg, images/profile-chikyu_lee.jpg"
-  title="July, 2026"
+  title="July, 2025"
   text=text
-  flip=true
+  flip=false
   fit=true
   align="left"
   style="bare"
@@ -202,7 +202,7 @@ permalink: /news/
   {%
   include feature-carousel.html
   images="news_events_gallery/new_images/news-spr2025_1.jpg,news_events_gallery/new_images/news-spr2025_2.jpg,news_events_gallery/new_images/news-spr2025_3.jpg,news_events_gallery/new_images/news-spr2025_4.jpg,news_events_gallery/new_images/news-spr2025_5.jpg,news_events_gallery/new_images/news-spr2025_6.jpg,research/spr2025/spr2025_chen.jpg,research/spr2025/spr2025_barnes.jpg,research/spr2025/spr2025_bhise.jpg,research/spr2025/spr2025_prekas.jpg,research/spr2025/spr2025_wei.jpg,research/spr2025/spr2025_guo.jpg,research/spr2025/spr2025_shi.jpg,research/spr2025/spr2025_shvarzman.png,research/spr2025/spr2025_tortora.png"
-  title="June, 2025 Annual Conference of Society of Psychotherapy Research"
+  title="June 2025 Annual Conference of the Society for Psychotherapy Research"
   text=text
   flip=true
   fit=true
@@ -223,7 +223,7 @@ permalink: /news/
   include feature-carousel.html
   images="news_events_gallery/new_images/news-spr2025_ronit.jpg,news_events_gallery/new_images/news-spr2025_talia_alexis.jpg"
   text=text
-  flip=true
+  flip=false
   fit=true
   align="left"
   style="bare"
@@ -235,8 +235,6 @@ permalink: /news/
 
   {% capture text %}
   Congratulations and welcome to the new RAs who have joined the lab: **Angle Wei**, **Violet Yang**, **Jhanavi Kumaresh**, **Madison Wakely**, **Shely Khaikin**, **Erin Kelly**, **Viktoria Bourmpoulia**, and **Hanjiang Xu**.  We’re excited to have you on board and look forward to achieving great things together!
- 
-
   {% endcapture %}
 
   {%
@@ -262,7 +260,7 @@ permalink: /news/
   include feature.html
   image="news_events_gallery/new_images/SAP logo.jpeg"
   text=text
-  flip=true
+  flip=false
   fit=true
   align="left"
   style="bare"
