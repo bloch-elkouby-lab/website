@@ -287,6 +287,18 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:34403873
+  title: 'The role of suicide ideation in assessing near-term suicide risk: A machine
+    learning approach.'
+  authors:
+  - Lauren McMullen
+  - Neelang Parghi
+  - Megan L Rogers
+  - Heng Yao
+  - Sarah Bloch-Elkouby
+  - Igor Galynker
+  publisher: Psychiatry research
+  date: '2021-07-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34403873
   term: Bloch-Elkouby, S[Author]
   plugin: pubmed.py
   file: pubmed.yaml
