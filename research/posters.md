@@ -10,20 +10,23 @@ permalink: /posters/
 ## Posters
 
 <nav style="background-color: #ebf5fb ; overflow: hidden;">
+
   <!-- <a href="#2026" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2026</a> -->
   <a href="#2025" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2025</a>
-  <a href="#2013-2025" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2013-2025</a>
+  <a href="#2013-2024" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2013-2024</a>
 </nav>
 
 <!-- IN PREPARATION
+
 <h2 id="2026">2026</h2>
 
-<ins>Chen, J. P.</ins>, ... , & **Bloch-Elkouby, S.** (2026, June 24-27). *How does technical difficulties disproportionately impact the assessment of suicide crisis, suicide ideation, and overall suicide risk on Black people and why?* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
+<ins> Chen, J. P.</ins>, <ins>Guo, L.</ins>, <ins>Wei, Y.</ins>, <ins>Bhise, A.</ins>, <ins>Yang, J.</ins>, & **Bloch-Elkouby, S.** (2026, Jun 24-27). Disproportionate Impact of Technological Disruptions on Suicide Risk Assessment in Black Virtual Patients [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
 
 <ins>Xu, H.</ins>, <ins>Chen, J. P.</ins>, <ins>Yang, J.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Assessing Psychometric Properties of Suicide Crisis Syndrome Checklist (SCS-C) Using a Standardized Virtual Patient* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
 
 <ins>Yang, J.</ins>, <ins> Wei, Y.</ins>, <ins>Chen, J. P.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Computational Case Conceptualization for Suicide Crisis Syndrome: Generating Individualized Treatment Predictions* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
 -->
+
 <h2 id="2025">2025</h2>
 
 <ins>Chen, J. P.</ins>, <ins>Xu, H.</ins>, <ins>Yang, J.</ins>, & **Bloch-Elkouby, S.** (2025, Dec 11-12). [*Reliability of suicide crisis syndrome checklist (SCS-C) across 70 clinicians interviewing the same virtual patient*](https://bloch-elkouby-lab.github.io/website/posters/tips2025_chen/) [Poster presentation]. Technology in Psychiatry Summit 2025, virtual. 
@@ -47,7 +50,7 @@ permalink: /posters/
 <ins>Wei, J.</ins>, <ins>Shi, R.</ins>, <ins>Chen, J. P.</ins>, <ins>Tortora, J.</ins>, & **Bloch-Elkouby, S.** (2025, June 25-28). [*Does mindfulness moderate the impact of patients’ race and clinicians’ implicit racial biases on clinicians’ emotional response to minoritized youth?*](https://bloch-elkouby-lab.github.io/website/posters/spr2025_wei/) [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Krakow, Poland.
 
 
-<h2 id="2013-2025">2013-2025</h2>
+<h2 id="2013-2024">2013-2024</h2>
 
 <ins>Aberman, A.</ins>, <ins>Jones, D.</ins>, <ins>Shvarzman, R.</ins>, Tortora, J., & **Bloch-Elkouby, S.** (2024, June). *The role of self-compassion in evidence-based suicide-specific interventions: A critical review* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Ottawa, Canada.
 

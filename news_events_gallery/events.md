@@ -21,7 +21,7 @@ Don't miss the chance to present! The submission deadline is February 13, 2026, 
 
 <div style="text-align:center;">
   <img
-    src="images/CenterforJewishHistory.jpg"
+    src="bloch-elkouby-lab.github.io/website/news_events_gallery/new_images/CenterforJewishHistory.jpg"
     alt="Yeshiva University Museum"
     style="width:60%; max-width:700px;"
   >
