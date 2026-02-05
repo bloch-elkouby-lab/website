@@ -238,7 +238,7 @@ permalink: /news/
   include feature.html
   image="news_events_gallery/new_images/SAP logo.jpeg"
   text=text
-  flip=false
+  flip=true
   fit=true
   align="left"
   style="bare"
@@ -256,7 +256,7 @@ permalink: /news/
   include feature.html
   image="news_events_gallery/new_images/news-spr2025_talia_alexis.jpg"
   text=text
-  flip=true
+  flip=false
   fit=true
   align="left"
   style="bare"
