@@ -227,24 +227,6 @@ permalink: /news/
   style="bare"
 %}
 {% include section.html %}
-
-{% include section.html %}
-
-  {% capture text %}
-  Congratulations and welcome to the new RAs who have joined the lab: **Angle Wei**, **Violet Yang**, **Jhanavi Kumaresh**, **Madison Wakely**, **Shely Khaikin**, **Erin Kelly**, **Viktoria Bourmpoulia**, and **Hanjiang Xu**.  We’re excited to have you on board and look forward to achieving great things together! 
-  {% endcapture %}
-
-  {%
-  include feature-carousel.html
-  images="images/profile-yongxue_wei.jpg, images/profile-jhanavi_kumaresh.jpeg, images/profile-madison_wakely.jpg, images/profile-shely_khaikin.jpg, images/profile-erin_kelly.jpg, images/profile-viktoria_bourmpoulia.JPG, images/profile-hanjiang_xu.jpg"
-  text=text
-  flip=true
-  fit=true
-  align="left"
-  style="bare"
-%}
-{% include section.html %}
-
  
 {% include section.html %}
 
