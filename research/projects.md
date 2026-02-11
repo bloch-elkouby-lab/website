@@ -14,7 +14,7 @@ permalink: /projects/
 <!--SCS-->
 {% capture text %}
 The Suicide Crisis Syndrome is a cognitive and affective suicidal mental state proposed by Galynker and colleagues as a suicide-specific diagnosis. It entails five dimensions of psychological markers indicative of imminent risk for suicidal behaviors (feeling entrapped, affective disturbances, loss of cognitive control, hyperarousal, and social withdrawal). To account for patients’ well-documented non-disclosure of suicidal ideation, the Suicide Crisis Syndrome does not include patient-reported suicidal ideation. 
-In light of the growing body supporting the predictive validity of the Suicide Crisis Syndrome, this project strives to further our understanding of the field’s ability to use it to enhance risk prediction and prevention across cultures and age groups.
+In collaboration with the Galynker Suicide Prevention and Research Lab, the Bloch-Elkouby Lab is working on the validation and cultural adaptation of several self-report and clinician-rated measures to further the field's understanding of suicidal crises and to enhance risk detection across cultures.
 
 
 [Relevant Publications](https://drive.google.com/drive/folders/1MUPw_8Y2LpuQSO04VkMXjLaQ3zIawBWt?usp=sharing)
@@ -55,7 +55,7 @@ In recent years, there has been a worrying increase in child and adolescent suic
 %}
 
 
-
+<!--Non-disclosure-->
 {% capture text %}
 Recent literature shows that a large proportion of patients who made suicide attempts or even died by suicide denied suicidal ideation when inquired by their mental health provider shortly before their attempt or death. In the absence of patient-disclosure, engaging a patient in a collaborative and effective suicide-specific intervention is impossible. Accordingly, this project strives to understand patient, therapist, and patient-therapist interactional factors that impact patients’ decision to disclose suicidal ideation to their providers or to conceal it from them.
 
@@ -74,7 +74,7 @@ Recent literature shows that a large proportion of patients who made suicide att
 %}
 
 
-
+<!--new approach-->
 {% capture text %}
 This project strives to combine new evidence-based tools in suicide prevention and psychotherapy research to develop a new and integrative approach to suicide risk assessment and intervention. Based on the recently developed Narrative Crisis Model of Suicide (NCM; Galynker, 2017), and the principles of the empirically supported Alliance-Focused Training (AFT; Eubanks et al., 2015; Muran & Eubanks, 2020), this approach promotes a collaborative and de-stigmatizing insight- and self-compassion- oriented framework, where patients and clinicians co-create an individualized model of patients’ Narrative-Crisis stages while addressing and resolving ruptures in the alliance in real-time.
 
@@ -95,6 +95,7 @@ This project strives to combine new evidence-based tools in suicide prevention a
 
 ## Psychotherapy Research
 
+<!--interpersonal dynamics-->
 {% capture text %}
 To understand why some patients experience worsening symptoms or no improvement after undergoing therapy, our research delves into the interpersonal dynamics and the quality of the therapeutic alliance in therapy dyads using mixed-methods analyses. Aiming to uncover the underlying factors contributing to adverse therapy outcomes, this project is crucial for improving therapeutic techniques and strategies, ultimately enhancing their effectiveness and patient well-being.
 
@@ -113,7 +114,7 @@ To understand why some patients experience worsening symptoms or no improvement 
   text=text
 %}
 
-
+<!--alliance-->
 {% capture text %}
 Although recent research suggests that patients self-identifying as BIPOC underutilize treatment and terminate treatment prematurely, there is a paucity of research investigating the interpersonal dynamics at play within cross-cultural therapy dyads.  This project strives to deepen the field’s understanding of the interpersonal dynamics in cross-cultural dyads, identify obstacles to developing a strong therapeutic alliance, explore ethno-racial microaggressions, and assess their impact on therapy processes and outcomes.
 
@@ -133,7 +134,7 @@ Although recent research suggests that patients self-identifying as BIPOC underu
 %}
 
 
-
+<!--observer coding-->
 {% capture text %}
 This project aims to establish an observer-based coding scheme to identify ethnoracial racial microaggressions performed by patients or therapists in therapy, providing valuable insights for training and enhancing therapeutic practices.
 {% endcapture %}
