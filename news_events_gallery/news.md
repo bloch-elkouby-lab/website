@@ -100,9 +100,7 @@ permalink: /news/
   align="left"
   style="bare"
 %}
-{% include section.html %}
 
-{% include section.html %}
 
   {% capture text %}
   In November 2025, Dr. Sarah Bloch-Elkouby was a keynote speaker at a conference in Lausanne, Switzerland, as part of ongoing international efforts to advance suicide prevention research and clinical practice.
@@ -118,10 +116,8 @@ permalink: /news/
     align="left"
     style="bare"
   %}
-  {% include section.html %}
 
 <!--October, 2025-->
-{% include section.html %}
 
   {% capture text %}
   Congratulations and welcome to the new Ferkauf Doctoral Students who have joined the lab: **Charlize Dilmanian**, **Dov Frank**, **Yuechun Yao**, and **Ryan Phelan**. We are excited to have all the new doctoral students on board and look forward to working with them in the future! 
@@ -138,10 +134,8 @@ permalink: /news/
   align="left"
   style="bare"
 %}
-{% include section.html %}
-
 <!--September, 2025-->
-{% include section.html %}
+
 
   {% capture text %}
   Congratulations and welcome to the new RAs who have joined the lab: **Xinran Gao**! We’re excited to have you on board and look forward to achieving great things together!
@@ -158,10 +152,7 @@ permalink: /news/
   align="left"
   style="bare"
 %}
-{% include section.html %}
- 
 <!--July, 2025-->
-{% include section.html %}
 
   {% capture text %}
   Congratulations and welcome to the new RAs who have joined the lab: **Lilian Guo**, **Chi Kyu Lee**! We’re excited to have you on board and look forward to achieving great things together! 
@@ -181,12 +172,8 @@ permalink: /news/
   align="left"
   style="bare"
 %}
-{% include section.html %}
-
-
 <!--June, 2025-->
 
-{% include section.html %}
 
   {% capture text %}
   **Dr. Bloch-Elkouby** moderated the plenary _Friend or foe? An update and future directions on AI applications in psychotherapy research_ with Dr. Aafjes-van Doorn. She presented a paper in the _Preventing Setbacks: Using AI and LLMs to Address Negative Developments in Mental Health Care_ panel. 
@@ -207,9 +194,6 @@ permalink: /news/
   align="left"
   style="bare"
 %}
-{% include section.html %}
-
-{% include section.html %}
 
   {% capture text %}
   In the 2025 SPR conference, **Ronit Shvarzman** was awarded the Enrico Jones Trainee Award. **Alexis Aberman and Talia Rosen**’s John and Elaine Altmaier Depression Research Grant was also featured by NASPR at the chapter meeting. 
@@ -224,9 +208,6 @@ permalink: /news/
   align="left"
   style="bare"
 %}
-{% include section.html %}
- 
-{% include section.html %}
 
   {% capture text %}
   Congratulations to **Alexis Aberman** as a recipient of the Society for the Advancement of Psychotherapy's Student Research Grant. Her qualitative dissertation project will focus on individuals with lived experience who view themselves as recovered from suicidality. Her research will explore patient experiences of what they view as contributing to their recovery from suicidality, both inside and outside of treatment. This grant will allow for the compensation of participants and the compensation of Dr. Usrula Whiteside, an expert with lived experience who will serve as a consultant to the research team.
@@ -241,10 +222,6 @@ permalink: /news/
   align="left"
   style="bare"
 %}
-{% include section.html %}
-
-
-{% include section.html %}
 
   {% capture text %}
   Congratulations to **Alexis Aberman** and **Talia Rosen** have been named as the recipients of the North American Society for Psychotherapy Research John and Elaine Altmaier Depression Research Grant. Their qualitative research project will explore the impacts of self-compassion and the therapeutic alliance on recovery from suicidal ideation and behaviors. The study will involve interviews with former patients who consider themselves recovered from suicidality, as well as the therapists whom they credit as instrumental in their recovery. After qualitative data from interviews have been collected and analyzed, participants will be invited to participate in focus groups, during which these individuals with lived experience will provide invaluable feedback on ways to implement and disseminate the insights gained throughout the study. This grant will allow for the compensation of patient and therapist participants, as well as consultation from Dr. Ursula Whiteside, an expert with lived experience.
