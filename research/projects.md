@@ -9,14 +9,17 @@ permalink: /projects/
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-**At the heart of our lab’s mission is the integration of suicide prevention and psychotherapy research. Our work brings together the conceptual frameworks, research methods, and insights of both fields, leveraging their cross-fertilization to generate impactful and clinically meaningful findings.**
+
+<p style="font-size: 18px; color: black;">
+  **At the heart of our lab’s mission is the integration of suicide prevention and psychotherapy research. Our work brings together the conceptual frameworks, research methods, and insights of both fields, leveraging their cross-fertilization to generate impactful and clinically meaningful findings.**
+</p>
+
 
 ## Understanding and detecting suicide risk 
 
 <!--SCS-->
 {% capture text %}
-The Suicide Crisis Syndrome is a cognitive and affective suicidal mental state proposed by Galynker and colleagues as a suicide-specific diagnosis. It entails five dimensions of psychological markers indicative of imminent risk for suicidal behaviors (feeling entrapped, affective disturbances, loss of cognitive control, hyperarousal, and social withdrawal), which often precede suicidal behaviors. To account for patients’ well-documented non-disclosure of suicidal ideation, the Suicide Crisis Syndrome does not include patient-reported suicidal ideation. 
-In collaboration with the Galynker Suicide Prevention and Research Lab, the Bloch-Elkouby Lab is working on the validation and cultural adaptation of several self-report and clinician-rated measures to further the field's understanding of suicidal crises and to enhance risk detection across cultures.
+The Suicide Crisis Syndrome (SCS) is a cognitive and affective suicidal mental state proposed by Galynker and colleagues as a suicide-specific diagnosis (Galynker et al., 2017; 2024; 2025; Bloch-Elkouby et al., 2020; 2021; 2023; 2024; 2026). Shown to be predictive of imminent risk for suicidal behaviors, the SCS represents the culmination of a cascade of inter- and intrapersonal processes involved in one’s progression from predisposing factors to acute suicidal crises described in the Narrative Crisis Model of Suicide (NCM; Galynker et al., 2027; Cohen et al., 2019; 2020; Bloch-Elkouby et al., 2020; 2023; 2024). The psychological markers featured in the SCS can be described along five dimensions: feeling entrapped, affective disturbances, loss of cognitive control, hyperarousal, and social withdrawal. To account for the well-documented difficulty individuals experience in sharing their suicidal thoughts, the Suicide Crisis Syndrome does not include self-reported suicidal ideation. In collaboration with the Galynker Suicide Prevention and Research Lab, the Bloch-Elkouby Lab is working on the validation and cultural adaptation of several self-report (SCI-2; Bloch-Elkouby et al., 2021; SCI-2SF, Sarli et al., 2024) and clinician-rated (SCS-C; Bloch-Elkouby et al., 2026) measures to further the field’s understanding of suicidal crises and to enhance risk detection across cultures (Bloch-Elkouby et al., 2026, under review).
 
 
 [Relevant Publications](https://drive.google.com/drive/folders/1MUPw_8Y2LpuQSO04VkMXjLaQ3zIawBWt?usp=sharing)
@@ -34,6 +37,23 @@ In collaboration with the Galynker Suicide Prevention and Research Lab, the Bloc
   text=text
 %}
 
+<!--new approach-->
+{% capture text %}
+This project strives to combine new evidence-based tools in suicide prevention and psychotherapy research to develop a new and integrative approach to suicide risk assessment and intervention. Based on the recently developed Narrative Crisis Model of Suicide (NCM; Galynker, 2017; Bloch-Elkouby et al., 2020; 2023;2024), and the principles of the empirically supported Alliance-Focused Training (AFT; Eubanks et al., 2015; Muran & Eubanks, 2020), this approach promotes a collaborative and de-stigmatizing insight- and self-compassion-oriented framework to talk about suicide, where patients and clinicians work together to co-create an individualized model of patients’ Narrative-Crisis stages while addressing and resolving ruptures in the alliance in real-time.
+
+[Relevant Publications](https://drive.google.com/drive/folders/1XocU8-tzKFm_dpW2XlO0pimhTUOcCQZu?usp=sharing)
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/ai_pic04.jpg"
+  link=""
+  title="Development of a new approach to suicide risk assessment and intervention"
+  flip=false
+  align="left"
+  style="bare"
+  text=text
+%}
 
 <!--VHI-->
 {% capture text %}
@@ -76,23 +96,7 @@ Recent literature shows that a large proportion of patients who made suicide att
 %}
 
 
-<!--new approach-->
-{% capture text %}
-This project strives to combine new evidence-based tools in suicide prevention and psychotherapy research to develop a new and integrative approach to suicide risk assessment and intervention. Based on the recently developed Narrative Crisis Model of Suicide (NCM; Galynker, 2017), and the principles of the empirically supported Alliance-Focused Training (AFT; Eubanks et al., 2015; Muran & Eubanks, 2020), this approach promotes a collaborative and de-stigmatizing insight- and self-compassion- oriented framework, where patients and clinicians co-create an individualized model of patients’ Narrative-Crisis stages while addressing and resolving ruptures in the alliance in real-time.
 
-[Relevant Publications](https://drive.google.com/drive/folders/1XocU8-tzKFm_dpW2XlO0pimhTUOcCQZu?usp=sharing)
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/ai_pic04.jpg"
-  link=""
-  title="Development of a new approach to suicide risk assessment and intervention"
-  flip=false
-  align="left"
-  style="bare"
-  text=text
-%}
 
 
 ## Psychotherapy Research
