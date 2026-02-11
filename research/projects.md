@@ -13,7 +13,7 @@ permalink: /projects/
 
 <!--SCS-->
 {% capture text %}
-The Suicide Crisis Syndrome is a cognitive and affective suicidal mental state proposed by Galynker and colleagues as a suicide-specific diagnosis. It entails five dimensions of psychological markers indicative of imminent risk for suicidal behaviors (feeling entrapped, affective disturbances, loss of cognitive control, hyperarousal, and social withdrawal). To account for patients’ well-documented non-disclosure of suicidal ideation, the Suicide Crisis Syndrome does not include patient-reported suicidal ideation. 
+The Suicide Crisis Syndrome is a cognitive and affective suicidal mental state proposed by Galynker and colleagues as a suicide-specific diagnosis. It entails five dimensions of psychological markers indicative of imminent risk for suicidal behaviors (feeling entrapped, affective disturbances, loss of cognitive control, hyperarousal, and social withdrawal), which often precede suicidal behaviors. To account for patients’ well-documented non-disclosure of suicidal ideation, the Suicide Crisis Syndrome does not include patient-reported suicidal ideation. 
 In collaboration with the Galynker Suicide Prevention and Research Lab, the Bloch-Elkouby Lab is working on the validation and cultural adaptation of several self-report and clinician-rated measures to further the field's understanding of suicidal crises and to enhance risk detection across cultures.
 
 
