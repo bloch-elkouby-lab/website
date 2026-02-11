@@ -89,7 +89,7 @@ permalink: /news/
 {% include section.html %}
 
   {% capture text %}
-  Between November 8th and 11th, 2025, Dr. Sarah Bloch-Elkouby chaired the symposium at the IASR/AFSP International Summit on Suicide Research in Boston, Massachusetts. This global summit aims to unite leading researchers in suicide prevention and foster innovative, interdisciplinary collaborations.
+  Between November 8th and 11th, 2025, Dr. Sarah Bloch-Elkouby chaired a symposium at the IASR/AFSP International Summit on Suicide Research in Boston, Massachusetts. This global summit aims to unite leading researchers in suicide prevention and foster innovative, interdisciplinary collaborations.
   {% endcapture %}
 
   {%
