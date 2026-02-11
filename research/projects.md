@@ -15,7 +15,7 @@ permalink: /projects/
 </p>
 
 
-## Research on a proposed suicide-specific diagnosis: the suicide crisis syndrome
+## Research on the suicide crisis syndrome
 
 <!--SCS-->
 {% capture text %}
