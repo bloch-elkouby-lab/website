@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:41655855
+  title: 'The clinician rated suicide crisis syndrome checklist (SCS-C): Structure,
+    reliability, and concurrent validity among adult psychiatric inpatients.'
+  authors:
+  - Sarah Bloch-Elkouby
+  - Rawad El-Hayek
+  - Lisa Cohen
+  - Jimmy Pengyu Chen
+  - Bernard Gorman
+  - Yael Apter
+  - Erin Wheeler
+  - Byounyoung Park
+  - Anna Stefania Prekas
+  - Igor Galynker
+  publisher: Journal of affective disorders
+  date: '2026-02-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41655855
+  term: Bloch-Elkouby, S[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:41420906
   title: Can training clinicians in emotional awareness using virtual patient interactions
     improve the therapeutic alliance with psychiatric outpatients and reduce suicidal
