@@ -18,7 +18,6 @@ permalink: /news/
 {% include search-info.html %}
 
 
-
 ## 2026
 <!--Feburary 2026-->
 
@@ -41,9 +40,9 @@ permalink: /news/
   align="left"
   style="bare"
 %}
-{% include section.html %}
 
-{% include section.html %}
+
+
 
   {% capture text %}
   Congratulations and welcome to the new RAs who have joined the lab: **Hanyu Zhang** and **Avraham Frohlich**! We’re excited to have you on board and look forward to achieving great things together!
@@ -60,10 +59,9 @@ permalink: /news/
   align="left"
   style="bare"
 %}
-{% include section.html %}
 
 
-{% include section.html %}
+
 
   {% capture text %}
   Congratulations to our research assistant **Angel Wei** on submitting a grant proposal, titled: <i>Learning from Clinicians’ Experiences: Clinicians’ Self-Confidence, Competency, and Experience of the Therapeutic Alliance with High-Risk Patients</i> to the International Honor Society in Psychology Graduate Research Grants! Wishing you the best of luck with the review process.
