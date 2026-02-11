@@ -97,8 +97,22 @@ Recent literature shows that a large proportion of patients who made suicide att
 
 
 
-## Psychotherapy Research
+## Implementing measurement-based care in community mental health settings
+{% capture text %}
+In collaboration with the Interpersonal Reconstructive Therapy Lab, Psychodynamic Process and Trauma Narrative Research Lab, Depression, Personality Pathology, and Regulation of Emotiion in Later Life Lab(DP-RELATE), and the faculty of the Clinical PsyD program at Ferkauf, as well as The Max and Celia Parnes Family Psychological and Psychoeducational Services Clinic, the Bloch-Elkouby Lab has recently launched a new measurement-base care program to enhance routine process and outcome monitoring in the course of psychotherapy. Patients and therapists complete baseline, weekly, monthly, and semester-based measures aimed at helping patients and therapists enhance their collaborative work and achieve patients’ desired outcomes. 
+{% endcapture %}
 
+{%
+  include feature.html
+  image="images/ai_pic07.jpg"
+  link=""
+  flip=true
+  align="left"
+  style="bare"
+  text=text
+%}
+
+## Understanding treatment deterioration and patient-therapist interpersonal dynamics
 <!--interpersonal dynamics-->
 {% capture text %}
 To understand why some patients experience worsening symptoms or no improvement after undergoing therapy, our research delves into the interpersonal dynamics and the quality of the therapeutic alliance in therapy dyads using mixed-methods analyses. Aiming to uncover the underlying factors contributing to adverse therapy outcomes, this project is crucial for improving therapeutic techniques and strategies, ultimately enhancing their effectiveness and patient well-being.
@@ -111,16 +125,16 @@ To understand why some patients experience worsening symptoms or no improvement 
   include feature.html
   image="images/ai_pic05.jpg"
   link=""
-  title="Understanding treatment deterioration and patient-therapist interpersonal dynamics"
   flip=true
   align="left"
   style="bare"
   text=text
 %}
 
+## Exploring alliance ruptures, resolutions, and microaggressions among cross-cultural and white dyads
 <!--alliance-->
 {% capture text %}
-Although recent research suggests that patients self-identifying as BIPOC underutilize treatment and terminate treatment prematurely, there is a paucity of research investigating the interpersonal dynamics at play within cross-cultural therapy dyads.  This project strives to deepen the field’s understanding of the interpersonal dynamics in cross-cultural dyads, identify obstacles to developing a strong therapeutic alliance, explore ethno-racial microaggressions, and assess their impact on therapy processes and outcomes.
+Although recent research suggests that patients who self-identify as BIPOC underutilize treatment and terminate treatment prematurely, there is a paucity of research investigating the interpersonal dynamics within cross-cultural therapy dyads. This project strives to deepen the field’s understanding of these dynamics, identify obstacles to developing a strong therapeutic alliance, explore ethnoracial microaggressions, and assess their impact on therapy processes and outcomes. To further this aim, the Bloch-Elkouby Lab is developing an observer-based coding scheme to identify ethnoracial microaggressions enacted by patients or therapists during therapy.
 
 [Relevant Publications](https://drive.google.com/drive/folders/1FKZDdcrS8igKE7iFfULvqMeLoV7h1zJ2?usp=sharing)
 
@@ -130,7 +144,6 @@ Although recent research suggests that patients self-identifying as BIPOC underu
   include feature.html
   image="images/ai_pic06.png"
   link=""
-  title="Exploring alliance ruptures, resolutions, and microaggressions among cross-cultural and white dyads"
   flip=false
   align="left"
   style="bare"
@@ -138,21 +151,7 @@ Although recent research suggests that patients self-identifying as BIPOC underu
 %}
 
 
-<!--observer coding-->
-{% capture text %}
-This project aims to establish an observer-based coding scheme to identify ethnoracial racial microaggressions performed by patients or therapists in therapy, providing valuable insights for training and enhancing therapeutic practices.
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/ai_pic07.jpg"
-  link=""
-  title="Development of an observer-based measure of ethnoracial microaggressions"
-  flip=true
-  align="left"
-  style="bare"
-  text=text
-%}
 
 <!--
 {% capture text %}
