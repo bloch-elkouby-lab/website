@@ -11,6 +11,7 @@ permalink: /projects/
 
 ## Understanding and detecting suicide risk 
 
+<!--SCS-->
 {% capture text %}
 The Suicide Crisis Syndrome is a cognitive and affective suicidal mental state proposed by Galynker and colleagues as a suicide-specific diagnosis. It entails five dimensions of psychological markers indicative of imminent risk for suicidal behaviors (feeling entrapped, affective disturbances, loss of cognitive control, hyperarousal, and social withdrawal). To account for patients’ well-documented non-disclosure of suicidal ideation, the Suicide Crisis Syndrome does not include patient-reported suicidal ideation. 
 In light of the growing body supporting the predictive validity of the Suicide Crisis Syndrome, this project strives to further our understanding of the field’s ability to use it to enhance risk prediction and prevention across cultures and age groups.
@@ -32,6 +33,7 @@ In light of the growing body supporting the predictive validity of the Suicide C
 %}
 
 
+<!--VHI-->
 {% capture text %}
 In recent years, there has been a worrying increase in child and adolescent suicide rates, particularly among individuals with marginalized ethno-racial and gender identities. Funded by the American Foundation for Suicide Prevention Young Investigator grant, this project evaluates the effectiveness of a novel AI-powered clinician training tool, the Virtual Human Interactions (VHI), to enhance clinical training in the assessment of imminent suicidal risk among diverse adolescent populations. 
 
@@ -45,7 +47,7 @@ In recent years, there has been a worrying increase in child and adolescent suic
 {%
   include feature.html
   image="images/ai_pic01.jpg"
-  title="Enhancing Suicide Risk Assessment Among Diverse Adolescents Using Virtual Human Interactions"
+  title="Enhancing suicide risk assessment among diverse adolescents using virtual human interactions"
   flip=true
   align="left"
   style="bare"
@@ -104,7 +106,7 @@ To understand why some patients experience worsening symptoms or no improvement 
   include feature.html
   image="images/ai_pic05.jpg"
   link=""
-  title="Understanding Treatment Deterioration and Patient-Therapist Interpersonal Dynamics"
+  title="Understanding treatment deterioration and patient-therapist interpersonal dynamics"
   flip=true
   align="left"
   style="bare"
@@ -123,7 +125,7 @@ Although recent research suggests that patients self-identifying as BIPOC underu
   include feature.html
   image="images/ai_pic06.png"
   link=""
-  title="Exploring Alliance Ruptures, Resolutions, and Microaggressions Among Cross-Cultural and White Dyads"
+  title="Exploring alliance ruptures, resolutions, and microaggressions among cross-cultural and white dyads"
   flip=false
   align="left"
   style="bare"
