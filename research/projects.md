@@ -48,7 +48,7 @@ This project strives to combine new evidence-based tools in suicide prevention a
   include feature.html
   image="images/ai_pic04.jpg"
   link=""
-  title="Development of a new approach to suicide risk assessment and intervention"
+  title="Development of a new approach to suicide risk assessment and management"
   flip=false
   align="left"
   style="bare"
