@@ -9,7 +9,7 @@ Our lab was established in 2021, with a grant-funded research program that focus
 
 
 
-**Suicide prevention:** We are committed to developing effective approaches to recognize and address imminent risk for suicidal behaviors;
+**Suicide prevention:** We are committed to developing effective approaches to understand, recognize, and address imminent risk for suicidal behaviors;
 
 **Psychotherapy process and outcome research:** We explore the interpersonal dynamics and cultural factors that impact the work between therapists and patients; 
 
