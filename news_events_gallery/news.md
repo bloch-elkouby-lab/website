@@ -264,7 +264,6 @@ permalink: /news/
 {% include section.html %}
 
 
-## Previous News
 
 {% include section.html %}
 
