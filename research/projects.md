@@ -9,6 +9,8 @@ permalink: /projects/
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
+**At the heart of our lab’s mission is the integration of suicide prevention and psychotherapy research. Our work brings together the conceptual frameworks, research methods, and insights of both fields, leveraging their cross-fertilization to generate impactful and clinically meaningful findings.**
+
 ## Understanding and detecting suicide risk 
 
 <!--SCS-->
