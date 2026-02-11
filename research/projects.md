@@ -9,7 +9,7 @@ permalink: /projects/
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-## Understanding and Detecting Suicide Risks 
+## Understanding and detecting suicide risk 
 
 {% capture text %}
 The Suicide Crisis Syndrome is a cognitive and affective suicidal mental state proposed by Galynker and colleagues as a suicide-specific diagnosis. It entails five dimensions of psychological markers indicative of imminent risk for suicidal behaviors (feeling entrapped, affective disturbances, loss of cognitive control, hyperarousal, and social withdrawal). To account for patients’ well-documented non-disclosure of suicidal ideation, the Suicide Crisis Syndrome does not include patient-reported suicidal ideation. 
@@ -24,7 +24,7 @@ In light of the growing body supporting the predictive validity of the Suicide C
   include feature.html
   image="images/ai_pic03.jpg"
   link=""
-  title="Research on a proposed suicide-specific diagnosis - The Suicide Crisis Syndrome"
+  title="Research on a proposed suicide-specific diagnosis: the suicide crisis syndrome"
   flip=true
   align="left"
   style="bare"
