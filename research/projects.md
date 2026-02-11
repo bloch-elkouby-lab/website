@@ -10,7 +10,7 @@ permalink: /projects/
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 
-<p style="font-size: 18px; color: black; font-weight: bold;">
+<p style="font-size: 18px; color: black;">
   At the heart of our lab’s mission is the integration of suicide prevention and psychotherapy research. Our work brings together the conceptual frameworks, research methods, and insights of both fields, leveraging their cross-fertilization to generate impactful and clinically meaningful findings.
 </p>
 
