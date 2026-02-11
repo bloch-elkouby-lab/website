@@ -6,7 +6,7 @@ nav:
 permalink: /publications/
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Research Publications 
 
 <nav style="background-color: #ebf5fb ; overflow: hidden;">
   <a href="#In Press" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">In Press</a>
