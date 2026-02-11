@@ -66,7 +66,7 @@ Recent literature shows that a large proportion of patients who made suicide att
   include feature.html
   image="images/ai_pic02.jpg"
   link=""
-  title="Research on patients' non-disclosure of suicidal ideation"
+  title="Research on patients' disclosure and concealment of suicidal ideation"
   flip=false
   align="left"
   style="bare"
