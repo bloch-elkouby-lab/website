@@ -15,7 +15,7 @@ permalink: /projects/
 </p>
 
 
-## Understanding and detecting suicide risk 
+## Research on a proposed suicide-specific diagnosis: the suicide crisis syndrome
 
 <!--SCS-->
 {% capture text %}
@@ -30,7 +30,6 @@ The Suicide Crisis Syndrome (SCS) is a cognitive and affective suicidal mental s
   include feature.html
   image="images/ai_pic03.jpg"
   link=""
-  title="Research on a proposed suicide-specific diagnosis: the suicide crisis syndrome"
   flip=true
   align="left"
   style="bare"
