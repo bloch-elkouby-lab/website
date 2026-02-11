@@ -31,6 +31,7 @@ In light of the growing body supporting the predictive validity of the Suicide C
   text=text
 %}
 
+
 {% capture text %}
 In recent years, there has been a worrying increase in child and adolescent suicide rates, particularly among individuals with marginalized ethno-racial and gender identities. Funded by the American Foundation for Suicide Prevention Young Investigator grant, this project evaluates the effectiveness of a novel AI-powered clinician training tool, the Virtual Human Interactions (VHI), to enhance clinical training in the assessment of imminent suicidal risk among diverse adolescent populations. 
 
@@ -47,21 +48,6 @@ In recent years, there has been a worrying increase in child and adolescent suic
   title="Enhancing Suicide Risk Assessment Among Diverse Adolescents Using Virtual Human Interactions"
   flip=true
   align="left"
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/noah-introduction-page.png"
-  title="Clinical Interviewing Pilot"
-  flip=true
-  align="right"
   style="bare"
   text=text
 %}
@@ -104,24 +90,6 @@ This project strives to combine new evidence-based tools in suicide prevention a
   text=text
 %}
 
-<!-- {% capture text %}
-This project aims to capture fluctuations in suicidal ideation using high-frequency ecological momentary assessment (EMA) data. The goals include defining key constructs and time windows for EMA measurement, identifying potential moderator variables such as stress, affect, and social contact, and beginning initial modeling of fluctuation patterns and their relationships with clinical outcomes.
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/observer.jpg"
-  link=""
-  title="EMA Study"
-  flip=true
-  align="left"
-  style="bare"
-  text=text
-%}
-
-
-{% include section.html %}-->
 
 ## Psychotherapy Research
 
