@@ -36,6 +36,7 @@ The Suicide Crisis Syndrome (SCS) is a cognitive and affective suicidal mental s
   text=text
 %}
 
+## Development of a new approach to suicide risk assessment and management
 <!--new approach-->
 {% capture text %}
 This project strives to combine new evidence-based tools in suicide prevention and psychotherapy research to develop a new and integrative approach to suicide risk assessment and intervention. Based on the recently developed Narrative Crisis Model of Suicide (NCM; Galynker, 2017; Bloch-Elkouby et al., 2020; 2023;2024), and the principles of the empirically supported Alliance-Focused Training (AFT; Bloch-Elkouby & Barzilay, 2022; Eubanks et al., 2015; Muran & Eubanks, 2020), this approach promotes a collaborative and de-stigmatizing insight- and self-compassion-oriented framework to talk about suicide, where patients and clinicians work together to co-create an individualized model of patients’ Narrative-Crisis stages while addressing and resolving ruptures in the alliance in real-time.
@@ -47,13 +48,13 @@ This project strives to combine new evidence-based tools in suicide prevention a
   include feature.html
   image="images/ai_pic04.jpg"
   link=""
-  title="Development of a new approach to suicide risk assessment and management"
   flip=false
   align="left"
   style="bare"
   text=text
 %}
 
+## Enhancing suicide risk assessment among diverse adolescents using virtual human interactions
 <!--VHI-->
 {% capture text %}
 In recent years, there has been a worrying increase in child and adolescent suicide rates, particularly among individuals with marginalized ethno-racial and gender identities. Funded by the American Foundation for Suicide Prevention Young Investigator grant, this project evaluates the effectiveness of a novel AI-powered clinician training tool, the Virtual Human Interactions (VHI), to enhance clinical training in the assessment of imminent suicidal risk among diverse adolescent populations. 
@@ -68,14 +69,13 @@ In recent years, there has been a worrying increase in child and adolescent suic
 {%
   include feature.html
   image="images/ai_pic01.jpg"
-  title="Enhancing suicide risk assessment among diverse adolescents using virtual human interactions"
   flip=true
   align="left"
   style="bare"
   text=text
 %}
 
-
+## Research on patients' disclosure and concealment of suicidal ideation
 <!--Non-disclosure-->
 {% capture text %}
 Recent literature shows that a large proportion of patients who made suicide attempts or even died by suicide denied suicidal ideation when inquired by their mental health provider shortly before their attempt or death. In the absence of patient-disclosure, engaging a patient in a collaborative and effective suicide-specific intervention is impossible. Accordingly, this project strives to understand patient, therapist, and patient-therapist interactional factors that impact patients’ decision to disclose suicidal ideation to their providers or to conceal it from them.
@@ -87,7 +87,6 @@ Recent literature shows that a large proportion of patients who made suicide att
   include feature.html
   image="images/ai_pic02.jpg"
   link=""
-  title="Research on patients' disclosure and concealment of suicidal ideation"
   flip=false
   align="left"
   style="bare"
