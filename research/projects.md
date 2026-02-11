@@ -99,7 +99,7 @@ Recent literature shows that a large proportion of patients who made suicide att
 
 ## Implementing measurement-based care in community mental health settings
 {% capture text %}
-In collaboration with the Interpersonal Reconstructive Therapy Lab, Psychodynamic Process and Trauma Narrative Research Lab, Depression, Personality Pathology, and Regulation of Emotiion in Later Life Lab(DP-RELATE), and the faculty of the Clinical PsyD program at Ferkauf, as well as The Max and Celia Parnes Family Psychological and Psychoeducational Services Clinic, the Bloch-Elkouby Lab has recently launched a new measurement-base care program to enhance routine process and outcome monitoring in the course of psychotherapy. Patients and therapists complete baseline, weekly, monthly, and semester-based measures aimed at helping patients and therapists enhance their collaborative work and achieve patients’ desired outcomes. 
+In collaboration with the Interpersonal Reconstructive Therapy Lab, the Psychodynamic Process and Trauma Narrative Research Lab, the Depression, Personality Pathology, and Regulation of Emotion in Later Life Lab (DP-RELATE), the faculty of the Clinical PsyD program at Ferkauf, and the Max and Celia Parnes Family Psychological and Psychoeducational Services Clinic, the Bloch-Elkouby Lab has recently launched a new measurement-based care program to enhance routine process and outcome monitoring in psychotherapy. Patients and therapists complete baseline, weekly, monthly, and semester-based measures designed to support their collaborative work and help patients achieve their desired outcomes.
 {% endcapture %}
 
 {%
