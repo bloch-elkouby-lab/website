@@ -9,7 +9,27 @@ permalink: /projects/
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-## Suicide Prevention Research
+## Understanding and Detecting Suicide Risks 
+
+{% capture text %}
+The Suicide Crisis Syndrome is a cognitive and affective suicidal mental state proposed by Galynker and colleagues as a suicide-specific diagnosis. It entails five dimensions of psychological markers indicative of imminent risk for suicidal behaviors (feeling entrapped, affective disturbances, loss of cognitive control, hyperarousal, and social withdrawal). To account for patients’ well-documented non-disclosure of suicidal ideation, the Suicide Crisis Syndrome does not include patient-reported suicidal ideation. 
+In light of the growing body supporting the predictive validity of the Suicide Crisis Syndrome, this project strives to further our understanding of the field’s ability to use it to enhance risk prediction and prevention across cultures and age groups.
+
+
+[Relevant Publications](https://drive.google.com/drive/folders/1MUPw_8Y2LpuQSO04VkMXjLaQ3zIawBWt?usp=sharing)
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/ai_pic03.jpg"
+  link=""
+  title="Research on a proposed suicide-specific diagnosis - The Suicide Crisis Syndrome"
+  flip=true
+  align="left"
+  style="bare"
+  text=text
+%}
 
 {% capture text %}
 In recent years, there has been a worrying increase in child and adolescent suicide rates, particularly among individuals with marginalized ethno-racial and gender identities. Funded by the American Foundation for Suicide Prevention Young Investigator grant, this project evaluates the effectiveness of a novel AI-powered clinician training tool, the Virtual Human Interactions (VHI), to enhance clinical training in the assessment of imminent suicidal risk among diverse adolescent populations. 
@@ -60,27 +80,6 @@ Recent literature shows that a large proportion of patients who made suicide att
   link=""
   title="Research on patients' non-disclosure of suicidal ideation"
   flip=false
-  align="left"
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-The Suicide Crisis Syndrome is a cognitive and affective suicidal mental state proposed by Galynker and colleagues as a suicide-specific diagnosis. It entails five dimensions of psychological markers indicative of imminent risk for suicidal behaviors (feeling entrapped, affective disturbances, loss of cognitive control, hyperarousal, and social withdrawal). To account for patients’ well-documented non-disclosure of suicidal ideation, the Suicide Crisis Syndrome does not include patient-reported suicidal ideation. 
-In light of the growing body supporting the predictive validity of the Suicide Crisis Syndrome, this project strives to further our understanding of the field’s ability to use it to enhance risk prediction and prevention across cultures and age groups.
-
-
-
-[Relevant Publications](https://drive.google.com/drive/folders/1MUPw_8Y2LpuQSO04VkMXjLaQ3zIawBWt?usp=sharing)
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/ai_pic03.jpg"
-  link=""
-  title="Research on a proposed suicide-specific diagnosis - The Suicide Crisis Syndrome"
-  flip=true
   align="left"
   style="bare"
   text=text
