@@ -532,7 +532,7 @@
   
   
 
-  <section class="background" data-size="page">
+  <section class="background" data-size="18px">
     <h1 id="gallery">Gallery</h1>
 
 <div class="gallery-picture" data-style="">
@@ -557,27 +557,90 @@
   </div>
 </div>
 
-<div class="gallery-picture" data-style="">
-  <img src="/website/news_events_gallery/gallery_images/2025%20Lausanne%20Conference.jpg" loading="lazy" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+<div>
+  
 
-  <div class="gallery-caption">
-    
-        2025 Lausanne Conference
-    
+  <div class="feature">
+    <div class="feature-image" id="carousel" style="position: relative;">
+      
+      
+        <img class="carousel-slide" src="/website/news_events_gallery/gallery_images/2025%20Lausanne%20Conference.jpg;%20news_events_gallery/gallery_images/2025%20Lausanne%20Conference2.jpg" loading="lazy" alt="SPR image 1" style="width: 100%; display: none; border-radius: 6px;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+      
 
+      <button class="carousel-button prev" onclick="plusSlides('carousel', -1)">❮</button>
+      <button class="carousel-button next" onclick="plusSlides('carousel', 1)">❯</button>
+    </div>
+
+    <div class="feature-text">
+      
+
+    </div>
   </div>
 </div>
 
-<div class="gallery-picture" data-style="">
-  <img src="/website/news_events_gallery/gallery_images/2025%20Lausanne%20Conference2.jpg" loading="lazy" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+<style>
+.carousel-button {
+  position: absolute;
+  top: 50%;
+  background-color: rgba(0,0,0,0.4);
+  color: white;
+  border: none;
+  padding: 10px 14px;
+  font-size: 18px;
+  cursor: pointer;
+  transform: translateY(-50%);
+  border-radius: 4px;
+  z-index: 2;
+}
+.carousel-button:hover {
+  background-color: rgba(0,0,0,0.6);
+}
+.carousel-button.prev {
+  left: 10px;
+}
+.carousel-button.next {
+  right: 10px;
+}
+</style>
 
-  <div class="gallery-caption">
-    
-        2025 Lausanne Conference
-    
+<script>
+window.carouselState = window.carouselState || {};
 
-  </div>
-</div>
+function showSlides(id, n) {
+  const container = document.getElementById(id);
+  if (!container) return;
+
+  const slides = container.querySelectorAll(".carousel-slide");
+  if (!slides.length) return;
+
+  if (!(id in window.carouselState)) window.carouselState[id] = 0;
+
+  const total = slides.length;
+  const index = (n + total) % total;
+
+  slides.forEach((slide, i) => {
+    slide.style.display = (i === index) ? "block" : "none";
+  });
+
+  window.carouselState[id] = index;
+}
+
+function plusSlides(id, delta) {
+  const current = window.carouselState[id] ?? 0;
+  showSlides(id, current + delta);
+}
+
+function initCarousels() {
+  const allCarousels = document.querySelectorAll("[id^='carousel-']");
+  allCarousels.forEach(el => showSlides(el.id, 0));
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initCarousels);
+} else {
+  initCarousels();
+}
+</script>
 
 <div class="gallery-picture" data-style="">
   <img src="/website/news_events_gallery/new_images/IASR5.jpeg" loading="lazy" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
