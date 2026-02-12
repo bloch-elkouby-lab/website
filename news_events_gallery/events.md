@@ -10,7 +10,7 @@ permalink: /events/
 
 # Upcoming Events
 
-**NASPR 2026 Conference**  
+## NASPR 2026 Conference
 
 We are trilled to announce that the Ferkauf Graduate School of Psychology at Yeshiva University will host the 2026 <a href="https://sites.google.com/view/naspr-2026-conference/home">North American Chapter of the Society for Psychotherapy Research Conference</a>, with **Dr. Sarah Bloch-Elkouby** serving as the local chair. The conference will take place at the Yeshiva University Museum in the heart of Union Square.
 
@@ -29,10 +29,10 @@ Don't miss the chance to present! The submission deadline is February 13, 2026, 
 
 **Invited Lectures and Webinars**
 
-Upcoming on March 18, 2026:
+## Upcoming on March 18, 2026:
 
 Dr. Bloch-Elkouby will present a webinar hosted by the Society for Psychotherapy Research (SPR) titled "Breaking Silos: Why Suicide Prevention and Psychotherapy Research Need Each Other." For registration information, please refer to the <a href="https://www.psychotherapyresearch.org/page/SPRWebinars"> SPR webinar website</a>. 
 
-Upcoming on June 5, 2026: 
+## Upcoming on June 5, 2026: 
 
 Dr. Bloch-Elkouby will present at the Psychology Grand Rounds at Mount Sinai Medical Center in New York. Her presentation is titled "The Therapeutic Alliance as a Diagnostic and Intervention Tool with High-Risk Patients."
