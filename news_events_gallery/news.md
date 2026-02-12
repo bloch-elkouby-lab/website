@@ -108,7 +108,7 @@ permalink: /news/
   {% endcapture %}
 
   {% include feature.html
-    title="November, 2025: Conference on suicide at the University of Lausanne: "From Charybde to Scylla, suicidality in psychotherapy" "
+    title=title="November, 2025: Conference on suicide at the University of Lausanne: &quot;From Charybde to Scylla, suicidality in psychotherapy&quot;"
     text=text
     image="news_events_gallery/new_images/news-2025_keynote_speaker.jpg"
     flip=true
