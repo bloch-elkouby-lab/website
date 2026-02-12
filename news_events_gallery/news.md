@@ -102,7 +102,7 @@ permalink: /news/
 %}
 
 
-  {% capture text %}
+{% capture text %}
   In November 2025, Dr. Sarah Bloch-Elkouby was a keynote speaker at a conference in Lausanne, Switzerland, as part of ongoing international efforts to advance suicide prevention research and clinical practice.
 
   {% endcapture %}
@@ -134,6 +134,7 @@ permalink: /news/
   align="left"
   style="bare"
 %}
+
 <!--September, 2025-->
 
 
