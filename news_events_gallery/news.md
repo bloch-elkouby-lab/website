@@ -115,7 +115,7 @@ permalink: /news/
     fit=true
     align="left"
     style="bare"
-  %}
+%}
 
 <!--October, 2025-->
 
