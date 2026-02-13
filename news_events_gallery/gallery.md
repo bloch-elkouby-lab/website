@@ -18,7 +18,7 @@ permalink: /gallery/
   caption="Hotpot 2026"
 %}
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; align-items: flex-start; max-width: 1200px; margin: 0 auto;">
+<div style="display: flex; flex-wrap: wrap; width: 100%; justify-content: center;">
 
   {% include gallery-multi-picture.html 
     title="Conference on suicide at the University of Lausanne, November 2025" 

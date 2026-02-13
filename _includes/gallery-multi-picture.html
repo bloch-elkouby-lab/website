@@ -1,9 +1,9 @@
 {% assign carousel_id = 'carousel-' | append: include.title | slugify %}
 
-<div class="gallery-column-item" style="flex: 1; min-width: 450px; max-width: 100%; margin: 20px auto;">
-  <div class="gallery-picture" style="width: 100%; text-align: center;">
+<div class="gallery-column-item" style="flex: 1 1 45%; min-width: 450px; margin: 20px auto; clear: both;">
+  <div class="gallery-picture" style="width: 100% !important; max-width: 100% !important; text-align: center; display: block;">
     
-    <div id="{{ carousel_id }}" style="position: relative; overflow: hidden; border-radius: 8px; background: #f0f0f0; line-height: 0;">
+    <div id="{{ carousel_id }}" style="position: relative; overflow: hidden; border-radius: 8px; background: #f0f0f0; line-height: 0; width: 100%;">
       {% assign image_list = include.images | split: "," %}
       {% for img in image_list %}
         <img
@@ -20,58 +20,59 @@
       {% endif %}
     </div>
 
-    <div class="gallery-caption" style="text-align: center; margin-top: 15px;">
-        <p style="margin: 0; font-weight: bold; font-size: 1.2em;">{{ include.title }}</p>
+    <div class="gallery-caption" style="text-align: center; margin-top: 15px; width: 100%;">
+        <p style="margin: 0; font-weight: bold; font-size: 1.4em;">{{ include.title }}</p>
         {% if include.text %}
-          <div style="font-size: 0.95em; color: #555; margin-top: 5px;">{{ include.text | markdownify }}</div>
+          <div style="font-size: 1.1em; color: #555; margin-top: 5px;">{{ include.text | markdownify }}</div>
         {% endif %}
     </div>
   </div>
 </div>
 
 <style>
-/* Scoped styles to prevent collisions */
 #{{ carousel_id }} .carousel-btn {
   position: absolute; top: 50%; transform: translateY(-50%);
   background: rgba(0,0,0,0.5); color: white; border: none;
-  padding: 15px 10px; cursor: pointer; z-index: 10;
+  padding: 20px 15px; cursor: pointer; z-index: 10; font-size: 20px;
 }
+#{{ carousel_id }} .carousel-btn:hover { background: rgba(0,0,0,0.8); }
 .prev { left: 0; border-radius: 0 4px 4px 0; }
 .next { right: 0; border-radius: 4px 0 0 4px; }
 </style>
 
 <script>
-// Prevent re-declaration errors if the include is used twice
-if (typeof window.carouselState === 'undefined') {
-    window.carouselState = {};
-}
-
-function showSlides(id, n) {
-    var container = document.getElementById(id);
-    if (!container) return;
-    var slides = container.querySelectorAll(".carousel-slide-" + id);
-    if (slides.length === 0) return;
-
-    if (!(id in window.carouselState)) window.carouselState[id] = 0;
-    var total = slides.length;
-    var index = (n + total) % total;
-
-    for (var i = 0; i < slides.length; i++) {
-        slides[i].style.display = (i === index) ? "block" : "none";
-    }
-    window.carouselState[id] = index;
-}
-
-function plusSlides(id, delta) {
-    showSlides(id, (window.carouselState[id] || 0) + delta);
-}
-
-// Safer initialization for GitHub Dev environments
+// Use a self-executing function to isolate scope and prevent errors
 (function() {
+    if (typeof window.carouselState === 'undefined') {
+        window.carouselState = {};
+    }
+
+    // Assign functions to window so the HTML 'onclick' can find them
+    window.showSlides = window.showSlides || function(id, n) {
+        var container = document.getElementById(id);
+        if (!container) return;
+        var slides = container.querySelectorAll(".carousel-slide-" + id);
+        if (slides.length === 0) return;
+
+        if (!(id in window.carouselState)) window.carouselState[id] = 0;
+        var total = slides.length;
+        var index = (n + total) % total;
+
+        for (var i = 0; i < slides.length; i++) {
+            slides[i].style.display = (i === index) ? "block" : "none";
+        }
+        window.carouselState[id] = index;
+    };
+
+    window.plusSlides = window.plusSlides || function(id, delta) {
+        window.showSlides(id, (window.carouselState[id] || 0) + delta);
+    };
+
     var initCarousel = function() {
         var el = document.getElementById('{{ carousel_id }}');
-        if (el) showSlides('{{ carousel_id }}', 0);
+        if (el) window.showSlides('{{ carousel_id }}', 0);
     };
+
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', initCarousel);
     } else {
