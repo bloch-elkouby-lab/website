@@ -18,14 +18,18 @@ permalink: /gallery/
   caption="Hotpot 2026"
 %}
 
-{% include gallery-multi-picture.html 
-    images="news_events_gallery/gallery_images/2025 Lausanne Conference.jpg, news_events_gallery/gallery_images/2025 Lausanne Conference2.jpg" 
-    title="Conference on suicide at the University of Lausanne, November 2025" 
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  {% include gallery-multi-picture.html 
+     title="Conference on suicide at the University of Lausanne, November 2025" 
+     images="news_events_gallery/gallery_images/2025 Lausanne Conference.jpg, news_events_gallery/gallery_images/2025 Lausanne Conference2.jpg" 
   %}
 
-{% include gallery-multi-picture.html 
-    images="news_events_gallery/new_images/IASR5.jpeg, news_events_gallery/new_images/IASR4.jpeg，
+  {% include gallery-multi-picture.html 
+     title="IASR/AFSP Summit 2025" 
+     images="news_events_gallery/new_images/IASR5.jpeg, news_events_gallery/new_images/IASR4.jpeg，
     news_events_gallery/new_images/IASR3.jpeg，news_events_gallery/new_images/IASR2.jpeg，
     news_events_gallery/new_images/IASR1.jpeg" 
-    title="IASR/AFSP Summit 2025" 
   %}
+</div>
