@@ -637,80 +637,85 @@ function plusSlides(id, delta) {
 })();
 </script>
 
-<div class="gallery-picture" data-style="">
-  <img src="/website/news_events_gallery/new_images/IASR5.jpeg" loading="lazy" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+<div class="gallery-picture" data-style="" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;">
 
-  <div class="gallery-caption">
+  <div class="feature-image" id="carousel-iasr-afsp-summit-2025" style="position: relative; overflow: hidden; line-height: 0;">
     
-        IASR/AFSP Summit 2025
+    
+      <img class="carousel-slide-carousel-iasr-afsp-summit-2025" src="/website/news_events_gallery/new_images/IASR5.jpeg" loading="lazy" alt="Gallery image 1" style="width: 100%; display: none; object-fit: cover;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+    
+      <img class="carousel-slide-carousel-iasr-afsp-summit-2025" src="/website/news_events_gallery/new_images/IASR4.jpeg,%0D%0A%20%20%20%20news_events_gallery/new_images/IASR3.jpeg,news_events_gallery/new_images/IASR2.jpeg,%0D%0A%20%20%20%20news_events_gallery/new_images/IASR1.jpeg" loading="lazy" alt="Gallery image 2" style="width: 100%; display: none; object-fit: cover;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
     
 
+    
+      <button class="carousel-button prev" onclick="plusSlides('carousel-iasr-afsp-summit-2025', -1)" aria-label="Previous">❮</button>
+      <button class="carousel-button next" onclick="plusSlides('carousel-iasr-afsp-summit-2025', 1)" aria-label="Next">❯</button>
+    
+  </div>
+
+  <div class="gallery-caption" style="text-align: center; width: 100%; margin-top: 10px; display: block;">
+    
+        <p style="margin: 0; font-weight: bold;">IASR/AFSP Summit 2025</p>
+    
   </div>
 </div>
 
-<div class="gallery-picture" data-style="">
-  <img src="/website/news_events_gallery/new_images/IASR4.jpeg" loading="lazy" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+<style>
+/* Scoped styles to match your existing gallery buttons */
+#carousel-iasr-afsp-summit-2025 .carousel-button {
+  position: absolute;
+  top: 50%;
+  background-color: rgba(0,0,0,0.3);
+  color: white;
+  border: none;
+  padding: 8px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transform: translateY(-50%);
+  z-index: 2;
+  transition: opacity 0.2s;
+}
+#carousel-iasr-afsp-summit-2025 .carousel-button:hover {
+  background-color: rgba(0,0,0,0.6);
+}
+.carousel-button.prev { left: 0; border-radius: 0 4px 4px 0; }
+.carousel-button.next { right: 0; border-radius: 4px 0 0 4px; }
+</style>
 
-  <div class="gallery-caption">
-    
-        IASR/AFSP Summit 2025
-    
+<script>
+window.carouselState = window.carouselState || {};
 
-  </div>
-</div>
+function showSlides(id, n) {
+  const container = document.getElementById(id);
+  if (!container) return;
+  const slides = container.querySelectorAll(".carousel-slide-" + id);
+  if (!slides.length) return;
+  if (!(id in window.carouselState)) window.carouselState[id] = 0;
+  const total = slides.length;
+  const index = (n + total) % total;
+  slides.forEach((slide, i) => {
+    slide.style.display = (i === index) ? "block" : "none";
+  });
+  window.carouselState[id] = index;
+}
 
-<div class="gallery-picture" data-style="">
-  <img src="/website/news_events_gallery/new_images/IASR3.jpeg" loading="lazy" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+function plusSlides(id, delta) {
+  showSlides(id, (window.carouselState[id] ?? 0) + delta);
+}
 
-  <div class="gallery-caption">
-    
-        IASR/AFSP Summit 2025
-    
-
-  </div>
-</div>
-
-<div class="gallery-picture" data-style="">
-  <img src="/website/news_events_gallery/new_images/IASR2.jpeg" loading="lazy" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
-
-  <div class="gallery-caption">
-    
-        IASR/AFSP Summit 2025
-    
-
-  </div>
-</div>
-
-<div class="gallery-picture" data-style="">
-  <img src="/website/news_events_gallery/new_images/IASR1.jpeg" loading="lazy" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
-
-  <div class="gallery-caption">
-    
-        IASR/AFSP Summit 2025
-    
-
-  </div>
-</div>
-
-<!--
-
-<div class="gallery-picture" data-style="">
-  <img
-      src="/website/news_events_gallery/gallery_images/2026.01.06-Hotpot.jpg"
-      loading="lazy"
-      onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;"
-
-  >
-
-  <div class="gallery-caption">
-    
-        Hotpot 2026
-    
-
-  </div>
-</div>
-
--->
+// Ensure first slide shows immediately
+(function() {
+  const init = () => {
+    const el = document.getElementById('carousel-iasr-afsp-summit-2025');
+    if (el) showSlides('carousel-iasr-afsp-summit-2025', 0);
+  };
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
   </section>
 
 
