@@ -1,55 +1,58 @@
 {% assign carousel_id = 'carousel-' | append: include.title | slugify %}
 
-<div class="gallery-picture" data-style="{{ include.style }}" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;">
+<div class="gallery-column-item" style="flex: 1; min-width: 300px; max-width: 500px; margin: 10px;">
+  <div class="gallery-picture" style="width: 100%; text-align: center;">
+    
+    <div id="{{ carousel_id }}" style="position: relative; overflow: hidden; border-radius: 8px; background: #f0f0f0; line-height: 0;">
+      {% assign image_list = include.images | split: "," %}
+      {% for img in image_list %}
+        <img
+          class="carousel-slide-{{ carousel_id }}"
+          src="{{ img | strip | relative_url }}"
+          loading="lazy"
+          style="width: 100%; aspect-ratio: 4/3; object-fit: cover; display: none;"
+          {% include fallback.html %}
+        >
+      {% endfor %}
 
-  <div class="feature-image" id="{{ carousel_id }}">
-  {% for img_path in image_list %}
-    <img
-      class="carousel-slide-{{ carousel_id }}"
-      src="{{ img_path | strip | relative_url }}"
-      style="width: 100%; aspect-ratio: 4/3; object-fit: cover; display: {% if forloop.first %}block{% else %}none{% endif %};"
-    >
-  {% endfor %}
+      {% if image_list.size > 1 %}
+        <button class="carousel-btn prev" onclick="plusSlides('{{ carousel_id }}', -1)">&#10094;</button>
+        <button class="carousel-btn next" onclick="plusSlides('{{ carousel_id }}', 1)">&#10095;</button>
+      {% endif %}
     </div>
 
-    {% if image_list.size > 1 %}
-      <button class="carousel-button prev" onclick="plusSlides('{{ carousel_id }}', -1)" aria-label="Previous">&#10094;</button>
-      <button class="carousel-button next" onclick="plusSlides('{{ carousel_id }}', 1)" aria-label="Next">&#10095;</button>
-    {% endif %}
-  </div>
-
-  <div class="gallery-caption" style="text-align: center; width: 100%; margin-top: 10px; display: block;">
-    {% if include.caption %}
-        {{ include.caption | markdownify }}
-    {% elsif include.title %}
-        <p style="margin: 0; font-weight: bold;">{{ include.title }}</p>
-    {% endif %}
+    <div class="gallery-caption" style="text-align: center; margin-top: 12px; width: 100%;">
+        <p style="margin: 0; font-weight: bold; font-size: 1.1em; color: #333;">{{ include.title }}</p>
+        {% if include.text %}
+          <div style="font-size: 0.9em; color: #666; margin-top: 5px; line-height: 1.4;">
+            {{ include.text | markdownify }}
+          </div>
+        {% endif %}
+    </div>
   </div>
 </div>
 
 <style>
-/* Scoped styles to match your existing gallery buttons */
-#{{ carousel_id }} .carousel-button {
+/* Scoped Styles for Carousel */
+#{{ carousel_id }} .carousel-btn {
   position: absolute;
   top: 50%;
-  background-color: rgba(0,0,0,0.3);
+  transform: translateY(-50%);
+  background: rgba(0,0,0,0.4);
   color: white;
   border: none;
-  padding: 8px 10px;
-  font-size: 16px;
+  padding: 12px 10px;
   cursor: pointer;
-  transform: translateY(-50%);
-  z-index: 2;
-  transition: opacity 0.2s;
+  z-index: 5;
+  transition: 0.3s;
 }
-#{{ carousel_id }} .carousel-button:hover {
-  background-color: rgba(0,0,0,0.6);
-}
-.carousel-button.prev { left: 0; border-radius: 0 4px 4px 0; }
-.carousel-button.next { right: 0; border-radius: 4px 0 0 4px; }
+#{{ carousel_id }} .carousel-btn:hover { background: rgba(0,0,0,0.7); }
+.prev { left: 0; border-radius: 0 4px 4px 0; }
+.next { right: 0; border-radius: 4px 0 0 4px; }
 </style>
 
 <script>
+// Logic to handle multiple carousels on one page
 window.carouselState = window.carouselState || {};
 
 function showSlides(id, n) {
@@ -57,9 +60,11 @@ function showSlides(id, n) {
   if (!container) return;
   const slides = container.querySelectorAll(".carousel-slide-" + id);
   if (!slides.length) return;
+
   if (!(id in window.carouselState)) window.carouselState[id] = 0;
   const total = slides.length;
   const index = (n + total) % total;
+
   slides.forEach((slide, i) => {
     slide.style.display = (i === index) ? "block" : "none";
   });
@@ -67,15 +72,12 @@ function showSlides(id, n) {
 }
 
 function plusSlides(id, delta) {
-  showSlides(id, (window.carouselState[id] ?? 0) + delta);
+  showSlides(id, (window.carouselState[id] || 0) + delta);
 }
 
-// Ensure first slide shows immediately
+// Auto-initialize when page loads
 (function() {
-  const init = () => {
-    const el = document.getElementById('{{ carousel_id }}');
-    if (el) showSlides('{{ carousel_id }}', 0);
-  };
+  const init = () => { showSlides('{{ carousel_id }}', 0); };
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
   } else {
