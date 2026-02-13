@@ -27,8 +27,7 @@ permalink: /gallery/
 
   {% include gallery-multi-picture.html 
     title="IASR/AFSP Summit 2025" 
-    images="news_events_gallery/new_images/IASR5.jpeg, news_events_gallery/new_images/IASR4.jpeg，
-    news_events_gallery/new_images/IASR3.jpeg，news_events_gallery/new_images/IASR2.jpeg，
+    images="news_events_gallery/new_images/IASR5.jpeg, news_events_gallery/new_images/IASR4.jpeg,news_events_gallery/new_images/IASR3.jpeg，news_events_gallery/new_images/IASR2.jpeg，
     news_events_gallery/new_images/IASR1.jpeg" 
   %}
 </div>
