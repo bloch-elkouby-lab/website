@@ -23,37 +23,9 @@ permalink: /gallery/
     title="Conference on suicide at the University of Lausanne, November 2025" 
   %}
 
-
-{% include gallery-picture.html
-  image="news_events_gallery/new_images/IASR5.jpeg"
-  caption="IASR/AFSP Summit 2025"
-%}
-
-{% include gallery-picture.html
-  image="news_events_gallery/new_images/IASR4.jpeg"
-  caption="IASR/AFSP Summit 2025"
-%}
-
-{% include gallery-picture.html
-  image="news_events_gallery/new_images/IASR3.jpeg"
-  caption="IASR/AFSP Summit 2025"
-%}
-
-{% include gallery-picture.html
-  image="news_events_gallery/new_images/IASR2.jpeg"
-  caption="IASR/AFSP Summit 2025"
-%}
-
-{% include gallery-picture.html
-  image="news_events_gallery/new_images/IASR1.jpeg"
-  caption="IASR/AFSP Summit 2025"
-%}
-
-
-
-<!--
-{% include gallery-picture.html
-  image="news_events_gallery/gallery_images/2026.01.06-Hotpot.jpg"
-  caption="Hotpot 2026"
-%}
--->
+{% include gallery-multi-picture.html 
+    images="news_events_gallery/new_images/IASR5.jpeg, news_events_gallery/new_images/IASR4.jpeg，
+    news_events_gallery/new_images/IASR3.jpeg，news_events_gallery/new_images/IASR2.jpeg，
+    news_events_gallery/new_images/IASR1.jpeg" 
+    title="IASR/AFSP Summit 2025" 
+  %}
