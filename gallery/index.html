@@ -532,7 +532,7 @@
   
   
 
-  <section class="background" data-size="18px">
+  <section class="background" data-size="16px">
     <h1 id="gallery">Gallery</h1>
 
 <div class="gallery-picture" data-style="">
@@ -571,59 +571,49 @@
 </div>
 </div>
 
-<div class="gallery-picture-wrapper" data-style="bare">
+<div class="gallery-picture" data-style="bare" style="position: relative; display: inline-block; vertical-align: top;">
   
-    <p class="feature-title
-      
-    ">November, 2025: Conference on suicide at the University of Lausanne</p>
-  
+  <div class="feature-image" id="carousel-november-2025-conference-on-suicide-at-the-university-of-lausanne" style="position: relative; overflow: hidden; line-height: 0;">
+    
+    
+      <img class="img-fit" src="/website/news_events_gallery/gallery_images/2025%20Lausanne%20Conference.jpg" loading="lazy" alt="Gallery image 1" style="width: 100%; display: none; object-fit: cover;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+    
+      <img class="img-fit" src="/website/news_events_gallery/gallery_images/2025%20Lausanne%20Conference2.jpg" loading="lazy" alt="Gallery image 2" style="width: 100%; display: none; object-fit: cover;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
+    
 
-  <div class="feature">
-    <div class="feature-image" id="carousel-november-2025-conference-on-suicide-at-the-university-of-lausanne" style="position: relative; overflow: hidden; border-radius: 6px;">
-      
-      
-        <img class="carousel-slide-carousel-november-2025-conference-on-suicide-at-the-university-of-lausanne" img-fit="" src="/website/news_events_gallery/img1.jpg" loading="lazy" alt="Gallery image 1" style="width: 100%; display: none; border-radius: 6px; object-fit: cover;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
-      
-        <img class="carousel-slide-carousel-november-2025-conference-on-suicide-at-the-university-of-lausanne" img-fit="" src="/website/news_events_gallery/img2.jpg" loading="lazy" alt="Gallery image 2" style="width: 100%; display: none; border-radius: 6px; object-fit: cover;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
-      
-        <img class="carousel-slide-carousel-november-2025-conference-on-suicide-at-the-university-of-lausanne" img-fit="" src="/website/news_events_gallery/img3.jpg" loading="lazy" alt="Gallery image 3" style="width: 100%; display: none; border-radius: 6px; object-fit: cover;" onerror="this.src = '/website/images/fallback.svg'; this.onerror = null;">
-      
+    
+      <button class="carousel-button prev" onclick="plusSlides('carousel-november-2025-conference-on-suicide-at-the-university-of-lausanne', -1)" aria-label="Previous">❮</button>
+      <button class="carousel-button next" onclick="plusSlides('carousel-november-2025-conference-on-suicide-at-the-university-of-lausanne', 1)" aria-label="Next">❯</button>
+    
+  </div>
 
-      
-        <button class="carousel-button prev" onclick="plusSlides('carousel-november-2025-conference-on-suicide-at-the-university-of-lausanne', -1)">❮</button>
-        <button class="carousel-button next" onclick="plusSlides('carousel-november-2025-conference-on-suicide-at-the-university-of-lausanne', 1)">❯</button>
-      
-    </div>
-
-    <div class="feature-text">
-      
-
-      
-      
-    </div>
+  <div class="gallery-caption">
+    
+        <strong>November, 2025: Conference on suicide at the University of Lausanne</strong>
+    
   </div>
 </div>
 
 <style>
-.carousel-button {
+/* Scoped styles to match your existing gallery buttons */
+#carousel-november-2025-conference-on-suicide-at-the-university-of-lausanne .carousel-button {
   position: absolute;
   top: 50%;
-  background-color: rgba(0,0,0,0.4);
+  background-color: rgba(0,0,0,0.3);
   color: white;
   border: none;
-  padding: 10px 14px;
-  font-size: 18px;
+  padding: 8px 10px;
+  font-size: 16px;
   cursor: pointer;
   transform: translateY(-50%);
-  border-radius: 4px;
   z-index: 2;
-  transition: background 0.2s;
+  transition: opacity 0.2s;
 }
-.carousel-button:hover {
-  background-color: rgba(0,0,0,0.7);
+#carousel-november-2025-conference-on-suicide-at-the-university-of-lausanne .carousel-button:hover {
+  background-color: rgba(0,0,0,0.6);
 }
-.carousel-button.prev { left: 10px; }
-.carousel-button.next { right: 10px; }
+.carousel-button.prev { left: 0; border-radius: 0 4px 4px 0; }
+.carousel-button.next { right: 0; border-radius: 4px 0 0 4px; }
 </style>
 
 <script>
@@ -632,32 +622,33 @@ window.carouselState = window.carouselState || {};
 function showSlides(id, n) {
   const container = document.getElementById(id);
   if (!container) return;
-
-  // Find slides specifically for this carousel instance
   const slides = container.querySelectorAll(".carousel-slide-" + id);
   if (!slides.length) return;
-
   if (!(id in window.carouselState)) window.carouselState[id] = 0;
-
   const total = slides.length;
   const index = (n + total) % total;
-
   slides.forEach((slide, i) => {
     slide.style.display = (i === index) ? "block" : "none";
   });
-
   window.carouselState[id] = index;
 }
 
 function plusSlides(id, delta) {
-  const current = window.carouselState[id] ?? 0;
-  showSlides(id, current + delta);
+  showSlides(id, (window.carouselState[id] ?? 0) + delta);
 }
 
-document.addEventListener("DOMContentLoaded", function() {
-  const allCarousels = document.querySelectorAll("[id^='carousel-']");
-  allCarousels.forEach(el => showSlides(el.id, 0));
-});
+// Ensure first slide shows immediately
+(function() {
+  const init = () => {
+    const el = document.getElementById('carousel-november-2025-conference-on-suicide-at-the-university-of-lausanne');
+    if (el) showSlides('carousel-november-2025-conference-on-suicide-at-the-university-of-lausanne', 0);
+  };
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
 </script>
 
 <div class="gallery-picture" data-style="">
