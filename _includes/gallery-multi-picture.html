@@ -2,19 +2,15 @@
 
 <div class="gallery-picture" data-style="{{ include.style }}" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;">
 
-  <div class="feature-image" id="{{ carousel_id }}" style="position: relative; overflow: hidden; line-height: 0;">
-    {% assign image_list = include.images | split: "," %}
-    {% for img in image_list %}
-      <img
-        class="carousel-slide-{{ carousel_id }}"
-        src="{{ img | strip | relative_url }}"
-        loading="lazy"
-        alt="Gallery image {{ forloop.index }}"
-        style="width: 100%; display: none; object-fit: cover;"
-        {% if include.fit %}class="img-fit"{% endif %}
-        {% include fallback.html %}
-      >
-    {% endfor %}
+  <div class="feature-image" id="{{ carousel_id }}">
+  {% for img_path in image_list %}
+    <img
+      class="carousel-slide-{{ carousel_id }}"
+      src="{{ img_path | strip | relative_url }}"
+      style="width: 100%; aspect-ratio: 4/3; object-fit: cover; display: {% if forloop.first %}block{% else %}none{% endif %};"
+    >
+  {% endfor %}
+    </div>
 
     {% if image_list.size > 1 %}
       <button class="carousel-button prev" onclick="plusSlides('{{ carousel_id }}', -1)" aria-label="Previous">&#10094;</button>
