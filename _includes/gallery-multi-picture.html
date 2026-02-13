@@ -1,7 +1,7 @@
 {% assign carousel_id = 'carousel-' | append: include.title | slugify %}
 
 <div class="gallery-picture" data-style="{{ include.style }}" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;">
-    
+
   <div class="feature-image" id="{{ carousel_id }}" style="position: relative; overflow: hidden; line-height: 0;">
     {% assign image_list = include.images | split: "," %}
     {% for img in image_list %}
@@ -22,11 +22,11 @@
     {% endif %}
   </div>
 
-  <div class="gallery-caption">
+  <div class="gallery-caption" style="text-align: center; width: 100%; margin-top: 10px; display: block;">
     {% if include.caption %}
         {{ include.caption | markdownify }}
     {% elsif include.title %}
-        <strong>{{ include.title }}</strong>
+        <p style="margin: 0; font-weight: bold;">{{ include.title }}</p>
     {% endif %}
   </div>
 </div>
