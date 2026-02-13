@@ -26,7 +26,12 @@ permalink: /gallery/
     style="Conference on suicide at the University of Lausanne, November 2025"
 %}
 
-
+{% include gallery-multi-picture.html
+    title="November, 2025: Conference on suicide at the University of Lausanne"
+    images="news_events_gallery/img1.jpg, news_events_gallery/img2.jpg, news_events_gallery/img3.jpg"
+    fit=true
+    style="bare"
+%}
 
 {% include gallery-picture.html
   image="news_events_gallery/new_images/IASR5.jpeg"
