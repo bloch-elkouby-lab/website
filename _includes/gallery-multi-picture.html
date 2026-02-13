@@ -1,7 +1,7 @@
 {% assign carousel_id = 'carousel-' | append: include.title | slugify %}
 
-<div class="gallery-picture" data-style="{{ include.style }}" style="position: relative; display: inline-block; vertical-align: top;">
-  
+<div class="gallery-picture" data-style="{{ include.style }}" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;">
+    
   <div class="feature-image" id="{{ carousel_id }}" style="position: relative; overflow: hidden; line-height: 0;">
     {% assign image_list = include.images | split: "," %}
     {% for img in image_list %}
