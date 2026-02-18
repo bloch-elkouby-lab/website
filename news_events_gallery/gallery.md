@@ -22,7 +22,7 @@ permalink: /gallery/
 
   {% include gallery-multi-picture.html 
     title="Conference on suicide at the University of Lausanne, November 2025" 
-    images="news_events_gallery/gallery_images/2025 Lausanne Conference.jpg, news_events_gallery/gallery_images/2025 Lausanne Conference2.jpg" 
+    images="news_events_gallery/gallery_images/2025 Lausanne Conference 3.jpg, news_events_gallery/gallery_images/2025 Lausanne Conference.jpg, news_events_gallery/gallery_images/2025 Lausanne Conference2.jpg, news_events_gallery/gallery_images/2025 Lausanne Conference 4.jpg" 
   %}
 
   {% include gallery-multi-picture.html 
