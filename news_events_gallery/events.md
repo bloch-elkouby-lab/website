@@ -27,7 +27,7 @@ Don't miss the chance to present! The submission deadline is February 13, 2026, 
   >
 </div>
 
-## Upcoming on March 18, 2026:
+## Upcoming on March 18th, 2026, 17:00 (CET):
 
 Dr. Bloch-Elkouby will present a webinar hosted by the Society for Psychotherapy Research (SPR) titled "Breaking Silos: Why Suicide Prevention and Psychotherapy Research Need Each Other." 
 
@@ -44,6 +44,6 @@ Dr. Bloch-Elkouby will present a webinar hosted by the Society for Psychotherapy
 </div>
 
 
-## Upcoming on June 5, 2026: 
+## Upcoming on June 5th, 2026: 
 
 Dr. Bloch-Elkouby will present at the Psychology Grand Rounds at Mount Sinai Medical Center in New York. Her presentation is titled "The Therapeutic Alliance as a Diagnostic and Intervention Tool with High-Risk Patients."
