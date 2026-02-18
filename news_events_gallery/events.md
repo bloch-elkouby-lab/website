@@ -27,11 +27,22 @@ Don't miss the chance to present! The submission deadline is February 13, 2026, 
   >
 </div>
 
-**Invited Lectures and Webinars**
-
 ## Upcoming on March 18, 2026:
 
 Dr. Bloch-Elkouby will present a webinar hosted by the Society for Psychotherapy Research (SPR) titled "Breaking Silos: Why Suicide Prevention and Psychotherapy Research Need Each Other." For registration information, please refer to the <a href="https://www.psychotherapyresearch.org/page/SPRWebinars"> SPR webinar website</a>. 
+
+**<a href="https://us02web.zoom.us/meeting/register/orOpfOiMQLqXZWEfuzIY0w"> Zoom Registration Link</a>** 
+
+**<a href="https://tinyurl.com/WebinarNextGen"> Webinar Zoom Link</a>**
+
+<div style="text-align:center;">
+  <img
+    src="https://bloch-elkouby-lab/website/news_events_gallery/events_images/March Webinar.png"
+    alt="SPR Webinar Flyer"
+    style="width:60%; max-width:700px;"
+  >
+</div>
+
 
 ## Upcoming on June 5, 2026: 
 
