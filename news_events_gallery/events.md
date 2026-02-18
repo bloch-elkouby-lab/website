@@ -37,7 +37,7 @@ Dr. Bloch-Elkouby will present a webinar hosted by the Society for Psychotherapy
 
 <div style="text-align:center;">
   <img
-    src="https://bloch-elkouby-lab/website/news_events_gallery/events_images/March Webinar.png"
+    src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/events_images/March Webinar.png"
     alt="SPR Webinar Flyer"
     style="width:60%; max-width:700px;"
   >
