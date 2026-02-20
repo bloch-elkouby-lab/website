@@ -21,6 +21,26 @@ permalink: /news/
 ## 2026
 <!--Feburary 2026-->
 
+{% include section.html %}
+
+  {% capture text %}
+
+  Congratulations to our very own **Alexis Aberman** (who was the first Ferkauf Clinical PsyD student to join the Bloch-Elkouby Lab in September 2023) on matching at Montefiore Medical Center for internship. We are so proud of you, Alexis, and thrilled to celebrate this well-deserved achievement!
+  
+  {% endcapture %}
+
+  {%
+  include feature.html
+  image="images/profile-alexis_aberman.jpg"
+  title="February 20th, 2026"
+  text=text
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
+
 <!--January 2026-->
 {% include section.html %}
 
