@@ -11,21 +11,29 @@ permalink: /posters/
 
 <nav style="background-color: #ebf5fb ; overflow: hidden;">
 
-  <!-- <a href="#2026" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2026</a> -->
+  <a href="#2026" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2026</a>
   <a href="#2025" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2025</a>
   <a href="#2013-2024" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2013-2024</a>
 </nav>
 
-<!-- IN PREPARATION
+<!-- IN PREPARATION -->
 
 <h2 id="2026">2026</h2>
 
-<ins> Chen, J. P.</ins>, <ins>Guo, L.</ins>, <ins>Wei, Y.</ins>, <ins>Bhise, A.</ins>, <ins>Yang, J.</ins>, & **Bloch-Elkouby, S.** (2026, Jun 24-27). Disproportionate Impact of Technological Disruptions on Suicide Risk Assessment in Black Virtual Patients [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
+<ins>Chen, J. P.</ins>, <ins>Guo, L.</ins>, <ins>Wei, Y.</ins>, <ins>Bhise, A.</ins>, <ins>Yang, J.</ins>, & **Bloch-Elkouby, S.** (2026, Jun 24-27). *Disproportionate impact of technological disruptions on suicide risk assessment in Black virtual patients* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
 
-<ins>Xu, H.</ins>, <ins>Chen, J. P.</ins>, <ins>Yang, J.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Assessing Psychometric Properties of Suicide Crisis Syndrome Checklist (SCS-C) Using a Standardized Virtual Patient* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
+<ins>Khaikin, S.</ins>, Lipner, L., <ins>Shvarzman, R.</ins>, Gorman, B., Muran, J. C., Eubanks, C. F., & **Bloch-Elkouby, S.** (2026, June 24-27). 3RS-SR: Virtual patient validation study [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
 
-<ins>Yang, J.</ins>, <ins> Wei, Y.</ins>, <ins>Chen, J. P.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Computational Case Conceptualization for Suicide Crisis Syndrome: Generating Individualized Treatment Predictions* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
--->
+<ins>Kumaresh, J.</ins>, <ins>Lee, C. K.</ins>, <ins>Prekas, A. S.</ins>, <ins>Yang, J.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Examining implicit and explicit racial attitudes in clinical psychology doctoral students* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
+
+<ins>Wakely, M.</ins>, <ins>Wei, Y.</ins>, <ins>Guo, W.</ins>, <ins>Maryam, A.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *The relationship between clinician self-compassion, therapeutic alliance ruptures, and self-reported competency and comfort working with high-risk patients* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
+
+<ins>Wei, Y.</ins>, <ins>Yang, J.</ins>, <ins>Wakely, M.</ins>, <ins>Khaikin, S.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Relationship between clinicians’ demographics and their self-reported comfort level and competency in working with high-risk patients* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
+
+<ins>Xu, H.</ins>, <ins>Chen, J. P.</ins>, <ins>Yang, J.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Assessing psychometric properties of suicide crisis syndrome checklist (SCS-C) using a standardized virtual patient* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
+
+<ins>Yang, J.</ins>, <ins> Wei, Y.</ins>, <ins>Chen, J. P.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Computational case conceptualization for suicide crisis syndrome: Generating individualized treatment predictions* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
+
 
 <h2 id="2025">2025</h2>
 
