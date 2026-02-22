@@ -27,7 +27,7 @@ Dr. Bloch-Elkouby’s grant-funded research program entails two distinct, and ye
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -39,7 +39,7 @@ Dr. Bloch-Elkouby’s grant-funded research program entails two distinct, and ye
 {%
   include feature.html
   image="images/our_research.png"
-  link="research"
+  link="publications"
   title="Our Research"
   text=text
 %}
