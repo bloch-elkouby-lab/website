@@ -18,23 +18,24 @@ If you are an undergraduate or graduate student who would like to join the lab, 
 
 ## Potential Gains
 
-We are known to be a productive lab at Yeshiva University and Mount Sinai. In the past SPR conference, **9 lab members** presented their posters. 
+We are known to be a productive lab at Icahn School of Medicine at Mount Sinai. In 2025 SPR conference, **9 lab members** presented their posters; in the upcoming 2026 SPR conference, **13 lab members** had their abstracts accepted.
 
 RAs also have the opportunities to take the lead in new projects, conduct their own projects, conduct additional analysis, present posters on the lab projects, and participate in manuscript writing. 
 
 ## Current Openings
 
-We are not actively recruiting as of Dec 17, 2025. Next round of recruitment is anticipated to happen around May 2026. However, if your interests and skills allign with the lab, please feel free to reach out. 
+We are not actively recruiting as of Feb 23, 2026. Next round of recruitment is anticipated to happen around April 2026. However, if your interests and skills allign with the lab, please feel free to reach out. 
 
 ## International Students
 
 The lab cannot sponsor H1-B visa. The applicant will need to hold a F-1 or J-1 status to apply. The lab can sponsor OPT and CPT. Applicants need to be able to apply for OPT, CPT, or other employment authorizations to apply. The lab cannot sponsor OPT-STEM extension unless you happen to be prompted to lab manager or research coordinator and secure funding.  
 
 ## Application Instructions
-Please title your email RA Application: [Your Name], attach your CV, cover letter, and supporting materials such as an unofficial transcript and academic writing samples. 
+Please title your email "RA Application: [Your Name]" (e.g., "RA Application: Jimmy P. Chen"), attach your CV, cover letter, and supporting materials such as an unofficial transcript and academic writing samples. 
 
 Requirement: 
 * **Attend the weekly team meeting (11:00am-12:15pm US Eastern time/UTC+5 Monday on Zoom)**
+* **Being proactive in taking lab tasks and flexible in scheduling meetings for projects that you participate**
 * **At least one year commitment, though a two-year commitment is preferred**
 * **6 to 10 hours of weekly commitment**
 
@@ -56,6 +57,16 @@ If you have the following skills, we would appreciate if you attach supporting m
   * Attach a transcript
 
 </div>
+
+## Lab Environment/Culture
+It's to **to be noted that**
+* Dr. Bloch-Elkouby tends to assign urgent tasks with deadlines that range from a few hours to a few days. Although has **NEVER** been a requirement to take urgent tasks, the deligence and availability are needed for promotions and extra strong letters of recommendations.
+* Dr. Bloch-Elkouby cares a lot about the quality of research.
+
+Please be rest assured that:
+* We have open communication.
+* Senior memebers are willing to teach.
+* Dr. Bloch-Elkouby is supportive of RAs conducting their own projects so long as the topics are within her expertise. 
 
 
 ## How to Increase Competitiveness
