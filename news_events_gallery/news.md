@@ -58,7 +58,7 @@ permalink: /news/
 
 
   {% capture text %}
-  Congratulations to our lab's PsyD student **Talia Rosen** and to our lab's research assistants **Aditya Bhise**, **Angel Wei**, **Jhanavi Kumaresh**, **Viktoria Bourmpoulia**, **Hanjiang Xu**, **Xinran Gao**, **Violet Yang**, and **Lilian Guo** on the acceptance of their poster for the upcoming Society for Psychotherapy Research (SPR) Conference in Osaka, Japan! Dr. Bloch-Elkouby will chair a panel on the integration of AI in psychotherapy research, lead a structured discussion on as routine outcome monitoring and participate in three other panels as an invited discussant. For additional information about the conference, please visit the <a href="https://www.psychotherapyresearch.org/page/spr2026">SPR conference website</a>.
+  Congratulations to our lab's PsyD student **Talia Rosen** and to our lab's research assistants **Aditya Bhise**, **Angel Wei**, **Jhanavi Kumaresh**, **Viktoria Bourmpoulia**, **Hanjiang Xu**, **Xinran Gao**, **Violet Yang**, **Amna Maryam**, and **Lilian Guo** on the acceptance of their poster for the upcoming Society for Psychotherapy Research (SPR) Conference in Osaka, Japan! Dr. Bloch-Elkouby will chair a panel on the integration of AI in psychotherapy research, lead a structured discussion on as routine outcome monitoring and participate in three other panels as an invited discussant. For additional information about the conference, please visit the <a href="https://www.psychotherapyresearch.org/page/spr2026">SPR conference website</a>.
 
   {% endcapture %}
 
