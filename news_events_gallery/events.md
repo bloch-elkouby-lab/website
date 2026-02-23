@@ -12,7 +12,7 @@ permalink: /events/
 
 ## NASPR 2026 Conference
 
-We are trilled to announce that the Ferkauf Graduate School of Psychology at Yeshiva University will host the 2026 <a href="https://sites.google.com/view/naspr-2026-conference/home">North American Chapter of the Society for Psychotherapy Research Conference</a>, with **Dr. Sarah Bloch-Elkouby** serving as the local chair. The conference will take place at the Yeshiva University Museum in the heart of Union Square.
+We are trilled to announce that the Ferkauf Graduate School of Psychology at Yeshiva University will host the 2026 <a href="https://sites.google.com/view/naspr-2026-conference/home"> North American Chapter of the Society for Psychotherapy Research Conference</a>, with **Dr. Sarah Bloch-Elkouby** serving as the local chair. The conference will take place at the Yeshiva University Museum in the heart of Union Square.
 
 We strongly encourage you to share your work with our community. The Program Committee welcomes submissions across all areas of psychotherapy research, practice, and training, especially those highlighting methodologically strong research and real-world applications.
 
