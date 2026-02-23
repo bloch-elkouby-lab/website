@@ -47,7 +47,7 @@ permalink: /news/
 
   {%
   include feature.html
-  images="news_events_gallery/new_images/NASPR_logo.png"
+  image="news_events_gallery/new_images/NASPR_logo.png"
   title="February 16, 2026"
   text=text
   flip=true
@@ -64,7 +64,7 @@ permalink: /news/
 
   {%
   include feature.html
-  images="news_events_gallery/new_images/spr2026_banner.png"
+  image="news_events_gallery/new_images/spr2026_banner.png"
   title="February 13, 2026"
   text=text
   flip=false
