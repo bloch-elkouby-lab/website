@@ -28,7 +28,7 @@ permalink: /publications/
 
 <h2 id="2026">2026</h2>
 
-Hayek, R. E., Wheeler, E., Park, B., Ulch, T., Cohen, L. J., **Bloch-Elkouby, S.**, & Galynker, I. (2026). _Assessing Functional Impairment and Distress Associated with the Suicide Crisis Syndrome in Psychiatric Inpatients_. [https://doi.org/10.21203/rs.3.rs-8843649/v1](https://doi.org/10.21203/rs.3.rs-8843649/v1)
+**Bloch-Elkouby, S.**, El-Hayek, R., Cohen, L., Chen, J. P., Gorman, B., Apter, Y., Wheeler, E., Park, B., Prekas, A. S., & Galynker, I. (2026). The clinician rated suicide crisis syndrome checklist (SCS-C): Structure, reliability, and concurrent validity among adult psychiatric inpatients. _Journal of Affective Disorders, 402,_ 121341. [https://doi.org/10.1016/j.jad.2026.121341](https://doi.org/10.1016/j.jad.2026.121341)
 
 Boritz, T., **Bloch-Elkouby, S.**, DiBartolomeo, A., & <ins>Aberman, A.</ins> (2026). Alliance rupture and repair processes in borderline personality disorder. In A. Okamoto (Ed.), *Alliance rupture repair in cognitive behavioral therapies*. Springer, Cham.
 
