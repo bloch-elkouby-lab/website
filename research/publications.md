@@ -9,7 +9,7 @@ permalink: /publications/
 # {% include icon.html icon="fa-solid fa-microscope" %}Research Publications 
 
 <nav style="background-color: #ebf5fb ; overflow: hidden;">
-  <a href="#In Press" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">In Press</a>
+  <a href="#2026" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2026</a>
   <a href="#2025" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2025</a>
   <a href="#2024" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2024</a>
   <a href="#2023" style="float: center; color: #5dade2 ; padding: 16px 18px; text-decoration: none; font-weight: bold">2023</a>
@@ -26,9 +26,11 @@ permalink: /publications/
 <i>Note: *indicates joint first authorship; ____ indicates contribution by students in the lab</i>
 
 
-<h2 id="In Press">In Press</h2>
+<h2 id="2026">2026</h2>
 
-Boritz, T., **Bloch-Elkouby, S.**, DiBartolomeo, A., & <ins>Aberman, A.</ins> (In Press). Alliance rupture and repair processes in borderline personality disorder. In A. Okamoto (Ed.), *Alliance rupture repair in cognitive behavioral therapies*. Springer, Cham.
+Hayek, R. E., Wheeler, E., Park, B., Ulch, T., Cohen, L. J., **Bloch-Elkouby, S.**, & Galynker, I. (2026). _Assessing Functional Impairment and Distress Associated with the Suicide Crisis Syndrome in Psychiatric Inpatients_. https://doi.org/10.21203/rs.3.rs-8843649/v1
+
+Boritz, T., **Bloch-Elkouby, S.**, DiBartolomeo, A., & <ins>Aberman, A.</ins> (2026). Alliance rupture and repair processes in borderline personality disorder. In A. Okamoto (Ed.), *Alliance rupture repair in cognitive behavioral therapies*. Springer, Cham.
 
 <h2 id="2025">2025</h2>
 
