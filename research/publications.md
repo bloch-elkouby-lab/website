@@ -28,13 +28,13 @@ permalink: /publications/
 
 <h2 id="2026">2026</h2>
 
-**Bloch-Elkouby, S.**, El-Hayek, R., Cohen, L., Chen, J. P., Gorman, B., Apter, Y., Wheeler, E., Park, B., Prekas, A. S., & Galynker, I. (2026). The clinician rated suicide crisis syndrome checklist (SCS-C): Structure, reliability, and concurrent validity among adult psychiatric inpatients. _Journal of Affective Disorders, 402,_ 121341. [https://doi.org/10.1016/j.jad.2026.121341](https://doi.org/10.1016/j.jad.2026.121341)
+**Bloch-Elkouby, S.**, El-Hayek, R., Cohen, L., <ins>Chen, J. P.</ins>, Gorman, B., Apter, Y., Wheeler, E., Park, B., <ins>Prekas, A. S.</ins>, & Galynker, I. (2026). The clinician rated suicide crisis syndrome checklist (SCS-C): Structure, reliability, and concurrent validity among adult psychiatric inpatients. _Journal of Affective Disorders, 402,_ 121341. [https://doi.org/10.1016/j.jad.2026.121341](https://doi.org/10.1016/j.jad.2026.121341)
 
 Boritz, T., **Bloch-Elkouby, S.**, DiBartolomeo, A., & <ins>Aberman, A.</ins> (2026). Alliance rupture and repair processes in borderline personality disorder. In A. Okamoto (Ed.), *Alliance rupture repair in cognitive behavioral therapies*. Springer, Cham.
 
-<h2 id="2025">2025</h2>
+Bloch-Elkouby, S., Johnson, B., <ins>Chen, J. P.</ins>, El Hayek, R., Jones, A., Eid, T., de Siqueira, A. G., Apter, Y., Yao, H., Lok, B., Foster, A., & Galynker, I. (2026). Can training clinicians in emotional awareness using virtual patient interactions improve the therapeutic alliance with psychiatric outpatients and reduce suicidal outcomes? _Psychiatry Research, 356_, 116846. [https://doi.org/10.1016/j.psychres.2025.116846](https://doi.org/10.1016/j.psychres.2025.116846)
 
-**Bloch-Elkouby, S.**, Johnson, B., <ins>Chen, J. P.</ins>, El Hayek, R., <ins>Jones, A.</ins>, <ins>Eid, T.</ins>, Gomes de Siqueira, A., Apter Levy, Y., Yao, H., Lok, B., Foster, A., & Galynker, I. (In Press). Can training mental health clinicians in emotional awareness using virtual patient interactions improve the therapeutic alliance and contribute to reducing patients’ suicidal thoughts? *Psychiatry Research*. [https://doi.org/10.1016/j.psychres.2025.116846](https://doi.org/10.1016/j.psychres.2025.116846) <!-- Volume, Issue, and Page Number to be updated after release -->
+<h2 id="2025">2025</h2>
 
 Galynker, I., Cohen, L. J., <ins>Prekas, A. S.</ins>, King, M., Apter Levy, Y., & **Bloch-Elkouby, S.** (2025). Suicide Crisis Syndrome: Examining supporting evidence and barriers to diagnostic validity. *Frontiers in Psychiatry, 16*, 1627463. [https://doi.org/10.3389/fpsyt.2025.1627463](https://doi.org/10.3389/fpsyt.2025.1627463)
 
