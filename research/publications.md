@@ -32,9 +32,10 @@ permalink: /publications/
 
 Boritz, T., **Bloch-Elkouby, S.**, DiBartolomeo, A., & <ins>Aberman, A.</ins> (2026). Alliance rupture and repair processes in borderline personality disorder. In A. Okamoto (Ed.), *Alliance rupture repair in cognitive behavioral therapies*. Springer, Cham.
 
-**Bloch-Elkouby, S.**, Johnson, B., <ins>Chen, J. P.</ins>, El Hayek, R., Jones, A., Eid, T., de Siqueira, A. G., Apter, Y., Yao, H., Lok, B., Foster, A., & Galynker, I. (2026). Can training clinicians in emotional awareness using virtual patient interactions improve the therapeutic alliance with psychiatric outpatients and reduce suicidal outcomes? _Psychiatry Research, 356_, 116846. [https://doi.org/10.1016/j.psychres.2025.116846](https://doi.org/10.1016/j.psychres.2025.116846)
 
 <h2 id="2025">2025</h2>
+
+**Bloch-Elkouby, S.**, Johnson, B., <ins>Chen, J. P.</ins>, El Hayek, R., Jones, A., Eid, T., de Siqueira, A. G., Apter, Y., Yao, H., Lok, B., Foster, A., & Galynker, I. (2025). Can training clinicians in emotional awareness using virtual patient interactions improve the therapeutic alliance with psychiatric outpatients and reduce suicidal outcomes? _Psychiatry Research, 356_, 116846. [https://doi.org/10.1016/j.psychres.2025.116846](https://doi.org/10.1016/j.psychres.2025.116846)
 
 Galynker, I., Cohen, L. J., <ins>Prekas, A. S.</ins>, King, M., Apter Levy, Y., & **Bloch-Elkouby, S.** (2025). Suicide Crisis Syndrome: Examining supporting evidence and barriers to diagnostic validity. *Frontiers in Psychiatry, 16*, 1627463. [https://doi.org/10.3389/fpsyt.2025.1627463](https://doi.org/10.3389/fpsyt.2025.1627463)
 
