@@ -1,6 +1,6 @@
 ---
 name: Hanjiang Xu, B.S.
-image: images/profile-hanjiang_xu.jpg
+image: images/profile-hanjiang_xu.PNG
 description: Administrative Coordinator
 role: rc
 ---
