@@ -30,7 +30,7 @@ permalink: /news/
   {%
   include feature.html
   image="images/profile-yongxue_wei.jpg"
-  title="March 2st, 2026"
+  title="March 2nd, 2026"
   text=text
   flip=true
   fit=true
