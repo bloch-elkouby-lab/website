@@ -19,6 +19,43 @@ permalink: /news/
 
 
 ## 2026
+<!--March 2026-->
+{% include section.html %}
+
+  {% capture text %}
+
+  Congratulations to our lab’s PsyD student, **Ronit Shvarzman**, on her nomination and grant proposal submission to the Society for the Exploration of Psychotherapy Integration (SEPI) for the Dissertation Award. Her proposal, _Examining Common Factor Mechanisms of Change in Psychotherapy for Major Depressive Disorder: The Interplay of Therapeutic Alliance and Self-Image in Good and Poor Outcome Cases_, represents an important contribution to advancing our understanding of mechanisms of change in psychotherapy. We wish her the very best in the review process.
+  
+  {% endcapture %}
+
+  {%
+  include feature.html
+  image="images/profile-ronit_shvarzman.jpg"
+  title="March 1st, 2026"
+  text=text
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+%}
+
+  {% capture text %}
+  Congratulations to our lab’s PsyD student, **Adelaide Jones**, on submitting a grant proposal to the Society for the Advancement of Psychotherapy (APA Division 29). Her proposal, _Expanding and Modernizing Routine Outcome Monitoring at a Community Mental Health Clinic: A Case Study_, highlights innovative efforts to strengthen clinical practice through systematic outcome monitoring and makes an important contribution to advancing measurement-based care care in community mental health settings. We wish her every success in the review process.
+
+  {% endcapture %}
+
+  {%
+  include feature.html
+  image="images/profile-adelaide_jones.jpg"
+  text=text
+  flip=true
+  fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
+
+
 <!--Feburary 2026-->
 
 {% include section.html %}
