@@ -18,9 +18,25 @@ permalink: /news/
 {% include search-info.html %}
 
 
-## 2026
+
 <!--March 2026-->
 {% include section.html %}
+{% capture text %}
+
+  We are delighted to announce the promotion of **Yongxue (Angel) Wei** to the role of research coordinator in our lab. Angel has been an invaluable member of our team, and we are sincerely grateful for her dedication and thoughtful contributions across our research initiatives. This well-deserved promotion reflects her hard work and commitment, and we are excited to see her continue to thrive in this new role. achievement!
+
+  {% endcapture %}
+
+  {%
+  include feature.html
+  image="images/profile-yongxue_wei.jpg"
+  title="March 2st, 2026"
+  text=text
+  flip=true
+  fit=true
+  align="left"
+  style="bare"
+%}
 
   {% capture text %}
 
