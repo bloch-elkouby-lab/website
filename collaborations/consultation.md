@@ -1,7 +1,7 @@
 ---
 title: Collaboration & Consultation
 nav:
-  order: 3
+  order: 1
 
 parent: Collaborations
 permalink: /consultation/
