@@ -9,7 +9,7 @@ permalink: /existing-collab/
 
 
 
-## Collaborations
+## Existing Collaborations
 
 ### The Center for Alliance-Focused Training at Adelphi University
 

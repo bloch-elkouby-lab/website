@@ -7,7 +7,7 @@ parent: Collaborations
 permalink: /consultation/
 ---
 
-# Collaborate
+## Consultation  
 
 We offer opportunities for research collaboration and consultation with researchers, clinicians, and organizations interested in improving suicide risk assessment, management, and prevention.
 
