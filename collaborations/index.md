@@ -1,7 +1,7 @@
 ---
 title: Collaborations
 nav:
-  order: 6
+  order: 5
 
 permalink: /collaborations/
 redirect_to: /collaborations/
