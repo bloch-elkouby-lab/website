@@ -1,14 +1,10 @@
 ---
-title: Join the team / Collaborate
+title: Join the team
 parent: Team
 nav:
   order: 2
 permalink: /contact/
 ---
-
-# Collaborate
-
-If you would like to collaborate with the lab, you can email Sarah Bloch-Elkouby, PhD. at [sarah.blochelkouby@yu.edu](mailto:sarah.blochelkouby@yu.edu).
 
 
 # Join the team
