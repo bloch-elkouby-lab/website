@@ -1,7 +1,10 @@
 ---
 title: Existing Collaborations
 nav:
-  order: 3
+  order: 2
+
+parent: Collaborations
+permalink: /existing-collab/
 ---
 
 
