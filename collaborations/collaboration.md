@@ -1,5 +1,5 @@
 ---
-title: Collaborations
+title: Existing Collaborations
 nav:
   order: 3
 ---
