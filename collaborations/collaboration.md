@@ -1,7 +1,7 @@
 ---
 title: Existing Collaborations
 nav:
-  order: 2
+  order: 1
 
 parent: Collaborations
 permalink: /existing-collab/
