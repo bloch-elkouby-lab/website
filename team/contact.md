@@ -9,60 +9,91 @@ permalink: /contact/
 
 # Join the team
 
-If you are an undergraduate or graduate student who would like to join the lab, you can ask questions or apply by emailing the lab manager Jimmy Chen at [jimmypengyuchen@gmail.com](mailto:jimmypengyuchen@gmail.com) and carbon-copying the lab email at [virtualpatientstudy@gmail.com](mailto:virtualpatientstudy@gmail.com). 
+If you are an undergraduate or graduate student interested in joining the lab as a research assistant, contact the lab manager Jimmy Chen at [jimmypengyuchen@gmail.com](mailto:jimmypengyuchen@gmail.com) and carbon-copy the the lab's research coordinator Angel Wei at [aw3698@tc.columbia.edu](mailto:aw3698@tc.columbia.edu).
+
+Ferkauf doctoral students typically go through a lab selection and match process during their first year in the program. If you are interested in hearing more about this process, contact Dr. Bloch-Elkouby at [sarah.blochelkouby@yu.edu](mailto:sarah.blochelkouby@yu.edu).
 
 
 ## Potential Gains
 
-We are known to be a productive lab at Icahn School of Medicine at Mount Sinai. In 2025 SPR conference, **9 lab members** presented their posters; in the upcoming 2026 SPR conference, **13 lab members** had their abstracts accepted.
+Our lab is known for its strong research productivity reflected in multiple publications, grant submissions, and conference presentations yearly. 
 
-RAs also have the opportunities to take the lead in new projects, conduct their own projects, conduct additional analysis, present posters on the lab projects, and participate in manuscript writing. 
+Lab members have opportunities to contribute to ongoing lab projects, develop their own research ideas, conduct secondary analyses of existing datasets, present posters based on lab work, assist with grant writing, apply for student research grants, and participate in manuscript preparation.
 
 ## Current Openings
 
-We are not actively recruiting as of Feb 23, 2026. Next round of recruitment is anticipated to happen around April 2026. However, if your interests and skills allign with the lab, please feel free to reach out. 
+We are actively recruiting research assistants as of March 14, 2026. We anticipate recruiting 2–3 experienced (senior) RAs and 5–8 junior RAs for volunteer positions.
+
+Our lab is preparing to launch two large-scale studies in September 2026. Accordingly, we are seeking two senior RAs who may serve as team leads for these projects. The senior RA positions will be selected specifically for the upcoming studies, based on applicants’ experience, skills, and alignment of their research interests with the projects.
+
+Applications will be reviewed on a rolling basis.
 
 ## International Students
 
-The lab cannot sponsor H1-B visa. The applicant will need to hold a F-1 or J-1 status to apply. The lab can sponsor OPT and CPT. Applicants need to be able to apply for OPT, CPT, or other employment authorizations to apply. The lab cannot sponsor OPT-STEM extension unless you happen to be prompted to lab manager or research coordinator and secure funding.  
+The lab cannot sponsor H-1B visas. Applicants who are not US citizens or greencard holders must obtain employment authorization themselves before they can participate in the lab work. The lab can support students with F-1 visas to obtain employment authorization through OPT or CPT.
+
+The lab cannot sponsor the OPT STEM extension unless the individual is promoted to a lab manager or research coordinator position, and external funding is secured.
 
 ## Application Instructions
-Please title your email "RA Application: [Your Name]" (e.g., "RA Application: Jimmy P. Chen"), attach your CV, cover letter, and supporting materials such as an unofficial transcript and academic writing samples. 
+Please title your email “RA Application: [Your Name]” (e.g., “RA Application: Jimmy P. Chen”) 
 
-Requirement: 
-* **Attend the weekly team meeting (11:00am-12:15pm US Eastern time/UTC+5 Monday on Zoom)**
-* **Being proactive in taking lab tasks and flexible in scheduling meetings for projects that you participate**
-* **At least one year commitment, though a two-year commitment is preferred**
-* **6 to 10 hours of weekly commitment**
+Please title your email "RA Application: [Your Name]" (e.g., "RA Application: Jimmy P. Chen") and include the following materials:
 
+* CV 
+* Cover letter
+* Supporting materials (e.g., unofficial transcript or academic writing sample)
+
+If you would like to be considered for a senior RA position, please indicate this in your email.
+
+Requirements: 
+* **Attend the weekly team meeting (Mondays, 11:00 AM-12:15 PM US Eastern Time/UTC+5, via Zoom)**
+* **Being proactive in taking lab tasks and flexible in scheduling project meetings**
+* **Make a minimun one year commitment (two years preferred)**
+* **Commit 6-10 hours per week to lab activities**
+
+### Preferred Qualifications
 <div class="dense-list" markdown="1">
 
-If you have the following skills, we would appreciate if you attach supporting materials to demonstrate your skills:
+If you have any of the following skills, you are welcome to include supporting materials demonstrating them. **We look for evidence of strengths rather than weaknesses, so please do not worry if your materials are not perfect.**
 
-* Data processing via SPSS, R, or Python  
-  * Attach a previous data cleaning manual, syntax, R script, or Python script
-* Inferential statistics via SPSS, R, or Python  
-  * Attach a previous data analyis section in academic writing, syntax, R script, or Python script
-* Clinical knowledge, particularly in diagnostic interviews, therapeutic alliance, and suicide prevention  
-  * Attach a transcript with courses, CV describing clinical experiences, or workshop certificate
-* Website management  
-  * Attach your Github profile link
-* Academic writing  
-  * Attach a writing sample
-* Academic achievement  
-  * Attach a transcript
+Relevant skills may include:
+* Data processing (SPSS, R, or Python)
+* Inferential statistics (SPSS, R, or Python)
+* Clinical skills
+* Knowledge of research methods
+* Website or technical skills
+* Academic writing
+* Academic achievement
 
-</div>
+
+
+### Preferred qualifications for senior RAs:
+Senior RAs ideally have experience with:
+
+* Supervising study administrations with human participants (e.g., overseeing junior RAs and managing participant-related issues)
+* Conducting independent data analyses, including at least one advanced statistical method beyond t-tests or ANOVA
+* Clinical research design, including sample size considerations and operationalizing research variables
+* Working effectively with AI tools and research technologies
+
+
+### Interviews
+
+Most applicants with some research experience and a good overlap between the lab's research directions and the applicant's research interests will be offered an interview. Applicants who supply dishonest materials and make substantially exaggerated claims about their abilities will be immediately disqualified. 
+
+The interview will last an hour. If you are selected to be considered as a senior RA, the interview will last 1.5 hours. 
+
+After the interview with Jimmy and/or Angel, you will be notified whether you are recommended for the second interview, which is 30 mins and conducted exclusively by Dr. Bloch-Elkouby. After the second interview, the decision regarding your application will be conveyed by Angel.
+
+If you are offered a position and decide to accept it, the administrative coordinator Hanjiang will help you onboard.
 
 ## Lab Environment/Culture
-It's to **to be noted that**
-* Dr. Bloch-Elkouby tends to assign urgent tasks with deadlines that range from a few hours to a few days. Although has **NEVER** been a requirement to take urgent tasks, the deligence and availability are needed for promotions and extra strong letters of recommendations.
-* Dr. Bloch-Elkouby cares a lot about the quality of research.
+It should be noted that:
+* Dr. Bloch-Elkouby tends to assign urgent tasks with deadlines that range from a few hours to a few days. Although it has **NEVER** been a requirement to take urgent tasks, diligence and availability are needed for promotions and extra strong letters of recommendation.
 
-Please be rest assured that:
+Please be assured that:
 * We have open communication.
-* Senior memebers are willing to teach.
-* Dr. Bloch-Elkouby is supportive of RAs conducting their own projects so long as the topics are within her expertise. 
+* Senior members are willing to teach.
+* Dr. Bloch-Elkouby is supportive of RAs conducting their own projects as long as the topics are within her expertise. 
 
 
 ## How to Increase Competitiveness
