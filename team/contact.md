@@ -9,7 +9,7 @@ permalink: /contact/
 
 # Join the team
 
-If you are an undergraduate or graduate student interested in joining the lab as a research assistant, contact the lab manager Jimmy Chen at [jimmypengyuchen@gmail.com](mailto:jimmypengyuchen@gmail.com) and carbon-copy the the lab's research coordinator Angel Wei at [aw3698@tc.columbia.edu](mailto:aw3698@tc.columbia.edu).
+If you are an undergraduate or graduate student interested in joining the lab as a research assistant, contact the lab manager Jimmy Chen at [jimmypengyuchen@gmail.com](mailto:jimmypengyuchen@gmail.com) and carbon-copy the lab's research coordinator Angel Wei at [aw3698@tc.columbia.edu](mailto:aw3698@tc.columbia.edu).
 
 Ferkauf doctoral students typically go through a lab selection and match process during their first year in the program. If you are interested in hearing more about this process, contact Dr. Bloch-Elkouby at [sarah.blochelkouby@yu.edu](mailto:sarah.blochelkouby@yu.edu).
 
