@@ -35,13 +35,11 @@ The lab cannot sponsor H-1B visas. Applicants who are not US citizens or greenca
 The lab cannot sponsor the OPT STEM extension unless the individual is promoted to a lab manager or research coordinator position, and external funding is secured.
 
 ## Application Instructions
-Please title your email “RA Application: [Your Name]” (e.g., “RA Application: Jimmy P. Chen”) 
-
 Please title your email "RA Application: [Your Name]" (e.g., "RA Application: Jimmy P. Chen") and include the following materials:
 
 * CV 
 * Cover letter
-* Supporting materials (e.g., unofficial transcript or academic writing sample)
+* Supporting materials: can be anything from academic writing sample, unofficial transcripts, and Python scripts to unofficial research documents
 
 If you would like to be considered for a senior RA position, please indicate this in your email.
 
