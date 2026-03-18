@@ -151,13 +151,13 @@ permalink: /news/
 
 
   {% capture text %}
-  Congratulations and welcome to the new RAs who have joined the lab: **Hanyu Zhang** and **Avraham Frohlich**! We’re excited to have you on board and look forward to achieving great things together!
+  Congratulations and welcome to the new RAs who have joined the lab: **Avraham Frohlich** and **Hanyu Zhang**! We’re excited to have you on board and look forward to achieving great things together!
 
   {% endcapture %}
 
   {%
   include feature-carousel.html
-  images="images/profile-hanyu_zhang.jpg"
+  images="images/profile-avraham_frohlich.png, images/profile-hanyu_zhang.jpg"
   title="January 22th, 2026"
   text=text
   flip=true
