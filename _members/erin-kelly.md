@@ -1,7 +1,7 @@
 ---
 name: Erin Kelly, B.S.
 image: images/profile-erin_kelly.jpg
-description: Research Assistant
+description: Lab Alumnni
 role: alum
 ---
 

@@ -1,8 +1,8 @@
 ---
 name: Hanyu Zhang
 image: images/profile-hanyu_zhang.jpg
-description: Research Assistant
-role: RA
+description: Lab Alumnni
+role: alum
 ---
 
 Hanyu is a senior undergraduate student at New York University majoring in Philosophy and minoring in Social Work. Her academic interests focus on the intersection of ethics, psychology, and social welfare, particularly in understanding mental health outcomes, patient-centered care, and suicide prevention.
