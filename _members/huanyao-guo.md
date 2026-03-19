@@ -1,5 +1,5 @@
 ---
-name: Huanyao (Wendy) Guo, B.A.
+name: Huanyao (Wendy) Guo, M.A.
 image: images/profile-huanyao_guo.jpeg
 description: Lab Alumni
 role: alum
