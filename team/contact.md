@@ -37,8 +37,8 @@ The lab cannot sponsor the OPT STEM extension unless the individual is promoted 
 ## Application Instructions
 Please title your email "RA Application: [Your Name]" (e.g., "RA Application: Jimmy P. Chen") and include the following materials:
 
-* CV 
-* Cover letter
+* CV: [download template for a reference](https://bloch-elkouby-lab.github.io/website/team/CV_Template.docx)
+* Cover letter: 1-2 pages, talk about how your research interest AND personal, academic experiences, and skills align with the lab focus 
 * Supporting materials: can be anything from academic writing sample, unofficial transcripts, and Python scripts to unofficial research documents
 
 If you would like to be considered for a senior RA position, please indicate this in your email.
