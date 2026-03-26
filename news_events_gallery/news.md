@@ -23,6 +23,22 @@ permalink: /news/
 {% include section.html %}
 {% capture text %}
 
+  Congratulations to our lab’s PsyD student, **Talia Rosen**, on her poster presentation on Ferkauf Research Day. 
+  
+  {% endcapture %}
+
+  {%
+  include feature.html
+  image="news_events_gallery/new_images/talia-ferkaf-poster.jpeg"
+  title="March 25th, 2026"
+  text=text
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+%}
+  {% capture text %}
+
   We are delighted to announce the promotion of **Yongxue (Angel) Wei** to the role of research coordinator in our lab. Angel has been an invaluable member of our team, and we are sincerely grateful for her dedication and thoughtful contributions across our research initiatives. This well-deserved promotion reflects her hard work and commitment, and we are excited to see her continue to thrive in this new role. achievement!
 
   {% endcapture %}
