@@ -22,7 +22,7 @@ Lab members have opportunities to contribute to ongoing lab projects, develop th
 
 ## Current Openings
 
-We are actively recruiting research assistants as of March 14, 2026. We anticipate recruiting 2–3 experienced (senior) RAs and 5–8 junior RAs for volunteer positions.
+We are actively recruiting research assistants as of March 31, 2026. In addition to applicants we have recruited this round, we anticipate further recruiting 1-2 experienced (senior) RAs and 2–5 junior RAs for volunteer positions.
 
 Our lab is preparing to launch two large-scale studies in September 2026. Accordingly, we are seeking two senior RAs who may serve as team leads for these projects. The senior RA positions will be selected specifically for the upcoming studies, based on applicants’ experience, skills, and alignment of their research interests with the projects.
 
@@ -38,7 +38,7 @@ The lab cannot sponsor the OPT STEM extension unless the individual is promoted 
 Please title your email "RA Application: [Your Name]" (e.g., "RA Application: Jimmy P. Chen") and include the following materials:
 
 * CV: [download template for a reference](https://bloch-elkouby-lab.github.io/website/team/CV_Template.docx)
-* Cover letter: 1-2 pages, talk about how your research interest AND personal, academic experiences, and skills align with the lab focus 
+* Cover letter: 1-2 pages, talk about how your research interest AND personal, academic experiences, and skills align with the **lab focus** 
 * Supporting materials: can be anything from academic writing sample, unofficial transcripts, and Python scripts to unofficial research documents
 
 If you would like to be considered for a senior RA position, please indicate this in your email.
