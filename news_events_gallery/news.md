@@ -18,6 +18,25 @@ permalink: /news/
 {% include search-info.html %}
 
 
+<!--April 2026-->
+{% include section.html %}
+{% capture text %}
+
+  Congratulations and welcome to the new RAs who have joined the lab: **Nhi Duong**, **Kate Van Houten**, **Baixi Zhang**! We’re excited to have you on board and look forward to achieving great things together!
+  
+  {% endcapture %}
+
+  {%
+  include feature-carousel.html
+  images="images/profile-Nhi_Duong.JPG,images/profile-kate_van_houten.png,images/profile-baixi_zhang.jpg"
+  title="April 6th, 2026"
+  text=text
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
 
 <!--March 2026-->
 {% include section.html %}
