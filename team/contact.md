@@ -22,7 +22,7 @@ Lab members have opportunities to contribute to ongoing lab projects, develop th
 
 ## Current Openings
 
-We are actively recruiting research assistants as of April 4, 2026. In addition to applicants we have recruited this round, we anticipate further recruiting potentiall 1 experienced (senior) RAs and 2–5 junior RAs for volunteer positions.
+We are actively recruiting research assistants as of April 10, 2026. In addition to applicants we have recruited this round, we anticipate further recruiting potentially 2–5 junior RAs for volunteer positions.
 
 Our lab is preparing to launch two large-scale studies in September 2026. Accordingly, we are seeking two senior RAs who may serve as team leads for these projects. The senior RA positions will be selected specifically for the upcoming studies, based on applicants’ experience, skills, and alignment of their research interests with the projects.
 
