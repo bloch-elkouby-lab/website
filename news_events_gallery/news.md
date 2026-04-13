@@ -22,7 +22,7 @@ permalink: /news/
 {% include section.html %}
 {% capture text %}
 
-  Congratulations and welcome to the new RAs who have joined the lab: **Nhi Duong**, **Kate Van Houten**, **Baixi Zhang**, **Sam Welsh**! We’re excited to have you on board and look forward to achieving great things together!
+  Congratulations and welcome to the new RAs who have joined the lab: **Nhi Duong**, **Kate Van Houten**, **Baixi Zhang**, and **Sam Welsh**! We’re excited to have you on board and look forward to achieving great things together!
   
   {% endcapture %}
 
