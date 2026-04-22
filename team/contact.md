@@ -28,12 +28,6 @@ Our lab is preparing to launch two large-scale studies in September 2026. Accord
 
 Applications will be reviewed on a rolling basis.
 
-## International Students
-
-The lab cannot sponsor H-1B visas. Applicants who are not US citizens or greencard holders must obtain employment authorization themselves before they can participate in the lab work. The lab can support students with F-1 visas to obtain employment authorization through OPT or CPT.
-
-The lab cannot sponsor the OPT STEM extension unless the individual is promoted to a lab manager or research coordinator position, and external funding is secured.
-
 ## Application Instructions
 Please title your email "RA Application: [Your Name]" (e.g., "RA Application: Jimmy P. Chen") and include the following materials:
 
