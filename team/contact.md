@@ -22,11 +22,7 @@ Lab members have opportunities to contribute to ongoing lab projects, develop th
 
 ## Current Openings
 
-We are actively recruiting research assistants as of April 10, 2026. In addition to applicants we have recruited this round, we anticipate further recruiting potentially 2–5 junior RAs for volunteer positions.
-
-Our lab is preparing to launch two large-scale studies in September 2026. Accordingly, we are seeking two senior RAs who may serve as team leads for these projects. The senior RA positions will be selected specifically for the upcoming studies, based on applicants’ experience, skills, and alignment of their research interests with the projects.
-
-Applications will be reviewed on a rolling basis.
+We are not recruiting research assistants as of April 25, 2026. 
 
 ## Application Instructions
 Please title your email "RA Application: [Your Name]" (e.g., "RA Application: Jimmy P. Chen") and include the following materials:
@@ -35,13 +31,11 @@ Please title your email "RA Application: [Your Name]" (e.g., "RA Application: Ji
 * Cover letter: 1-2 pages, talk about how your research interest AND personal, academic experiences, and skills align with the **lab focus** 
 * Supporting materials: can be anything from academic writing sample, unofficial transcripts, and Python scripts to unofficial research documents
 
-If you would like to be considered for a senior RA position, please indicate this in your email.
-
 Requirements: 
 * **Attend the weekly team meeting (Mondays, 11:00 AM-12:15 PM US Eastern Time/UTC+5, via Zoom)**
 * **Being proactive in taking lab tasks and flexible in scheduling project meetings**
 * **Make a minimun one year commitment (two years preferred)**
-* **Commit 6-10 hours per week to lab activities**
+* **Commit 10-15 hours per week to lab activities**
 
 ### Preferred Qualifications
 <div class="dense-list" markdown="1">
@@ -57,17 +51,6 @@ Relevant skills may include:
 * Academic writing
 * Academic achievement
 
-
-
-### Preferred qualifications for senior RAs:
-Senior RAs ideally have experience with:
-
-* Supervising study administrations with human participants (e.g., overseeing junior RAs and managing participant-related issues)
-* Conducting independent data analyses, including at least one advanced statistical method beyond t-tests or ANOVA
-* Clinical research design, including sample size considerations and operationalizing research variables
-* Working effectively with AI tools and research technologies
-
-
 ### Interviews
 
 Most applicants with some research experience and a good overlap between the lab's research directions and the applicant's research interests will be offered an interview. Applicants who supply dishonest materials and make substantially exaggerated claims about their abilities will be immediately disqualified. 
@@ -81,6 +64,7 @@ If you are offered a position and decide to accept it, the administrative coordi
 ## Lab Environment/Culture
 It should be noted that:
 * Dr. Bloch-Elkouby tends to assign urgent tasks with deadlines that range from a few hours to a few days. Although it has **NEVER** been a requirement to take urgent tasks, diligence and availability are needed for promotions and extra strong letters of recommendation.
+* You cannot use AI to faciliate your work without prior consultation with Dr. Bloch-Elkouby, Jimmy, Angel, or Hanjiang. The lab treats the issue very very very seriously. It's not an absolute ban, but it is by default banned. 
 
 Please be assured that:
 * We have open communication.

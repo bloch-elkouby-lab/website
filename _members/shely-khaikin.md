@@ -1,9 +1,9 @@
 ---
 name: Shely Khaikin, B.A.
 image: images/profile-shely_khaikin.jpg
-description: Research Assistant
-role: RA
+description: Alumni
+role: alum
 
 ---
 
-To be updated. 
+Shely joined the lab in 2025 and was accepted to Case Western Reserve University in 2026.
