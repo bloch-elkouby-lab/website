@@ -22,13 +22,13 @@ permalink: /news/
 {% include section.html %}
 {% capture text %}
 
-  Congratulations and welcome to the new RAs who have joined the lab: **Nhi Duong**, **Kate Van Houten**, **Baixi Zhang**, and **Sam Welsh**! We’re excited to have you on board and look forward to achieving great things together!
+  Congratulations and welcome to the new RAs who have joined the lab: **Kate Van Houten**, **Baixi Zhang**, and **Sam Welsh**! We’re excited to have you on board and look forward to achieving great things together!
   
   {% endcapture %}
 
   {%
   include feature-carousel.html
-  images="images/profile-Nhi_Duong.JPG,images/profile-kate_van_houten.png,images/profile-baixi_zhang.jpg,images/profile-sam_welsh.jpg"
+  images="images/profile-kate_van_houten.png,images/profile-baixi_zhang.jpg,images/profile-sam_welsh.jpg"
   title="April 6th, 2026"
   text=text
   flip=false
