@@ -17,6 +17,25 @@ permalink: /news/
 
 {% include search-info.html %}
 
+<!--May 2026-->
+{% include section.html %}
+{% capture text %}
+
+  Congratulations to Adelaide on her outstanding achievement of being selected as a recipient of the Society for the Advancement of Psychotherapy's (SAP) Student Research Grant through APA Division 29. Once again, congratulations on this well-deserved recognition of her hard work and commitment!
+  
+  {% endcapture %}
+
+  {%
+  include feature-carousel.html
+  images="news_events_gallery/new_images/Society for the Advancement of Psychotherapy (APA Div 29) Logo.jpg"
+  title="May 11th, 2026"
+  text=text
+  flip=true
+  fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
 
 <!--April 2026-->
 {% include section.html %}
