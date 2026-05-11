@@ -26,8 +26,8 @@ permalink: /news/
   {% endcapture %}
 
   {%
-  include feature-carousel.html
-  images="news_events_gallery/new_images/Society for the Advancement of Psychotherapy (APA Div 29) Logo.jpg"
+  include feature.html
+  image="news_events_gallery/new_images/Society for the Advancement of Psychotherapy (APA Div 29) Logo.jpg"
   title="May 11th, 2026"
   text=text
   flip=true
