@@ -21,13 +21,13 @@ permalink: /news/
 {% include section.html %}
 {% capture text %}
 
-  Congratulations to Adelaide on her outstanding achievement of being selected as a recipient of the Society for the Advancement of Psychotherapy's (SAP) Student Research Grant through APA Division 29. Once again, congratulations on this well-deserved recognition of her hard work and commitment!
+  Congratulations to Adelaide Jones on her outstanding achievement of being selected as a recipient of the Society for the Advancement of Psychotherapy (SAP) Student Research Grant through APA Division 29 for her project, “Expanding and Modernizing Routine Outcome Monitoring at a Community Mental Health Clinic: A Case Study.” Congratulations again on this well-deserved recognition of her hard work and commitment!
   
   {% endcapture %}
 
   {%
-  include feature.html
-  image="news_events_gallery/new_images/Society for the Advancement of Psychotherapy (APA Div 29) Logo.jpg"
+  include feature-carousel.html
+  images="images/profile-adelaide_jones.jpg, news_events_gallery/new_images/Society for the Advancement of Psychotherapy (APA Div 29) Logo.jpg"
   title="May 11th, 2026"
   text=text
   flip=true
