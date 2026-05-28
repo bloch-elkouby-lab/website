@@ -12,6 +12,14 @@ permalink: /events/
 
 ## Upcoming on June 5, Psychology Grand Rounds (Psychology CE-eligible)
 
+<div style="text-align:center;">
+  <img
+    src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/events_images/sarah bloch-elkouby grand rounds.png"
+    alt="Psychology Grand Rounds Flyer"
+    style="width:60%; max-width:700px;"
+  >
+</div>
+
 We are excited to announce that Dr. Bloch-Elkouby will be presenting at the Psychology Grand Rounds on Friday, June 5th, from 12:00 PM – 1:00 PM via Zoom. In this talk, Dr. Bloch-Elkouby will examine the therapeutic alliance as both a central challenge and a powerful clinical tool when working with high-risk, suicidal patients. Drawing on empirical research, she will highlight the complex interplay of patient factors (e.g., trauma, concealment of suicidal thoughts), clinician factors (e.g., emotional responses, clinical judgment), and systemic challenges in establishing effective alliances and conducting effective risk assessments. She will then present several pathways to address these challenges, focusing on the combination of suicide prevention and alliance-focused tools including the Narrative Crisis Model, the Suicide Crisis Syndrome and alliance-focused frameworks. Finally, she will discuss cutting-edge training approaches, including the use of artificial intelligence and virtual patients, to strengthen clinicians’ ability to build, monitor, and repair the alliance in real time with high-risk populations.
 
 Learning Objectives: By the end of this presentation, participants will be able to:
@@ -24,13 +32,7 @@ Psychology CE Credits: A CE attendance link will be posted to the chat once duri
 
 If you are interested in attending, please contact our Lab Manager Jimmy Chen <jimmypengyuchen@gmail.com>, or our lab Administrative Coordinator Hanjiang Xu <hanjiangxu.26@gmail.com> to recieve the Zoom link. We look forward to seeing you there!
 
-<div style="text-align:center;">
-  <img
-    src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/events_images/sarah bloch-elkouby grand rounds.png"
-    alt="Psychology Grand Rounds Flyer"
-    style="width:60%; max-width:700px;"
-  >
-</div>
+
 
 ## NASPR 2026 Conference
 
