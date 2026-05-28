@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42169029
+  title: Patterns of suicidal ideation disclosure among acute psychiatric inpatients.
+  authors:
+  - Erica R Garagiola
+  - Yukti Bhatt
+  - Hannah Lawrence
+  - Victoria Witerska
+  - Talia Rosen
+  - Igor Galynker
+  - Sara Bloch-Elkouby
+  publisher: Annals of general psychiatry
+  date: '2026-05-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42169029
+  term: Bloch-Elkouby, S[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:41655855
   title: 'The clinician rated suicide crisis syndrome checklist (SCS-C): Structure,
     reliability, and concurrent validity among adult psychiatric inpatients.'
@@ -469,3 +485,615 @@
   term: Bloch-Elkouby, S[Author]
   plugin: pubmed.py
   file: pubmed.yaml
+- id: doi:10.1016/j.psychres.2025.116846
+  title: Can training clinicians in emotional awareness using virtual patient interactions
+    improve the therapeutic alliance with psychiatric outpatients and reduce suicidal
+    outcomes?
+  authors:
+  - Sarah Bloch-Elkouby
+  - Benjamin Johnson
+  - Jimmy P. Chen
+  - Rawad El Hayek
+  - Adelaide Jones
+  - Tamara Eid
+  - Alexander Gomes de Siqueira
+  - Yael Apter
+  - Heng Yao
+  - Benjamin Lok
+  - Adriana Foster
+  - Igor Galynker
+  publisher: Psychiatry Research
+  date: '2026-02-01'
+  link: https://doi.org/hb5v6d
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JAD.2026.121341
+  title: 'The clinician rated suicide crisis syndrome checklist (SCS-C): Structure,
+    reliability, and concurrent validity among adult psychiatric inpatients'
+  authors:
+  - Sarah Bloch-Elkouby
+  - Rawad El-Hayek
+  - Lisa Cohen
+  - Jimmy Pengyu Chen
+  - Bernard Gorman
+  - Yael Apter
+  - Erin Wheeler
+  - Byounyoung Park
+  - Anna Stefania Prekas
+  - Igor Galynker
+  publisher: Journal of Affective Disorders
+  date: '2026-06-01'
+  link: https://doi.org/hb5v6g
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s41347-024-00470-2
+  title: "Mental Health Providers\u2019 Perspectives on the Use of Virtual Patient\
+    \ Interactions for Clinical Training in Working with Acutely Suicidal Patients"
+  authors:
+  - Olivia C. Lawrence
+  - Amber Wolfe
+  - Megan L. Rogers
+  - Sarah Bloch-Elkouby
+  - Devon Peterkin
+  - Benjamin Lok
+  - Heng Yao
+  - Alexander Gomes de Siqueira
+  - Serge Mitelman
+  - Adriana Foster
+  - Igor Galynker
+  publisher: Journal of Technology in Behavioral Science
+  date: '2025-05-15'
+  link: https://doi.org/hb5v6h
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FPSYT.2025.1627463
+  title: 'Suicide Crisis Syndrome: examining supporting evidence and barriers to diagnostic
+    validity'
+  authors:
+  - Igor Galynker
+  - Lisa Cohen
+  - Anna Stefania Prekas
+  - Sarah Bloch-Elkouby
+  - Mary King
+  - Yael Apter Levy
+  publisher: Frontiers in Psychiatry
+  date: '2025-09-22'
+  link: https://doi.org/hb5v6j
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4135/9781071886229.n441
+  title: Suicide, Preparatory Behavior
+  authors:
+  - Inna Goncearenco
+  - Aditya Bhise
+  - Jason Tortora
+  - Runqin Shi
+  - Sarah Bloch-Elkouby
+  publisher: The Sage Encyclopedia of Mood and Anxiety Disorders
+  date: '2025-01-01'
+  link: https://doi.org/hb5v6k
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5753/jbcs.2024.4665
+  title: "Effects of Nonsensical Responses in Virtual Human Simulations on Clinicians\u2019\
+    \ Empathic Communication and Emotional Responses"
+  authors:
+  - Alexandre Gomes de Siqueira
+  - Heng Yao
+  - Sarah Bloch-Elkouby
+  - Megan L. Rogers
+  - Olivia C. Lawrence
+  - Devon Peterkin
+  - Sifan Zheng
+  - Kathleen Feeney
+  - Erica D. Musser
+  - Igor Galynker
+  - Benjamin Lok
+  publisher: Journal of the Brazilian Computer Society
+  date: '2024-10-28'
+  link: https://doi.org/hb5v6m
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3691573.3691597
+  title: Enhancing Virtual Human Interactions by Designing a Real-Time Dialog Filter
+    for Mitigating Nonsensical Responses
+  authors:
+  - Alexandre Gomes de Siqueira
+  - Heng Yao
+  - Sarah Bloch-elkouby
+  - Olivia Lawrence
+  - Giuseppe Sarli
+  - Megan L. Rogers
+  - Rohith Venkatakrishnan
+  - Roshan Venkatakrishnan
+  - Igor Galynker
+  - Benjamin Lok
+  publisher: Symposium on Virtual and Augmented Reality
+  date: '2024-09-30'
+  link: https://doi.org/hb5v6p
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PONE.0299048
+  title: 'Machine learning approach for the development of a crucial tool in suicide
+    prevention: The Suicide Crisis Inventory-2 (SCI-2) Short Form'
+  authors:
+  - Gabriele P. De Luca
+  - Neelang Parghi
+  - Rawad El Hayek
+  - Sarah Bloch-Elkouby
+  - Devon Peterkin
+  - Amber Wolfe
+  - Megan L. Rogers
+  - Igor Galynker
+  publisher: PLOS ONE
+  date: '2024-05-10'
+  link: https://doi.org/gtwktg
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/WPS.21229
+  title: 'Suicide crisis syndrome: a specific diagnosis to aid suicide prevention'
+  authors:
+  - Igor Galynker
+  - "Sarah Bloch\u2010Elkouby"
+  - Lisa J. Cohen
+  publisher: World Psychiatry
+  date: '2024-09-16'
+  link: https://doi.org/hb5v6r
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S12909-024-05371-9
+  title: The impact of scaffolded and non-scaffolded suicidal virtual human interaction
+    training on clinician emotional self-awareness, empathic communication, and clinical
+    efficacy
+  authors:
+  - Heng Yao
+  - Alexandre Gomes de Siqueira
+  - Megan L. Rogers
+  - Sarah Bloch-Elkouby
+  - Olivia Lawrence
+  - Giuseppe Sarli
+  - Adriana Foster
+  - Serge A. Mitelman
+  - Igor Galynker
+  - Benjamin Lok
+  publisher: BMC Medical Education
+  date: '2024-04-15'
+  link: https://doi.org/g8nw8z
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PMIP.2024.100130
+  title: The narrative crisis model of suicide as a framework for suicide prevention
+  authors:
+  - Megan L. Rogers
+  - Sarah Bloch-Elkouby
+  - Inna Goncearenco
+  - Lisa J. Cohen
+  - Charles B. Nemeroff
+  - Igor Galynker
+  publisher: Personalized Medicine in Psychiatry
+  date: '2024-07-01'
+  link: https://doi.org/hbmvcs
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PMIP.2024.100131
+  title: 'The narrative crisis model of suicide: A review of empirical evidence for
+    an innovative dynamic model of suicide and a comparison with other theoretical
+    frameworks'
+  authors:
+  - Sarah Bloch-Elkouby
+  - Megan L. Rogers
+  - Inna Goncearenco
+  - Nadia Yanez
+  - Charles Nemeroff
+  - Lakshmi Chennapragada
+  - Lisa J. Cohen
+  - Igor Galynker
+  publisher: Personalized Medicine in Psychiatry
+  date: '2024-07-01'
+  link: https://doi.org/hb5v6s
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1027/0227-5910/A000911
+  title: "A Suicide-Specific Diagnosis \u2013 The Case For"
+  authors:
+  - Lisa J. Cohen
+  - Benedetta Imbastaro
+  - Devon Peterkin
+  - Sarah Bloch-Elkouby
+  - Amber Wolfe
+  - Igor Galynker
+  publisher: Crisis
+  date: '2023-05-01'
+  link: https://doi.org/hb5v6v
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.30773/PI.2022.0208
+  title: Factor Structure and Validation of the Revised Suicide Crisis Inventory in
+    a Korean Population
+  authors:
+  - Ji Yoon Park
+  - Megan L. Rogers
+  - Sarah Bloch-Elkouby
+  - Jenelle A. Richards
+  - Sungwoo Lee
+  - Igor Galynker
+  - Sungeun You
+  publisher: Psychiatry Investigation
+  date: '2023-02-25'
+  link: https://doi.org/hb5v6w
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10503307.2022.2079439
+  title: "Renegotiating tasks or goals as rupture repair: A task analysis in a cognitive\u2013\
+    behavioral therapy for personality disorder"
+  authors:
+  - J. Christopher Muran
+  - Catherine F. Eubanks
+  - Lauren M. LIPNER
+  - Sarah Bloch-Elkouby
+  publisher: Psychotherapy Research
+  date: '2022-06-01'
+  link: https://doi.org/p6j4
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11126-023-10038-7
+  title: Stressful Life Events and Near-term Suicidal Risk in a Clinical Population
+  authors:
+  - Lisa J. Cohen
+  - Michelle Hernandez
+  - Radwa Mokhtar
+  - Jenelle Richards
+  - Sarah Bloch-Elkouby
+  - Megan L. Rogers
+  - Igor Galynker
+  publisher: Psychiatric Quarterly
+  date: '2023-07-11'
+  link: https://doi.org/g8tpwx
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S40596-023-01909-Z
+  title: "Using Virtual Patients to Assess and Improve Clinicians\u2019 Emotional\
+    \ Self-awareness: a Randomized Controlled Study"
+  authors:
+  - Giuseppe Sarli
+  - Megan L. Rogers
+  - Sarah Bloch-Elkouby
+  - Olivia C. Lawrence
+  - Alexandre Gomes de Siqueira
+  - Heng Yao
+  - Benjamin Lok
+  - Adriana Foster
+  - Igor Galynker
+  publisher: Academic Psychiatry
+  date: '2023-12-06'
+  link: https://doi.org/hb5v6z
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ACPS.13511
+  title: "Who are the patients who deny suicidal intent? Exploring patients' characteristics\
+    \ associated with self\u2010disclosure and denial of suicidal intent"
+  authors:
+  - "Sarah Bloch\u2010Elkouby"
+  - "Sigal Zilcha\u2010Mano"
+  - Megan L. Rogers
+  - Ji Yoon Park
+  - Katherine Manlongat
+  - Mia Krumerman
+  - Igor Galynker
+  publisher: Acta Psychiatrica Scandinavica
+  date: '2022-12-18'
+  link: https://doi.org/grnr9z
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1037/PST0000416
+  title: Alliance-focused safety planning and suicide risk management.
+  authors:
+  - Sarah Bloch-Elkouby
+  - Shira Barzilay
+  publisher: Psychotherapy
+  date: '2022-06-01'
+  link: https://doi.org/hb5v62
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/SLTB.12824
+  title: Associations between clinicians' emotion regulation, treatment recommendations,
+    and patient suicidal ideation
+  authors:
+  - Shira Barzilay
+  - Amanda Gagnon
+  - Zimri S. Yaseen
+  - Lakshmi Chennapragada
+  - Lauren Lloveras
+  - "Sarah Bloch\u2010Elkouby"
+  - Igor Galynker
+  publisher: Suicide and Life-Threatening Behavior
+  date: '2021-12-16'
+  link: https://doi.org/gpcznc
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PSYCHRES.2022.114522
+  title: 'Differential disclosure of suicidal intent to clinicians versus researchers:
+    Associations with concurrent suicide crisis syndrome and prospective suicidal
+    ideation and attempts'
+  authors:
+  - Megan L. Rogers
+  - Sarah Bloch-Elkouby
+  - Igor Galynker
+  publisher: Psychiatry Research
+  date: '2022-06-01'
+  link: https://doi.org/hb5v64
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/SLTB.12816
+  title: "The Narrative\u2010Crisis Model of suicide and its prediction of near\u2010\
+    term suicide risk"
+  authors:
+  - Lisa Janet Cohen
+  - Radwa Mokhtar
+  - Jenelle Richards
+  - Michelle Hernandez
+  - "Sarah Bloch\u2010Elkouby"
+  - Igor Galynker
+  publisher: Suicide and Life-Threatening Behavior
+  date: '2021-11-11'
+  link: https://doi.org/hb5v66
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/09515070.2021.1997916
+  title: 'The beginning of the end: a comparison of treatment completers and early
+    dropouts in trainee-provided time-limited cognitive behavioral therapy'
+  authors:
+  - Adelya A. Urmanche
+  - Lauren M. Lipner
+  - Sarah Bloch-Elkouby
+  - Elaine Hunter
+  - Jerzy Kaufmann
+  - Jonathan T. Warren
+  - Gregory T. Weil
+  - Catherine F. Eubanks
+  - J. Christopher Muran
+  publisher: Counselling Psychology Quarterly
+  date: '2021-11-11'
+  link: https://doi.org/pqb6
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3489849.3489864
+  title: "Investigating the Effects of Virtual Patients\u2019 Nonsensical Responses\
+    \ on Users\u2019 Facial Expressions in Mental Health Training Scenarios"
+  authors:
+  - Alexandre Gomes de Siqueira
+  - Heng Yao
+  - Anokhi Bafna
+  - Sarah Bloch-Elkouby
+  - Jenelle Richards
+  - Lauren B. Lloveras
+  - Kathleen Feeney
+  - Stephanie Morris
+  - Erica D. Musser
+  - Benjamin Lok
+  - Igor Galynker
+  publisher: Proceedings of the 27th ACM Symposium on Virtual Reality Software and
+    Technology
+  date: '2021-12-08'
+  link: https://doi.org/hb5v68
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JAD.2021.08.048
+  title: 'The revised suicide crisis inventory (SCI-2): Validation and assessment
+    of prospective suicidal outcomes at one month follow-up'
+  authors:
+  - Sarah Bloch-Elkouby
+  - Shira Barzilay
+  - Bernard S. Gorman
+  - Olivia C. Lawrence
+  - Megan L. Rogers
+  - Jenelle Richards
+  - Lisa J. Cohen
+  - Benjamin N. Johnson
+  - Igor Galynker
+  publisher: Journal of Affective Disorders
+  date: '2021-12-01'
+  link: https://doi.org/gm9zms
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PSYCHRES.2021.114118
+  title: 'The role of suicide ideation in assessing near-term suicide risk: A machine
+    learning approach'
+  authors:
+  - Lauren McMullen
+  - Neelang Parghi
+  - Megan L. Rogers
+  - Heng Yao
+  - Sarah Bloch-Elkouby
+  - Igor Galynker
+  publisher: Psychiatry Research
+  date: '2021-10-01'
+  link: https://doi.org/gtwkpb
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ACPS.13354
+  title: "Validity of the modular assessment of risk for imminent suicide in predicting\
+    \ short\u2010term suicidality"
+  authors:
+  - Megan L. Rogers
+  - Allison Vespa
+  - "Sarah Bloch\u2010Elkouby"
+  - Igor Galynker
+  publisher: Acta Psychiatrica Scandinavica
+  date: '2021-08-10'
+  link: https://doi.org/gmmtq3
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JAD.2020.06.053
+  title: Assessment of near-term risk for suicide attempts using the suicide crisis
+    inventory
+  authors:
+  - Shira Barzilay
+  - Krystel Assounga
+  - Jacqueline Veras
+  - Courtnie Beaubian
+  - Sarah Bloch-Elkouby
+  - Igor Galynker
+  publisher: Journal of Affective Disorders
+  date: '2020-11-01'
+  link: https://doi.org/ghrkst
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/DA.22973
+  title: Associations between clinicians' emotional responses, therapeutic alliance,
+    and patient suicidal ideation
+  authors:
+  - Shira Barzilay
+  - Allison Schuck
+  - "Sarah Bloch\u2010Elkouby"
+  - Zimri S. Yaseen
+  - Mariah Hawes
+  - Paul Rosenfield
+  - Adriana Foster
+  - Igor Galynker
+  publisher: Depression and Anxiety
+  date: '2019-11-15'
+  link: https://doi.org/ggd94c
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1037/COU0000400
+  title: Can we agree we just had a rupture? Patient-therapist congruence on ruptures
+    and its effects on outcome in brief relational therapy versus cognitive-behavioral
+    therapy.
+  authors:
+  - Sigal Zilcha-Mano
+  - Catherine F. Eubanks
+  - Sarah Bloch-Elkouby
+  - J. Christopher Muran
+  publisher: Journal of Counseling Psychology
+  date: '2020-04-01'
+  link: https://doi.org/gksttp
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JAD.2020.08.088
+  title: How do distal and proximal risk factors combine to predict suicidal ideation
+    and behaviors? A prospective study of the narrative crisis model of suicide
+  authors:
+  - Sarah Bloch-Elkouby
+  - Bernard Gorman
+  - Lauren Lloveras
+  - Timothy Wilkerson
+  - Allison Schuck
+  - Shira Barzilay
+  - Raffaella Calati
+  - David Schnur
+  - Igor Galynker
+  publisher: Journal of Affective Disorders
+  date: '2020-12-01'
+  link: https://doi.org/ghg9w9
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JAD.2019.12.001
+  title: 'The Modular Assessment of Risk for Imminent Suicide (MARIS): A validation
+    study of a novel tool for suicide risk assessment'
+  authors:
+  - Raffaella Calati
+  - Lisa J. Cohen
+  - Allison Schuck
+  - Dorin Levy
+  - Sarah Bloch-Elkouby
+  - Shira Barzilay
+  - Paul J. Rosenfield
+  - Igor Galynker
+  publisher: Journal of Affective Disorders
+  date: '2020-02-01'
+  link: https://doi.org/grzrtx
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1037/COU0000423
+  title: 'The suicide crisis syndrome: A network analysis.'
+  authors:
+  - Sarah Bloch-Elkouby
+  - Bernard Gorman
+  - Allison Schuck
+  - Shira Barzilay
+  - Raffaella Calati
+  - Lisa J. Cohen
+  - Ferhana Begum
+  - Igor Galynker
+  publisher: Journal of Counseling Psychology
+  date: '2020-10-01'
+  link: https://doi.org/gmhz5x
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/BSL.2397
+  title: "Suicide Crisis Syndrome: A review of supporting evidence for a new suicide\u2010\
+    specific diagnosis"
+  authors:
+  - Allison Schuck
+  - Raffaella Calati
+  - Shira Barzilay
+  - "Sarah Bloch\u2010Elkouby"
+  - Igor Galynker
+  publisher: Behavioral Sciences &amp; the Law
+  date: '2019-03-21'
+  link: https://doi.org/gjzmkv
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FPSYG.2019.01180
+  title: 'The Difficult Task of Assessing and Interpreting Treatment Deterioration:
+    An Evidence-Based Case Study'
+  authors:
+  - Sarah Bloch-Elkouby
+  - Catherine F. Eubanks
+  - Lauren Knopf
+  - Bernard S. Gorman
+  - J. Christopher Muran
+  publisher: Frontiers in Psychology
+  date: '2019-07-03'
+  link: https://doi.org/g9vh3q
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1037/INT0000062
+  title: 'Assimilative psychodynamic psychotherapy: A critical case study reconsideration.'
+  authors:
+  - Sarah Bloch-Elkouby
+  - Lauren Knopf
+  - Jerold Gold
+  - J. Christopher Muran
+  publisher: Journal of Psychotherapy Integration
+  date: '2017-01-01'
+  link: https://doi.org/hb5v7f
+  orcid: 0000-0003-1555-3137
+  plugin: orcid.py
+  file: orcid.yaml
