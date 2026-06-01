@@ -1,5 +1,5 @@
 ---
-name: Kate Van Houten, B.S.
+name: Kate Van Houten, M.A.
 image: images/profile-kate_van_houten.png
 description: Research Assistant
 role: RA
