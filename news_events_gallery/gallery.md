@@ -8,10 +8,12 @@ permalink: /gallery/
 
 # Gallery
 
-{% include gallery-multi-picture.html 
-    title="R01 Grant Submission Celebration Party " 
-    images="news_events_gallery/gallery_images/R01_party1.PNG, news_events_gallery/gallery_images/R01_party2.jpg" 
+<div style="max-width: 60%; margin: 0 auto;">
+  {% include gallery-multi-picture.html 
+      title="<div style='text-align: center;'>R01 Grant Submission Celebration Party</div>" 
+      images="news_events_gallery/gallery_images/R01_party1.PNG, news_events_gallery/gallery_images/R01_party2.jpg" 
   %}
+</div>
 
 {% include gallery-picture.html
   image="news_events_gallery/gallery_images/2026.01.27-Milktea.jpg"
