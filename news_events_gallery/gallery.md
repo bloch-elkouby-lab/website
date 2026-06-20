@@ -20,10 +20,12 @@ permalink: /gallery/
   caption="Milktea 2026"
 %}
 
-{% include gallery-picture.html
+<div style="max-width: 60%; margin: 0 auto;">
+  {% include gallery-picture.html
   image="news_events_gallery/gallery_images/2026.01.06-Hotpot.jpg"
   caption="Hotpot 2026"
-%}
+  %}
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; width: 100%; text-align: left;">
 
