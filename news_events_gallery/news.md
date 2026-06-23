@@ -17,6 +17,34 @@ permalink: /news/
 
 {% include search-info.html %}
 
+
+<!--June 2026-->
+{% include section.html %}
+{% capture text %}
+
+  We are thrilled to share that the 57th International Annual Meeting of the Society for Psychotherapy Research (SPR) begins tomorrow in Osaka, Japan!
+
+  Our lab will have a strong presence at this year's conference, with more than 14 presentations across panels, structured discussions, and poster sessions.
+
+  Dr. Sarah Bloch-Elkouby will chair a panel on the integration of artificial intelligence in psychotherapy research, lead a structured discussion on routine outcome monitoring, and serve as an invited discussant on three additional panels. In addition, members of our lab will present 13 posters spanning a wide range of topics, reflecting the depth and breadth of our ongoing research.
+
+  We look forward to connecting with colleagues from around the world, sharing our work, and contributing to the conversations shaping the future of psychotherapy research. For more information regarding the conference program, please visit the <a href="https://sites.google.com/view/naspr-2026-conference/home/">2026 NASPR confernece website</a>.
+
+  {% endcapture %}
+
+  {%
+  include feature.html
+  image="news_events_gallery/new_images/spr2026_banner.png"
+  title="June 23rd, 2026"
+  text=text
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
+
+
 <!--May 2026-->
 {% include section.html %}
 {% capture text %}
