@@ -20,7 +20,7 @@ permalink: /posters/
 
 <h2 id="2026">2026</h2>
 
-<ins>Chen, J. P.</ins>, <ins>Guo, L.</ins>, <ins>Wei, Y.</ins>, <ins>Bhise, A.</ins>, <ins>Yang, J.</ins>, & **Bloch-Elkouby, S.** (2026, Jun 24-27). *Disproportionate impact of technological disruptions on suicide risk assessment in Black virtual patients* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
+<ins>Chen, J. P.</ins>, <ins>Guo, L.</ins>, <ins>Wei, Y.</ins>, <ins>Bhise, A.</ins>, <ins>Yang, J.</ins>, & **Bloch-Elkouby, S.** (2026, Jun 24-27). [*Disproportionate impact of technological disruptions on suicide risk assessment in Black virtual patients*](https://bloch-elkouby-lab.github.io/website/posters/spr2026_chen/) [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
 
 <ins>Khaikin, S.</ins>, Lipner, L., <ins>Shvarzman, R.</ins>, Gorman, B., Muran, J. C., Eubanks, C. F., & **Bloch-Elkouby, S.** (2026, June 24-27). 3RS-SR: Virtual patient validation study [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
 
@@ -31,8 +31,6 @@ permalink: /posters/
 <ins>Wei, Y.</ins>, <ins>Yang, J.</ins>, <ins>Wakely, M.</ins>, <ins>Khaikin, S.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Relationship between clinicians’ demographics and their self-reported comfort level and competency in working with high-risk patients* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
 
 <ins>Xu, H.</ins>, <ins>Chen, J. P.</ins>, <ins>Yang, J.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Assessing psychometric properties of suicide crisis syndrome checklist (SCS-C) using a standardized virtual patient* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
-
-<ins>Yang, J.</ins>, <ins> Wei, Y.</ins>, <ins>Chen, J. P.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Computational case conceptualization for suicide crisis syndrome: Generating individualized treatment predictions* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
 
 
 <h2 id="2025">2025</h2>
