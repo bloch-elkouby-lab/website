@@ -1,6 +1,6 @@
 ---
 title: "SPR2026 - LastName"
-permalink: /posters/spr2025_lastname/
+permalink: /posters/spr2026_lastname/
 ---
 ## {% include icon.html icon="fa-solid fa-feather-pointed" %} FirstName LastName's Poster
 
@@ -9,11 +9,11 @@ permalink: /posters/spr2025_lastname/
 by **FirstName LastName**<sup>Superscript</sup>, & Sarah Bloch-Elkouby <sup>Superscript</sup>
 
 1 Icahn School of Medicine at Mount Sinai in New York City
-2 Teachers College, Columbia University in the City of New York
-3 Ferkauf Graduate School of Psychology, Yeshiva University
+2 Ferkauf Graduate School of Psychology, Yeshiva University
+3 Teachers College, Columbia University in the City of New York
 
 {% include figure.html
-   image="research/spr2025/spr2026_lastname.jpg"
+   image="research/spr2026/spr2026_lastname.jpg"
 %}
 
 ### Background: ###

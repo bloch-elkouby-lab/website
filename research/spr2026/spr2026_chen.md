@@ -1,5 +1,5 @@
 ---
-title: "SPR2026 - LastName"
+title: "SPR2026 - Chen"
 permalink: /posters/spr2026_chen/
 ---
 ## {% include icon.html icon="fa-solid fa-feather-pointed" %} Jimmy P. Chen's Poster
