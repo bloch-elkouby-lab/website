@@ -20,7 +20,7 @@ by **Jimmy P. Chen**<sup>1,2</sup>, Lilian Guo<sup>1,2,3</sup>, Yongxue Wei<sup>
 
 The disproportionate under- and mis-diagnoses of suicide risk in Black populations have been well documented. However, few studies have investigated how race impacts the diagnostic interview process, which is the gateway to most diagnoses, and renders the clinical judgement inaccurate. 
 
-To close the gap, the current study leverages AI-powered virtual patient (VP) system, which <span style="font-size: 150%;">**a novel tool for psychotherapy research and clinician training**</span>, more powerful than vignettes to demonstrate psychotherapy process in vivo and equally faithful as standardized patients (Bloch-Elkouby et al., 2026). 
+To close the gap, the current study leverages AI-powered virtual patient (VP) system, which <span style="font-size: 120%;">**a novel tool for psychotherapy research and clinician training**</span>, more powerful than vignettes to demonstrate psychotherapy process in vivo and equally faithful as standardized patients (Bloch-Elkouby et al., 2026). 
 
 Despite many advantages, the intent-matching based VP system supported by Google DialogFlow exhibits technological disruptions, including **intent mismatches** that result in **nonsense responses** and **intent no matches** that output a **fallback request to rephrase**. Previous research established that disruptions negatively impacted clinicians’ facial affective behaviors and therapeutic alliance (Gomes de Siqueira et al., 2021, 2024). 
 
@@ -28,7 +28,7 @@ Provided the disproportionate impact of race on suicide-related clinical judgeme
 
 
 ### Hypothesis: ###
-<span style="font-size: 150%;">H1: Technical disruptions significantly predict clinician’s perception of suicide ideation (H1a), suicide crisis (H1b), and overall suicide risk (H1c).
+<span style="font-size: 120%;">H1: Technical disruptions significantly predict clinician’s perception of suicide ideation (H1a), suicide crisis (H1b), and overall suicide risk (H1c).
 H2: The relationship between technical disruptions and suicide ideation (H2a), suicide crisis (H2b), and overall suicide risk (H2c) is moderated by virtual patient’s race. </span>
 
 ### Method: ###
@@ -87,7 +87,6 @@ H2: The relationship between technical disruptions and suicide ideation (H2a), s
 | CPS | V2 | b × VP Race (.022) | R² = .098, p = .136 |
 | CPS | V3 | b × VP Race (.012) | R² = .127, p = .086 |
 | CPS | V4 | b × VP Race (.012) | R² = .123, p = .043 |
-|
 
 ### Discussion: ###
 
