@@ -545,17 +545,20 @@
   
   
 
-  <section class="background" data-size="1.1em" style="--image: url('/website/#FFFDF7;%20line-height:%200;%20width:%20100%25')">
+  <section class="background" data-size="15px !important" style="--image: url('/website/#FFFDF7;%20line-height:%200;%20width:%20100%25')">
     <h1 id="gallery">Gallery</h1>
 
 <h2 id="spr-2026">SPR 2026</h2>
 <style>
-  .multi-picture-gallery h3, 
-  .multi-picture-gallery .title { 
-    font-size: 1.1em; 
-    color: black !important; 
-    font-weight: 600; 
-    margin-bottom: 10px; 
+  /* This catches any heading, paragraph, or div inside the gallery blocks */
+  .gallery-box h3, 
+  .gallery-box h4, 
+  .gallery-box h5, 
+  .gallery-box p, 
+  .gallery-box div {
+    font-size: 15px !important;  /* Adjust this number to make it bigger/smaller */
+    color: #000000 !important;   /* Forces text to be pure black */
+    font-weight: 600 !important; /* Keeps it looking like a clean title */
   }
 </style>
 
