@@ -39,7 +39,7 @@ permalink: /gallery/
 
   {% include gallery-multi-picture.html 
     title="Panel titled: Revolutionizing Psychotherapy and Trainingwith Al: Insights from Virtual Human Interactions, NLP, and AI acceptability Studies" 
-    images="news_events_gallery/spr2026_images/bloch-talk-1.jpg, news_events_gallery/spr2026_images/blocktalk2.jpg"   
+    images="news_events_gallery/spr2026_images/panel2.jpg, news_events_gallery/spr2026_images/panel3.jpg, news_events_gallery/spr2026_images/panel4.jpg, news_events_gallery/spr2026_images/panel1.jpg"   
   %}
 
   {% include gallery-multi-picture.html 
