@@ -20,6 +20,12 @@ permalink: /gallery/
     font-size: 20px !important;  
     color: #000000 !important;   
     font-weight: 600 !important; 
+
+  /* FIXES FOR SPACING: */
+    letter-spacing: -0.2px !important; /* Tightens the space between individual letters */
+    line-height: 1.2 !important;       /* Pulls lines closer together if the title wraps to a second line */
+    margin-bottom: 6px !important;     /* Reduces the gap between the title and the images underneath */
+    margin-top: 0px !important;        /* Prevents the theme from pushing the title down too far */
   }
 </style>
 
