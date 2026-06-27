@@ -9,6 +9,16 @@ permalink: /gallery/
 # Gallery
 
 ## SPR 2026
+<style>
+  .multi-picture-gallery h3, 
+  .multi-picture-gallery .title { 
+    font-size: 1.1em; 
+    color: black !important; 
+    font-weight: 600; 
+    margin-bottom: 10px; 
+  }
+</style>
+
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; width: 100%; text-align: left;">
 
   {% include gallery-multi-picture.html 
@@ -23,7 +33,7 @@ permalink: /gallery/
 
   {% include gallery-multi-picture.html 
     title="In person poster by Jimmy Chen" 
-    images="news_events_gallery/spr2026_images/jimmyposter1.jpg, news_events_gallery/spr2026_images/jimmyposter2.jpg, news_events_gallery/spr2026_images/jimmyposter3.jpg"   
+    images="news_events_gallery/spr2026_images/jimmyposter2.jpg, news_events_gallery/spr2026_images/jimmyposter1.jpg, news_events_gallery/spr2026_images/jimmyposter3.jpg"   
   %}
 
   {% include gallery-multi-picture.html 
@@ -55,7 +65,6 @@ permalink: /gallery/
 
 
 ## Past Events
-
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; width: 100%; text-align: left;">
 
   {% include gallery-multi-picture.html 
