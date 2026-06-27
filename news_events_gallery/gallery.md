@@ -8,6 +8,31 @@ permalink: /gallery/
 
 # Gallery
 
+## SPR 2026
+<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; width: 100%; text-align: left;">
+
+  {% include gallery-multi-picture.html 
+    title="Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics" 
+    images="news_events_gallery/spr2026_images/discussion1.jpg, news_events_gallery/spr2026_images/discussion2.jpg" 
+  %}
+
+  {% include gallery-multi-picture.html 
+    title="Panel titled: Revolutionizing Psychotherapy and Trainingwith Al: Insights from Virtual Human Interactions, NLP, and AI acceptability Studies" 
+    images="news_events_gallery/spr2026_images/bloch-talk-1.jpg, news_events_gallery/spr2026_images/blocktalk2.jpg, news_events_gallery/spr2026_images/talk3.jpg"   
+  %}
+
+  {% include gallery-multi-picture.html 
+    title="In person poster by Jimmy Chen" 
+    images="news_events_gallery/spr2026_images/jimmyposter1.jpg, news_events_gallery/spr2026_images/jimmyposter2.jpg, news_events_gallery/spr2026_images/jimmyposter3.jpg"   
+  %}
+
+  {% include gallery-multi-picture.html 
+    title="Outstanding Early Career Achievement Award" 
+    images="news_events_gallery/spr2026_images/award1.jpg, news_events_gallery/spr2026_images/award2.jpg, news_events_gallery/spr2026_images/award3.jpg, news_events_gallery/spr2026_images/award4.jpg"   
+%}
+</div>
+
+## Lab Outings
 <div style="max-width: 80%; margin: 0 auto;">
   {% include gallery-multi-picture.html 
       title="<div style='text-align: center;'>R01 Grant Submission Celebration Party</div>" 
@@ -15,17 +40,21 @@ permalink: /gallery/
   %}
 </div>
 
-{% include gallery-picture.html
+<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; width: 100%; text-align: left;">
+
+  {% include gallery-picture.html
   image="news_events_gallery/gallery_images/2026.01.27-Milktea.jpg"
   caption="Milktea 2026"
-%}
+  %}
 
-
-{% include gallery-picture.html
+  {% include gallery-picture.html
   image="news_events_gallery/gallery_images/2026.01.06-Hotpot.jpg"
   caption="Hotpot 2026"
 %}
+</div>
 
+
+## Past Events
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; width: 100%; text-align: left;">
 
