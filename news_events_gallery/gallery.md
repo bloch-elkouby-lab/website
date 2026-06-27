@@ -10,12 +10,15 @@ permalink: /gallery/
 
 ## SPR 2026
 <style>
-  .multi-picture-gallery h3, 
-  .multi-picture-gallery .title { 
-    font-size: 1.1em; 
-    color: black !important; 
-    font-weight: 600; 
-    margin-bottom: 10px; 
+  /* This catches any heading, paragraph, or div inside the gallery blocks */
+  .gallery-box h3, 
+  .gallery-box h4, 
+  .gallery-box h5, 
+  .gallery-box p, 
+  .gallery-box div {
+    font-size: 15px !important;  /* Adjust this number to make it bigger/smaller */
+    color: #000000 !important;   /* Forces text to be pure black */
+    font-weight: 600 !important; /* Keeps it looking like a clean title */
   }
 </style>
 
@@ -77,7 +80,3 @@ permalink: /gallery/
     images="news_events_gallery/new_images/IASR3.jpeg,news_events_gallery/new_images/IASR2.jpeg,news_events_gallery/new_images/IASR7.jpg, news_events_gallery/new_images/IASR6 with shira.jpg, news_events_gallery/new_images/IASR5.jpeg,news_events_gallery/new_images/IASR4.jpeg,news_events_gallery/new_images/IASR1.jpeg, news_events_gallery/new_images/IASR8.jpg,news_events_gallery/new_images/IASR9.jpg" 
 %}
 </div>
-
-
-
-
