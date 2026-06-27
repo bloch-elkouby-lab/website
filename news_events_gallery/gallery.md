@@ -34,7 +34,7 @@ permalink: /gallery/
 
   {% include gallery-multi-picture.html 
     title="Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics" 
-    images="news_events_gallery/spr2026_images/discussion1.jpg, news_events_gallery/spr2026_images/discussion2.jpg" 
+    images="news_events_gallery/spr2026_images/ROMdiscussion1.jpg, news_events_gallery/spr2026_images/ROMdiscussion2.jpg, news_events_gallery/spr2026_images/ROMdiscussion3.jpg, news_events_gallery/spr2026_images/ROMdiscussion4.jpg" 
   %}
 
   {% include gallery-multi-picture.html 
