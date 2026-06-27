@@ -12,9 +12,11 @@ by **Jimmy P. Chen**<sup>1,2</sup>, Lilian Guo<sup>1,2,3</sup>, Yongxue Wei<sup>
 2 Ferkauf Graduate School of Psychology, Yeshiva University
 3 Teachers College, Columbia University in the City of New York
 
-{% include figure.html
-   image="research/spr2026/spr2026_chen.jpg"
-%}
+<div style="max-width: 400px; margin: 0 auto;">
+  {% include figure.html
+     image="research/spr2026/spr2026_chen.jpg"
+  %}
+</div>
 
 ### Background: ###
 
