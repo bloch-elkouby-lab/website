@@ -9,15 +9,17 @@ permalink: /gallery/
 # Gallery
 
 <style>
-  /* This catches any heading, paragraph, or div inside the gallery blocks */
+  /* This catches titles in the multi-galleries AND captions in the single galleries */
   .gallery-box h3, 
   .gallery-box h4, 
   .gallery-box h5, 
   .gallery-box p, 
+  .gallery-box figcaption, /* Added for standard HTML captions */
+  .gallery-box span,
   .gallery-box div {
-    font-size: 15px !important;  /* Adjust this number to make it bigger/smaller */
-    color: #000000 !important;   /* Forces text to be pure black */
-    font-weight: 600 !important; /* Keeps it looking like a clean title */
+    font-size: 20px !important;  
+    color: #000000 !important;   
+    font-weight: 600 !important; 
   }
 </style>
 
@@ -54,7 +56,7 @@ permalink: /gallery/
   %}
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; width: 100%; text-align: left;">
+<div class="gallery-box" style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; width: 100%; text-align: left;">
 
   {% include gallery-picture.html
   image="news_events_gallery/gallery_images/2026.01.27-Milktea.jpg"
