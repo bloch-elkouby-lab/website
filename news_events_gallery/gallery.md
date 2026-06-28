@@ -8,6 +8,8 @@ permalink: /gallery/
 
 # Gallery
 
+## SPR 2026
+
 <table>
   <thead>
     <tr>
@@ -20,12 +22,12 @@ permalink: /gallery/
   <tbody>
     <tr>
       <td colspan="3" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="" width="550">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="" width="500">
         <br>
         <sub> </sub>
       </td>
       <td colspan="3" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="" width="550">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="" width="500">
         <br>
         <sub> </sub>
       </td>
@@ -43,6 +45,45 @@ permalink: /gallery/
       </td>
       <td colspan="2" align="center" valign="top">
         <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion5.jpg" alt=" " width="450">
+        <br>
+        <sub> </sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="4" align="center">
+        <font size="3"><b>Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics</b></font>
+      </th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/panel1.jpg" alt="" width="500">
+        <br>
+        <sub> </sub>
+      </td>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/panel2.jpg" alt="" width="500">
+        <br>
+        <sub> </sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/panel3.jpg" alt=" " width="450">
+        <br>
+        <sub> </sub>
+      </td>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/panel4.jpg" alt=" " width="450">
         <br>
         <sub> </sub>
       </td>
@@ -72,8 +113,6 @@ permalink: /gallery/
     margin-top: 0px !important;        /* Prevents the theme from pushing the title down too far */
   }
 </style> -->
-
-## SPR 2026
 
 <div class="gallery-box" style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; width: 100%; text-align: left;">
 
