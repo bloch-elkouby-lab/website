@@ -20,19 +20,19 @@ permalink: /gallery/
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="news_events_gallery/spr2026_images/ROMdiscussion3.jpg" alt="test" width="200">
+        <img src="bloch-elkouby-lab/website/news_events_gallery/spr2026_images/ROMdiscussion3.jpg" alt="test" width="200">
         <br>
         <sub>Day 1: Sunset Beach</sub>
       </td>
     <tr>
       <td align="center" valign="top">
-        <img src="news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="Hiking in forest" width="200">
+        <img src="bloch-elkouby-lab/website/news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="Hiking in forest" width="200">
         <br>
         <sub>Day 3: Redwood Hike</sub>
       </td>
     <tr>
       <td align="center" valign="top">
-        <img src="news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="Local market" width="200">
+        <img src="bloch-elkouby-lab/website/news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="Local market" width="200">
         <br>
         <sub>Day 5: Downtown Market</sub>
       </td>
