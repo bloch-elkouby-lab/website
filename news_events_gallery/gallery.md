@@ -12,7 +12,7 @@ permalink: /gallery/
   <thead>
     <tr>
       <th colspan="4" align="center">
-        <font size="2"><b>Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics</b></font>
+        <font size="1"><b>Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics</b></font>
       </th>
     </tr>
   </thead>
@@ -20,24 +20,32 @@ permalink: /gallery/
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="Placeholder 1" width="300">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="" width="400">
         <br>
-        <sub>Discussants</sub>
+        <sub> </sub>
       </td>
       <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="Placeholder 2" width="300">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="" width="400">
         <br>
-        <sub>Day 3: Redwood Hike</sub>
+        <sub> </sub>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion3.jpg" alt=" " width="400">
+        <br>
+        <sub> </sub>
       </td>
       <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion3.jpg" alt="Placeholder 3" width="300">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion4.jpg" alt=" " width="400">
         <br>
-        <sub>Day 5: Downtown Market</sub>
+        <sub> </sub>
       </td>
       <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion4.jpg" alt="Placeholder 3" width="300">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion5.jpg" alt=" " width="400">
         <br>
-        <sub>Day 5: Downtown Market</sub>
+        <sub> </sub>
       </td>
     </tr>
   </tbody>
