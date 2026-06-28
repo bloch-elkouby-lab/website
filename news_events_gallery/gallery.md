@@ -11,38 +11,38 @@ permalink: /gallery/
 <table>
   <thead>
     <tr>
-      <th colspan="4" align="center">
-        <font size="1"><b>Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics</b></font>
+      <th colspan="6" align="center">
+        <font size="3"><b>Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics</b></font>
       </th>
     </tr>
   </thead>
 
   <tbody>
     <tr>
-      <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="" width="400">
+      <td colspan="3" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="" width="600">
         <br>
         <sub> </sub>
       </td>
-      <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="" width="400">
+      <td colspan="3" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="" width="600">
         <br>
         <sub> </sub>
       </td>
       <td></td>
     </tr>
     <tr>
-      <td align="center" valign="top">
+      <td colspan="2" align="center" valign="top">
         <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion3.jpg" alt=" " width="400">
         <br>
         <sub> </sub>
       </td>
-      <td align="center" valign="top">
+      <td colspan="2" align="center" valign="top">
         <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion4.jpg" alt=" " width="400">
         <br>
         <sub> </sub>
       </td>
-      <td align="center" valign="top">
+      <td colspan="2" align="center" valign="top">
         <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion5.jpg" alt=" " width="400">
         <br>
         <sub> </sub>
