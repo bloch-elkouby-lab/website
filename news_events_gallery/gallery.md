@@ -10,6 +10,7 @@ permalink: /gallery/
 
 ## SPR 2026
 
+<!-- Discussion -->
 <table>
   <thead>
     <tr>
@@ -22,29 +23,29 @@ permalink: /gallery/
   <tbody>
     <tr>
       <td colspan="3" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="" width="500">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="" width="450">
         <br>
         <sub> </sub>
       </td>
       <td colspan="3" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="" width="500">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="" width="450">
         <br>
         <sub> </sub>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion3.jpg" alt=" " width="450">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion3.jpg" alt=" " width="400">
         <br>
         <sub> </sub>
       </td>
       <td colspan="2" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion4.jpg" alt=" " width="450">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion4.jpg" alt=" " width="400">
         <br>
         <sub> </sub>
       </td>
       <td colspan="2" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion5.jpg" alt=" " width="450">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion5.jpg" alt=" " width="400">
         <br>
         <sub> </sub>
       </td>
@@ -53,12 +54,12 @@ permalink: /gallery/
 </table>
 
 
-
+<!-- Panel -->
 <table>
   <thead>
     <tr>
       <th colspan="4" align="center">
-        <font size="3"><b>Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics</b></font>
+        <font size="3"><b>Panel titled: Revolutionizing Psychotherapy and Trainingwith Al: Insights from Virtual Human Interactions, NLP, and AI acceptability Studies</b></font>
       </th>
     </tr>
   </thead>
@@ -66,24 +67,24 @@ permalink: /gallery/
   <tbody>
     <tr>
       <td colspan="2" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/panel1.jpg" alt="" width="500">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/panel1.jpg" alt="" width="400">
         <br>
         <sub> </sub>
       </td>
       <td colspan="2" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/panel2.jpg" alt="" width="500">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/panel2.jpg" alt="" width="400">
         <br>
         <sub> </sub>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/panel3.jpg" alt=" " width="450">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/panel3.jpg" alt=" " width="400">
         <br>
         <sub> </sub>
       </td>
       <td colspan="2" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/panel4.jpg" alt=" " width="450">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/panel4.jpg" alt=" " width="400">
         <br>
         <sub> </sub>
       </td>
@@ -91,6 +92,43 @@ permalink: /gallery/
   </tbody>
 </table>
 
+<!-- Award -->
+<table>
+  <thead>
+    <tr>
+      <th colspan="4" align="center">
+        <font size="3"><b>Outstanding Early Career Achievement Award</b></font>
+      </th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award1.jpg" alt="" width="400">
+        <br>
+        <sub> </sub>
+      </td>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award2.jpg" alt="" width="400">
+        <br>
+        <sub> </sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award3.jpg" alt=" " width="400">
+        <br>
+        <sub> </sub>
+      </td>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award4.jpg" alt=" " width="400">
+        <br>
+        <sub> </sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- 
 <style>
@@ -114,6 +152,7 @@ permalink: /gallery/
   }
 </style> -->
 
+<!-- 
 <div class="gallery-box" style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; width: 100%; text-align: left;">
 
   {% include gallery-multi-picture.html 
@@ -135,7 +174,7 @@ permalink: /gallery/
     title="Outstanding Early Career Achievement Award" 
     images="news_events_gallery/spr2026_images/award1.jpg, news_events_gallery/spr2026_images/award2.jpg, news_events_gallery/spr2026_images/award3.jpg, news_events_gallery/spr2026_images/award4.jpg"   
   %}
-</div>
+</div> -->
 
 
 ## Lab Outings
