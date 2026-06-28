@@ -11,8 +11,8 @@ permalink: /gallery/
 <table>
   <thead>
     <tr>
-      <th colspan="3" align="center">
-        <h3>📸 Summer Vacation Photos</h3>
+      <th colspan="4" align="center">
+        <h3> Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics </h3>
       </th>
     </tr>
   </thead>
@@ -20,17 +20,22 @@ permalink: /gallery/
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="https://picsum.photos/200" alt="Placeholder 1">
+        <img src="https://bloch-elkouby-lab/website/news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="Placeholder 1">
         <br>
-        <sub>Day 1: Sunset Beach</sub>
+        <sub>Discussants</sub>
       </td>
       <td align="center" valign="top">
-        <img src="https://picsum.photos/201" alt="Placeholder 2">
+        <img src="https://bloch-elkouby-lab/website/news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="Placeholder 2">
         <br>
         <sub>Day 3: Redwood Hike</sub>
       </td>
       <td align="center" valign="top">
-        <img src="https://picsum.photos/202" alt="Placeholder 3">
+        <img src="https://bloch-elkouby-lab/website/news_events_gallery/spr2026_images/ROMdiscussion3.jpg" alt="Placeholder 3">
+        <br>
+        <sub>Day 5: Downtown Market</sub>
+      </td>
+      <td align="center" valign="top">
+        <img src="https://bloch-elkouby-lab/website/news_events_gallery/spr2026_images/ROMdiscussion4.jpg" alt="Placeholder 3">
         <br>
         <sub>Day 5: Downtown Market</sub>
       </td>
@@ -61,25 +66,6 @@ permalink: /gallery/
 </style> -->
 
 ## SPR 2026
-
-<div class="image-gallery-frame">
-  <h3 class="gallery-title">Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics</h3>
-  
-  <ul class="image-grid">
-    <li>
-      <img src="news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="">
-      <p class="caption">Discussants</p>
-    </li>
-    <li>
-      <img src="news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="">
-      <p class="caption">need to add name</p>
-    </li>
-    <li>
-      <img src="news_events_gallery/spr2026_images/ROMdiscussion3.jpg" alt="">
-      <p class="caption">need to add name</p>
-    </li>
-    </ul>
-</div>
 
 <div class="gallery-box" style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; width: 100%; text-align: left;">
 
