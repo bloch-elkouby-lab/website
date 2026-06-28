@@ -12,7 +12,7 @@ permalink: /gallery/
   <thead>
     <tr>
       <th colspan="4" align="center">
-        <font size="4"><b>Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics</b></font>
+        <font size="2"><b>Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics</b></font>
       </th>
     </tr>
   </thead>
