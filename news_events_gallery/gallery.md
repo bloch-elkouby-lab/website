@@ -20,28 +20,29 @@ permalink: /gallery/
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab/website/news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="Placeholder 1">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="Placeholder 1">
         <br>
         <sub>Discussants</sub>
       </td>
       <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab/website/news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="Placeholder 2">
+        <img src="https://bloch-elkouby-lab.github.io/news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="Placeholder 2">
         <br>
         <sub>Day 3: Redwood Hike</sub>
       </td>
       <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab/website/news_events_gallery/spr2026_images/ROMdiscussion3.jpg" alt="Placeholder 3">
+        <img src="https://bloch-elkouby-lab.github.io/news_events_gallery/spr2026_images/ROMdiscussion3.jpg" alt="Placeholder 3">
         <br>
         <sub>Day 5: Downtown Market</sub>
       </td>
       <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab/website/news_events_gallery/spr2026_images/ROMdiscussion4.jpg" alt="Placeholder 3">
+        <img src="https://bloch-elkouby-lab.github.io/news_events_gallery/spr2026_images/ROMdiscussion4.jpg" alt="Placeholder 3">
         <br>
         <sub>Day 5: Downtown Market</sub>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 <!-- 
 <style>
