@@ -545,66 +545,42 @@
   
   
 
-  <section class="background" data-size="1.8em" style="--image: url('/website/#FFFDF7;%20line-height:%200;%20width:%20100%25')">
+  <section class="background" data-size="20px !important" style="--image: url('/website/#FFFDF7;%20line-height:%200;%20width:%20100%25')">
     <h1 id="gallery">Gallery</h1>
 
-<p>/* Styling for the Main Outer Frame (the Box) <em>/
-.image-gallery-frame {
-  border: 3px solid #666; /</em> The main frame/box border <em>/
-  border-radius: 12px; /</em> Rounds the corners <em>/
-  padding: 25px;
-  max-width: 900px; /</em> Constrains the width <em>/
-  margin: 30px auto; /</em> Centers the whole gallery on the page <em>/
-  background-color: #f9f9f9; /</em> Box background <em>/
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /</em> Adds depth */
-}</p>
+<div class="table-wrapper"><table>
+  <thead>
+    <tr>
+      <th colspan="3" align="center">
+<h3>📸 Summer Vacation Photos</h3>
+</th>
+    </tr>
+  </thead>
 
-<p>/* Styling for the Title within the Frame <em>/
-.gallery-title {
-  text-align: center;
-  margin-top: 0;
-  margin-bottom: 25px;
-  font-family: ‘Helvetica Neue’, Helvetica, sans-serif;
-  color: #333;
-  font-size: 1.8em;
-  padding-bottom: 10px;
-  border-bottom: 2px solid #ddd; /</em> A subtle line under the title */
-}</p>
-
-<p>/* Styling to Create the Grid Layout for the Images <em>/
-.image-grid {
-  display: grid; /</em> Uses modern CSS Grid layout <em>/
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /</em> Automatically adds columns <em>/
-  gap: 20px; /</em> Space between grid items <em>/
-  list-style-type: none; /</em> Removes bullet points */
-  padding: 0;
-  margin: 0;
-}</p>
-
-<p>/* Styling for Individual Image Containers */
-.image-grid li {
-  background-color: white;
-  border: 1px solid #eee;
-  border-radius: 8px;
-  padding: 10px;
-  text-align: center;
-}</p>
-
-<p>/* Styling to make the Images behave correctly <em>/
-.image-grid img {
-  max-width: 100%; /</em> Prevents images from overflowing <em>/
-  height: auto; /</em> Maintains aspect ratio <em>/
-  display: block; /</em> Removes baseline spacing issues */
-  margin: 0 auto;
-}</p>
-
-<p>/* Styling for the Small Caption underneath each Image */
-.caption {
-  margin: 10px 0 0 0;
-  font-size: 0.9em;
-  color: #555;
-  font-style: italic;
-}</p>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+<img src="news_events_gallery/spr2026_images/ROMdiscussion3.jpg" alt="test" width="200">
+<br>
+<sub>Day 1: Sunset Beach</sub>
+</td>
+    </tr>
+<tr>
+      <td align="center" valign="top">
+<img src="news_events_gallery/spr2026_images/ROMdiscussion2.jpg" alt="Hiking in forest" width="200">
+<br>
+<sub>Day 3: Redwood Hike</sub>
+</td>
+    </tr>
+<tr>
+      <td align="center" valign="top">
+<img src="news_events_gallery/spr2026_images/ROMdiscussion1.jpg" alt="Local market" width="200">
+<br>
+<sub>Day 5: Downtown Market</sub>
+</td>
+    </tr>
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 <!-- 
 <style>
@@ -628,7 +604,7 @@
   }
 </style> -->
 
-<h2 id="spr-2026">SPR 2026</h2>
+## SPR 2026
 
 <div class="image-gallery-frame">
   <h3 class="gallery-title">Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics</h3>
@@ -978,7 +954,8 @@
 </script>
 </div>
 
-<h2 id="lab-outings">Lab Outings</h2>
+
+## Lab Outings
 <div class="gallery-box" style="max-width: 80%; margin: 0 auto;">
   
 
@@ -1089,7 +1066,8 @@
 
 </div>
 
-<h2 id="past-events">Past Events</h2>
+
+## Past Events
 <div class="gallery-box" style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; width: 100%; text-align: left;">
 
   
@@ -1266,6 +1244,8 @@
 })();
 </script>
 </div>
+</tbody>
+</table></div>
   </section>
 
 
