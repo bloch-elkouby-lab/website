@@ -32,9 +32,9 @@ permalink: /news/
   {%
   include feature-carousel.html
   images="news_events_gallery/spr2026_images/awards5.jpg, news_events_gallery/spr2026_images/awards4.jpg, news_events_gallery/spr2026_images/awards3.jpg, news_events_gallery/spr2026_images/awards2.jpg"
-  title="May 11th, 2026"
+  title="June 24th, 2026"
   text=text
-  flip=true
+  flip=false
   fit=true
   align="left"
   style="bare"
