@@ -17,6 +17,28 @@ permalink: /news/
 
 {% include search-info.html %}
 
+<!--June 2026-->
+{% include section.html %}
+{% capture text %}
+
+  We are proud to share several exciting highlights from this year's Society for Psychotherapy Research (SPR) conference!
+  Dr. Bloch-Elkouby was honored to receive the Outstanding Early Career Achievement Award from the Society for Psychotherapy Research (SPR). This prestigious award recognizes exceptional scientific contributions and leadership by an early-career investigator (up to 10 years post doctoral degree) and reflects the innovative and collaborative research being carried out by our lab and our outstanding trainees.
+  We are also delighted to celebrate Amna Mariam, one of our research assistants, who received a Trainee Award from the North American Society chapter of SPR (NASPR) for her outstanding poster presentation.
+  Our lab also had an exceptional presence at the meetings, with 13 research assistants and doctoral students presenting posters spanning a wide range of projects. We are incredibly proud of their hard work, creativity, and excellent work. Congratulations to all of our presenters and award recipients on these well-deserved accomplishments!
+  
+  {% endcapture %}
+
+  {%
+  include feature.html
+  image="news_events_gallery/spr2026_images/awards5.jpg"
+  title="June 24th, 2026"
+  text=text
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
 
 <!--May 2026-->
 {% include section.html %}
