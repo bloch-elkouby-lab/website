@@ -21,13 +21,17 @@ permalink: /news/
 {% include section.html %}
 {% capture text %}
 
-  Congratulations to Adelaide Jones on her outstanding achievement in being selected as a recipient of the Society for the Advancement of Psychotherapy (SAP) Student Research Grant through APA Division 29 for her project, “Expanding and Modernizing Routine Outcome Monitoring at a Community Mental Health Clinic: A Case Study.” This well-deserved recognition highlights her hard work, dedication, and commitment to advancing research in psychotherapy and community mental health. Congratulations again, Adelaide!
+  We are proud to share several exciting highlights from this year's Society for Psychotherapy Research (SPR) conference!
+  Dr. Bloch-Elkouby was honored to receive the Outstanding Early Career Achievement Award from the Society for Psychotherapy Research (SPR). This prestigious award recognizes exceptional scientific contributions and leadership by an early-career investigator (up to 10 years post doctoral degree) and reflects the innovative and collaborative research being carried out by our lab and our outstanding trainees.
+  We are also delighted to celebrate Amna Mariam, one of our research assistants, who received a Trainee Award from the North American Society chapter of SPR (NASPR) for her outstanding poster presentation.
+  Our lab also had an exceptional presence at the meetings, with 13 research assistants and doctoral students presenting posters spanning a wide range of projects. We are incredibly proud of their hard work, creativity, and excellent work. Congratulations to all of our presenters and award recipients on these well-deserved accomplishments!
+
   
   {% endcapture %}
 
   {%
   include feature-carousel.html
-  images="images/profile-adelaide_jones.jpg, news_events_gallery/new_images/Society for the Advancement of Psychotherapy (APA Div 29) Logo.jpg"
+  images="news_events_gallery/spr2026_images/awards5.jpg, news_events_gallery/spr2026_images/awards4.jpg, news_events_gallery/spr2026_images/awards3.jpg, news_events_gallery/spr2026_images/awards2.jpg"
   title="May 11th, 2026"
   text=text
   flip=true
@@ -532,193 +536,3 @@ We are delighted to announce that our wonderful lab coordinator, Inna Goncearenc
   style="bare"
   text=text
 %}
-
-{% capture text %}
-
-We are thrilled to announce that several of our talented lab students have successfully matched with prestigious externship sites. Please join us in congratulating Ronit, Alexis, Adelaide and Shibani on their well-deserved success! We are incredibly proud of their accomplishments!
-
-*Ronit Shvarzman* matched with the Icahn School of Medicine at Mount Sinai – Psychosis Risk Program
-
-*Alexis Aberman* matched with the New York-Presbyterian-Westchester Behavioral Health Center Track 6: Inpatient DBT on the Self-Injurious Behavior Unit
-
-*Adelaide Jones* matched with the Brooklyn College Counseling Center
-
-*Shibani Datta* matched with the Montefiore - Adult Literacy Program
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/congratulations.jpg"
-  link=""
-  title=""
-  flip=true
-  fit=true
-  align="right"
-  style="bare"
-  text=text
-%}
-
-
-{% capture text %}
-
-
-Interested in learning more about suicide prevention and resiliency? Join us on Thursday, 4/4/2024 for a panel discussion, light dinner, and networking! This event is co-sponsored by the Yeshiva University Office of Alumni Affairs, Ferkauf Graduate School of Psychology, Wurzweiler School of Social Work, and the Yeshiva University Counseling Center and will feature Dr. Bloch-Elkouby and several other experts in suicide prevention.
-
-[Learn more about the presenters and register here](https://yeshiva.imodules.com/s/1739/images/gid5/editor_documents/flyer_mental_health_with_presenters.pdf?__hstc%253D56700149.127f235496b213a4ef0d3449dec71682.1709856000260.1709856000261.1709856000262.1%2526__hssc%253D56700149.1.1709856000263%2526__hsfp%253D3897018725%2526sessionid%253D768fc85d-13ba-45e9-b36e-e0a5da82a767%2526cc%253D1)
-
-
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="news_events_gallery/new_images/yu_flyer.png"
-  link=""
-  title=""
-  flip=false
-  fit=true
-  align="left"
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Congratulations to our amazing Research Assistant, Lucy Walsh, on getting matched for a prestigious internship at Mount Sinai Morningside in New York! We know that you will be an outstanding intern and we wish you great success!
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="news_events_gallery/new_images/morningside.jpeg"
-  link=""
-  title=""
-  flip=true
-  fit=true
-  align="left"
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-
-Congratulations, Inna, on the acceptance of your abstract “Hidden Barriers: Exploring Self-Disgust and Disgust with Others in Individuals with Concealed vs. Disclosed Past-Month Suicidal Ideation” for poster presentation at the 2024 APA Annual Meeting in New York, May 4 - 8.
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="news_events_gallery/new_images/apa 2024.png"
-  link=""
-  title=""
-  flip=false
-  fit=true
-  align="left"
-  style="bare"
-  text=text
-%}
-
-
-{% capture text %}
-
-
-Dr. Bloch-Elkouby will present preliminary findings about the therapeutic alliance and clinical judgment in therapeutic encounters with AI-powered virtual patients.
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="news_events_gallery/new_images/spr ottawa.png"
-  link=""
-  title=""
-  flip=false
-  fit=true
-  align="left"
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Congratulations, Alexis, on the acceptance of your abstract on the role of self-compassion as a change mechanism in suicide-specific psychotherapies for poster presentation at the SPR International Annual Meeting in Ottawa, Canada, June 26 – 29, 2024.
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="news_events_gallery/new_images/spr ottawa 3.png"
-  link=""
-  title=""
-  flip=true
-  fit=true
-  align="left"
-  style="bare"
-  text=text
-%}
-
-
-
-
-{% capture text %}
-
-Dr. Bloch-Elkouby will chair a symposium "Using cutting edge AI research to enhance clinical training and suicide prevention" at the upcoming ADAA 2024 conference in Boston on April 11 - 14, 2024.
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="news_events_gallery/new_images/adaa.jpeg"
-  link=""
-  title=""
-  flip=false
-  fit=true
-  align="left"
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-
-Dr. Bloch-Elkouby was awarded the Bergin and Garfield Emerging Scholar Award by Society for Psychotherapy Research.
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/Logo spr.png"
-  link=""
-  title=""
-  flip=true
-  fit=true
-  align="left"
-  style="bare"
-  text=text
-%}
-
-
-
-{% capture text %}
-
-
-American Foundation for Suicide Prevention awarded $1.5M FOCUS grant for the project "Effectivness of Diagnostic vs. Symptom-Only Suicide Crisis Syndrome Assessment (SCS-A) for post-discharge suicide prevention (Co-investigator: Dr. Bloch-Elkouby).
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/Logo afsp.png"
-  link=""
-  title=""
-  flip=false
-  fit=true
-  align="left"
-  style="bare"
-  text=text
-%}
-
-
-
-{% include section.html %}
