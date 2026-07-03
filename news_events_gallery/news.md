@@ -34,7 +34,7 @@ permalink: /news/
 
   {%
   include feature-carousel.html
-  images="news_events_gallery/spr2026_images/awards5.jpg, news_events_gallery/spr2026_images/award1.jpg, news_events_gallery/spr2026_images/award4.jpg, news_events_gallery/spr2026_images/award2.jpg"
+  images="news_events_gallery/spr2026_images/award8.png, news_events_gallery/spr2026_images/awards5.jpg, news_events_gallery/spr2026_images/award1.jpg, news_events_gallery/spr2026_images/award4.jpg, news_events_gallery/spr2026_images/award2.jpg"
   title="June 24th, 2026"
   text=text
   flip=false

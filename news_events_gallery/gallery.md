@@ -96,7 +96,7 @@ permalink: /gallery/
 <table>
   <thead>
     <tr>
-      <th colspan="4" align="center">
+      <th colspan="6" align="center">
         <font size="3"><b>Outstanding Early Career Achievement Award</b></font>
       </th>
     </tr>
@@ -105,12 +105,17 @@ permalink: /gallery/
   <tbody>
     <tr>
       <td colspan="2" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award1.jpg" alt="" width="400">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award8.jpg" alt="" width="400">
         <br>
         <sub> </sub>
       </td>
       <td colspan="2" align="center" valign="top">
         <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award2.jpg" alt="" width="400">
+        <br>
+        <sub> </sub>
+      </td>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award1.jpg" alt="" width="400">
         <br>
         <sub> </sub>
       </td>
@@ -122,7 +127,12 @@ permalink: /gallery/
         <sub> </sub>
       </td>
       <td colspan="2" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award4.jpg" alt=" " width="400">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award6.jpg" alt=" " width="400">
+        <br>
+        <sub> </sub>
+      </td>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award7.jpg" alt=" " width="400">
         <br>
         <sub> </sub>
       </td>
