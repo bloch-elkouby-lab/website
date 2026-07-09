@@ -20,7 +20,7 @@ permalink: /posters/
 
 <h2 id="2026">2026</h2>
 
-<ins>Bhise, A.</ins>, <ins>Datta, S.</ins>, <ins>Chen, J. P.</ins>, <ins>Wei, J.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27), *Suicidal Patients’ Race Affects Nuanced Aspects of Clinicians’ Clinical Judgement* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
+<ins>Bhise, A.</ins>, <ins>Datta, S.</ins>, <ins>Chen, J. P.</ins>, <ins>Wei, J.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Suicidal Patients’ Race Affects Nuanced Aspects of Clinicians’ Clinical Judgement* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
 
 <ins>Bourmpoulia, V.</ins>, <ins>Guo, L.</ins>, & **Bloch-Elkouby, S.** (2026, June 24-27). *Clinicians’ Emotion Dysregulation and Mindfulness in Suicide Risk Assessment During Virtual Patient Interactions* [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.
 

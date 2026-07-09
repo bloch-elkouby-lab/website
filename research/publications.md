@@ -192,10 +192,9 @@ Eubanks-Carter, C., **Bloch-Elkouby, S.**, Hungr, C., Muran, J. C., & Safran, J.
 
 <h2 id="Lecture">Invited Lectures</h2>
 
-Upcoming: **Bloch-Elkouby, S.** (2026, May). *The therapeutic alliance as a diagnostic and intervention tool with high-risk patients* [Invited grand rounds presentation]. Mount Sinai Medical Center, New York, NY, United States.
+**Bloch-Elkouby, S.** (2026, May). *The therapeutic alliance as a diagnostic and intervention tool with high-risk patients* [Invited grand rounds presentation]. Mount Sinai Medical Center, New York, NY, United States.
 
-Upcoming: **Bloch-Elkouby, S.** (2026, April 16). *Suicide prevention in rabbinic work and pastoral counseling* [Invited lecture]. Yeshivat Maharat, New York, NY, United States.
-
+**Bloch-Elkouby, S.** (2026, April 16). *Suicide prevention in rabbinic work and pastoral counseling* [Invited lecture]. Yeshivat Maharat, New York, NY, United States.
 
 **Bloch-Elkouby, S.** (2025, November 18). *The therapeutic alliance with high-risk patients: Challenges and opportunities* [Invited keynote address]. University Institute of Psychotherapy, University of Lausanne, Écublens, Vaud, Switzerland.
 
