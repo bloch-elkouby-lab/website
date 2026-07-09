@@ -22,12 +22,12 @@ Lab members have opportunities to contribute to ongoing lab projects, develop th
 
 ## Current Openings
 
-We are not recruiting research assistants as of April 25, 2026. 
+We are not recruiting research assistants as of July 9, 2026. However, you are welcome to reach out.
 
 ## Application Instructions
 Please title your email "RA Application: [Your Name]" (e.g., "RA Application: Jimmy P. Chen") and include the following materials:
 
-* CV: [download template for a reference](https://bloch-elkouby-lab.github.io/website/team/CV_Template.docx)
+* CV: [It is highly recommended that you check this template to follow the gross structure and include necessary details](https://bloch-elkouby-lab.github.io/website/team/CV_Template.docx)
 * Cover letter: 1-2 pages, talk about how your research interest AND personal, academic experiences, and skills align with the **lab focus** 
 * Supporting materials: can be anything from academic writing sample, unofficial transcripts, and Python scripts to unofficial research documents
 
