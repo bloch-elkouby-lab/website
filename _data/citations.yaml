@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42415546
+  title: Evaluating Concordance Between the Suicide Crisis Syndrome Checklist (SCS-C)
+    and Revised Suicide Crisis Inventory (SCI-2).
+  authors:
+  - Erin Wheeler
+  - Lisa J Cohen
+  - Sarah Bloch-Elkouby
+  - Rawad El Hayek
+  - Yael Apter Levy
+  - Victoria Witerska
+  - Igor Galynker
+  publisher: Crisis
+  date: '2026-07-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42415546
+  term: Bloch-Elkouby, S[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:42169029
   title: Patterns of suicidal ideation disclosure among acute psychiatric inpatients.
   authors:
