@@ -51,6 +51,12 @@ permalink: /funding/
 
 <!-- into cards -->
 
+{% include card.html
+   title="<b> Society for the Advancement of Psychotherapy's (SAP) Student Research Grant through APA Division 29 </b>"
+   description="<b>Title</b>: Expanding and Modernizing Routine Outcome Monitoring at a Community Mental Health Clinic: A Case Study.<br><b>Amount</b>: $5000<br><b>Role</b>: Research Mentor<br><b>PI</b>: Adelaide Jones<br><b>Awarded</b>: May 2026"
+   image="new_images/Society for the Advancement of Psychotherapy (APA Div 29) Logo.jpg"
+   style="featured"
+%}
 
 {% include card.html
    title="<b>John and Elaine Altmaier Depression Research Grant awarded to the North American chapter of the Society for Psychotherapy Research</b>"
