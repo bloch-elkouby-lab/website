@@ -104,6 +104,13 @@ permalink: /gallery/
 
   <tbody>
     <tr>
+      <td colspan="6" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award9.png" alt="" width="600">
+        <br>
+        <sub> </sub>
+      </td>
+    </tr>
+    <tr>
       <td colspan="2" align="center" valign="top">
         <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award8.png" alt="" width="400">
         <br>
