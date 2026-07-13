@@ -9,6 +9,8 @@ permalink: /research_awards/
 
 ## Research Awards
 
+<p>2025-2026  Outstanding Early Career Achievement Award from the Society for Psychotherapy Research (SPR)</p>
+
 <p>2024-2025	Bergin and Garfield Emerging Scholar Award, Society for Psychotherapy Research ($2,500)</p>
 
 <p>2023-2024	Bergin and Garfield Emerging Scholar Award, Society for Psychotherapy Research ($2,500)</p>
@@ -22,6 +24,13 @@ permalink: /research_awards/
 ## Mentored Student Research Awards
 
 Implicit Racial Bias and Clinician Emotional Responses in Psychotherapy: A Virtual Interaction Study
+
 Conference travel award from the North American Chapter of the Society for Psychotherapy Research ($1,000).
+
 Role: Research Mentor. Awardee: Ronit Shvarzman. 
 
+Empathy and Mindfulness as Moderators of Implicit Bias Effects on Therapeutic Alliance
+
+Trainee Award from the North American Society chapter of SPR (NASPR) 
+
+Role: Research Mentor. Awardee: Amna Maryam. 
