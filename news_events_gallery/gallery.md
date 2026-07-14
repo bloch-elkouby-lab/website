@@ -134,7 +134,7 @@ permalink: /gallery/
         <sub> </sub>
       </td>
       <td colspan="2" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award6.jpg" alt=" " width="400">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/spr2026_images/award6.png" alt=" " width="400">
         <br>
         <sub> </sub>
       </td>
