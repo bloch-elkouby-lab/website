@@ -6,6 +6,6 @@ permalink: /posters/spr2026_xu/
 
 <div style="max-width: 400px; margin: 0 auto;">
   {% include figure.html
-     image="research/spr2026/spr2026_chen.jpg"
+     image="research/spr2026/spr2026-hanjiang.png"
   %}
 </div>
