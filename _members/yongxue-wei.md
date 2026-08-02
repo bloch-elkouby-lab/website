@@ -1,5 +1,5 @@
 ---
-name: Yongxue (Angel) Wei, B.A.
+name: Yongxue (Angel) Wei, M.A.
 image: images/profile-yongxue_wei.jpg
 description: Research Coordinator
 role: rc

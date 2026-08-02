@@ -1,8 +1,8 @@
 ---
-name: Hanjiang Xu, B.S.
+name: Hanjiang Xu, M.A.
 image: images/profile-hanjiang_xu.PNG
 description: Research Coordinator
 role: rc
 ---
 
-Hanjiang is a current graduate student in the clinical psychology program at Teachers College, Columbia University. She received her B.S. degree in Psychology from the University of Washington. Her research interests include suicide prevention, theraputic alliance, and developing resilience. She also has a growing interest in emerging technology, such as AI, and how these new innovations can contribute to better mental health outcomes. Apart from her research interests, Hanjiang also enjoys digital drawing and reading. 
+Hanjiang is a graduate student in the clinical psychology program at Teachers College, Columbia University. She received her B.S. degree in Psychology from the University of Washington. Her research interests include suicide prevention, theraputic alliance, and emotion regulation. She also has a growing interest in emerging technology, such as AI, and how these new innovations can contribute to better mental health outcomes. Apart from her research interests, Hanjiang also enjoys digital drawing and reading. 

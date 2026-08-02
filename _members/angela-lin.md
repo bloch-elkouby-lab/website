@@ -1,5 +1,5 @@
 ---
-name: Angela Lin, B.S.
+name: Angela Lin, M.A.
 image: images/profile-angela_lin.jpeg
 description: Research Assistant
 role: RA
