@@ -28,6 +28,11 @@ permalink: /publications/
 
 <h2 id="2026">2026</h2>
 
+Wheeler, E., Cohen, L., **Bloch-Elkouby, S.**, El Hayek, R., Apter Levy, Y., Galynker, I. (2026).
+Evaluating the concordance Between the Suicide Crisis Syndrome- Checklist (SCS-C) and the Revised Suicide Crisis Syndrome Inventory (SCI-2). Crisis (In Press)
+
+Garagiola, E., Bhatt, Y., Lawrence, H., Witerska, V., <ins>Rosen, T.</ins>, Galynker, I., **Bloch-Elkouby, S.**, (2025) Patterns of Suicidal Ideation Disclosure in the last week preceding a suicidal attempt. Annals of General Psychiatry (In Press)
+
 **Bloch-Elkouby, S.**, El-Hayek, R., Cohen, L., <ins>Chen, J. P.</ins>, Gorman, B., Apter, Y., Wheeler, E., Park, B., <ins>Prekas, A. S.</ins>, & Galynker, I. (2026). The clinician rated suicide crisis syndrome checklist (SCS-C): Structure, reliability, and concurrent validity among adult psychiatric inpatients. _Journal of Affective Disorders, 402,_ 121341. [https://doi.org/10.1016/j.jad.2026.121341](https://doi.org/10.1016/j.jad.2026.121341)
 
 Boritz, T., **Bloch-Elkouby, S.**, DiBartolomeo, A., & <ins>Aberman, A.</ins> (2026). Alliance rupture and repair processes in borderline personality disorder. In A. Okamoto (Ed.), *Alliance rupture repair in cognitive behavioral therapies*. Springer, Cham.
