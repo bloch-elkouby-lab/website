@@ -28,8 +28,11 @@ permalink: /publications/
 
 <h2 id="2026">2026</h2>
 
-Wheeler, E., Cohen, L., **Bloch-Elkouby, S.**, El Hayek, R., Apter Levy, Y., Galynker, I. (2026).
-Evaluating the concordance Between the Suicide Crisis Syndrome- Checklist (SCS-C) and the Revised Suicide Crisis Syndrome Inventory (SCI-2). <ins>Crisis</ins> (In Press)
+Apter Levy, Y., Johnson B., **Bloch-Elkouby, S.**, Cohen L.J., & Galynker, I. (2026). Suicide Crisis Syndrome: Further Validation of an Innovative Concept. Plos One (In Press)
+
+Wheeler, E., Cohen, L. J., **Bloch-Elkouby, S.**, El Hayek, R., Levy, Y. A., Witerska, V., & Galynker, I. (2026). Evaluating concordance between the Suicide Crisis Syndrome Checklist (SCS-C) and Revised Suicide Crisis Inventory (SCI-2). Crisis: The Journal of Crisis Intervention and Suicide Prevention.
+ 
+Wheeler, E., Cohen, L. J., Sobrero, M., **Bloch-Elkouby, S.**, Lin, N., El Hayek, R., Apter Levy, Y., & Galynker, I. (2026). The development of the Digital Coercion Scale (DCS) and its association with suicide crisis syndrome (SCS). Journal of Psychiatric Research, 202, 60-68. https://doi.org/10.1016/j.jpsychires.2026.08.007
 
 Garagiola, E., Bhatt, Y., Lawrence, H., Witerska, V., <ins>Rosen, T.</ins>, Galynker, I., **Bloch-Elkouby, S.**, (2026) Patterns of Suicidal Ideation Disclosure in the last week preceding a suicidal attempt. <ins>Annals of General Psychiatry</ins> (In Press)
 
