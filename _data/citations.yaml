@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42585824
+  title: The development of the digital coercion scale (DCS) and its association with
+    suicide crisis syndrome (SCS).
+  authors:
+  - Erin Wheeler
+  - Lisa J Cohen
+  - Martina Sobrero
+  - Sarah Bloch-Elkouby
+  - Nina Lin
+  - Rawad El Hayek
+  - Yael Apter Levy
+  - Igor Galynker
+  publisher: Journal of psychiatric research
+  date: '2026-08-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42585824
+  term: Bloch-Elkouby, S[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:42415546
   title: Evaluating Concordance Between the Suicide Crisis Syndrome Checklist (SCS-C)
     and Revised Suicide Crisis Inventory (SCI-2).
