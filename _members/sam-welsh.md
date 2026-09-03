@@ -1,5 +1,5 @@
 ---
-name: Sam Welsh, B.A.
+name: Sam Welsh, M.A.
 image: images/profile-sam_welsh.jpg
 description: Research Assistant
 role: RA
