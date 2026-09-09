@@ -17,27 +17,6 @@ permalink: /news/
 {% include search-info.html %}
 
 
-<!--September 2026-->
-{% include section.html %}
-{% capture text %}
-
-  Lab website training yeahhh
-
-  
-  {% endcapture %}
-
-  {%
-  include feature.html
-  image="news_events_gallery/spr2026_images/award9.png"
-  title="Test"
-  text=text
-  flip=false
-  fit=true
-  align="left"
-  style="bare"
-%}
-{% include section.html %}
-
 
 <!--June 2026-->
 {% include section.html %}
