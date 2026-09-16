@@ -16,24 +16,23 @@ permalink: /news/
 
 {% include search-info.html %}
 
-<!--September 2026-->
+<!-- September 2026 -->
 {% include section.html %}
-{% capture text %}
 
-  Dr. Bloch-Elkbouby wrote a piece for World Suicide Prevention Day, published on the Society for Psychotherapy Research (SPR) Instagram on Sept. 10. She highlighted the importance of bridging &ldquo;the gap between psychotherapy research and suicide prevention&rdquo; because of the need for a better therapeutic alliance between patient and clinician. Our lab's current research centers on using virtual patient interaction (VPI) technology to train clinicians. VPI teaches therapists how to empathize with patients experiencing a suicidal crisis in real time, creating more positive interactions. 
-  
-  Check out the full post
-  <a href="https://www.instagram.com/p/DdGwNfGAIjN/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer">
-    here
-  </a>.
+{% capture text %}
+<p>
+  Dr. Bloch-Elkbouby wrote a piece for World Suicide Prevention Day, published on the Society for Psychotherapy Research (SPR) Instagram on Sept. 10. She highlighted the importance of bridging &ldquo;the gap between psychotherapy research and suicide prevention&rdquo; because of the need for a better therapeutic alliance between patient and clinician. Our lab's current research centers on using virtual patient interaction (VPI) technology to train clinicians. VPI teaches therapists how to empathize with patients experiencing a suicidal crisis in real time, creating more positive interactions.
 </p>
 
-  
-  {% endcapture %}
+<p>
+  Check out the full post
+  <a href="https://www.instagram.com/p/DdGwNfGAIjN/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer">here</a>.
+</p>
+{% endcapture %}
 
-  {%
+{%
   include feature.html
-  images="news_events_gallery/gallery_images/SMpost1.jpeg"
+  images="/news_events_gallery/gallery_images/SMpost1.jpeg"
   title="September 10th, 2026"
   text=text
   flip=true
@@ -41,6 +40,7 @@ permalink: /news/
   align="left"
   style="bare"
 %}
+
 {% include section.html %}
 
 <!--June 2026-->
