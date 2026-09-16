@@ -32,7 +32,7 @@ permalink: /news/
 
 {%
   include feature.html
-  images="/news_events_gallery/gallery_images/SMpost1.jpeg"
+  image="news_events_gallery/new_images/SMpost1.jpeg"
   title="September 10th, 2026"
   text=text
   flip=true
