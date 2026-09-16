@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications & Presentations
 parent: Research
 nav:
   order: 3
