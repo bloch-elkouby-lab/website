@@ -20,17 +20,17 @@ permalink: /news/
 {% include section.html %}
 
 {% capture text %}
-<p>
-  Dr. Bloch-Elkbouby wrote a piece for World Suicide Prevention Day, published on the Society for Psychotherapy Research (SPR) Instagram. She highlighted the importance of bridging &ldquo;the gap between psychotherapy research and suicide prevention&rdquo; because of the need for a better therapeutic alliance between patient and clinician. Our lab's current research centers on using virtual patient interaction (VPI) technology to train clinicians. VPI teaches therapists how to empathize with patients experiencing a suicidal crisis in real time, creating more positive interactions.
-</p>
+  Our lab was honored to be featured in the Society for Psychotherapy Research’s World Suicide Prevention Day spotlight!
+  The feature highlights one of the central goals of our research: bridging the gap between psychotherapy research and suicide prevention. Beyond identifying and assessing suicide risk, we are interested in what happens within the therapeutic encounter: how clinicians respond to patients in suicidal crisis, how therapeutic alliance is built and maintained, and how these interactions can support better outcomes.
 
-<p>
+  One of our current projects uses virtual patient interaction technology to train clinicians to respond empathically and effectively to patients experiencing suicidal crises in real time.
+
+  Thank you to SPR for highlighting our work and helping bring attention to the role of psychotherapy research in suicide prevention.
+
   Check out the full post
   <a href="https://www.instagram.com/p/DdGwNfGAIjN/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer">here</a>.
-</p>
-{% endcapture %}
-
-{%
+  {% endcapture %}
+  {%
   include feature.html
   image="news_events_gallery/new_images/SMpost1.jpeg"
   title="September 10th, 2026"
@@ -40,8 +40,8 @@ permalink: /news/
   align="left"
   style="bare"
 %}
-
 {% include section.html %}
+
 
 <!--June 2026-->
 {% include section.html %}
@@ -69,6 +69,7 @@ permalink: /news/
   style="bare"
 %}
 {% include section.html %}
+
 
 <!--May 2026-->
 {% include section.html %}
