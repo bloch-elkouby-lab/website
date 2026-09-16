@@ -21,7 +21,7 @@ permalink: /news/
 
 {% capture text %}
 <p>
-  Dr. Bloch-Elkbouby wrote a piece for World Suicide Prevention Day, published on the Society for Psychotherapy Research (SPR) Instagram on Sept. 10. She highlighted the importance of bridging &ldquo;the gap between psychotherapy research and suicide prevention&rdquo; because of the need for a better therapeutic alliance between patient and clinician. Our lab's current research centers on using virtual patient interaction (VPI) technology to train clinicians. VPI teaches therapists how to empathize with patients experiencing a suicidal crisis in real time, creating more positive interactions.
+  Dr. Bloch-Elkbouby wrote a piece for World Suicide Prevention Day, published on the Society for Psychotherapy Research (SPR) Instagram. She highlighted the importance of bridging &ldquo;the gap between psychotherapy research and suicide prevention&rdquo; because of the need for a better therapeutic alliance between patient and clinician. Our lab's current research centers on using virtual patient interaction (VPI) technology to train clinicians. VPI teaches therapists how to empathize with patients experiencing a suicidal crisis in real time, creating more positive interactions.
 </p>
 
 <p>
