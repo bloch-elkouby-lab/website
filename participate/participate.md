@@ -18,7 +18,7 @@ What does participation involve?<br>
 
 Why participate?<br>
 • Opportunity to take a free training after completing the study<br>
-• Your insights can help improve training and support for clinicians working with high-risk patients.<br><br>
+• Your insights can help improve training and support for clinicians working with high-risk patients<br><br>
 If you are interested in participating, please reach out to us and take the survey. If you have any questions, please email Aw3698@tc.columbia.edu."
    link="https://bloch-elkouby-lab.github.io/website/participate/Your%20Voice%20Matters.pdf"
    link_text="See Full Flyer"
