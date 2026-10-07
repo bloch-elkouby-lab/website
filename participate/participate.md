@@ -3,7 +3,28 @@ title: Participate
 permalink: /participate/
 ---
 
-## Participate in our studies!!
+## Participate in our studies!
+
+{% include card.html
+   title="<b>Your Voice Matters in Mental Health Research!</b>"
+   description="Who can participate?<br>
+• Currently practicing clinician, educator, researcher, or graduate student in a related field<br>
+• Have or had experience working with high-risk patients<br>
+• Comfortable completing surveys in English<br><br>
+
+What does participation involve?<br>
+• One 30-40 minute online session<br>
+• Responses will be entirely anonymous, with no identifying information<br><br>
+
+Why participate?<br>
+• Opportunity to take a free training after completing the study<br>
+• Your insights can help improve training and support for clinicians working with high-risk patients.<br><br>
+If you are interested in participating, please reach out to us and take the survey. If you have any questions, please email Aw3698@tc.columbia.edu."
+   link="https://bloch-elkouby-lab.github.io/website/participate/Your%20Voice%20Matters.pdf"
+   link_text="See Full Flyer"
+   image="YOUR_FLYER_IMAGE_PATH_HERE"
+   style="featured"
+%}
 
 {% include card.html
    title="<b>From Suicidality to Recovery: A Qualitative Study on the Lived Experiences of Suicidality Survivors</b>"
