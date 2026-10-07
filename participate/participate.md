@@ -22,7 +22,7 @@ Why participate?<br>
 If you are interested in participating, please reach out to us and take the survey. If you have any questions, please email Aw3698@tc.columbia.edu."
    link="https://bloch-elkouby-lab.github.io/website/participate/Your%20Voice%20Matters.pdf"
    link_text="See Full Flyer"
-   image="YOUR_FLYER_IMAGE_PATH_HERE"
+   image="participate/Your Voice Matters Cropped.png"
    style="featured"
 %}
 
