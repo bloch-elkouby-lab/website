@@ -7,24 +7,27 @@ permalink: /participate/
 
 {% include card.html
 title="<b>Research Study on Suicidal Crises</b>"
-description="Are you currently in therapy and experiencing thoughts of suicide? You may be eligible to participate in a paid research study.<br><br>
-We are researchers at Yeshiva University studying how people experience suicidal crises within the context of therapy.<br><br>
-Your perspective matters. This study aims to develop better training tools for clinicians so they can more effectively support people in crisis.<br><br>
-Who can participate?<br>
+description="Who can participate?<br>
 • Adults 18+<br>
 • Currently experiencing suicidal thoughts or a suicidal crisis<br>
 • Currently seeing a therapist or mental health professional<br>
 • Living in the United States<br>
 • Access to a computer with a webcam<br><br>
-What's involved?<br>
+
+What does participation involve?<br>
 • One remote Zoom interview (60–90 minutes)<br>
 • Completely confidential<br>
 • Participants are compensated<br><br>
-Interested? Please email pengyu.chen@yu.edu for more information.<br><br>
+
+Why participate?<br>
+• Share your perspective to help researchers better understand the experiences of people experiencing suicidal crises within the context of therapy<br>
+• Help develop better training tools so clinicians can more effectively support people in crisis<br><br>
+
+If you are interested in participating or would like more information, please email [pengyu.chen@yu.edu](mailto:pengyu.chen@yu.edu).<br><br>
 This study has been approved by the WCG IRB. Participation is entirely voluntary."
 link="https://bloch-elkouby-lab.github.io/website/participate/Recruitment%20Flyer%202026.05.23.pdf"
 link_text="See Full Flyer"
-image="participate/Recruitment Flyer Cut.png"
+image="participate/Recruitment Flyer.png"
 style="featured"
 %}
 
@@ -42,7 +45,7 @@ What does participation involve?<br>
 Why participate?<br>
 • Opportunity to take a free training after completing the study<br>
 • Your insights can help improve training and support for clinicians working with high-risk patients<br><br>
-If you are interested in participating, please reach out to us and take the survey. If you have any questions, please email Aw3698@tc.columbia.edu."
+If you are interested in participating, please reach out to us and take the survey. If you have any questions, please email [Aw3698@tc.columbia.edu](mailto:Aw3698@tc.columbia.edu)."
    link="https://bloch-elkouby-lab.github.io/website/participate/Your%20Voice%20Matters.pdf"
    link_text="See Full Flyer"
    image="participate/Your Voice Matters Cropped.png"
@@ -66,7 +69,7 @@ What does participation involve?<br>
 Why participate?<br>
 • All participants receive $100 after completing the study<br>
 • Your story can help us improve mental health care for others. If you're open to sharing what helped you recover, we'd be honored to learn from you!<br><br>
-If you are interested in participating, please contact click the link below for a screening survey. A research assistant will be in contact with you shortly. If you have any question, please email suicide.recovery.study@gmail.com."
+If you are interested in participating, please contact click the link below for a screening survey. A research assistant will be in contact with you shortly. If you have any question, please email [suicide.recovery.study@gmail.com](mailto:suicide.recovery.study@gmail.com)."
    link="https://bloch-elkouby-lab.github.io/website/participate/Recovery%20from%20Suicide.png"
    link_text="See Full Flyer"
    link2="http://tiny.cc/recoverystudy"
