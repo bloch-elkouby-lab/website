@@ -6,6 +6,29 @@ permalink: /participate/
 ## Participate in our studies!
 
 {% include card.html
+title="<b>Research Study on Suicidal Crises</b>"
+description="Are you currently in therapy and experiencing thoughts of suicide? You may be eligible to participate in a paid research study.<br><br>
+We are researchers at Yeshiva University studying how people experience suicidal crises within the context of therapy.<br><br>
+Your perspective matters. This study aims to develop better training tools for clinicians so they can more effectively support people in crisis.<br><br>
+Who can participate?<br>
+• Adults 18+<br>
+• Currently experiencing suicidal thoughts or a suicidal crisis<br>
+• Currently seeing a therapist or mental health professional<br>
+• Living in the United States<br>
+• Access to a computer with a webcam<br><br>
+What's involved?<br>
+• One remote Zoom interview (60–90 minutes)<br>
+• Completely confidential<br>
+• Participants are compensated<br><br>
+Interested? Please email pengyu.chen@yu.edu for more information.<br><br>
+This study has been approved by the WCG IRB. Participation is entirely voluntary."
+link="https://bloch-elkouby-lab.github.io/website/participate/Recruitment%20Flyer%202026.05.23.pdf"
+link_text="See Full Flyer"
+image="participate/Recruitment Flyer Cut.png"
+style="featured"
+%}
+
+{% include card.html
    title="<b>Your Voice Matters in Mental Health Research!</b>"
    description="Who can participate?<br>
 • Currently practicing clinician, educator, researcher, or graduate student in a related field<br>
