@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42885514
+  title: 'Violent and Nonviolent Suicidal Ideation: Predictors of Suicide Crisis Syndrome
+    Severity in a Longitudinal Study.'
+  authors:
+  - Yukti Bhatt
+  - Victoria Witerska
+  - Lisa J Cohen
+  - Erin Wheeler
+  - Sarah Bloch-Elkouby
+  - Benjamin N Johnson
+  - Yael Apter Levy
+  - Ortal Shimon Raz
+  - Igor Galynker
+  publisher: Suicide & life-threatening behavior
+  date: '2026-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42885514
+  term: Bloch-Elkouby, S[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:42585824
   title: The development of the digital coercion scale (DCS) and its association with
     suicide crisis syndrome (SCS).
