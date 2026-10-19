@@ -8,6 +8,50 @@ permalink: /gallery/
 
 # Gallery
 
+## NASPR 2026
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR1.jpg" alt="NASPR 2026 photo 1" width="450">
+      </td>
+      <td align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR2.jpg" alt="NASPR 2026 photo 2" width="450">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR3.jpg" alt="NASPR 2026 photo 3" width="400">
+      </td>
+      <td align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR4.jpg" alt="NASPR 2026 photo 4" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR5.jpg" alt="NASPR 2026 photo 5" width="400">
+      </td>
+      <td align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR6.jpg" alt="NASPR 2026 photo 6" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR7.jpg" alt="NASPR 2026 photo 7" width="400">
+      </td>
+      <td align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR8.jpg" alt="NASPR 2026 photo 8" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR9.jpg" alt="NASPR 2026 photo 9" width="400">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## SPR 2026
 
 <!-- Discussion -->
@@ -15,7 +59,7 @@ permalink: /gallery/
   <thead>
     <tr>
       <th colspan="6" align="center">
-        <font size="3"><b>Strcuctured Discussion titled: Using Research to lmprove Training and Care: Implementing ROM and Research in Training Clinics</b></font>
+        <font size="3"><b>Structured Discussion: Using Research to Improve Training and Care: Implementing ROM and Research in Training Clinics</b></font>
       </th>
     </tr>
   </thead>
@@ -59,7 +103,7 @@ permalink: /gallery/
   <thead>
     <tr>
       <th colspan="4" align="center">
-        <font size="3"><b>Panel titled: Revolutionizing Psychotherapy and Trainingwith Al: Insights from Virtual Human Interactions, NLP, and AI acceptability Studies</b></font>
+        <font size="3"><b>Panel: Revolutionizing Psychotherapy and Training with Al: Insights from Virtual Human Interactions, NLP, and AI acceptability Studies</b></font>
       </th>
     </tr>
   </thead>
