@@ -10,6 +10,7 @@ permalink: /news/
 
 # News
 
+
 <!-- October 2026 -->
 {% include section.html %}
 {% capture text %}
@@ -34,6 +35,7 @@ permalink: /news/
   style="bare"
 %}
 {% include section.html %}
+
 
 <!-- September 2026 -->
 {% include section.html %}
