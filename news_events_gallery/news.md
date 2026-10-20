@@ -10,15 +10,32 @@ permalink: /news/
 
 # News
 
-<!--# {% include icon.html icon="fa-solid fa-wrench" %}News -->
+<!-- October 2026 -->
+{% include section.html %}
+{% capture text %}
 
-{% include tags.html tags="publication, resource, website" %}
+  We are proud to share highlights from the 2026 North American Chapter of the Society for Psychotherapy Research (NASPR) Conference, hosted by the Ferkauf Graduate School of Psychology at Yeshiva University, with Dr. Sarah Bloch-Elkouby serving as local chair. The conference took place at the Yeshiva University Museum in the heart of Union Square in New York City.
 
-{% include search-info.html %}
+  Our lab was delighted to have our research assistants present posters showcasing their work at the conference. Their presentations reflected their dedication to advancing psychotherapy research and contributed to important conversations about psychotherapy, clinical practice, and mental health. We are incredibly proud of their hard work and commitment to sharing their research with the broader scientific community.
+
+  The conference provided an opportunity for researchers, clinicians, and trainees to exchange ideas and share findings across all areas of psychotherapy research, practice, and training. We are grateful to everyone who contributed to making NASPR 2026 a valuable opportunity for collaboration and learning.
+
+{% endcapture %}
+
+{%
+  include feature-carousel.html
+  images="news_events_gallery/gallery_images/2026NASPR1.jpg, news_events_gallery/gallery_images/2026NASPR2.jpg, news_events_gallery/gallery_images/2026NASPR3.jpg, news_events_gallery/gallery_images/2026NASPR4.jpg, news_events_gallery/gallery_images/2026NASPR5.jpg, news_events_gallery/gallery_images/2026NASPR6.jpg, news_events_gallery/gallery_images/2026NASPR7.jpg, news_events_gallery/gallery_images/2026NASPR8.jpg, news_events_gallery/gallery_images/2026NASPR9.jpg"
+  title="NASPR 2026 Conference"
+  text=text
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
 
 <!-- September 2026 -->
 {% include section.html %}
-
 {% capture text %}
   Our lab was honored to be featured in the Society for Psychotherapy Research’s World Suicide Prevention Day spotlight!
   The feature highlights one of the central goals of our research: bridging the gap between psychotherapy research and suicide prevention. Beyond identifying and assessing suicide risk, we are interested in what happens within the therapeutic encounter: how clinicians respond to patients in suicidal crisis, how therapeutic alliance is built and maintained, and how these interactions can support better outcomes.
