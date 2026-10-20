@@ -1,7 +1,7 @@
 ---
 name: Sabriya Saif, M.P.H.
-image: images/
-description: Doctoral Student<br>Class 2027
+image: images/profile-sabriya_saif.jpg
+description: Doctoral Student<br>Class 2030
 role: doctoral
 
 ---
