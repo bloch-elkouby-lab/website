@@ -28,7 +28,7 @@ permalink: /publications/
 
 <h2 id="2026">2026</h2>
 
-<p>Apter Levy, Y., Johnson, B., <strong>Bloch-Elkouby, S.</strong>, Cohen, L. J., &amp; Galynker, I. (2026). <a href="https://journals.plos.org/plosone/" target="_blank" rel="noopener noreferrer">Suicide Crisis Syndrome: Further Validation of an Innovative Concept</a>. <em>PLOS One</em> (In Press).</p>
+<p>Apter Levy, Y., Johnson, B., <strong>Bloch-Elkouby, S.</strong>, Cohen, L. J., &amp; Galynker, I. (2026). Suicide Crisis Syndrome: Further Validation of an Innovative Concept. <em>PLOS One</em> (In Press).</p>
 
 <p><strong>Bloch-Elkouby, S.</strong>, El-Hayek, R., Cohen, L., Chen, J. P., Gorman, B., Apter, Y., Wheeler, E., Park, B., Prekas, A. S., &amp; Galynker, I. (2026). The clinician rated suicide crisis syndrome checklist (SCS-C): Structure, reliability, and concurrent validity among adult psychiatric inpatients. <em>Journal of Affective Disorders, 402</em>, 121341. <a href="https://doi.org/10.1016/j.jad.2026.121341" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.jad.2026.121341</a></p>
 
