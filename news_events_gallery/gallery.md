@@ -10,47 +10,96 @@ permalink: /gallery/
 
 ## NASPR 2026
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR1.jpg" alt="NASPR 2026 photo 1" width="450">
-      </td>
-      <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR2.jpg" alt="NASPR 2026 photo 2" width="450">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR3.jpg" alt="NASPR 2026 photo 3" width="400">
-      </td>
-      <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR4.jpg" alt="NASPR 2026 photo 4" width="400">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR5.jpg" alt="NASPR 2026 photo 5" width="400">
-      </td>
-      <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR6.jpg" alt="NASPR 2026 photo 6" width="400">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR7.jpg" alt="NASPR 2026 photo 7" width="400">
-      </td>
-      <td align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR8.jpg" alt="NASPR 2026 photo 8" width="400">
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" valign="top">
-        <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR9.jpg" alt="NASPR 2026 photo 9" width="400">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<style>
+  .naspr-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  .naspr-gallery-item {
+    margin: 0;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background: #fff;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .naspr-gallery-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 600px;
+    object-fit: contain;
+    border-radius: 3px;
+  }
+
+  @media (max-width: 600px) {
+    .naspr-gallery {
+      grid-template-columns: 1fr;
+      gap: 14px;
+      padding: 6px;
+    }
+  }
+</style>
+
+<div class="naspr-gallery">
+
+  <figure class="naspr-gallery-item">
+    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR1.jpg"
+         alt="NASPR 2026 photo 1">
+  </figure>
+
+  <figure class="naspr-gallery-item">
+    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR2.jpg"
+         alt="NASPR 2026 photo 2">
+  </figure>
+
+  <figure class="naspr-gallery-item">
+    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR3.jpg"
+         alt="NASPR 2026 photo 3">
+  </figure>
+
+  <figure class="naspr-gallery-item">
+    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR4.jpg"
+         alt="NASPR 2026 photo 4">
+  </figure>
+
+  <figure class="naspr-gallery-item">
+    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR5.jpg"
+         alt="NASPR 2026 photo 5">
+  </figure>
+
+  <figure class="naspr-gallery-item">
+    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR6.jpg"
+         alt="NASPR 2026 photo 6">
+  </figure>
+
+  <figure class="naspr-gallery-item">
+    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR7.jpg"
+         alt="NASPR 2026 photo 7">
+  </figure>
+
+  <figure class="naspr-gallery-item">
+    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR8.jpg"
+         alt="NASPR 2026 photo 8">
+  </figure>
+
+  <figure class="naspr-gallery-item">
+    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR9.jpg"
+         alt="NASPR 2026 photo 9">
+  </figure>
+
+</div>
 
 ## SPR 2026
 
