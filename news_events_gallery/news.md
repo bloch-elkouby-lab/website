@@ -19,6 +19,8 @@ permalink: /news/
 
   The conference provided an opportunity for researchers, clinicians, and trainees to exchange ideas and share findings across all areas of psychotherapy research, practice, and training. We are grateful to everyone who contributed to making NASPR 2026 a valuable opportunity for collaboration and learning.
 
+  Learn more about the conference
+  <a href="https://sites.google.com/view/naspr-2026-conference/home" target="_blank" rel="noopener noreferrer">here</a>.
 {% endcapture %}
 
 {%
