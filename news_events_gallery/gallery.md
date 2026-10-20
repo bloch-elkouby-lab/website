@@ -12,32 +12,74 @@ permalink: /gallery/
 
 <style>
   .naspr-gallery {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
     width: 100%;
-    max-width: 1200px;
+    max-width: 1100px;
     margin: 0 auto;
     padding: 5px;
     box-sizing: border-box;
   }
 
-  .naspr-gallery .naspr-gallery-item {
-    margin: 0;
-    padding: 4px;
-    height: 250px;
-    min-width: 0;
+  .naspr-gallery-row {
+    display: grid;
+    gap: 12px;
+    align-items: stretch;
+  }
+
+  /* Two wide horizontal photos per row */
+  .naspr-gallery-row.horizontal {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  /* Three vertical photos in one row */
+  .naspr-gallery-row.vertical-three {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  /* Two vertical photos centered beneath the first three */
+  .naspr-gallery-row.vertical-two {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .naspr-gallery-item {
+    grid-column: span 1;
     display: flex;
     align-items: center;
     justify-content: center;
-    overflow: hidden;
-    box-sizing: border-box;
+    min-width: 0;
+    margin: 0;
+    padding: 4px;
     border: 1px solid #ddd;
     border-radius: 4px;
     background: #fff;
+    box-sizing: border-box;
+    overflow: hidden;
   }
 
-  .naspr-gallery .naspr-gallery-item img {
+  .horizontal .naspr-gallery-item {
+    height: 250px;
+  }
+
+  .vertical-three .naspr-gallery-item {
+    height: 270px;
+  }
+
+  .vertical-two .naspr-gallery-item {
+    grid-column: span 2;
+    height: 270px;
+  }
+
+  .vertical-two .naspr-gallery-item:first-child {
+    grid-column: 2 / span 2;
+  }
+
+  .vertical-two .naspr-gallery-item:last-child {
+    grid-column: 4 / span 2;
+  }
+
+  .naspr-gallery-item img {
     display: block;
     width: 100%;
     height: 100%;
@@ -47,55 +89,72 @@ permalink: /gallery/
 
   @media (max-width: 600px) {
     .naspr-gallery {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: 6px;
+      gap: 8px;
       padding: 3px;
     }
 
-    .naspr-gallery .naspr-gallery-item {
-      height: 180px;
-      padding: 3px;
+    .naspr-gallery-row {
+      gap: 8px;
+    }
+
+    .horizontal .naspr-gallery-item {
+      height: 150px;
+    }
+
+    .vertical-three .naspr-gallery-item {
+      height: 170px;
+    }
+
+    .vertical-two .naspr-gallery-item {
+      height: 170px;
     }
   }
 </style>
 
 <div class="naspr-gallery">
 
-  <figure class="naspr-gallery-item">
-    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR1.jpg" alt="NASPR 2026 photo 1" loading="lazy">
-  </figure>
+  <!-- Row 1: Two horizontal photos -->
+  <div class="naspr-gallery-row horizontal">
+    <figure class="naspr-gallery-item">
+      <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR1.jpg" alt="NASPR 2026 photo 1" loading="lazy">
+    </figure>
+    <figure class="naspr-gallery-item">
+      <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR2.jpg" alt="NASPR 2026 photo 2" loading="lazy">
+    </figure>
+  </div>
 
-  <figure class="naspr-gallery-item">
-    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR2.jpg" alt="NASPR 2026 photo 2" loading="lazy">
-  </figure>
+  <!-- Row 2: Two horizontal photos -->
+  <div class="naspr-gallery-row horizontal">
+    <figure class="naspr-gallery-item">
+      <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR3.jpg" alt="NASPR 2026 photo 3" loading="lazy">
+    </figure>
+    <figure class="naspr-gallery-item">
+      <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR4.jpg" alt="NASPR 2026 photo 4" loading="lazy">
+    </figure>
+  </div>
 
-  <figure class="naspr-gallery-item">
-    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR3.jpg" alt="NASPR 2026 photo 3" loading="lazy">
-  </figure>
+  <!-- Row 3: Three vertical photos -->
+  <div class="naspr-gallery-row vertical-three">
+    <figure class="naspr-gallery-item">
+      <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR5.jpg" alt="NASPR 2026 photo 5" loading="lazy">
+    </figure>
+    <figure class="naspr-gallery-item">
+      <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR6.jpg" alt="NASPR 2026 photo 6" loading="lazy">
+    </figure>
+    <figure class="naspr-gallery-item">
+      <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR7.jpg" alt="NASPR 2026 photo 7" loading="lazy">
+    </figure>
+  </div>
 
-  <figure class="naspr-gallery-item">
-    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR4.jpg" alt="NASPR 2026 photo 4" loading="lazy">
-  </figure>
-
-  <figure class="naspr-gallery-item">
-    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR5.jpg" alt="NASPR 2026 photo 5" loading="lazy">
-  </figure>
-
-  <figure class="naspr-gallery-item">
-    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR6.jpg" alt="NASPR 2026 photo 6" loading="lazy">
-  </figure>
-
-  <figure class="naspr-gallery-item">
-    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR7.jpg" alt="NASPR 2026 photo 7" loading="lazy">
-  </figure>
-
-  <figure class="naspr-gallery-item">
-    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR8.jpg" alt="NASPR 2026 photo 8" loading="lazy">
-  </figure>
-
-  <figure class="naspr-gallery-item">
-    <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR9.jpg" alt="NASPR 2026 photo 9" loading="lazy">
-  </figure>
+  <!-- Row 4: Two vertical photos centered -->
+  <div class="naspr-gallery-row vertical-two">
+    <figure class="naspr-gallery-item">
+      <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR8.jpg" alt="NASPR 2026 photo 8" loading="lazy">
+    </figure>
+    <figure class="naspr-gallery-item">
+      <img src="https://bloch-elkouby-lab.github.io/website/news_events_gallery/gallery_images/2026NASPR9.jpg" alt="NASPR 2026 photo 9" loading="lazy">
+    </figure>
+  </div>
 
 </div>
 
