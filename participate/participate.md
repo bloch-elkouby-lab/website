@@ -1,0 +1,101 @@
+
+---
+title: Participate
+permalink: /participate/
+---
+
+## Participate in our studies!
+
+{% capture crisis_description %}
+Who can participate?<br>
+• Adults 18+<br>
+• Currently experiencing suicidal thoughts or a suicidal crisis<br>
+• Currently seeing a therapist or mental health professional<br>
+• Living in the United States<br>
+• Access to a computer with a webcam<br><br>
+
+What does participation involve?<br>
+• One remote Zoom interview (60–90 minutes)<br>
+• Completely confidential<br>
+• Participants are compensated<br><br>
+
+Why participate?<br>
+• Share your perspective to help researchers better understand the experiences of people experiencing suicidal crises within the context of therapy<br>
+• Help develop better training tools so clinicians can more effectively support people in crisis<br><br>
+
+If you are interested in participating or would like more information, please email <a href="mailto:virtual.patient.study@gmail.com">virtual.patient.study@gmail.com</a>.
+{% endcapture %}
+
+{% include card.html
+   title="<b>Research Study on Suicidal Crises</b>"
+   description=crisis_description
+   link="https://bloch-elkouby-lab.github.io/website/participate/Recruitment%20Flyer%202026.05.23.pdf"
+   link_text="See Full Flyer"
+   image="participate/Recruitment Flyer.png"
+   style="featured"
+%}
+
+{% capture voice_description %}
+Who can participate?<br>
+• Currently practicing clinician, educator, researcher, or graduate student in a related field<br>
+• Have or had experience working with high-risk patients<br>
+• Comfortable completing surveys in English<br><br>
+
+What does participation involve?<br>
+• One 30–40 minute online session<br>
+• Responses will be entirely anonymous, with no identifying information<br><br>
+
+Why participate?<br>
+• Opportunity to take a free training after completing the study<br>
+• Your insights can help improve training and support for clinicians working with high-risk patients<br><br>
+
+If you are interested in participating, please reach out to us and take the survey. If you have any questions, please email <a href="mailto:virtual.patient.study@gmail.com">virtual.patient.study@gmail.com</a>.
+{% endcapture %}
+
+{% include card.html
+   title="<b>Your Voice Matters in Mental Health Research!</b>"
+   description=voice_description
+   link="https://bloch-elkouby-lab.github.io/website/participate/Your%20Voice%20Matters.pdf"
+   link_text="See Full Flyer"
+   image="participate/Your Voice Matters Cropped.png"
+   style="featured"
+%}
+
+{% capture recovery_description %}
+Who can participate?<br>
+• 18 years old or older<br>
+• Have seriously considered ending your life at some point<br>
+• Consider yourself recovered from suicidality<br>
+• View psychotherapy as an important part of your recovery<br>
+• Located within the US at the time of participation<br><br>
+
+What does participation involve?<br>
+• Remote or in-person, depending on your preference<br>
+• 1–1.5 hour interview<br>
+• 1 hour focus group<br><br>
+
+Why participate?<br>
+• All participants receive $100 after completing the study<br>
+• Your story can help us improve mental health care for others. If you're open to sharing what helped you recover, we'd be honored to learn from you!<br><br>
+
+If you are interested in participating, please click the link below for a screening survey. A research assistant will be in contact with you shortly. If you have any questions, please email <a href="mailto:suicide.recovery.study@gmail.com">suicide.recovery.study@gmail.com</a>.
+{% endcapture %}
+
+{% include card.html
+   title="<b>From Suicidality to Recovery: A Qualitative Study on the Lived Experiences of Suicidality Survivors</b>"
+   description=recovery_description
+   link="https://bloch-elkouby-lab.github.io/website/participate/Recovery%20from%20Suicide.png"
+   link_text="See Full Flyer"
+   link2="http://tiny.cc/recoverystudy"
+   link_text2="Click to Participate"
+   image="participate/Recovery from Suicide-cropped.png"
+   style="featured"
+%}
+
+## Statement of Confidentiality and Ethical Conduct
+
+We take research participation very seriously. All studies conducted by our lab follow [APA ethical guidelines](https://www.apa.org/ethics/code) and have been reviewed and approved by [WCG IRB](https://www.wcgclinical.com/irb-resources/irb-compliance-and-registration/).
+
+Your participation is voluntary, and you may withdraw at any time without penalty. Any information you provide will be kept confidential and used solely for research purposes. Data are stored securely, and any published results will be reported only in aggregate form so that individual participants cannot be identified.
+
+If you have questions about a study or your rights as a participant, you are encouraged to contact the research team for further information, using the contact information provided in the flyer. If you would like to make a complaint, you can email Dr. Bloch-Elkouby at [sarah.blochelkouby@yu.edu](mailto:sarah.blochelkouby@yu.edu) and cc Jimmy, the lab manager at [jimmypengyuchen@gmail.com](mailto:jimmypengyuchen@gmail.com).
