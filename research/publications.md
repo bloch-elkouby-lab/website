@@ -1,4 +1,3 @@
-
 ---
 title: Publications
 parent: Research
