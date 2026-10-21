@@ -1,4 +1,3 @@
-
 ---
 title: Participate
 permalink: /participate/
@@ -27,7 +26,7 @@ If you are interested in participating or would like more information, please em
 {% endcapture %}
 
 {% include card.html
-   title="<b>Research Study on Suicidal Crises</b>"
+   title="Research Study on Suicidal Crises"
    description=crisis_description
    link="https://bloch-elkouby-lab.github.io/website/participate/Recruitment%20Flyer%202026.05.23.pdf"
    link_text="See Full Flyer"
@@ -53,7 +52,7 @@ If you are interested in participating, please reach out to us and take the surv
 {% endcapture %}
 
 {% include card.html
-   title="<b>Your Voice Matters in Mental Health Research!</b>"
+   title="Your Voice Matters in Mental Health Research!"
    description=voice_description
    link="https://bloch-elkouby-lab.github.io/website/participate/Your%20Voice%20Matters.pdf"
    link_text="See Full Flyer"
@@ -82,7 +81,7 @@ If you are interested in participating, please click the link below for a screen
 {% endcapture %}
 
 {% include card.html
-   title="<b>From Suicidality to Recovery: A Qualitative Study on the Lived Experiences of Suicidality Survivors</b>"
+   title="From Suicidality to Recovery: A Qualitative Study on the Lived Experiences of Suicidality Survivors"
    description=recovery_description
    link="https://bloch-elkouby-lab.github.io/website/participate/Recovery%20from%20Suicide.png"
    link_text="See Full Flyer"
