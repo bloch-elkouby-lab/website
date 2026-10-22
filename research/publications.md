@@ -6,6 +6,8 @@ nav:
 permalink: /publications/
 ---
 
+<h2>Publications</h2>
+
 <nav style="background-color: #ebf5fb; padding: 24px 20px;">
 
   <!-- First row: publication years -->
