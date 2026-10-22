@@ -26,7 +26,7 @@ permalink: /news/
 
 {%
   include feature-carousel.html
-  images="news_events_gallery/gallery_images/2026NASPR1.jpg, news_events_gallery/gallery_images/2026NASPR2.jpg, news_events_gallery/gallery_images/2026NASPR3.jpg, news_events_gallery/gallery_images/2026NASPR4.jpg, news_events_gallery/gallery_images/2026NASPR5.jpg, news_events_gallery/gallery_images/2026NASPR6.jpg, news_events_gallery/gallery_images/2026NASPR7.jpg, news_events_gallery/gallery_images/2026NASPR8.jpg, news_events_gallery/gallery_images/2026NASPR9.jpg"
+  images="news_events_gallery/new_images/NASPR1.jpg,news_events_gallery/gallery_images/2026NASPR1.jpg, news_events_gallery/gallery_images/2026NASPR2.jpg, news_events_gallery/gallery_images/2026NASPR4.jpg, news_events_gallery/gallery_images/2026NASPR5.jpg, news_events_gallery/gallery_images/2026NASPR7.jpg, news_events_gallery/gallery_images/2026NASPR8.jpg, news_events_gallery/gallery_images/2026NASPR9.jpg, news_events_gallery/new_images/NASPR2.jpg"
   title="October 2026"
   text=text
   flip=false
