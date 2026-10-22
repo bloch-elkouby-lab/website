@@ -11,7 +11,7 @@ permalink: /news/
 # News
 
 
-<!-- October 2026 -->
+<!-- October 16th, 2026 -->
 {% include section.html %}
 {% capture text %}
   We are proud to share highlights from the 2026 North American Chapter of the Society for Psychotherapy Research (NASPR) Conference, hosted by the Ferkauf Graduate School of Psychology at Yeshiva University, with Dr. Sarah Bloch-Elkouby and Dr. Ken Critchfield serving as local chair. The conference took place at the Yeshiva University Museum in the heart of Union Square in New York City.
