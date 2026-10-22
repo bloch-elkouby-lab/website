@@ -6,21 +6,28 @@ nav:
 permalink: /publications/
 ---
 
-<h1>{% include icon.html icon="fa-solid fa-microscope" %} Research Publications</h1>
+<nav style="background-color: #ebf5fb; padding: 24px 20px;">
 
-<nav style="background-color: #ebf5fb; overflow: hidden;">
-  <a href="#2026" style="color: #5dade2; padding: 16px 18px; text-decoration: underline; font-weight: bold;">2026</a>
-  <a href="#2025" style="color: #5dade2; padding: 16px 18px; text-decoration: underline; font-weight: bold;">2025</a>
-  <a href="#2024" style="color: #5dade2; padding: 16px 18px; text-decoration: underline; font-weight: bold;">2024</a>
-  <a href="#2023" style="color: #5dade2; padding: 16px 18px; text-decoration: underline; font-weight: bold;">2023</a>
-  <a href="#2022" style="color: #5dade2; padding: 16px 18px; text-decoration: underline; font-weight: bold;">2022</a>
-  <a href="#2021" style="color: #5dade2; padding: 16px 18px; text-decoration: underline; font-weight: bold;">2021</a>
-  <a href="#2020" style="color: #5dade2; padding: 16px 18px; text-decoration: underline; font-weight: bold;">2020</a>
-  <a href="#2019" style="color: #5dade2; padding: 16px 18px; text-decoration: underline; font-weight: bold;">2019</a>
-  <a href="#2017" style="color: #5dade2; padding: 16px 18px; text-decoration: underline; font-weight: bold;">2017</a>
-  <a href="#Presentation" style="color: #5dade2; padding: 16px 18px; text-decoration: underline; font-weight: bold;">Conference presentations</a>
-  <a href="#Panels" style="color: #5dade2; padding: 16px 18px; text-decoration: underline; font-weight: bold;">Panels chaired</a>
-  <a href="#Lecture" style="color: #5dade2; padding: 16px 18px; text-decoration: underline; font-weight: bold;">Invited lectures</a>
+  <!-- First row: publication years -->
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 24px 42px; margin-bottom: 28px;">
+    <a href="#2026" style="color: #5dade2; text-decoration: underline; font-weight: bold;">2026</a>
+    <a href="#2025" style="color: #5dade2; text-decoration: underline; font-weight: bold;">2025</a>
+    <a href="#2024" style="color: #5dade2; text-decoration: underline; font-weight: bold;">2024</a>
+    <a href="#2023" style="color: #5dade2; text-decoration: underline; font-weight: bold;">2023</a>
+    <a href="#2022" style="color: #5dade2; text-decoration: underline; font-weight: bold;">2022</a>
+    <a href="#2021" style="color: #5dade2; text-decoration: underline; font-weight: bold;">2021</a>
+    <a href="#2020" style="color: #5dade2; text-decoration: underline; font-weight: bold;">2020</a>
+    <a href="#2019" style="color: #5dade2; text-decoration: underline; font-weight: bold;">2019</a>
+    <a href="#2017" style="color: #5dade2; text-decoration: underline; font-weight: bold;">2017</a>
+  </div>
+
+  <!-- Second row: other sections -->
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 24px 42px;">
+    <a href="#Presentation" style="color: #5dade2; text-decoration: underline; font-weight: bold;">Conference presentations</a>
+    <a href="#Panels" style="color: #5dade2; text-decoration: underline; font-weight: bold;">Panels chaired</a>
+    <a href="#Lecture" style="color: #5dade2; text-decoration: underline; font-weight: bold;">Invited lectures</a>
+  </div>
+
 </nav>
 
 <p><i>Note: * indicates joint first authorship; underlined names indicate contributions by students in the lab.</i></p>
