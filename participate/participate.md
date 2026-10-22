@@ -28,9 +28,9 @@ If you are interested in participating or would like more information, please em
 {% include card.html
    title="Research Study on Suicidal Crises"
    description=crisis_description
-   link="https://bloch-elkouby-lab.github.io/website/participate/Recruitment%20Flyer%202026.05.23.pdf"
+   link="https://bloch-elkouby-lab.github.io/website/participate/Recruitment%20Flyer.png"
    link_text="See Full Flyer"
-   image="participate/Recruitment Flyer.png"
+   image="participate/Recruitment Flyer Cropped.png"
    style="featured"
 %}
 
@@ -54,7 +54,7 @@ If you are interested in participating, please reach out to us and take the surv
 {% include card.html
    title="Your Voice Matters in Mental Health Research!"
    description=voice_description
-   link="https://bloch-elkouby-lab.github.io/website/participate/Your%20Voice%20Matters.pdf"
+   link="https://bloch-elkouby-lab.github.io/website/participate/Your%20Voice%20Matters.png"
    link_text="See Full Flyer"
    image="participate/Your Voice Matters Cropped.png"
    style="featured"
