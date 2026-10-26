@@ -40,6 +40,8 @@ permalink: /publications/
 
 <p><strong>Bloch-Elkouby, S.</strong>, El-Hayek, R., Cohen, L., <ins>Chen, J. P.</ins>, Gorman, B., Apter, Y., Wheeler, E., Park, B., Prekas, A. S., &amp; Galynker, I. (2026). The clinician rated suicide crisis syndrome checklist (SCS-C): Structure, reliability, and concurrent validity among adult psychiatric inpatients. <em>Journal of Affective Disorders, 402</em>, 121341. <a href="https://doi.org/10.1016/j.jad.2026.121341" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.jad.2026.121341</a></p>
 
+<p><strong>Bloch-Elkouby, S.</strong>, Johnson, B. N., <ins>Chen, J. P.</ins>, <ins>Shi, R.</ins>, <ins>Goncearenco, I.</ins>, <ins>Khaikin, S.</ins>, <ins>Wei, Y.</ins>, <ins>Xu, H.</ins>, de Siqueira, A. G., Yao, H., Lok, B., Cohen, L., Apter-Levi, Y., Shimon Raz, O., Williams, M. T., &amp; Galynker, I. (in press). Race, bias, and suicide risk assessment: An experimental study using a male adolescent virtual patient. <em>Journal of Consulting and Clinical Psychology</em>.</p>
+
 <p>Boritz, T., <strong>Bloch-Elkouby, S.</strong>, DiBartolomeo, A., &amp; <ins>Aberman, A.</ins> (2026). Alliance rupture and repair processes in borderline personality disorder. In A. Okamoto (Ed.), <em>Alliance rupture repair in cognitive behavioral therapies</em>. Springer.</p>
 
 <p>Garagiola, E., Bhatt, Y., Lawrence, H., Witerska, V., <ins>Rosen, T.</ins>, Galynker, I., &amp; <strong>Bloch-Elkouby, S.</strong> (2026). Patterns of suicidal ideation disclosure in the last week preceding a suicidal attempt. <em>Annals of General Psychiatry</em> (In Press).</p>
