@@ -6,7 +6,7 @@ nav:
 permalink: /publications/
 ---
 
-<h2>Publications</h2>
+<h1>Publications</h1>
 
 <nav style="background-color: #ebf5fb; padding: 24px 20px;">
 
