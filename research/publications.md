@@ -43,6 +43,8 @@ permalink: /publications/
 
 <p>Apter Levy, Y., Johnson, B., <strong>Bloch-Elkouby, S.</strong>, Cohen, L. J., &amp; Galynker, I. (in press). Suicide Crisis Syndrome: Further Validation of an Innovative Concept. <em>PLOS One</em>.</p>
 
+<p>Bhatt, Y., Witerska, V., Cohen, L. J., Wheeler, E., <strong>Bloch-Elkouby, S.</strong>, Johnson, B. N., Apter Levy, Y., Shimon Raz, O., &amp; Galynker, I. (2026). Violent and nonviolent suicidal ideation: Predictors of suicide crisis syndrome severity in a longitudinal study. <em>Suicide and Life-Threatening Behaviors</em> (in press).</p>
+
 <p><strong>Bloch-Elkouby, S.</strong>, El-Hayek, R., Cohen, L., <ins>Chen, J. P.</ins>, Gorman, B., Apter, Y., Wheeler, E., Park, B., <ins>Prekas, A. S.</ins>, &amp; Galynker, I. (2026). The clinician rated suicide crisis syndrome checklist (SCS-C): Structure, reliability, and concurrent validity among adult psychiatric inpatients. <em>Journal of Affective Disorders, 402</em>, 121341. <a href="https://doi.org/10.1016/j.jad.2026.121341" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.jad.2026.121341</a></p>
 
 <p>Boritz, T., <strong>Bloch-Elkouby, S.</strong>, DiBartolomeo, A., &amp; <ins>Aberman, A.</ins> (2026). Alliance rupture and repair processes in borderline personality disorder. In A. Okamoto (Ed.), <em>Alliance rupture repair in cognitive behavioral therapies</em>. Springer.</p>
