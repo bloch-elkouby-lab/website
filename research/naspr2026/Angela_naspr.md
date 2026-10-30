@@ -6,8 +6,6 @@ permalink: /research/naspr_2026/angela_naspr/
 
 {% include icon.html icon="fa-solid fa-feather-pointed" %} Angela's Poster
 
-## Acceptability, Appropriateness, and Feasibility of a Training Module Targeting Clinicians
-
 ## Acceptability, Appropriateness, and Feasibility of a Training Module Targeting Clinicians’ Negative Emotional Responses to Suicidal Patients: A Pilot
 
 by **You-Syuan Lin**¹˒²˒³, **Kate Van Houten**¹˒²˒³, **Samuel Welsh**¹˒²˒³, **Hanjiang Xu**¹˒²˒³, & **Sarah Bloch-Elkouby**¹˒²
