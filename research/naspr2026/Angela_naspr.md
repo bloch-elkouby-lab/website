@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Angela's Poster"
-permalink: /research/naspr_2026/angela_naspr/
+permalink: /research/naspr2026/Angela_naspr.md
 ---
 
 {% include icon.html icon="fa-solid fa-feather-pointed" %} Angela's Poster
