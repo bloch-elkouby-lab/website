@@ -43,11 +43,11 @@ permalink: /publications/
 
 <p>Apter Levy, Y., Johnson, B., <strong>Bloch-Elkouby, S.</strong>, Cohen, L. J., &amp; Galynker, I. (in press). Suicide Crisis Syndrome: Further Validation of an Innovative Concept. <em>PLOS One</em>.</p>
 
-<p>Bhatt, Y., Witerska, V., Cohen, L. J., Wheeler, E., <strong>Bloch-Elkouby, S.</strong>, Johnson, B. N., Apter Levy, Y., Shimon Raz, O., &amp; Galynker, I. (2026). Violent and nonviolent suicidal ideation: Predictors of suicide crisis syndrome severity in a longitudinal study. <em>Suicide and Life-Threatening Behaviors</em> (in press).</p>
+<p>Bhatt, Y., Witerska, V., Cohen, L. J., Wheeler, E., <strong>Bloch-Elkouby, S.</strong>, Johnson, B. N., Apter Levy, Y., Shimon Raz, O., &amp; Galynker, I. (2026). Violent and nonviolent suicidal ideation: Predictors of suicide crisis syndrome severity in a longitudinal study. <em>Suicide and Life-Threatening Behavior, 56</em>(5), e70142. <a href="https://doi.org/10.1111/sltb.70142" target="_blank" rel="noopener noreferrer">https://doi.org/10.1111/sltb.70142</a></p>
 
 <p><strong>Bloch-Elkouby, S.</strong>, El-Hayek, R., Cohen, L., <ins>Chen, J. P.</ins>, Gorman, B., Apter, Y., Wheeler, E., Park, B., <ins>Prekas, A. S.</ins>, &amp; Galynker, I. (2026). The clinician rated suicide crisis syndrome checklist (SCS-C): Structure, reliability, and concurrent validity among adult psychiatric inpatients. <em>Journal of Affective Disorders, 402</em>, 121341. <a href="https://doi.org/10.1016/j.jad.2026.121341" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.jad.2026.121341</a></p>
 
-<p>Boritz, T., <strong>Bloch-Elkouby, S.</strong>, DiBartolomeo, A., &amp; <ins>Aberman, A.</ins> (2026). Alliance rupture and repair processes in borderline personality disorder. In A. Okamoto (Ed.), <em>Alliance rupture repair in cognitive behavioral therapies</em>. Springer.</p>
+<p>Boritz, T., <strong>Bloch-Elkouby, S.</strong>, Di Bartolomeo, A., &amp; <ins>Aberman, A.</ins> (2026). Alliance Rupture and Repair in Personality Disorders Characterized by Emotion Dysregulation. In A. Okamoto (Ed.), <em>Alliance Rupture Repair in Cognitive Behavioral Therapies</em> (pp. 219–242). Springer. <a href="https://doi.org/10.1007/978-3-032-07140-8_13" target="_blank" rel="noopener noreferrer">https://doi.org/10.1007/978-3-032-07140-8_13</a></p>
 
 <p>Garagiola, E., Bhatt, Y., Lawrence, H., Witerska, V., <ins>Rosen, T.</ins>, Galynker, I., &amp; <strong>Bloch-Elkouby, S.</strong> (2026). Patterns of suicidal ideation disclosure in the last week preceding a suicidal attempt. <em>Annals of General Psychiatry, 25</em>(1), 60. <a href="https://doi.org/10.1186/s12991-026-00669-y" target="_blank" rel="noopener noreferrer">https://doi.org/10.1186/s12991-026-00669-y</a>.</p>
 
