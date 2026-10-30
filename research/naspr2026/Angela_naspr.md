@@ -8,7 +8,15 @@ by **You-Syuan Lin**¹˒²˒³, **Kate Van Houten**¹˒²˒³, **Samuel Welsh**�
 ² Ferkauf Graduate School of Psychology, Yeshiva University  
 ³ Teachers College, Columbia University
 
-[View Angela's Poster (PDF)](angela_NASPR.pdf)
+<div style="width: 100%; margin: 20px 0;">
+  <iframe
+    src="{{ '/research/naspr_2026/Angela_NASPR.pdf' | relative_url }}"
+    width="100%"
+    height="900px"
+    style="border: 1px solid #ddd;"
+    title="Angel's NASPR 2026 Poster">
+  </iframe>
+</div>
 
 ### Background
 
