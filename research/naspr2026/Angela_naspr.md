@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Angela's Poster"
-permalink: /research/naspr2026/Angela_naspr.md
+permalink: /research/naspr2026/Angela_naspr.md/
 ---
 
 {% include icon.html icon="fa-solid fa-feather-pointed" %} Angela's Poster
@@ -16,11 +16,11 @@ by **You-Syuan Lin**¹˒²˒³, **Kate Van Houten**¹˒²˒³, **Samuel Welsh**�
 
 <div style="width: 100%; margin: 20px 0;">
   <iframe
-    src="{{ '/research/naspr_2026/Angela_NASPR.pdf' | relative_url }}"
+    src="{{ '/research/naspr2026/Angela_NASPR.pdf' | relative_url }}"
     width="100%"
     height="900px"
     style="border: 1px solid #ddd;"
-    title="Angel's NASPR 2026 Poster">
+    title="Angela's 2026 NASPR Poster">
   </iframe>
 </div>
 
