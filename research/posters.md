@@ -1,6 +1,5 @@
-
 ---
-title: Students' Posters
+title: "Students' Posters"
 parent: Research
 nav:
   order: 4
