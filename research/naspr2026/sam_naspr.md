@@ -6,6 +6,8 @@ nav:
   order: 4
 ---
 
+<h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Sam's Poster</h1>
+
 # Acceptability, Appropriateness, and Feasibility of a Training Module Targeting Clinician’s Ability to Respond to Empathic Opportunities in Suicidal Patients - Pilot Study
 
 **Samuel Welsh¹˒²˒³*, You-Syuan Lin¹˒²˒³, & Sarah Bloch-Elkouby¹˒²**
@@ -16,11 +18,11 @@ nav:
 
 <div style="width: 100%; margin: 20px 0;">
   <iframe
-    src="{{ '/research/naspr_2026/Sam_NASPR.pdf' | relative_url }}"
+    src="{{ '/research/naspr2026/Sam_NASPR.pdf' | relative_url }}"
     width="100%"
     height="900px"
     style="border: 1px solid #ddd;"
-    title="Sam's NASPR 2026 Poster">
+    title="Sam's 2026 NASPR Poster">
   </iframe>
 </div>
 
