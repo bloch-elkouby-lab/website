@@ -1,10 +1,7 @@
-
 ---
-title: "Jimmy – NASPR 2026"
-parent: Research
-nav:
-  order: 3
-permalink: /research/naspr_2026/jimmy_naspr/
+layout: default
+title: "Jimmy's Poster"
+permalink: /research/naspr2026/jimmy_naspr.md/
 ---
 
 # Acceptability and Feasibility of Virtual Patient with and without ChatGPT
@@ -18,11 +15,11 @@ permalink: /research/naspr_2026/jimmy_naspr/
 
 <div style="width: 100%; margin: 20px 0;">
   <iframe
-    src="{{ '/research/naspr_2026/Jimmy_NASPR.pdf' | relative_url }}"
+    src="{{ '/research/naspr2026/Jimmy_NASPR.pdf' | relative_url }}"
     width="100%"
     height="900px"
     style="border: 1px solid #ddd;"
-    title="Jimmy's NASPR 2026 Poster">
+    title="Jimmy's 2026 NASPR Poster">
   </iframe>
 </div>
 
