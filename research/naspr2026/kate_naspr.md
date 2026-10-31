@@ -4,6 +4,8 @@ title: "Kate's Poster"
 permalink: /research/naspr2026/kate_naspr.md/
 ---
 
+<h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Kate's Poster</h1>
+
 # Protocol for a Randomized Controlled Trial Evaluating the Effectiveness of an AI-Enhanced Virtual Human Training for Therapy with High-Risk Patients
 
 **Kate Van Houten¹˒²˒³, You-Syuan Lin¹˒², Samuel Welsh¹˒², Jimmy Pengyu Chen¹˒², Igor Galynker¹, & Sarah Bloch-Elkouby¹˒²**
