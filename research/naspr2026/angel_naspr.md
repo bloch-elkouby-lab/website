@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Angel's Poster"
+permalink: /research/naspr2026/angel_naspr.md/
+---
+
 <h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Angel's Poster</h1>
 
 ## The Relationship Between a Decrease in Technical Disruptions and an Increase in Therapeutic Alliance
