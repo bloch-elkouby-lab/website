@@ -1,9 +1,7 @@
-
 ---
-title: Kate Van Houten - NASPR 2026 Poster
-parent: Research
-nav:
-  order: 4
+layout: default
+title: "Kate's Poster"
+permalink: /research/naspr2026/kate_naspr.md/
 ---
 
 # Protocol for a Randomized Controlled Trial Evaluating the Effectiveness of an AI-Enhanced Virtual Human Training for Therapy with High-Risk Patients
@@ -16,11 +14,11 @@ nav:
 
 <div style="width: 100%; margin: 20px 0;">
   <iframe
-    src="{{ '/research/naspr_2026/Kate_NASPR.pdf' | relative_url }}"
+    src="{{ '/research/naspr2026/Kate_NASPR.pdf' | relative_url }}"
     width="100%"
     height="900px"
     style="border: 1px solid #ddd;"
-    title="Kate's NASPR 2026 Poster">
+    title="Kate's 2026 NASPR Poster">
   </iframe>
 </div>
 
