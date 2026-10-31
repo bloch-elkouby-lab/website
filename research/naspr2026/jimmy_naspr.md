@@ -4,6 +4,8 @@ title: "Jimmy's Poster"
 permalink: /research/naspr2026/jimmy_naspr.md/
 ---
 
+<h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Jimmy's Poster</h1>
+
 # Acceptability and Feasibility of Virtual Patient with and without ChatGPT
 
 **Jimmy Pengyu Chen¹˒², Anna Stefania Prekas¹˒²˒³, Hanjiang Xu¹˒²˒⁴, Yongxue Wei¹˒²˒⁴, Lilian Guo¹˒²˒⁴, Madison Wakely¹˒², & Sarah Bloch-Elkouby¹˒²**
