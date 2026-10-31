@@ -1,9 +1,7 @@
-
 ---
-title: Lilian Guo - NASPR 2026
-parent: Research
-nav:
-  order: 5
+layout: default
+title: "Lilian's Poster"
+permalink: /research/naspr2026/lilian_naspr.md/
 ---
 
 # Self-Reported and Observer-Rated Empathy and Suicide-Risk Assessment Accuracy in Virtual Patient Interviews
@@ -16,11 +14,11 @@ nav:
 
 <div style="width: 100%; margin: 20px 0;">
   <iframe
-    src="{{ '/research/naspr_2026/Lilian_NASPR.pdf' | relative_url }}"
+    src="{{ '/research/naspr2026/Lilian_NASPR.pdf' | relative_url }}"
     width="100%"
     height="900px"
     style="border: 1px solid #ddd;"
-    title="Lilian Guo's NASPR 2026 Poster">
+    title="Lilian's 2026 NASPR Poster">
   </iframe>
 </div>
 
