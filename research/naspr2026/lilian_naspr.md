@@ -4,6 +4,8 @@ title: "Lilian's Poster"
 permalink: /research/naspr2026/lilian_naspr.md/
 ---
 
+<h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Lilian's Poster</h1>
+
 # Self-Reported and Observer-Rated Empathy and Suicide-Risk Assessment Accuracy in Virtual Patient Interviews
 
 **Lilian Guo¹˒²˒³, Jimmy Pengyu Chen¹˒², Amna Maryam¹˒², Jason Tortora¹˒², & Sarah Bloch-Elkouby¹˒²**
