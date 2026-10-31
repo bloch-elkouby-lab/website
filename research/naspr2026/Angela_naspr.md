@@ -4,7 +4,7 @@ title: "Angela's Poster"
 permalink: /research/naspr2026/Angela_naspr.md/
 ---
 
-{% include icon.html icon="fa-solid fa-feather-pointed" %} Angela's Poster
+<h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Angel's Poster</h1>
 
 ## Acceptability, Appropriateness, and Feasibility of a Training Module Targeting Clinicians’ Negative Emotional Responses to Suicidal Patients: A Pilot
 
