@@ -151,19 +151,19 @@ permalink: /publications/
 
 <h2 id="Presentation">Conference Presentations</h2>
 
-<p><strong>Upcoming:</strong> <strong>Bloch-Elkouby, S.</strong> (2026, October). <em>Safe Spaces and the Need for Courage</em>. [Invited discussant]. Biannual Meeting of the North American Chapter, Society for Psychotherapy Research, New York, NY, United States.</p>
+<p><strong>Bloch-Elkouby, S.</strong> (2026, October). <em>Safe Spaces and the Need for Courage</em>. [Discussant]. Biannual Meeting of the North American Chapter, Society for Psychotherapy Research, New York, NY, United States.</p>
 
-<p><strong>Upcoming:</strong> <strong>Bloch-Elkouby, S.</strong> (2026, October). <em>Working Through Cultural Ruptures in Psychotherapy and the Role of Therapist Strengths/Virtues</em>. [Invited discussant]. Biannual Meeting of the North American Chapter, Society for Psychotherapy Research, New York, NY, United States.</p>
+<p><strong>Bloch-Elkouby, S.</strong> (2026, October). <em>Working Through Cultural Ruptures in Psychotherapy and the Role of Therapist Strengths/Virtues</em>. [Discussant]. Biannual Meeting of the North American Chapter, Society for Psychotherapy Research, New York, NY, United States.</p>
 
-<p><strong>Upcoming:</strong> <strong>Bloch-Elkouby, S.</strong> (2026, June). <em>Under Pressure: Therapists’ Skills and Performance during Challenging Clinical Situations</em>. [Invited discussant]. Annual International Meeting of the Society for Psychotherapy Research, Osaka, Japan.</p>
+<p><strong>Bloch-Elkouby, S.</strong> (2026, June). <em>Under Pressure: Therapists’ Skills and Performance during Challenging Clinical Situations</em>. [Discussant]. Annual International Meeting of the Society for Psychotherapy Research, Osaka, Japan.</p>
 
-<p><strong>Upcoming:</strong> <strong>Bloch-Elkouby, S.</strong> (2026, June). <em>From Scientific Innovation to Clinical Practice: Extending Translational Efforts in Psychotherapy Research</em>. [Invited discussant]. Annual International Meeting of the Society for Psychotherapy Research, Osaka, Japan.</p>
+<p><strong>Bloch-Elkouby, S.</strong> (2026, June). <em>From Scientific Innovation to Clinical Practice: Extending Translational Efforts in Psychotherapy Research</em>. [Discussant]. Annual International Meeting of the Society for Psychotherapy Research, Osaka, Japan.</p>
 
-<p><strong>Upcoming:</strong> <strong>Bloch-Elkouby, S.</strong> (2026, June). <em>Beyond the Hype: What It Really Takes to Build an Interdisciplinary AI &amp; Psychotherapy Research Program</em>. [Invited discussant]. Annual International Meeting of the Society for Psychotherapy Research, Osaka, Japan.</p>
+<p><strong>Bloch-Elkouby, S.</strong> (2026, June). <em>Beyond the Hype: What It Really Takes to Build an Interdisciplinary AI &amp; Psychotherapy Research Program</em>. [Discussant]. Annual International Meeting of the Society for Psychotherapy Research, Osaka, Japan.</p>
 
-<p><strong>Upcoming:</strong> <strong>Bloch-Elkouby, S.</strong>, Chen, J., Shi, R., &amp; Galynker, I. (2026, October). <em>Using Virtual-Patient Interactions to Re-imagine the Content and Process of Suicide Risk Assessments and Interventions</em>. In S. Bloch-Elkouby (Chair), <em>Transforming Psychotherapy and Clinical Training with AI</em>. [Paper presentation in a panel]. Biannual Meeting of the North American Chapter, Society for Psychotherapy Research, New York, NY, United States.</p>
+<p><strong>Bloch-Elkouby, S.</strong>, Chen, J., Shi, R., &amp; Galynker, I. (2026, October). <em>Using Virtual-Patient Interactions to Re-imagine the Content and Process of Suicide Risk Assessments and Interventions</em>. In S. Bloch-Elkouby (Chair), <em>Transforming Psychotherapy and Clinical Training with AI</em>. [Paper presentation in a panel]. Biannual Meeting of the North American Chapter, Society for Psychotherapy Research, New York, NY, United States.</p>
 
-<p><strong>Upcoming:</strong> <strong>Bloch-Elkouby, S.</strong>, Chen, P., Apter-Levi, Y., Galynker, I., Gomes de Siqueira, A., &amp; Lok, B. (2026, June). <em>Reimagining the Content and Process of Suicide Risk Assessment Through AI-Driven Virtual Human Interactions</em>. In S. Bloch-Elkouby &amp; D. Atzil-Slonim (Chairs), <em>Transforming Psychotherapy and Training with AI: Insights from Virtual Human Interactions, NLP, and AI Acceptability Studies</em>. [Paper presentation in a panel]. Annual International Meeting of the Society for Psychotherapy Research, Osaka, Japan.</p>
+<p><strong>Bloch-Elkouby, S.</strong>, Chen, P., Apter-Levi, Y., Galynker, I., Gomes de Siqueira, A., &amp; Lok, B. (2026, June). <em>Reimagining the Content and Process of Suicide Risk Assessment Through AI-Driven Virtual Human Interactions</em>. In S. Bloch-Elkouby &amp; D. Atzil-Slonim (Chairs), <em>Transforming Psychotherapy and Training with AI: Insights from Virtual Human Interactions, NLP, and AI Acceptability Studies</em>. [Paper presentation in a panel]. Annual International Meeting of the Society for Psychotherapy Research, Osaka, Japan.</p>
 
 <p><strong>Bloch-Elkouby, S.</strong>, Gomes de Siqueira, A., Yao, H., Johnson, B., Lok, B., &amp; Galynker, I. (2025, November). <em>Beyond Sci-Fi: Harnessing AI-Driven Virtual Human Interactions in Suicide Prevention Research and Training</em>. In S. Bloch-Elkouby &amp; I. Galynker (Chairs), <em>Revolutionizing Suicide Risk Assessment and Training with AI: Insights from Virtual Human Interactions and Natural Language Processing Cutting-Edge Studies</em>. [Paper presentation in a panel]. 2025 Biennial Meeting of the International Academy of Suicide Research and the American Foundation for Suicide Prevention, Boston, MA, United States.</p>
 
@@ -209,9 +209,9 @@ permalink: /publications/
 
 <h2 id="Panels">Panels Chaired</h2>
 
-<p><strong>Upcoming:</strong> <strong>Bloch-Elkouby, S.</strong> (2026, October). <em>Transforming Psychotherapy and Clinical Training with AI</em>. Panel chair. Biannual Meeting of the North American Chapter, Society for Psychotherapy Research, New York, NY, United States.</p>
+<p><strong>Bloch-Elkouby, S.</strong> (2026, October). <em>Transforming Psychotherapy and Clinical Training with AI</em>. Panel chair. Biannual Meeting of the North American Chapter, Society for Psychotherapy Research, New York, NY, United States.</p>
 
-<p><strong>Upcoming:</strong> <strong>Bloch-Elkouby, S.</strong> &amp; Atzil-Slonim, D. (2026, June). <em>Transforming Psychotherapy and Training with AI: Insights from Virtual Human Interactions, NLP, and AI Acceptability Studies</em>. Panel chairs. Annual International Meeting of the Society for Psychotherapy Research, Osaka, Japan.</p>
+<p><strong>Bloch-Elkouby, S.</strong> &amp; Atzil-Slonim, D. (2026, June). <em>Transforming Psychotherapy and Training with AI: Insights from Virtual Human Interactions, NLP, and AI Acceptability Studies</em>. Panel chairs. Annual International Meeting of the Society for Psychotherapy Research, Osaka, Japan.</p>
 
 <p><strong>Bloch-Elkouby, S.</strong> &amp; Galynker, I. (2025, November). <em>Revolutionizing Suicide Risk Assessment and Training with AI: Insights from Virtual Human Interactions and Natural Language Processing Cutting-Edge Studies</em>. Panel chairs. 2025 Biennial Meeting of the International Academy of Suicide Research and the American Foundation for Suicide Prevention, Boston, MA, United States.</p>
 
