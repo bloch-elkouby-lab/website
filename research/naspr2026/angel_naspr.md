@@ -1,4 +1,4 @@
-{% include icon.html icon="fa-solid fa-feather-pointed" %} Angel's Poster
+<h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Angel's Poster</h1>
 
 ## The Relationship Between a Decrease in Technical Disruptions and an Increase in Therapeutic Alliance
 
@@ -10,11 +10,11 @@ by **Yongxue Wei**¹˒²˒³, **Jimmy Pengyu Chen**¹˒²˒³, **Hanjiang Xu**¹
 
 <div style="width: 100%; margin: 20px 0;">
   <iframe
-    src="{{ '/research/naspr_2026/Angel_NASPR.pdf' | relative_url }}"
+    src="{{ '/research/naspr2026/angel_naspr.pdf' | relative_url }}"
     width="100%"
     height="900px"
     style="border: 1px solid #ddd;"
-    title="Angel's NASPR 2026 Poster">
+    title="Angel's 2026 NASPR Poster">
   </iframe>
 </div>
 
