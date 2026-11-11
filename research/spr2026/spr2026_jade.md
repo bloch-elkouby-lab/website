@@ -13,7 +13,7 @@ Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
 
 <div style="max-width: 400px; margin: 0 auto;">
 {% include figure.html
-   image="research/spr2026/spr2026-jade.png"
+   image="research/spr2026/spr2026-jade.pdf"
 %}
 </div>
 
