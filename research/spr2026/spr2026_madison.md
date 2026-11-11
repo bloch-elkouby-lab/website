@@ -1,6 +1,6 @@
 ---
-title: "SPR2026 - Wakely"
-permalink: /posters/spr2026_wakely/
+title: "SPR2026 - Madison"
+permalink: /posters/spr2026_madison/
 ---
 
 ## {% include icon.html icon="fa-solid fa-feather-pointed" %} Madison's Poster
