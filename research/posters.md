@@ -34,7 +34,7 @@ permalink: /posters/
 
 <p><ins>Bhise, A.</ins>, <ins>Datta, S.</ins>, <ins>Chen, J. P.</ins>, <ins>Wei, J.</ins>, &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <em>Suicidal Patients’ Race Affects Nuanced Aspects of Clinicians’ Clinical Judgement</em> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
 
-<p><ins>Bourmpoulia, V.</ins>, <ins>Guo, L.</ins>, &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <em>Clinicians’ Emotion Dysregulation and Mindfulness in Suicide Risk Assessment During Virtual Patient Interactions</em> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
+<p><ins>Bourmpoulia, V.</ins>, <ins>Guo, L.</ins>, &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <a href="https://bloch-elkouby-lab.github.io/research/spr2026/spr2026_bourmpoulia.md <em>Clinicians’ Emotion Dysregulation and Mindfulness in Suicide Risk Assessment During Virtual Patient Interactions</em></a> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
 
 <p><ins>Chen, J. P.</ins>, <ins>Guo, L.</ins>, <ins>Wei, Y.</ins>, <ins>Bhise, A.</ins>, <ins>Yang, J.</ins>, &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <a href="https://bloch-elkouby-lab.github.io/website/posters/spr2026_chen/"><em>Disproportionate impact of technological disruptions on suicide risk assessment in Black virtual patients</em></a> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
 
