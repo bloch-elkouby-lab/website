@@ -1,6 +1,6 @@
 ---
-title: "SPR2026 - Xu"
-permalink: /posters/spr2026_xu/
+title: "SPR2026 - Hanjiang"
+permalink: /posters/spr2026_hanjiang/
 ---
 
 ## {% include icon.html icon="fa-solid fa-feather-pointed" %} Hanjiang's Poster
