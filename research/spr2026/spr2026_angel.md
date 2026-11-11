@@ -3,7 +3,7 @@ title: "SPR2026 - Wei"
 permalink: /posters/spr2026_wei/
 ---
 
-## {% include icon.html icon="fa-solid fa-feather-pointed" %} Yongxue (Angel) Wei's Poster
+## {% include icon.html icon="fa-solid fa-feather-pointed" %} Angel's Poster
 
 ## Exploring Clinicians’ Experience of Therapeutic Alliance Ruptures and Repairs with High-Risk Patients: A Proposed Study ##
 
