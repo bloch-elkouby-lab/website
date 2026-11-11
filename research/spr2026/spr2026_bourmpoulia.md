@@ -2,7 +2,7 @@
 title: "SPR2026 - Bourmpoulia"
 permalink: /posters/spr2026_bourmpoulia/
 ---
-## {% include icon.html icon="fa-solid fa-feather-pointed" %} Viktoria Bourmpoulia's Poster
+## {% include icon.html icon="fa-solid fa-feather-pointed" %} Viktoria's Poster
 
 ## Does Mindfulness Buffer the Effect of Emotion Dysregulation on Clinician-Rated Suicide Risk? A Virtual Patient Simulation Study ##
 
