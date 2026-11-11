@@ -34,11 +34,11 @@ permalink: /posters/
 
 <p><ins>Bhise, A.</ins>, <ins>Datta, S.</ins>, <ins>Chen, J. P.</ins>, <ins>Wei, J.</ins>, &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <em>Suicidal Patients’ Race Affects Nuanced Aspects of Clinicians’ Clinical Judgement</em> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
 
-<p><ins>Bourmpoulia, V.</ins>, <ins>Guo, L.</ins>, &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <a href="https://bloch-elkouby-lab.github.io/research/spr2026/spr2026_bourmpoulia.md <em>Clinicians’ Emotion Dysregulation and Mindfulness in Suicide Risk Assessment During Virtual Patient Interactions</em></a> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
+<p><ins>Bourmpoulia, V.</ins>, <ins>Guo, L.</ins>, &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <a href="https://bloch-elkouby-lab.github.io/website/posters/spr2026_bourmpoulia/"><em>Clinicians’ Emotion Dysregulation and Mindfulness in Suicide Risk Assessment During Virtual Patient Interactions</em></a> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
 
 <p><ins>Chen, J. P.</ins>, <ins>Guo, L.</ins>, <ins>Wei, Y.</ins>, <ins>Bhise, A.</ins>, <ins>Yang, J.</ins>, &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <a href="https://bloch-elkouby-lab.github.io/website/posters/spr2026_chen/"><em>Disproportionate impact of technological disruptions on suicide risk assessment in Black virtual patients</em></a> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
 
-<p><ins>Guo, L.</ins>, <ins>Chen, J. P.</ins>, &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <em>Countertransference and the Accuracy of Suicide-Risk Assessment in Virtual Patient Clinical Interviews</em> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
+<p><ins>Guo, L.</ins>, <ins>Chen, J. P.</ins>, &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <a href="https://bloch-elkouby-lab.github.io/website/posters/spr2026_guo/"><em>Countertransference and the Accuracy of Suicide-Risk Assessment in Virtual Patient Clinical Interviews</em> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
 
 <p><ins>Khaikin, S.</ins>, Lipner, L., <ins>Shvarzman, R.</ins>, Gorman, B., Muran, J. C., Eubanks, C. F., &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <em>3RS-SR: Virtual patient validation study</em> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
 
