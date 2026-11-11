@@ -13,7 +13,7 @@ by **Viktoria Bourmpoulia**<sup>1,2,3</sup>, Lilian Guo<sup>1,2,3</sup>, & Sarah
 3 Teachers College, Columbia University in the City of New York  
 
 {% include figure.html
-   image="research/spr2026/spr2026_bourmpoulia.jpg"
+   image="research/spr2026/spr2026-vik.png"
 %}
 
 ### Background: ###
