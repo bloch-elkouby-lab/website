@@ -1,13 +1,13 @@
 ---
 title: "SPR2026 - Khaikin"
-permalink: /posters/spr2026_khaikin/
+permalink: /posters/spr2026_shely/
 ---
 
 ## {% include icon.html icon="fa-solid fa-feather-pointed" %} Shely's Poster
 
 ## 3RS-SR: Virtual Patient Validation Study ##
 
-**Shelly Khaikin**¹, **Lauren Lipner**², **Ronit Shvarzman**³, **Bernard Gorman**⁴, **J.C. Muran**⁴, **Catherine F. Eubanks**⁴, **Sarah Bloch-Elkouby**¹˒³
+**Shely Khaikin**¹, **Lauren Lipner**², **Ronit Shvarzman**³, **Bernard Gorman**⁴, **J.C. Muran**⁴, **Catherine F. Eubanks**⁴, **Sarah Bloch-Elkouby**¹˒³
 
 ¹ Icahn School of Medicine at Mount Sinai  
 ² Fairleigh Dickinson University, USA  
