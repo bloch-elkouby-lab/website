@@ -1,6 +1,6 @@
 ---
-title: "SPR2026 - Wei"
-permalink: /posters/spr2026_wei/
+title: "SPR2026 - Angel"
+permalink: /posters/spr2026_angel/
 ---
 
 ## {% include icon.html icon="fa-solid fa-feather-pointed" %} Angel's Poster
