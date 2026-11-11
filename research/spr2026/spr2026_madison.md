@@ -3,7 +3,7 @@ title: "SPR2026 - Wakely"
 permalink: /posters/spr2026_wakely/
 ---
 
-## {% include icon.html icon="fa-solid fa-feather-pointed" %} Madison M. Wakely's Poster
+## {% include icon.html icon="fa-solid fa-feather-pointed" %} Madison's Poster
 
 ## The Relationship between Clinician Self-Compassion, Therapeutic Alliance Ruptures, and Self-Reported Competency and Comfort Working with High-Risk Patients ##
 
