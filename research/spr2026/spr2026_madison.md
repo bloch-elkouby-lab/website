@@ -15,7 +15,7 @@ permalink: /posters/spr2026_madison/
 
 <div style="max-width: 400px; margin: 0 auto;">
 {% include figure.html
-   image="research/spr2026/spr2026-madison.png"
+   image="research/spr2026/spr2026_madison.png"
 %}
 </div>
 
