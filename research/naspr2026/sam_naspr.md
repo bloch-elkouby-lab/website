@@ -1,6 +1,6 @@
-
 ---
 title: Sam Welsh - NASPR 2026 Poster
+layout: default
 parent: Research
 nav:
   order: 4
