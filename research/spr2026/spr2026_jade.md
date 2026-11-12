@@ -76,4 +76,4 @@ There was no significant difference in clinicians’ emotional responses between
 
 \(t(185.9) = -1.46,\ p = .147\)
 
-95%
+95% CI [−2.40, 0.36]
