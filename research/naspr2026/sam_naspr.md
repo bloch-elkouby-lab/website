@@ -1,9 +1,7 @@
 ---
-title: Sam Welsh - NASPR 2026 Poster
 layout: default
-parent: Research
-nav:
-  order: 4
+title: "Sam's Poster"
+permalink: /research/naspr2026/sam_naspr.md/
 ---
 
 <h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Sam's Poster</h1>
