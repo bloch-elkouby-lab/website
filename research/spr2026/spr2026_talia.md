@@ -1,24 +1,27 @@
 ---
-title: "SPR2026 - talia"
+layout: default
+title: "Talia's Poster"
 permalink: /posters/spr2026_talia/
 ---
 
-## {% include icon.html icon="fa-solid fa-feather-pointed" %} Talia's Poster
+<h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Talia's Poster</h1>
 
-## The Alliance with High-Risk Patients: Presenting an Innovative Study Design ##
+# The Alliance with High-Risk Patients: Presenting an Innovative Study Design
 
-**Talia Rosen**, **Alexis Aberman**, **Ursula Whiteside**, **Laura Baruch**, **Madison Wakely**, **Viktoria Bourgmoula**, **Lilian Guo**, **Sarah Bloch-Elkouby**
+**Talia Rosen, Alexis Aberman, Ursula Whiteside, Laura Baruch, Madison Wakely, Viktoria Bourgmoula, Lilian Guo, & Sarah Bloch-Elkouby**
 
 Ferkauf Graduate School of Psychology, Yeshiva University  
 Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
 
-<div style="max-width: 400px; margin: 0 auto;">
-{% include figure.html
-   image="research/spr2026/spr2026-talia.png"
-%}
+<div style="width: 100%; margin: 20px 0;">
+  <img
+    src="{{ '/research/spr2026/spr2026-talia.png' | relative_url }}"
+    width="100%"
+    style="width: 100%; height: auto; border: 1px solid #ddd;"
+    alt="Talia's 2026 SPR Poster">
 </div>
 
-### Background: ###
+## Background
 
 Suicide accounts for over 720,000 deaths globally each year (CDC, 2024; WHO, 2024). The therapeutic alliance is an important factor in treatment success across diagnoses and orientations (Flückiger et al., 2018; Safran & Muran, 1998, 2000), particularly with high-risk patients (Dunster-Page et al., 2017; Michel & Jobes, 2011).
 
@@ -28,7 +31,7 @@ Fears of hospitalization, shame, and embarrassment may lead to a lack of disclos
 
 Emerging ethical recommendations emphasize the importance of conducting suicide research with individuals with lived experience rather than about them (Daya et al., 2020; Hawgood et al., 2023; Krysinska et al., 2023; Maclean et al., 2018).
 
-### Research Aims: ###
+## Research Aims
 
 This study aims to understand how successful therapy dyads establish effective alliances, with the goal of helping clinicians develop competency and agency when working with suicidal patients.
 
@@ -40,7 +43,7 @@ The study explores the following research questions:
 4. How do clinicians’ responses to disclosure influence patients’ experiences?
 5. How effectively can clinicians navigate suicide risk?
 
-### Need for an Innovative Study Design: ###
+## Need for an Innovative Study Design
 
 Suicide prevention and psychotherapy research remain siloed. For example, research on the alliance has rarely been explored with high-risk patients.
 
@@ -52,13 +55,13 @@ There is also a dearth of research on successful treatments with high-risk patie
 
 Therefore, this paper presents a new and innovative study design to investigate these research questions.
 
-### Method: ###
+## Method
 
-**Study Design and Analytic Approach**
+### Study Design and Analytic Approach
 
 This study uses a dual-phase study design involving qualitative interviews of successful therapy dyads, with therapists and patients interviewed separately, followed by multi-stage analysis for nuanced interpretation and collaborative dissemination of findings.
 
-**Phase 1: Semi-Structured Interviews**
+### Phase 1: Semi-Structured Interviews
 
 Semi-structured qualitative interviews are conducted with suicidality survivors and clinicians.
 
@@ -70,17 +73,18 @@ Questions focus on:
 Interviews are analyzed using Reflexive Thematic Analysis (Braun & Clarke, 2019).
 
 The analysis includes three stages:
+
 1. Patients and clinicians are analyzed as separate samples.
 2. Within-dyad convergence and divergence are examined.
 3. Patient and clinician group comparisons are conducted.
 
-**Phase 2: Focus Groups**
+### Phase 2: Focus Groups
 
 - Separate focus groups are conducted for survivors and therapists.
 - Participants collaboratively interpret findings.
 - Focus groups explore equitable methods for disseminating the findings.
 
-**Participants**
+### Participants
 
 The dyadic design adds nuance and provides an opportunity to explore unspoken processes, such as intention versus impact of interventions.
 
@@ -88,7 +92,7 @@ Each dyad includes:
 - An individual who has survived suicidality and identifies as recovered.
 - A therapist whom the survivor identifies as instrumental in their recovery.
 
-**Recruitment**
+### Recruitment
 
 "Recovered" and "instrumental" are participant-defined, consistent with the study's emphasis on honoring participants' subjective experiences.
 
@@ -96,7 +100,7 @@ Each dyad includes:
 - Patients nominate a clinician who was instrumental in their recovery.
 - Clinicians are provided with a signed Release of Information before outreach.
 
-**Research Team**
+### Research Team
 
 The research team emphasizes collaboration with survivors throughout every stage of the process and includes:
 - Two graduate student principal investigators.
@@ -113,7 +117,7 @@ The research team emphasizes collaboration with survivors throughout every stage
 | Recruitment | Convenience sampling and patient-nominated clinicians |
 | Research approach | Collaborative involvement of individuals with lived experience |
 
-### Recruitment Challenges: ###
+## Recruitment Challenges
 
 The poster reports the following recruitment progress:
 
@@ -133,7 +137,7 @@ Additional recruitment developments:
 - One patient participant dropped out after their clinician participated.
 - One clinician became unresponsive after consenting to participate.
 
-### Patient Interview Excerpts: ###
+## Patient Interview Excerpts
 
 The research team asked suicidality survivors what advice they would give to clinicians treating suicidal patients. The poster highlights the following responses:
 
@@ -143,7 +147,7 @@ The research team asked suicidality survivors what advice they would give to cli
 
 > “I just wanted to feel seen and validated, and I wanted to make sense of these feelings...I was so scared of them.”
 
-### Discussion: ###
+## Discussion
 
 This study presents an innovative approach to understanding successful therapeutic alliances with high-risk patients by interviewing both members of therapy dyads separately. This design allows researchers to examine how patients and clinicians experience the same therapeutic relationship, including potential differences between clinicians’ intentions and patients’ experiences.
 
@@ -151,50 +155,6 @@ The inclusion of individuals with lived experience as research partners also sup
 
 The recruitment process highlights challenges associated with involving clinicians nominated by patients, including limited availability, institutional restrictions, and difficulties with follow-up. Adaptations to the protocol allowed the research team to continue recruitment while respecting participant circumstances.
 
-### Acknowledgements: ###
+## Acknowledgements
 
 This project was funded by grants from the APA Division 29 and the North American Chapter of the Society for Psychotherapy Research.
-
-### References: ###
-
-References cited in the poster include:
-
-Awenat et al. (2017).
-
-Blanchard & Farber (2020).
-
-Bloch-Elkouby & Barzilay (2022).
-
-Braun & Clarke (2019).
-
-CDC (2024).
-
-Dahl-Jacinto & Hays (2024).
-
-Daya et al. (2020).
-
-Dunster-Page et al. (2017).
-
-Flückiger et al. (2018).
-
-Hawgood et al. (2023).
-
-Hendin et al. (2006).
-
-Huggett et al. (2024).
-
-Hyun et al. (2021).
-
-Krysinska et al. (2023).
-
-Love & Morgan (2021).
-
-Maclean et al. (2018).
-
-Michaud et al. (2021).
-
-Michel & Jobes (2011).
-
-Safran & Muran (1998, 2000).
-
-WHO (2024).
