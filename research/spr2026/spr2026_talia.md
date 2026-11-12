@@ -8,11 +8,13 @@ Ferkauf Graduate School of Psychology, Yeshiva University
 Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
 
 <div style="width: 100%; margin: 20px 0;">
-  <img
-    src="{{ '/research/spr2026/spr2026-talia.png' | relative_url }}"
+  <iframe
+    src="{{ '/research/spr2026/spr2026-jade.pdf' | relative_url }}"
     width="100%"
-    style="width: 100%; height: auto; border: 1px solid #ddd;"
-    alt="Talia's 2026 SPR Poster">
+    height="900px"
+    style="border: 1px solid #ddd;"
+    title="Jade's 2026 SPR Poster">
+  </iframe>
 </div>
 
 ## Background
