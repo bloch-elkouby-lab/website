@@ -16,11 +16,13 @@ permalink: /posters/spr2026_shely/
 ⁴ Adelphi University, New York, USA
 
 <div style="width: 100%; margin: 20px 0;">
-  <img
+  <iframe
     src="{{ '/research/spr2026/spr2026-shely.png' | relative_url }}"
     width="100%"
-    style="width: 100%; height: auto; border: 1px solid #ddd;"
-    alt="Shely's 2026 SPR Poster">
+    height="900px"
+    style="border: 1px solid #ddd;"
+    title="Shely's 2026 SPR Poster">
+  </iframe>
 </div>
 
 ## Background
