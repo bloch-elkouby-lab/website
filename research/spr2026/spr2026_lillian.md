@@ -20,7 +20,7 @@ permalink: /posters/spr2026_lillian/
     width="100%"
     height="900px"
     style="border: 1px solid #ddd;"
-    title="Lilian's 2026 NASPR Poster">
+    title="Lilian's 2026 SPR Poster">
   </iframe>
 </div>
 
