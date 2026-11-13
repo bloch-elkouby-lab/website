@@ -1,22 +1,25 @@
 ---
-title: "SPR2026 - Lillian"
+layout: default
+title: "Lilian's Poster"
 permalink: /posters/spr2026_lillian/
 ---
 
-## {% include icon.html icon="fa-solid fa-feather-pointed" %} Lilian's Poster
+<h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Lilian's Poster</h1>
 
-## Countertransference and the Accuracy of Suicide-Risk Assessment in Virtual Patient Clinical Interviews ##
+# Does Mindfulness Moderate the Impact of Patients’ Race and Clinicians’ Implicit Racial Biases on Clinicians’ Emotional Response to Minoritized Youth?
 
-**Lilian Guo**¹˒²˒³, **Jimmy P. Chen**¹˒², **Sarah Bloch-Elkouby**¹˒²
+**Jade Wei, Runqin Shi, Jimmy Chen, Wendy Guo, Jason Tortora, & Sarah Bloch-Elkouby**
 
-¹ Icahn School of Medicine at Mount Sinai, New York, NY, USA  
-² Ferkauf Graduate School of Psychology, Yeshiva University, New York, NY, USA  
-³ Teachers College, Columbia University, New York, NY, USA
+Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
 
-<div style="max-width: 400px; margin: 0 auto;">
-{% include figure.html
-   image="research/spr2026/spr2026-lillian.png"
-%}
+<div style="width: 100%; margin: 20px 0;">
+  <iframe
+    src="{{ '/research/spr2026/spr2026-lillian.png' | relative_url }}"
+    width="100%"
+    height="900px"
+    style="border: 1px solid #ddd;"
+    title="Lilian's 2026 NASPR Poster">
+  </iframe>
 </div>
 
 ### Background: ###
