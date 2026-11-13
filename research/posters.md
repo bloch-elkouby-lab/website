@@ -42,7 +42,7 @@ permalink: /posters/
 
 <p><ins>Khaikin, S.</ins>, Lipner, L., <ins>Shvarzman, R.</ins>, Gorman, B., Muran, J. C., Eubanks, C. F., &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <a href="https://bloch-elkouby-lab.github.io/website/posters/spr2026_shely/"><em>3RS-SR: Virtual patient validation study</em></a> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
 
-<p><ins>Kumaresh, J.</ins>, <ins>Lee, C. K.</ins>, <ins>Prekas, A. S.</ins>, <ins>Yang, J.</ins>, &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <a href="https://bloch-elkouby-lab.github.io/website/posters/spr2026_shi/"><em>Examining implicit and explicit racial attitudes in clinical psychology doctoral students</em></a> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
+<p><ins>Kumaresh, J.</ins>, <ins>Lee, C. K.</ins>, <ins>Prekas, A. S.</ins>, <ins>Yang, J.</ins>, &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <a href="https://bloch-elkouby-lab.github.io/website/posters/spr2026_runqin/"><em>Examining implicit and explicit racial attitudes in clinical psychology doctoral students</em></a> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
 
 <p><ins>Maryam, A.</ins>, <ins>Bourmpoulia, V.</ins>, <ins>Wakely, M.</ins>, &amp; <strong>Bloch-Elkouby, S.</strong> (2026, June 24–27). <a href="https://bloch-elkouby-lab.github.io/website/posters/spr2026_amna/"><em>Empathy and Mindfulness as Moderators of Implicit Bias Effects on Therapeutic Alliance</em></a> [Poster presentation]. Society for Psychotherapy Research International Annual Meeting, Osaka, Japan.</p>
 
