@@ -8,7 +8,7 @@ permalink: /posters/spr2026_hanjiang/
 
 ## Assessing Psychometric Properties of Suicide Crisis Syndrome Checklist (SCS-C) Using a Standardized Virtual Patient ##
 
-**Hanjiang Xu**¹, **Jimmy Chen**¹˒³, **Violet Yang**¹˒³, **Sarah Bloch-Elkouby**²˒³
+by **Hanjiang Xu**¹, **Jimmy Chen**¹˒³, **Violet Yang**¹˒³, **Sarah Bloch-Elkouby**²˒³
 
 ¹ Teachers College, Columbia University  
 ² Ferkauf Graduate School of Psychology, Yeshiva University  
