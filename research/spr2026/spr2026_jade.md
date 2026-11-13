@@ -8,7 +8,7 @@ permalink: /posters/spr2026_jade/
 
 # Does Mindfulness Moderate the Impact of Patients’ Race and Clinicians’ Implicit Racial Biases on Clinicians’ Emotional Response to Minoritized Youth?
 
-**Jade Wei**¹, **Runqin Shi**¹, **Jimmy Chen**¹, **Wendy Guo**¹, **Jason Tortora**¹, & **Sarah Bloch-Elkouby**¹
+by **Jade Wei**¹, **Runqin Shi**¹, **Jimmy Chen**¹, **Wendy Guo**¹, **Jason Tortora**¹, & **Sarah Bloch-Elkouby**¹
 
 Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
 
