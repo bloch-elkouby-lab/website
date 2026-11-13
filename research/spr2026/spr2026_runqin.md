@@ -2,7 +2,7 @@
 ---
 layout: default
 title: "Runqin's Poster"
-permalink: /posters/spr2026_shi/
+permalink: /posters/spr2026_runqin/
 ---
 
 <h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Runqin's Poster</h1>
@@ -15,7 +15,7 @@ Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
 
 <div style="width: 100%; margin: 20px 0;">
   <iframe
-    src="{{ '/research/spr2026/spr2026-shi.pdf' | relative_url }}"
+    src="{{ '/research/spr2026/spr2026-runqin.pdf' | relative_url }}"
     width="100%"
     height="900px"
     style="border: 1px solid #ddd;"
