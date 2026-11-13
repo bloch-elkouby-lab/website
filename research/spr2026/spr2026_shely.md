@@ -15,15 +15,9 @@ permalink: /posters/spr2026_shely/
 ³ Yeshiva University  
 ⁴ Adelphi University, New York, USA
 
-<div style="width: 100%; margin: 20px 0;">
-  <iframe
-    src="{{ '/research/spr2026/spr2026-shely.png' | relative_url }}"
-    width="100%"
-    height="900px"
-    style="border: 1px solid #ddd;"
-    title="Shely's 2026 SPR Poster">
-  </iframe>
-</div>
+{% include figure.html
+   image="research/spr2026/spr2026-shely.png"
+%}
 
 ## Background
 
