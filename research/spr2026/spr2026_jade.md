@@ -18,7 +18,7 @@ Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
     width="100%"
     height="900px"
     style="border: 1px solid #ddd;"
-    title="Jade's 2026 NASPR Poster">
+    title="Jade's 2026 SPR Poster">
   </iframe>
 </div>
 
