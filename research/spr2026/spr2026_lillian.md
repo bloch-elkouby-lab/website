@@ -8,7 +8,7 @@ permalink: /posters/spr2026_lillian/
 
 # Countertransference and the Accuracy of Suicide-Risk Assessment in Virtual Patient Clinical Interviews
 
-**Lilian Guo**¹˒²˒³, **Jimmy P. Chen**¹˒², & **Sarah Bloch-Elkouby**¹˒²
+by **Lilian Guo**¹˒²˒³, **Jimmy P. Chen**¹˒², & **Sarah Bloch-Elkouby**¹˒²
 
 ¹ Icahn School of Medicine at Mount Sinai, New York, NY, USA  
 ² Ferkauf Graduate School of Psychology, Yeshiva University, New York, NY, USA  
