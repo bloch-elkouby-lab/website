@@ -1,9 +1,10 @@
 ---
-title: "SPR2026 - Hanjiang"
+layout: default
+title: "Hanjiang's Poster"
 permalink: /posters/spr2026_hanjiang/
 ---
 
-## {% include icon.html icon="fa-solid fa-feather-pointed" %} Hanjiang's Poster
+<h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Hanjiang's Poster</h1>
 
 ## Assessing Psychometric Properties of Suicide Crisis Syndrome Checklist (SCS-C) Using a Standardized Virtual Patient ##
 
@@ -13,10 +14,14 @@ permalink: /posters/spr2026_hanjiang/
 ² Ferkauf Graduate School of Psychology, Yeshiva University  
 ³ Icahn School of Medicine at Mount Sinai
 
-<div style="max-width: 400px; margin: 0 auto;">
-{% include figure.html
-   image="research/spr2026/spr2026-hanjiang.png"
-%}
+<div style="width: 100%; margin: 20px 0;">
+  <iframe
+    src="{{ '/research/spr2026/spr2026-hanjiang.png' | relative_url }}"
+    width="100%"
+    height="900px"
+    style="border: 1px solid #ddd;"
+    title="Hanjiang's 2026 SPR Poster">
+  </iframe>
 </div>
 
 ### Background: ###
