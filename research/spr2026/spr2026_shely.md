@@ -8,7 +8,7 @@ permalink: /posters/spr2026_shely/
 
 # 3RS-SR: Virtual Patient Validation Study
 
-**Shely Khaikin¹, Lauren Lipner², Ronit Shvarzman³, Bernard Gorman⁴, J.C. Muran⁴, Catherine F. Eubanks⁴, & Sarah Bloch-Elkouby¹˒³**
+by **Shely Khaikin¹, Lauren Lipner², Ronit Shvarzman³, Bernard Gorman⁴, J.C. Muran⁴, Catherine F. Eubanks⁴, & Sarah Bloch-Elkouby¹˒³**
 
 ¹ Icahn School of Medicine at Mount Sinai  
 ² Fairleigh Dickinson University, USA  
