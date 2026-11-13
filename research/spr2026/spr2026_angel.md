@@ -7,7 +7,7 @@ permalink: /posters/spr2026_angel/
 
 ## Exploring Clinicians’ Experience of Therapeutic Alliance Ruptures and Repairs with High-Risk Patients: A Proposed Study ##
 
-by **Yongxue (Angel) Wei**<sup>1,3</sup>, Jingyi (Violet) Yang<sup>1</sup>, Madison Wakely<sup>1</sup>, & Sarah Bloch-Elkouby<sup>2,3</sup>
+**Yongxue (Angel) Wei**¹˒³, **Jingyi (Violet) Yang**¹, **Madison Wakely**¹, & **Sarah Bloch-Elkouby**²˒³
 
 1 Teachers College, Columbia University in the City of New York  
 2 Ferkauf Graduate School of Psychology, Yeshiva University  
