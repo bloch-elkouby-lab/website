@@ -18,11 +18,11 @@ Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
 
 <div style="width: 100%; margin: 20px 0;">
   <iframe
-    src="{{ '/research/spr2026/spr2026_madison.png' | relative_url }}"
+    src="{{ '/research/spr2026/spr2026-madison.png' | relative_url }}"
     width="100%"
     height="900px"
     style="border: 1px solid #ddd;"
-    title="Madison's 2026 NASPR Poster">
+    title="Madison's 2026 SPR Poster">
   </iframe>
 </div>
 
