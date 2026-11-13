@@ -8,7 +8,7 @@ permalink: /posters/spr2026_madison/
 
 ## The Relationship between Clinician Self-Compassion, Therapeutic Alliance Ruptures, and Self-Reported Competency and Comfort Working with High-Risk Patients ##
 
-**Madison M. Wakely**¹, **Angel Wei**¹˒³, **Amna Maryam**¹, & **Sarah Bloch-Elkouby**²˒³
+by **Madison M. Wakely**¹, **Angel Wei**¹˒³, **Amna Maryam**¹, & **Sarah Bloch-Elkouby**²˒³
 
 ¹ Teachers College, Columbia University  
 ² Yeshiva University  
