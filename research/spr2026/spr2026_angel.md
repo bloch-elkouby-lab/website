@@ -1,9 +1,10 @@
 ---
-title: "SPR2026 - Angel"
+layout: default
+title: "Angel's Poster"
 permalink: /posters/spr2026_angel/
 ---
 
-## {% include icon.html icon="fa-solid fa-feather-pointed" %} Angel's Poster
+<h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Angel's Poster</h1>
 
 ## Exploring Clinicians’ Experience of Therapeutic Alliance Ruptures and Repairs with High-Risk Patients: A Proposed Study ##
 
@@ -13,10 +14,14 @@ permalink: /posters/spr2026_angel/
 2 Ferkauf Graduate School of Psychology, Yeshiva University  
 3 Icahn School of Medicine at Mount Sinai in New York City
 
-<div style="max-width: 400px; margin: 0 auto;">
-  {% include figure.html
-     image="research/spr2026/spr2026-angel.png"
-  %}
+<div style="width: 100%; margin: 20px 0;">
+  <iframe
+    src="{{ '/research/spr2026/spr2026-angel.png' | relative_url }}"
+    width="100%"
+    height="900px"
+    style="border: 1px solid #ddd;"
+    title="Angel's 2026 SPR Poster">
+  </iframe>
 </div>
 
 ### Background: ###
