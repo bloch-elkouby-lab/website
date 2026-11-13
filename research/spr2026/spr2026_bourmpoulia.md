@@ -8,7 +8,7 @@ permalink: /posters/spr2026_bourmpoulia/
 
 ## Does Mindfulness Buffer the Effect of Emotion Dysregulation on Clinician-Rated Suicide Risk? A Virtual Patient Simulation Study ##
 
-**Viktoria Bourmpoulia, Lilian Guo & Sarah Bloch-Elkouby**
+by **Viktoria Bourmpoulia, Lilian Guo & Sarah Bloch-Elkouby**
 
 1 Icahn School of Medicine at Mount Sinai in New York City  
 2 Ferkauf Graduate School of Psychology, Yeshiva University  
