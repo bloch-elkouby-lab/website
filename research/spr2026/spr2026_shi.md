@@ -1,11 +1,11 @@
 
 ---
 layout: default
-title: "Shi's Poster"
+title: "Runqin's Poster"
 permalink: /posters/spr2026_shi/
 ---
 
-<h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Shi's Poster</h1>
+<h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Runqin's Poster</h1>
 
 # The Role of Implicit Racial Biases in Shaping Clinician Interactions with Virtual Patients Across Racial Lines
 
@@ -19,7 +19,7 @@ Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
     width="100%"
     height="900px"
     style="border: 1px solid #ddd;"
-    title="Shi's 2026 SPR Poster">
+    title="Runqin's 2026 SPR Poster">
   </iframe>
 </div>
 
