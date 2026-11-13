@@ -13,15 +13,9 @@ by **Talia Rosen**¹˒², **Alexis Aberman**¹˒², **Ursula Whiteside**¹˒², 
 Ferkauf Graduate School of Psychology, Yeshiva University
 Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
 
-<div style="width: 100%; margin: 20px 0;">
-  <iframe
-    src="{{ '/research/spr2026/spr2026-talia.png' | relative_url }}"
-    width="100%"
-    height="900px"
-    style="border: 1px solid #ddd;"
-    title="Talia's 2026 SPR Poster">
-  </iframe>
-</div>
+{% include figure.html
+   image="research/spr2026/spr2026-talia.png"
+%}
 
 ## Background
 
