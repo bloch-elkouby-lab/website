@@ -8,7 +8,7 @@ permalink: /posters/spr2026_chen/
 
 ## Disproportionate Impact of Technological Disruptions on Suicide Risk Assessment in Black Virtual Patients ##
 
-by**Jimmy P. Chen**¹˒², **Lilian Guo**¹˒²˒³, **Yongxue Wei**¹˒²˒³, **Aditya Bhise**¹˒², **Jingyi Yang**¹˒², & **Sarah Bloch-Elkouby**¹˒²
+by **Jimmy P. Chen**¹˒², **Lilian Guo**¹˒²˒³, **Yongxue Wei**¹˒²˒³, **Aditya Bhise**¹˒², **Jingyi Yang**¹˒², & **Sarah Bloch-Elkouby**¹˒²
 
 1 Icahn School of Medicine at Mount Sinai in New York City
 2 Ferkauf Graduate School of Psychology, Yeshiva University
