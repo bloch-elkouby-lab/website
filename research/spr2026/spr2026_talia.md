@@ -8,7 +8,7 @@ permalink: /posters/spr2026_talia/
 
 # The Alliance with High-Risk Patients: Presenting an Innovative Study Design
 
-**Talia Rosen**¹˒², **Alexis Aberman**¹˒², **Ursula Whiteside**¹˒², **Laura Baruch**¹˒², **Madison Wakely**¹˒², **Viktoria Bourgmoula**¹˒², **Lilian Guo**¹˒², & **Sarah Bloch-Elkouby**¹˒²
+by **Talia Rosen**¹˒², **Alexis Aberman**¹˒², **Ursula Whiteside**¹˒², **Laura Baruch**¹˒², **Madison Wakely**¹˒², **Viktoria Bourgmoula**¹˒², **Lilian Guo**¹˒², & **Sarah Bloch-Elkouby**¹˒²
 
 Ferkauf Graduate School of Psychology, Yeshiva University
 Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
