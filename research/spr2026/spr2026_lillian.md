@@ -6,11 +6,13 @@ permalink: /posters/spr2026_lillian/
 
 <h1>{% include icon.html icon="fa-solid fa-feather-pointed" %} Lilian's Poster</h1>
 
-# Does Mindfulness Moderate the Impact of Patients’ Race and Clinicians’ Implicit Racial Biases on Clinicians’ Emotional Response to Minoritized Youth?
+# Countertransference and the Accuracy of Suicide-Risk Assessment in Virtual Patient Clinical Interviews
 
-**Jade Wei, Runqin Shi, Jimmy Chen, Wendy Guo, Jason Tortora, & Sarah Bloch-Elkouby**
+**Lilian Guo**¹˒²˒³, **Jimmy P. Chen**¹˒², & **Sarah Bloch-Elkouby**¹˒²
 
-Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
+¹ Icahn School of Medicine at Mount Sinai, New York, NY, USA  
+² Ferkauf Graduate School of Psychology, Yeshiva University, New York, NY, USA  
+³ Teachers College, Columbia University, New York, NY, USA
 
 <div style="width: 100%; margin: 20px 0;">
   <iframe
