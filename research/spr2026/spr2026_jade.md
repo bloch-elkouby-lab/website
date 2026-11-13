@@ -14,11 +14,11 @@ Bloch-Elkouby Lab for Suicide Prevention and Psychotherapy Research
 
 <div style="width: 100%; margin: 20px 0;">
   <iframe
-    src="{{ '/research/spr2026/spr2026-jade.pdf' | relative_url }}"
+    src="{{ '/research/spr2026/spr2026-jade.png' | relative_url }}"
     width="100%"
     height="900px"
     style="border: 1px solid #ddd;"
-    title="Jade's 2026 SPR Poster">
+    title="Jade's 2026 NASPR Poster">
   </iframe>
 </div>
 
