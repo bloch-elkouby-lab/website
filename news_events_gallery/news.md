@@ -10,6 +10,28 @@ permalink: /news/
 
 # News
 
+<!-- November 2026 -->
+{% include section.html %}
+{% capture text %}
+A research article authored by Dr. Sarah Bloch-Elkouby and colleagues, titled "Race, Bias, and Suicide Risk Assessment: An Experimental Study Using a Male Adolescent Virtual Patient," has been accepted for publication in the *Journal of Consulting and Clinical Psychology*.
+
+  Using a male adolescent virtual patient, the experimental study examines how race and potential clinician bias may influence suicide risk assessment and clinical decision-making. The research explores the role of patient race in clinicians' evaluations of suicide risk, contributing to a deeper understanding of how racial and gender-related factors may shape clinical judgments when working with adolescents.
+
+  This work contributes to ongoing research on bias in clinical assessment and the development of more equitable approaches to suicide risk evaluation. It further advances our lab's efforts to understand the factors that influence clinicians' assessment and management of suicide risk across diverse patient populations.
+
+  We are incredibly proud of Dr. Bloch-Elkouby and her colleagues for this important contribution to the field and their continued work advancing suicide risk assessment research.
+{% endcapture %}
+
+  include feature.html
+  images="news_events_gallery/new_images/JCCP.jpg"
+  title="November 2026"
+  text=text
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
 
 <!-- October 2026 -->
 {% include section.html %}
