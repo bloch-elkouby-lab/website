@@ -13,7 +13,7 @@ permalink: /news/
 <!-- November 2026 -->
 {% include section.html %}
 {% capture text %}
-A research article authored by Dr. Sarah Bloch-Elkouby and colleagues, titled "Race, Bias, and Suicide Risk Assessment: An Experimental Study Using a Male Adolescent Virtual Patient," has been accepted for publication in the *Journal of Consulting and Clinical Psychology*.
+ A research article authored by Dr. Sarah Bloch-Elkouby and colleagues, titled "Race, Bias, and Suicide Risk Assessment: An Experimental Study Using a Male Adolescent Virtual Patient," has been accepted for publication in the *Journal of Consulting and Clinical Psychology*.
 
   Using a male adolescent virtual patient, the experimental study examines how race and potential clinician bias may influence suicide risk assessment and clinical decision-making. The research explores the role of patient race in clinicians' evaluations of suicide risk, contributing to a deeper understanding of how racial and gender-related factors may shape clinical judgments when working with adolescents.
 
@@ -21,7 +21,7 @@ A research article authored by Dr. Sarah Bloch-Elkouby and colleagues, titled "R
 
   We are incredibly proud of Dr. Bloch-Elkouby and her colleagues for this important contribution to the field and their continued work advancing suicide risk assessment research.
 {% endcapture %}
-
+{%
   include feature.html
   images="news_events_gallery/new_images/JCCP.jpg"
   title="November 2026"
@@ -32,6 +32,7 @@ A research article authored by Dr. Sarah Bloch-Elkouby and colleagues, titled "R
   style="bare"
 %}
 {% include section.html %}
+
 
 <!-- October 2026 -->
 {% include section.html %}
@@ -45,7 +46,6 @@ A research article authored by Dr. Sarah Bloch-Elkouby and colleagues, titled "R
   Learn more about the conference
   <a href="https://sites.google.com/view/naspr-2026-conference/home" target="_blank" rel="noopener noreferrer">here</a>.
 {% endcapture %}
-
 {%
   include feature-carousel.html
   images="news_events_gallery/new_images/NASPR1.jpg,news_events_gallery/gallery_images/2026NASPR1.jpg, news_events_gallery/gallery_images/2026NASPR2.jpg, news_events_gallery/gallery_images/2026NASPR4.jpg, news_events_gallery/gallery_images/2026NASPR5.jpg, news_events_gallery/gallery_images/2026NASPR7.jpg, news_events_gallery/gallery_images/2026NASPR8.jpg, news_events_gallery/gallery_images/2026NASPR9.jpg, news_events_gallery/new_images/NASPR2.jpg"
