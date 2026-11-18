@@ -22,8 +22,9 @@ permalink: /news/
   We are incredibly proud of Dr. Bloch-Elkouby and her colleagues for this important contribution to the field and their continued work advancing suicide risk assessment research.
 {% endcapture %}
 {%
+{%
   include feature.html
-  images="news_events_gallery/new_images/JCCP.jpg"
+  image="news_events_gallery/new_images/JCCP.jpg"
   title="November 18th, 2026"
   text=text
   flip=false
@@ -32,7 +33,6 @@ permalink: /news/
   style="bare"
 %}
 {% include section.html %}
-
 
 <!-- October 2026 -->
 {% include section.html %}
