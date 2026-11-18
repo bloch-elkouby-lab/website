@@ -10,7 +10,7 @@ permalink: /news/
 
 # News
 
-<!-- November 18th, 2026 -->
+<!-- November 2026 -->
 {% include section.html %}
 {% capture text %}
  A research article authored by Dr. Sarah Bloch-Elkouby and colleagues, titled "Race, Bias, and Suicide Risk Assessment: An Experimental Study Using a Male Adolescent Virtual Patient," has been accepted for publication in the *Journal of Consulting and Clinical Psychology*.
@@ -22,7 +22,6 @@ permalink: /news/
   We are incredibly proud of Dr. Bloch-Elkouby and her colleagues for this important contribution to the field and their continued work advancing suicide risk assessment research.
 {% endcapture %}
 {%
-{%
   include feature.html
   image="news_events_gallery/new_images/JCCP.jpg"
   title="November 18th, 2026"
@@ -33,6 +32,7 @@ permalink: /news/
   style="bare"
 %}
 {% include section.html %}
+
 
 <!-- October 2026 -->
 {% include section.html %}
