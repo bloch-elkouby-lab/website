@@ -11,16 +11,18 @@ permalink: /news/
 # News
 
 <!-- November 2026 -->
-
+{% include section.html %}
+{% capture text %}
+  Our lab recently submitted a grant proposal to American Foundation for Suicide Prevention. It has been the most carefully reviewed proposal that our lab has ever submitted, thanks to the hard work of Jimmy, Angel, Hanjiang, Angela, and other RAs who are involved. 
 {% endcapture %}
 {%
   include feature.html
-  image="news_events_gallery/new_images/JCCP.jpg"
-  title="October 26th, 2026"
+  image="images/Logo afsp.png"
+  title="November 15th, 2026"
   text=text
   flip=false
   fit=true
-  align="left"
+  align="right"
   style="bare"
 %}
 {% include section.html %}
@@ -28,14 +30,11 @@ permalink: /news/
 <!-- October 2026 -->
 {% include section.html %}
 {% capture text %}
- Our paper has recently been accepted for publication at one of the premier journals for original clinical treatment research *Journal of Consulting and Clinical Psychology*. 
-  "Race, Bias, and Suicide Risk Assessment: An Experimental Study Using a Male Adolescent Virtual Patient," has been accepted for publication on October 26th, 2026 at the , which is the 
+  Our paper, "Race, Bias, and Suicide Risk Assessment: An Experimental Study Using a Male Adolescent Virtual Patient," has recently been accepted for publication at one of the premier journals for original clinical treatment research *Journal of Consulting and Clinical Psychology*. 
 
-  Employing an experimental male adolescent virtual patient, the study examines how racial and gender-related factors shape clinical judgments and influence suicide risk assessment.
+  The study was funded by [American Foundation for Suicide Prevention YIG-0-023-20](https://afsp.org/grant/enhancing-suicide-risk-assessment-and-prevention-among-diverse-adolescents-using). This is our first paper addressing the primary aims outlined in the grant proposal.
 
-  This work contributes to ongoing research on bias in clinical assessment and the development of more equitable approaches to suicide risk evaluation. It further advances our lab's efforts to understand the factors that influence clinicians' assessment and management of suicide risk across diverse patient populations.
-
-  We are incredibly proud of Dr. Bloch-Elkouby and her colleagues for this important contribution to the field.
+  More information will be available upon the online publication of the article. 
 {% endcapture %}
 {%
   include feature.html
