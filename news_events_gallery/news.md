@@ -13,7 +13,7 @@ permalink: /news/
 <!-- November 2026 -->
 {% include section.html %}
 {% capture text %}
-  Our lab recently submitted a grant proposal to American Foundation for Suicide Prevention. It has been the most carefully reviewed proposal that our lab has ever submitted, thanks to the hard work of Jimmy, Angel, Hanjiang, Angela, and other RAs who are involved. 
+  We are very happy that we recently submitted a grant proposal to American Foundation for Suicide Prevention. It has been the most carefully reviewed proposal that our lab has ever submitted, thanks to the hard work of Jimmy, Angel, Hanjiang, Angela, and other RAs who are involved. 
 {% endcapture %}
 {%
   include feature.html
@@ -39,7 +39,7 @@ permalink: /news/
   text=text
   flip=false
   fit=true
-  align="right"
+  align="left"
   style="bare"
 %}
 {% include section.html %}
@@ -49,7 +49,7 @@ permalink: /news/
 <!-- October 2026 -->
 {% include section.html %}
 {% capture text %}
-  Our paper, "Race, Bias, and Suicide Risk Assessment: An Experimental Study Using a Male Adolescent Virtual Patient," has recently been accepted for publication at one of the premier journals for original clinical treatment research *Journal of Consulting and Clinical Psychology*. 
+  We are very thrilled and proud that our paper, "Race, Bias, and Suicide Risk Assessment: An Experimental Study Using a Male Adolescent Virtual Patient," has recently been accepted for publication at one of the premier journals for original clinical treatment research *Journal of Consulting and Clinical Psychology*. 
 
   The study was funded by [American Foundation for Suicide Prevention YIG-0-023-20](https://afsp.org/grant/enhancing-suicide-risk-assessment-and-prevention-among-diverse-adolescents-using). This is our first paper addressing the primary aims outlined in the grant proposal.
 
