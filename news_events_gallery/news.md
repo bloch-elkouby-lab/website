@@ -30,7 +30,7 @@ permalink: /news/
 
 {% include section.html %}
 {% capture text %}
-  On Nov 12, we warmly welcomed Dr. Michael Katz to gave a lecture about crying in psychotherapy. 
+  On November 12, we warmly welcomed Dr. Michael Katz to give a lecture on crying in psychotherapy, exploring its functions, its impact on therapeutic outcomes, and its role in the therapeutic relationship. 
 {% endcapture %}
 {%
   include feature.html
