@@ -27,10 +27,10 @@ permalink: /news/
 %}
 {% include section.html %}
 
-<!-- 
+
 {% include section.html %}
 {% capture text %}
-  Dr. Michael Katz gave a lecture about...
+  On Nov 12, we warmly welcomed Dr. Michael Katz to gave a lecture about crying in psychotherapy. 
 {% endcapture %}
 {%
   include feature.html
@@ -43,7 +43,6 @@ permalink: /news/
   style="bare"
 %}
 {% include section.html %}
--->
 
 
 <!-- October 2026 -->
