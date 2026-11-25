@@ -13,7 +13,7 @@ permalink: /news/
 <!-- November 2026 -->
 {% include section.html %}
 {% capture text %}
-  We are very happy that we recently submitted a grant proposal to American Foundation for Suicide Prevention. It has been the most carefully reviewed proposal that our lab has ever submitted, thanks to the hard work of Jimmy, Angel, Hanjiang, Angela, and other RAs who are involved. 
+  Our recently submitted a grant proposal to American Foundation for Suicide Prevention. We are very proud that the proposal  has been the most carefully reviewed proposal that our lab has ever submitted, thanks to the hard work of Jimmy, Angel, Hanjiang, Angela, and other RAs who are involved. 
 {% endcapture %}
 {%
   include feature.html
