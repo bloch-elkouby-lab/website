@@ -11,9 +11,25 @@ permalink: /news/
 # News
 
 <!-- November 2026 -->
+
+{% endcapture %}
+{%
+  include feature.html
+  image="news_events_gallery/new_images/JCCP.jpg"
+  title="October 26th, 2026"
+  text=text
+  flip=false
+  fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
+
+<!-- October 2026 -->
 {% include section.html %}
 {% capture text %}
- A research article authored by Dr. Sarah Bloch-Elkouby and colleagues, titled "Race, Bias, and Suicide Risk Assessment: An Experimental Study Using a Male Adolescent Virtual Patient," has been accepted for publication in the *Journal of Consulting and Clinical Psychology*.
+ Our paper has recently been accepted for publication at one of the premier journals for original clinical treatment research *Journal of Consulting and Clinical Psychology*. 
+  "Race, Bias, and Suicide Risk Assessment: An Experimental Study Using a Male Adolescent Virtual Patient," has been accepted for publication on October 26th, 2026 at the , which is the 
 
   Employing an experimental male adolescent virtual patient, the study examines how racial and gender-related factors shape clinical judgments and influence suicide risk assessment.
 
@@ -24,7 +40,7 @@ permalink: /news/
 {%
   include feature.html
   image="news_events_gallery/new_images/JCCP.jpg"
-  title="November 18th, 2026"
+  title="October 26th, 2026"
   text=text
   flip=false
   fit=true
@@ -34,7 +50,6 @@ permalink: /news/
 {% include section.html %}
 
 
-<!-- October 2026 -->
 {% include section.html %}
 {% capture text %}
   We are proud to share highlights from the 2026 North American Chapter of the Society for Psychotherapy Research (NASPR) Conference, hosted by the Ferkauf Graduate School of Psychology at Yeshiva University, with Dr. Sarah Bloch-Elkouby and Dr. Ken Critchfield serving as local chair. The conference took place at the Yeshiva University Museum in the heart of Union Square in New York City.
