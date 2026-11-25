@@ -22,10 +22,29 @@ permalink: /news/
   text=text
   flip=false
   fit=true
+  align="left"
+  style="bare"
+%}
+{% include section.html %}
+
+<!-- 
+{% include section.html %}
+{% capture text %}
+  Dr. Michael Katz gave a lecture about...
+{% endcapture %}
+{%
+  include feature.html
+  image="news_events_gallery/new_images/Lecture by Dr. Katz screenshot.png"
+  title="November 12th, 2026"
+  text=text
+  flip=false
+  fit=true
   align="right"
   style="bare"
 %}
 {% include section.html %}
+-->
+
 
 <!-- October 2026 -->
 {% include section.html %}
